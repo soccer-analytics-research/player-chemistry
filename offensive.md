@@ -2,20 +2,20 @@
 
 This file shows the top-5-ranked player pairs in terms of Offensive Player Chemistry for 359 different competitions. The table for each competition consists of the following 14 columns:
 
-* **Rank:** Rank
-* **Player 1:** Lorem ipsum 2.
-* **Player 2:** 
-* **Team:** 
-* **Offensive chemistry:** Lorem ipsum 2.
-* **Minutes together:** 
-* **Age player 1:** 
-* **Age player 2:** 
-* **Language player 1:** 
-* **Language player 2:** 
-* **Same language:** 
-* **Same nationality:** 
-* **Same region:** 
-* **Same subregion:** 
+* **Rank:** Rank of the player pair.
+* **Player 1:** Name of the first player of the player pair, where the order is random.
+* **Player 2:** Name of the second player of the player pair, where the order is random.
+* **Team:** Name of the team for which the player pair played in the season.
+* **Offensive chemistry:** Joint Offensive Impact per 90 minutes for the player pair.
+* **Minutes together:** Total number of minutes that the player pair played together in the season. For defensive chemistry: The total number of minutes together where the player pair played close together on the pitch and was jointly responsible for at least one player.
+* **Age player 1:** Age of the first player of the player pair at the start of the season.
+* **Age player 2:** Age of the second player of the player pair at the start of the season.
+* **Language player 1:** Primary language that is spoken in the country of the primary nationality of the first player in the player pair.
+* **Language player 2:** Primary language that is spoken in the country of the primary nationality of the second player in the player pair.
+* **Same language:** Indicator whether the players in the player pair speak the same primary language.
+* **Same nationality:** Indicator whether the players in the player pair have the same primary nationality.
+* **Same region:** Indicator whether the players in the player pair originate from the same region (e.g., Europe or Asia).
+* **Same subregion:** Indicator whether the players in the player pair originate from the same subregion (e.g., Western Europe or South-East Asia).
 
 ## 2020 - EC Qualification (Europe) - male
 |   Rank | Player 1       | Player 2          | Team       |   Offensive chemistry |   Minutes together |   Age player 1 |   Age player 2 | Language player 1   | Language player 2   | Same language   | Same nationality   | Same region   | Same subregion   |
