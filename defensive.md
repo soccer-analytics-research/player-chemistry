@@ -1,3071 +1,3133 @@
 # Defensive Player Chemistry
 
+This file shows the top-5-ranked player pairs in terms of Defensive Player Chemistry for 346 different competitions. The table for each competition includes the following 14 columns:
+
+* **Rank:** Rank
+* **Player 1:** Lorem ipsum 2.
+* **Player 2:** 
+* **Team:** 
+* **Defensive chemistry:** 
+* **Minutes together:** 
+* **Age player 1:** 
+* **Age player 2:** 
+* **Language player 1:** 
+* **Language player 2:** 
+* **Same language:** 
+* **Same nationality:** 
+* **Same region:** 
+* **Same subregion:** 
+
 ## 2020 - EC Qualification (Europe) - male
-|   Rank | Player 1      | Player 2        | Team   |   Defensive chemistry |
-|--------|---------------|-----------------|--------|-----------------------|
-|      1 | F. Kudryashov | Mário Fernandes | Russia |                 0.296 |
-|      2 | K. Glik       | P. Zieliński    | Poland |                 0.288 |
-|      3 | M. Lustig     | E. Forsberg     | Sweden |                 0.285 |
-|      4 | K. Grosicki   | K. Glik         | Poland |                 0.270 |
-|      5 | J. Bednarek   | K. Glik         | Poland |                 0.270 |
+|   Rank | Player 1      | Player 2        | Team   |   Defensive chemistry |   Minutes together |   Age player 1 |   Age player 2 | Language player 1   | Language player 2   | Same language   | Same nationality   | Same region   | Same subregion   |
+|--------|---------------|-----------------|--------|-----------------------|--------------------|----------------|----------------|---------------------|---------------------|-----------------|--------------------|---------------|------------------|
+|      1 | F. Kudryashov | Mário Fernandes | Russia |                 0.296 |            576.000 |         31.605 |         28.232 | Russian             | Portuguese          | False           | False              | False         | False            |
+|      2 | K. Glik       | P. Zieliński    | Poland |                 0.288 |            694.000 |         30.885 |         24.613 | Polish              | Polish              | True            | True               | True          | True             |
+|      3 | M. Lustig     | E. Forsberg     | Sweden |                 0.285 |            563.000 |         32.046 |         26.959 | Swedish             | Swedish             | True            | True               | True          | True             |
+|      4 | K. Grosicki   | K. Glik         | Poland |                 0.270 |            540.000 |         30.559 |         30.885 | Polish              | Polish              | True            | True               | True          | True             |
+|      5 | J. Bednarek   | K. Glik         | Poland |                 0.270 |            636.000 |         22.718 |         30.885 | Polish              | Polish              | True            | True               | True          | True             |
+
+## 2019/2020 - 1. Division (Cyprus) - male
+|   Rank | Player 1   | Player 2    | Team           |   Defensive chemistry |   Minutes together |   Age player 1 |   Age player 2 | Language player 1   | Language player 2   | Same language   | Same nationality   | Same region   | Same subregion   |
+|--------|------------|-------------|----------------|-----------------------|--------------------|----------------|----------------|---------------------|---------------------|-----------------|--------------------|---------------|------------------|
+|      1 | C. Mavrias | J. Lecjaks  | Omonia Nicosia |                 0.339 |            720.000 |         25.303 |         28.796 | Greek (modern)      | Czech               | False           | False              | True          | False            |
+|      2 | M. Lüftner | J. Lecjaks  | Omonia Nicosia |                 0.294 |            810.000 |         24.388 |         28.796 | Czech               | Czech               | True            | True               | True          | True             |
+|      3 | Á. Lang    | C. Mavrias  | Omonia Nicosia |                 0.280 |            720.000 |         26.174 |         25.303 | Hungarian           | Greek (modern)      | False           | False              | True          | False            |
+|      4 | Á. Lang    | M. Lüftner  | Omonia Nicosia |                 0.269 |            810.000 |         26.174 |         24.388 | Hungarian           | Czech               | False           | False              | True          | True             |
+|      5 | C. Mavrias | Jordi Gómez | Omonia Nicosia |                 0.236 |            720.000 |         25.303 |         33.965 | Greek (modern)      | Spanish             | False           | False              | True          | True             |
 
 ## 2019/2020 - 1. HNL (Croatia) - male
-|   Rank | Player 1       | Player 2     | Team         |   Defensive chemistry |
-|--------|----------------|--------------|--------------|-----------------------|
-|      1 | J. Juranović   | S. Simič     | Hajduk Split |                 0.154 |
-|      2 | A. Majstorović | M. Marić     | Osijek       |                 0.143 |
-|      3 | D. Nejašmić    | S. Simič     | Hajduk Split |                 0.140 |
-|      4 | D. Nejašmić    | J. Juranović | Hajduk Split |                 0.125 |
-|      5 | J. Juranović   | M. Caktaš    | Hajduk Split |                 0.120 |
+|   Rank | Player 1       | Player 2     | Team         |   Defensive chemistry |   Minutes together |   Age player 1 |   Age player 2 | Language player 1   | Language player 2   | Same language   | Same nationality   | Same region   | Same subregion   |
+|--------|----------------|--------------|--------------|-----------------------|--------------------|----------------|----------------|---------------------|---------------------|-----------------|--------------------|---------------|------------------|
+|      1 | J. Juranović   | S. Simič     | Hajduk Split |                 0.154 |           1128.000 |         23.633 |         23.860 | Croatian            | Czech               | False           | False              | True          | False            |
+|      2 | A. Majstorović | M. Marić     | Osijek       |                 0.143 |           1153.000 |         25.530 |         24.030 | Croatian            | Bosnian             | False           | False              | True          | True             |
+|      3 | D. Nejašmić    | S. Simič     | Hajduk Split |                 0.140 |           1023.000 |         20.333 |         23.860 | Croatian            | Czech               | False           | False              | True          | False            |
+|      4 | D. Nejašmić    | J. Juranović | Hajduk Split |                 0.125 |           1208.000 |         20.333 |         23.633 | Croatian            | Croatian            | True            | True               | True          | True             |
+|      5 | J. Juranović   | M. Caktaš    | Hajduk Split |                 0.120 |           1125.000 |         23.633 |         27.049 | Croatian            | Croatian            | True            | True               | True          | True             |
 
 ## 2019/2020 - 1. Lig (Turkey) - male
-|   Rank | Player 1   | Player 2     | Team         |   Defensive chemistry |
-|--------|------------|--------------|--------------|-----------------------|
-|      1 | A. Korkut  | H. Tut       | Keçiörengücü |                 0.170 |
-|      2 | E. Dikmen  | S. Akaydin   | Keçiörengücü |                 0.157 |
-|      3 | S. Akaydin | H. Tut       | Keçiörengücü |                 0.154 |
-|      4 | B. Aydın   | S. Akaydin   | Keçiörengücü |                 0.125 |
-|      5 | N. Çürüksu | Y. Del Valle | Giresunspor  |                 0.124 |
+|   Rank | Player 1   | Player 2     | Team         |   Defensive chemistry |   Minutes together |   Age player 1 |   Age player 2 | Language player 1   | Language player 2   | Same language   | Same nationality   | Same region   | Same subregion   |
+|--------|------------|--------------|--------------|-----------------------|--------------------|----------------|----------------|---------------------|---------------------|-----------------|--------------------|---------------|------------------|
+|      1 | A. Korkut  | H. Tut       | Keçiörengücü |                 0.170 |            936.000 |         25.488 |         28.377 | Turkish             | Turkish             | True            | True               | True          | True             |
+|      2 | E. Dikmen  | S. Akaydin   | Keçiörengücü |                 0.157 |            933.000 |         22.238 |         25.168 | Turkish             | Turkish             | True            | True               | True          | True             |
+|      3 | S. Akaydin | H. Tut       | Keçiörengücü |                 0.154 |            990.000 |         25.168 |         28.377 | Turkish             | Turkish             | True            | True               | True          | True             |
+|      4 | B. Aydın   | S. Akaydin   | Keçiörengücü |                 0.125 |            920.000 |         25.579 |         25.168 | Turkish             | Turkish             | True            | True               | True          | True             |
+|      5 | N. Çürüksu | Y. Del Valle | Giresunspor  |                 0.124 |            924.000 |         34.480 |         28.996 | Turkish             | Spanish             | False           | False              | False         | False            |
 
 ## 2019/2020 - 1. SNL (Slovenia) - male
-|   Rank | Player 1      | Player 2        | Team     |   Defensive chemistry |
-|--------|---------------|-----------------|----------|-----------------------|
-|      1 | I. Kontek     | I. Martinović   | Aluminij |                 0.205 |
-|      2 | Š. Peričić    | A. Crețu        | Maribor  |                 0.203 |
-|      3 | Š. Peričić    | R. Požeg Vancaš | Maribor  |                 0.184 |
-|      4 | I. Martinović | J. Matjašič     | Aluminij |                 0.179 |
-|      5 | M. Vrbanec    | I. Martinović   | Aluminij |                 0.163 |
+|   Rank | Player 1      | Player 2        | Team     |   Defensive chemistry |   Minutes together |   Age player 1 |   Age player 2 | Language player 1   | Language player 2   | Same language   | Same nationality   | Same region   | Same subregion   |
+|--------|---------------|-----------------|----------|-----------------------|--------------------|----------------|----------------|---------------------|---------------------|-----------------|--------------------|---------------|------------------|
+|      1 | I. Kontek     | I. Martinović   | Aluminij |                 0.205 |            908.000 |         22.318 |         25.305 | Croatian            | Serbian             | False           | False              | True          | True             |
+|      2 | Š. Peričić    | A. Crețu        | Maribor  |                 0.203 |            924.000 |         25.508 |         27.099 | Croatian            | Romanian            | False           | False              | True          | False            |
+|      3 | Š. Peričić    | R. Požeg Vancaš | Maribor  |                 0.184 |            993.000 |         25.508 |         25.144 | Croatian            | Slovene             | False           | False              | True          | True             |
+|      4 | I. Martinović | J. Matjašič     | Aluminij |                 0.179 |            996.000 |         25.305 |         26.984 | Serbian             | Slovene             | False           | False              | True          | True             |
+|      5 | M. Vrbanec    | I. Martinović   | Aluminij |                 0.163 |           1054.000 |         22.573 |         25.305 | Slovene             | Serbian             | False           | False              | True          | True             |
 
 ## 2019/2020 - 1st Division (Denmark) - male
-|   Rank | Player 1    | Player 2      | Team       |   Defensive chemistry |
-|--------|-------------|---------------|------------|-----------------------|
-|      1 | E. Ogude    | S. Henriksen  | Vendsyssel |                 0.174 |
-|      2 | C. Sørensen | J. Mensah     | Viborg     |                 0.158 |
-|      3 | S. Vico     | K. Munksgaard | Næstved    |                 0.151 |
-|      4 | A. Messaoud | S. Henriksen  | Vendsyssel |                 0.145 |
-|      5 | F. Brandhof | C. Sivebæk    | Viborg     |                 0.119 |
+|   Rank | Player 1    | Player 2      | Team       |   Defensive chemistry |   Minutes together |   Age player 1 |   Age player 2 | Language player 1   | Language player 2   | Same language   | Same nationality   | Same region   | Same subregion   |
+|--------|-------------|---------------|------------|-----------------------|--------------------|----------------|----------------|---------------------|---------------------|-----------------|--------------------|---------------|------------------|
+|      1 | E. Ogude    | S. Henriksen  | Vendsyssel |                 0.174 |            960.000 |         25.066 |         27.225 | English             | Danish              | False           | False              | False         | False            |
+|      2 | C. Sørensen | J. Mensah     | Viborg     |                 0.158 |            958.000 |         26.783 |         26.772 | Danish              | Danish              | True            | True               | True          | True             |
+|      3 | S. Vico     | K. Munksgaard | Næstved    |                 0.151 |            956.000 |         24.221 |         29.379 | Serbian             | Danish              | False           | False              | True          | False            |
+|      4 | A. Messaoud | S. Henriksen  | Vendsyssel |                 0.145 |            940.000 |         28.090 |         27.225 | Dutch               | Danish              | False           | False              | True          | False            |
+|      5 | F. Brandhof | C. Sivebæk    | Viborg     |                 0.119 |           1015.000 |         22.871 |         31.233 | Danish              | Danish              | True            | True               | True          | True             |
 
 ## 2019/2020 - 2. Bundesliga (Germany) - male
-|   Rank | Player 1    | Player 2     | Team       |   Defensive chemistry |
-|--------|-------------|--------------|------------|-----------------------|
-|      1 | F. Agu      | M. Heyer     | Osnabrück  |                 0.236 |
-|      2 | M. Heyer    | D. Blacha    | Osnabrück  |                 0.143 |
-|      3 | L. Paqarada | G. Nauber    | Sandhausen |                 0.142 |
-|      4 | L. Paqarada | D. Diekmeier | Sandhausen |                 0.141 |
-|      5 | L. Paqarada | A. Zhirov    | Sandhausen |                 0.134 |
+|   Rank | Player 1    | Player 2     | Team       |   Defensive chemistry |   Minutes together |   Age player 1 |   Age player 2 | Language player 1   | Language player 2   | Same language   | Same nationality   | Same region   | Same subregion   |
+|--------|-------------|--------------|------------|-----------------------|--------------------|----------------|----------------|---------------------|---------------------|-----------------|--------------------|---------------|------------------|
+|      1 | F. Agu      | M. Heyer     | Osnabrück  |                 0.236 |            985.000 |         20.377 |         24.122 | German              | German              | True            | True               | True          | True             |
+|      2 | M. Heyer    | D. Blacha    | Osnabrück  |                 0.143 |           1256.000 |         24.122 |         28.571 | German              | German              | True            | True               | True          | True             |
+|      3 | L. Paqarada | G. Nauber    | Sandhausen |                 0.142 |           1350.000 |         24.665 |         27.098 | German              | German              | True            | True               | True          | True             |
+|      4 | L. Paqarada | D. Diekmeier | Sandhausen |                 0.141 |           1350.000 |         24.665 |         29.579 | German              | German              | True            | True               | True          | True             |
+|      5 | L. Paqarada | A. Zhirov    | Sandhausen |                 0.134 |           1350.000 |         24.665 |         28.317 | German              | Russian             | False           | False              | True          | False            |
 
 ## 2019/2020 - 2. Liga (Austria) - male
-|   Rank | Player 1     | Player 2   | Team               |   Defensive chemistry |
-|--------|--------------|------------|--------------------|-----------------------|
-|      1 | F. Jaritz    | K. Gezos   | Austria Klagenfurt |                 0.252 |
-|      2 | F. Jaritz    | O. Aydın   | Austria Klagenfurt |                 0.188 |
-|      3 | O. Aydın     | K. Gezos   | Austria Klagenfurt |                 0.177 |
-|      4 | A. Omerovic  | M. Kühne   | Dornbirn           |                 0.170 |
-|      5 | I. Saravanja | K. Gezos   | Austria Klagenfurt |                 0.161 |
+|   Rank | Player 1     | Player 2   | Team               |   Defensive chemistry |   Minutes together |   Age player 1 |   Age player 2 | Language player 1   | Language player 2   | Same language   | Same nationality   | Same region   | Same subregion   |
+|--------|--------------|------------|--------------------|-----------------------|--------------------|----------------|----------------|---------------------|---------------------|-----------------|--------------------|---------------|------------------|
+|      1 | F. Jaritz    | K. Gezos   | Austria Klagenfurt |                 0.252 |            981.000 |         21.541 |         26.795 | German              | Greek (modern)      | False           | False              | True          | False            |
+|      2 | F. Jaritz    | O. Aydın   | Austria Klagenfurt |                 0.188 |            991.000 |         21.541 |         25.067 | German              | German              | True            | False              | True          | True             |
+|      3 | O. Aydın     | K. Gezos   | Austria Klagenfurt |                 0.177 |           1173.000 |         25.067 |         26.795 | German              | Greek (modern)      | False           | False              | True          | False            |
+|      4 | A. Omerovic  | M. Kühne   | Dornbirn           |                 0.170 |            979.000 |         21.051 |         28.706 | German              | German              | True            | True               | True          | True             |
+|      5 | I. Saravanja | K. Gezos   | Austria Klagenfurt |                 0.161 |           1164.000 |         22.770 |         26.795 | Bosnian             | Greek (modern)      | False           | False              | True          | True             |
 
 ## 2019/2020 - 3. Liga (Germany) - male
-|   Rank | Player 1    | Player 2     | Team         |   Defensive chemistry |
-|--------|-------------|--------------|--------------|-----------------------|
-|      1 | A. Lukimya  | J. Kirchhoff | Uerdingen    |                 0.193 |
-|      2 | A. Lukimya  | C. Dorda     | Uerdingen    |                 0.178 |
-|      3 | A. Lukimya  | A. Bittroff  | Uerdingen    |                 0.176 |
-|      4 | C. Greger   | M. Dombrowka | Unterhaching |                 0.169 |
-|      5 | T. Jacobsen | T. Müller    | Magdeburg    |                 0.168 |
+|   Rank | Player 1    | Player 2     | Team         |   Defensive chemistry |   Minutes together |   Age player 1 |   Age player 2 | Language player 1   | Language player 2   | Same language   | Same nationality   | Same region   | Same subregion   |
+|--------|-------------|--------------|--------------|-----------------------|--------------------|----------------|----------------|---------------------|---------------------|-----------------|--------------------|---------------|------------------|
+|      1 | A. Lukimya  | J. Kirchhoff | Uerdingen    |                 0.193 |            933.000 |         33.310 |         28.590 | French              | German              | False           | False              | False         | False            |
+|      2 | A. Lukimya  | C. Dorda     | Uerdingen    |                 0.178 |           1044.000 |         33.310 |         30.427 | French              | German              | False           | False              | False         | False            |
+|      3 | A. Lukimya  | A. Bittroff  | Uerdingen    |                 0.176 |            982.000 |         33.310 |         30.641 | French              | German              | False           | False              | False         | False            |
+|      4 | C. Greger   | M. Dombrowka | Unterhaching |                 0.169 |            951.000 |         22.340 |         27.150 | German              | German              | True            | True               | True          | True             |
+|      5 | T. Jacobsen | T. Müller    | Magdeburg    |                 0.168 |           1364.000 |         22.022 |         24.864 | German              | German              | True            | True               | True          | True             |
 
 ## 2019/2020 - Ascenso MX (Mexico) - male
-|   Rank | Player 1   | Player 2   | Team                    |   Defensive chemistry |
-|--------|------------|------------|-------------------------|-----------------------|
-|      1 | F. Rabago  | J. Padilla | Universidad Guadalajara |                 0.210 |
-|      2 | F. León    | J. Ledesma | Alebrijes de Oaxaca     |                 0.172 |
-|      3 | J. Aguayo  | F. León    | Alebrijes de Oaxaca     |                 0.160 |
-|      4 | J. Lara    | F. León    | Alebrijes de Oaxaca     |                 0.156 |
-|      5 | F. Rabago  | D. Amador  | Universidad Guadalajara |                 0.150 |
+|   Rank | Player 1   | Player 2   | Team                    |   Defensive chemistry |   Minutes together |   Age player 1 |   Age player 2 | Language player 1   | Language player 2   | Same language   | Same nationality   | Same region   | Same subregion   |
+|--------|------------|------------|-------------------------|-----------------------|--------------------|----------------|----------------|---------------------|---------------------|-----------------|--------------------|---------------|------------------|
+|      1 | F. Rabago  | J. Padilla | Universidad Guadalajara |                 0.210 |            990.000 |            nan |         25.602 | Spanish             | Spanish             | True            | True               | True          | True             |
+|      2 | F. León    | J. Ledesma | Alebrijes de Oaxaca     |                 0.172 |           1170.000 |         26.889 |         30.889 | Spanish             | Spanish             | True            | True               | True          | True             |
+|      3 | J. Aguayo  | F. León    | Alebrijes de Oaxaca     |                 0.160 |           1072.000 |         20.237 |         26.889 | Spanish             | Spanish             | True            | True               | True          | True             |
+|      4 | J. Lara    | F. León    | Alebrijes de Oaxaca     |                 0.156 |           1097.000 |         24.060 |         26.889 | Spanish             | Spanish             | True            | True               | True          | True             |
+|      5 | F. Rabago  | D. Amador  | Universidad Guadalajara |                 0.150 |            904.000 |            nan |         22.059 | Spanish             | Spanish             | True            | True               | True          | True             |
 
 ## 2019/2020 - Bundesliga (Austria) - male
-|   Rank | Player 1       | Player 2     | Team       |   Defensive chemistry |
-|--------|----------------|--------------|------------|-----------------------|
-|      1 | P. Wiesinger   | G. Trauner   | LASK Linz  |                 0.177 |
-|      2 | R. Ranftl      | G. Trauner   | LASK Linz  |                 0.168 |
-|      3 | P. Wiesinger   | R. Ranftl    | LASK Linz  |                 0.159 |
-|      4 | Juan Domínguez | T. Schrammel | Sturm Graz |                 0.154 |
-|      5 | P. Wiesinger   | J. Holland   | LASK Linz  |                 0.153 |
+|   Rank | Player 1       | Player 2     | Team       |   Defensive chemistry |   Minutes together |   Age player 1 |   Age player 2 | Language player 1   | Language player 2   | Same language   | Same nationality   | Same region   | Same subregion   |
+|--------|----------------|--------------|------------|-----------------------|--------------------|----------------|----------------|---------------------|---------------------|-----------------|--------------------|---------------|------------------|
+|      1 | P. Wiesinger   | G. Trauner   | LASK Linz  |                 0.177 |           1142.000 |         25.009 |         27.151 | German              | German              | True            | True               | True          | True             |
+|      2 | R. Ranftl      | G. Trauner   | LASK Linz  |                 0.168 |           1148.000 |         27.337 |         27.151 | German              | German              | True            | True               | True          | True             |
+|      3 | P. Wiesinger   | R. Ranftl    | LASK Linz  |                 0.159 |           1120.000 |         25.009 |         27.337 | German              | German              | True            | True               | True          | True             |
+|      4 | Juan Domínguez | T. Schrammel | Sturm Graz |                 0.154 |            913.000 |         29.398 |         31.665 | Spanish             | German              | False           | False              | True          | False            |
+|      5 | P. Wiesinger   | J. Holland   | LASK Linz  |                 0.153 |           1141.000 |         25.009 |         30.012 | German              | English             | False           | False              | False         | False            |
 
 ## 2019/2020 - Bundesliga (Germany) - male
-|   Rank | Player 1      | Player 2      | Team               |   Defensive chemistry |
-|--------|---------------|---------------|--------------------|-----------------------|
-|      1 | William       | J. Roussillon | Wolfsburg          |                 0.252 |
-|      2 | J. Guilavogui | J. Roussillon | Wolfsburg          |                 0.145 |
-|      3 | K. Ayhan      | N. Gießelmann | Fortuna Düsseldorf |                 0.136 |
-|      4 | William       | W. Weghorst   | Wolfsburg          |                 0.136 |
-|      5 | C. Trimmel    | S. Andersson  | Union Berlin       |                 0.134 |
+|   Rank | Player 1      | Player 2      | Team               |   Defensive chemistry |   Minutes together |   Age player 1 |   Age player 2 | Language player 1   | Language player 2   | Same language   | Same nationality   | Same region   | Same subregion   |
+|--------|---------------|---------------|--------------------|-----------------------|--------------------|----------------|----------------|---------------------|---------------------|-----------------|--------------------|---------------|------------------|
+|      1 | William       | J. Roussillon | Wolfsburg          |                 0.252 |            948.000 |         24.125 |         26.362 | Portuguese          | French              | False           | False              | False         | False            |
+|      2 | J. Guilavogui | J. Roussillon | Wolfsburg          |                 0.145 |            948.000 |         28.643 |         26.362 | French              | French              | True            | True               | True          | True             |
+|      3 | K. Ayhan      | N. Gießelmann | Fortuna Düsseldorf |                 0.136 |           1072.000 |         24.586 |         27.643 | German              | German              | True            | True               | True          | True             |
+|      4 | William       | W. Weghorst   | Wolfsburg          |                 0.136 |           1155.000 |         24.125 |         26.778 | Portuguese          | Dutch               | False           | False              | False         | False            |
+|      5 | C. Trimmel    | S. Andersson  | Union Berlin       |                 0.134 |            941.000 |         32.243 |         27.868 | German              | Swedish             | False           | False              | True          | False            |
 
 ## 2019/2020 - Challenge League (Switzerland) - male
-|   Rank | Player 1             | Player 2     | Team           |   Defensive chemistry |
-|--------|----------------------|--------------|----------------|-----------------------|
-|      1 | A. Cvetković         | M. Bašić     | Grasshopper    |                 0.177 |
-|      2 | A. Njie              | A. Cvetković | Grasshopper    |                 0.161 |
-|      3 | N. Boranijašević     | P. Flo       | Lausanne Sport |                 0.148 |
-|      4 | A. Cvetković         | V. Salatić   | Grasshopper    |                 0.147 |
-|      5 | N. Von Niederhäusern | R. Buess     | Winterthur     |                 0.137 |
+|   Rank | Player 1             | Player 2     | Team           |   Defensive chemistry |   Minutes together |   Age player 1 |   Age player 2 | Language player 1   | Language player 2   | Same language   | Same nationality   | Same region   | Same subregion   |
+|--------|----------------------|--------------|----------------|-----------------------|--------------------|----------------|----------------|---------------------|---------------------|-----------------|--------------------|---------------|------------------|
+|      1 | A. Cvetković         | M. Bašić     | Grasshopper    |                 0.177 |            990.000 |         23.950 |         31.000 | Serbian             | Croatian            | False           | False              | True          | True             |
+|      2 | A. Njie              | A. Cvetković | Grasshopper    |                 0.161 |            957.000 |            nan |         23.950 | English             | Serbian             | False           | False              | False         | False            |
+|      3 | N. Boranijašević     | P. Flo       | Lausanne Sport |                 0.148 |           1024.000 |         27.019 |         30.351 | Serbian             | Norwegian           | False           | False              | True          | False            |
+|      4 | A. Cvetković         | V. Salatić   | Grasshopper    |                 0.147 |           1163.000 |         23.950 |         33.549 | Serbian             | Serbian             | True            | True               | True          | True             |
+|      5 | N. Von Niederhäusern | R. Buess     | Winterthur     |                 0.137 |            994.000 |         23.375 |         26.677 | German              | German              | True            | True               | True          | True             |
 
 ## 2019/2020 - Championship (England) - male
-|   Rank | Player 1        | Player 2    | Team                 |   Defensive chemistry |
-|--------|-----------------|-------------|----------------------|-----------------------|
-|      1 | J. Irvine       | E. Lichaj   | Hull City            |                 0.184 |
-|      2 | Pablo Hernández | J. Harrison | Leeds United         |                 0.177 |
-|      3 | N. Ferguson     | M. Phillips | West Bromwich Albion |                 0.176 |
-|      4 | D. Iorfa        | A. Reach    | Sheffield Wednesday  |                 0.169 |
-|      5 | Hélder Costa    | S. Dallas   | Leeds United         |                 0.164 |
+|   Rank | Player 1        | Player 2    | Team                 |   Defensive chemistry |   Minutes together |   Age player 1 |   Age player 2 | Language player 1   | Language player 2   | Same language   | Same nationality   | Same region   | Same subregion   |
+|--------|-----------------|-------------|----------------------|-----------------------|--------------------|----------------|----------------|---------------------|---------------------|-----------------|--------------------|---------------|------------------|
+|      1 | J. Irvine       | E. Lichaj   | Hull City            |                 0.184 |           1160.000 |         26.162 |         30.463 | English             | English             | True            | False              | False         | False            |
+|      2 | Pablo Hernández | J. Harrison | Leeds United         |                 0.177 |            933.000 |         34.094 |         22.483 | Spanish             | English             | False           | False              | True          | False            |
+|      3 | N. Ferguson     | M. Phillips | West Bromwich Albion |                 0.176 |            971.000 |         18.562 |         28.163 | English             | English             | True            | True               | True          | True             |
+|      4 | D. Iorfa        | A. Reach    | Sheffield Wednesday  |                 0.169 |            907.000 |         23.843 |         26.214 | English             | English             | True            | True               | True          | True             |
+|      5 | Hélder Costa    | S. Dallas   | Leeds United         |                 0.164 |           1033.000 |         25.212 |         28.148 | Portuguese          | English             | False           | False              | False         | False            |
 
 ## 2019/2020 - Championship (Scotland) - male
-|   Rank | Player 1   | Player 2    | Team          |   Defensive chemistry |
-|--------|------------|-------------|---------------|-----------------------|
-|      1 | J. Robson  | L. Smith    | Dundee United |                 0.233 |
-|      2 | J. Robson  | P. McMullan | Dundee United |                 0.226 |
-|      3 | L. Smith   | P. McMullan | Dundee United |                 0.220 |
-|      4 | J. Robson  | C. Butcher  | Dundee United |                 0.209 |
-|      5 | L. Smith   | C. Butcher  | Dundee United |                 0.192 |
+|   Rank | Player 1   | Player 2    | Team          |   Defensive chemistry |   Minutes together |   Age player 1 |   Age player 2 | Language player 1   | Language player 2   | Same language   | Same nationality   | Same region   | Same subregion   |
+|--------|------------|-------------|---------------|-----------------------|--------------------|----------------|----------------|---------------------|---------------------|-----------------|--------------------|---------------|------------------|
+|      1 | J. Robson  | L. Smith    | Dundee United |                 0.233 |            990.000 |         21.434 |         23.085 | English             | English             | True            | True               | True          | True             |
+|      2 | J. Robson  | P. McMullan | Dundee United |                 0.226 |            907.000 |         21.434 |         23.249 | English             | English             | True            | True               | True          | True             |
+|      3 | L. Smith   | P. McMullan | Dundee United |                 0.220 |           1177.000 |         23.085 |         23.249 | English             | English             | True            | True               | True          | True             |
+|      4 | J. Robson  | C. Butcher  | Dundee United |                 0.209 |            990.000 |         21.434 |         28.246 | English             | English             | True            | False              | True          | True             |
+|      5 | L. Smith   | C. Butcher  | Dundee United |                 0.192 |           1143.000 |         23.085 |         28.246 | English             | English             | True            | False              | True          | True             |
 
 ## 2019/2020 - Eerste Divisie (Netherlands) - male
-|   Rank | Player 1      | Player 2       | Team      |   Defensive chemistry |
-|--------|---------------|----------------|-----------|-----------------------|
-|      1 | J. Mashart    | A. Verschueren | NAC Breda |                 0.215 |
-|      2 | J. van Deelen | J. Jacobs      | Cambuur   |                 0.205 |
-|      3 | B. van Rooij  | B. Kuipers     | NEC       |                 0.201 |
-|      4 | J. van Deelen | M. Hoedemakers | Cambuur   |                 0.199 |
-|      5 | P. van Anholt | I. Ilić        | NAC Breda |                 0.194 |
+|   Rank | Player 1      | Player 2       | Team      |   Defensive chemistry |   Minutes together |   Age player 1 |   Age player 2 | Language player 1   | Language player 2   | Same language   | Same nationality   | Same region   | Same subregion   |
+|--------|---------------|----------------|-----------|-----------------------|--------------------|----------------|----------------|---------------------|---------------------|-----------------|--------------------|---------------|------------------|
+|      1 | J. Mashart    | A. Verschueren | NAC Breda |                 0.215 |           1049.000 |            nan |         21.900 | Dutch               | Dutch               | True            | False              | True          | True             |
+|      2 | J. van Deelen | J. Jacobs      | Cambuur   |                 0.205 |            922.000 |         25.251 |         21.384 | Dutch               | Dutch               | True            | True               | True          | True             |
+|      3 | B. van Rooij  | B. Kuipers     | NEC       |                 0.201 |           1112.000 |            nan |         24.739 | Dutch               | Dutch               | True            | True               | True          | True             |
+|      4 | J. van Deelen | M. Hoedemakers | Cambuur   |                 0.199 |           1056.000 |         25.251 |         21.117 | Dutch               | Dutch               | True            | True               | True          | True             |
+|      5 | P. van Anholt | I. Ilić        | NAC Breda |                 0.194 |            947.000 |         28.005 |         18.173 | Dutch               | Serbian             | False           | False              | True          | False            |
 
 ## 2019/2020 - Ekstraklasa (Poland) - male
-|   Rank | Player 1       | Player 2     | Team              |   Defensive chemistry |
-|--------|----------------|--------------|-------------------|-----------------------|
-|      1 | R. Gumny       | V. Kostevych | Lech Poznań       |                 0.268 |
-|      2 | Iván Márquez   | M. Gardawski | Korona Kielce     |                 0.197 |
-|      3 | Ł. Broź        | D. Štiglec   | Śląsk Wrocław     |                 0.180 |
-|      4 | M. Szczepański | T. Petrášek  | Raków Częstochowa |                 0.164 |
-|      5 | K. Muhar       | V. Kostevych | Lech Poznań       |                 0.163 |
+|   Rank | Player 1       | Player 2     | Team              |   Defensive chemistry |   Minutes together |   Age player 1 |   Age player 2 | Language player 1   | Language player 2   | Same language   | Same nationality   | Same region   | Same subregion   |
+|--------|----------------|--------------|-------------------|-----------------------|--------------------|----------------|----------------|---------------------|---------------------|-----------------|--------------------|---------------|------------------|
+|      1 | R. Gumny       | V. Kostevych | Lech Poznań       |                 0.268 |           1017.000 |         21.051 |         26.570 | Polish              | Ukrainian           | False           | False              | True          | True             |
+|      2 | Iván Márquez   | M. Gardawski | Korona Kielce     |                 0.197 |           1198.000 |         24.920 |         28.645 | Spanish             | German              | False           | False              | True          | False            |
+|      3 | Ł. Broź        | D. Štiglec   | Śląsk Wrocław     |                 0.180 |           1253.000 |         33.417 |         28.657 | Polish              | Croatian            | False           | False              | True          | False            |
+|      4 | M. Szczepański | T. Petrášek  | Raków Częstochowa |                 0.164 |            990.000 |         21.157 |         27.211 | Polish              | Czech               | False           | False              | True          | True             |
+|      5 | K. Muhar       | V. Kostevych | Lech Poznań       |                 0.163 |           1142.000 |         23.356 |         26.570 | Croatian            | Ukrainian           | False           | False              | True          | False            |
 
 ## 2019/2020 - Eredivisie (Netherlands) - male
-|   Rank | Player 1    | Player 2    | Team       |   Defensive chemistry |
-|--------|-------------|-------------|------------|-----------------------|
-|      1 | I. Dresevic | S. Floranus | Heerenveen |                 0.250 |
-|      2 | S. Botman   | S. Floranus | Heerenveen |                 0.249 |
-|      3 | S. Floranus | H. Faik     | Heerenveen |                 0.235 |
-|      4 | S. Floranus | R. Kongolo  | Heerenveen |                 0.234 |
-|      5 | G. Kerk     | S. Klaiber  | Utrecht    |                 0.197 |
+|   Rank | Player 1    | Player 2    | Team       |   Defensive chemistry |   Minutes together |   Age player 1 |   Age player 2 | Language player 1   | Language player 2   | Same language   | Same nationality   | Same region   | Same subregion   |
+|--------|-------------|-------------|------------|-----------------------|--------------------|----------------|----------------|---------------------|---------------------|-----------------|--------------------|---------------|------------------|
+|      1 | I. Dresevic | S. Floranus | Heerenveen |                 0.250 |           1336.000 |         22.305 |         20.448 | Swedish             | Dutch               | False           | False              | True          | False            |
+|      2 | S. Botman   | S. Floranus | Heerenveen |                 0.249 |           1336.000 |         19.307 |         20.448 | Dutch               | Dutch               | True            | True               | True          | True             |
+|      3 | S. Floranus | H. Faik     | Heerenveen |                 0.235 |           1305.000 |         20.448 |         27.154 | Dutch               | Dutch               | True            | True               | True          | True             |
+|      4 | S. Floranus | R. Kongolo  | Heerenveen |                 0.234 |           1191.000 |         20.448 |         21.261 | Dutch               | Dutch               | True            | True               | True          | True             |
+|      5 | G. Kerk     | S. Klaiber  | Utrecht    |                 0.197 |           1359.000 |         23.488 |         24.826 | Dutch               | Dutch               | True            | True               | True          | True             |
 
 ## 2019/2020 - FAVBET Liga (Ukraine) - male
-|   Rank | Player 1     | Player 2        | Team        |   Defensive chemistry |
-|--------|--------------|-----------------|-------------|-----------------------|
-|      1 | M. Tretyakov | V. Luchkevych   | Oleksandria |                 0.259 |
-|      2 | A. Gitchenko | V. Kalitvintsev | Desna       |                 0.194 |
-|      3 | K. Dubra     | V. Luchkevych   | Oleksandria |                 0.193 |
-|      4 | D. Favorov   | A. Mostovy      | Desna       |                 0.158 |
-|      5 | K. Dubra     | D. Grechyshkin  | Oleksandria |                 0.155 |
+|   Rank | Player 1     | Player 2        | Team        |   Defensive chemistry |   Minutes together |   Age player 1 |   Age player 2 | Language player 1   | Language player 2   | Same language   | Same nationality   | Same region   | Same subregion   |
+|--------|--------------|-----------------|-------------|-----------------------|--------------------|----------------|----------------|---------------------|---------------------|-----------------|--------------------|---------------|------------------|
+|      1 | M. Tretyakov | V. Luchkevych   | Oleksandria |                 0.259 |           1163.000 |         23.030 |         23.383 | Ukrainian           | Ukrainian           | True            | True               | True          | True             |
+|      2 | A. Gitchenko | V. Kalitvintsev | Desna       |                 0.194 |           1021.000 |         34.655 |         26.397 | Ukrainian           | Russian             | False           | False              | True          | True             |
+|      3 | K. Dubra     | V. Luchkevych   | Oleksandria |                 0.193 |            932.000 |         28.489 |         23.383 | Latvian             | Ukrainian           | False           | False              | True          | False            |
+|      4 | D. Favorov   | A. Mostovy      | Desna       |                 0.158 |           1257.000 |         28.161 |         31.334 | Ukrainian           | Ukrainian           | True            | True               | True          | True             |
+|      5 | K. Dubra     | D. Grechyshkin  | Oleksandria |                 0.155 |           1079.000 |         28.489 |         27.676 | Latvian             | Ukrainian           | False           | False              | True          | False            |
 
 ## 2019/2020 - FNL (Russia) - male
-|   Rank | Player 1     | Player 2    | Team        |   Defensive chemistry |
-|--------|--------------|-------------|-------------|-----------------------|
-|      1 | D. Penchikov | M. Kazankow | Tom' Tomsk  |                 0.167 |
-|      2 | P. Kireenko  | R. Manuylov | Tom' Tomsk  |                 0.166 |
-|      3 | M. Sitdikov  | M. Kanaev   | Neftekhimik |                 0.161 |
-|      4 | D. Penchikov | R. Manuylov | Tom' Tomsk  |                 0.159 |
-|      5 | A. Shumskikh | M. Kazankow | Tom' Tomsk  |                 0.152 |
+|   Rank | Player 1     | Player 2    | Team        |   Defensive chemistry |   Minutes together |   Age player 1 |   Age player 2 | Language player 1   | Language player 2   | Same language   | Same nationality   | Same region   | Same subregion   |
+|--------|--------------|-------------|-------------|-----------------------|--------------------|----------------|----------------|---------------------|---------------------|-----------------|--------------------|---------------|------------------|
+|      1 | D. Penchikov | M. Kazankow | Tom' Tomsk  |                 0.167 |           1416.000 |         21.201 |         32.145 | Russian             | Turkmen             | False           | False              | False         | False            |
+|      2 | P. Kireenko  | R. Manuylov | Tom' Tomsk  |                 0.166 |            919.000 |         24.946 |         23.900 | Russian             | Russian             | True            | True               | True          | True             |
+|      3 | M. Sitdikov  | M. Kanaev   | Neftekhimik |                 0.161 |           1541.000 |         27.287 |         29.094 | Russian             | Russian             | True            | True               | True          | True             |
+|      4 | D. Penchikov | R. Manuylov | Tom' Tomsk  |                 0.159 |           1149.000 |         21.201 |         23.900 | Russian             | Russian             | True            | True               | True          | True             |
+|      5 | A. Shumskikh | M. Kazankow | Tom' Tomsk  |                 0.152 |            935.000 |         28.921 |         32.145 | Russian             | Turkmen             | False           | False              | False         | False            |
 
 ## 2019/2020 - First Division A (Belgium) - male
-|   Rank | Player 1   | Player 2     | Team        |   Defensive chemistry |
-|--------|------------|--------------|-------------|-----------------------|
-|      1 | S. Deli    | B. Mechele   | Club Brugge |                 0.279 |
-|      2 | S. Deli    | E. Sobol     | Club Brugge |                 0.204 |
-|      3 | B. Mechele | H. Vanaken   | Club Brugge |                 0.203 |
-|      4 | S. Deli    | H. Vanaken   | Club Brugge |                 0.199 |
-|      5 | S. Deli    | Clinton Mata | Club Brugge |                 0.196 |
+|   Rank | Player 1   | Player 2     | Team        |   Defensive chemistry |   Minutes together |   Age player 1 |   Age player 2 | Language player 1   | Language player 2   | Same language   | Same nationality   | Same region   | Same subregion   |
+|--------|------------|--------------|-------------|-----------------------|--------------------|----------------|----------------|---------------------|---------------------|-----------------|--------------------|---------------|------------------|
+|      1 | S. Deli    | B. Mechele   | Club Brugge |                 0.279 |            990.000 |         27.580 |         26.297 | French              | Dutch               | False           | False              | False         | False            |
+|      2 | S. Deli    | E. Sobol     | Club Brugge |                 0.204 |           1009.000 |         27.580 |         24.100 | French              | Ukrainian           | False           | False              | False         | False            |
+|      3 | B. Mechele | H. Vanaken   | Club Brugge |                 0.203 |           1065.000 |         26.297 |         26.734 | Dutch               | Dutch               | True            | True               | True          | True             |
+|      4 | S. Deli    | H. Vanaken   | Club Brugge |                 0.199 |           1321.000 |         27.580 |         26.734 | French              | Dutch               | False           | False              | False         | False            |
+|      5 | S. Deli    | Clinton Mata | Club Brugge |                 0.196 |           1019.000 |         27.580 |         26.521 | French              | Dutch               | False           | False              | False         | False            |
 
 ## 2019/2020 - First Division B (Belgium) - male
-|   Rank | Player 1    | Player 2           | Team                 |   Defensive chemistry |
-|--------|-------------|--------------------|----------------------|-----------------------|
-|      1 | I. Kandouss | F. Vega            | Union Saint-Gilloise |                 0.143 |
-|      2 | F. Antunes  | C. Brüls           | Westerlo             |                 0.136 |
-|      3 | F. Antunes  | N. Soumah          | Westerlo             |                 0.127 |
-|      4 | M. Biset    | C. Brüls           | Westerlo             |                 0.124 |
-|      5 | F. Antunes  | B. Van den Bogaert | Westerlo             |                 0.122 |
+|   Rank | Player 1    | Player 2           | Team                 |   Defensive chemistry |   Minutes together |   Age player 1 |   Age player 2 | Language player 1   | Language player 2   | Same language   | Same nationality   | Same region   | Same subregion   |
+|--------|-------------|--------------------|----------------------|-----------------------|--------------------|----------------|----------------|---------------------|---------------------|-----------------|--------------------|---------------|------------------|
+|      1 | I. Kandouss | F. Vega            | Union Saint-Gilloise |                 0.143 |           1137.000 |         21.503 |         26.272 | French              | Spanish             | False           | False              | False         | False            |
+|      2 | F. Antunes  | C. Brüls           | Westerlo             |                 0.136 |           1105.000 |         27.488 |         30.631 | French              | Dutch               | False           | False              | True          | True             |
+|      3 | F. Antunes  | N. Soumah          | Westerlo             |                 0.127 |           1170.000 |         27.488 |         24.407 | French              | French              | True            | False              | False         | False            |
+|      4 | M. Biset    | C. Brüls           | Westerlo             |                 0.124 |           1195.000 |         33.147 |         30.631 | Dutch               | Dutch               | True            | True               | True          | True             |
+|      5 | F. Antunes  | B. Van den Bogaert | Westerlo             |                 0.122 |           1170.000 |         27.488 |         27.419 | French              | Dutch               | False           | False              | True          | True             |
 
 ## 2019/2020 - Fortuna Liga (Czech Republic) - male
-|   Rank | Player 1    | Player 2   | Team           |   Defensive chemistry |
-|--------|-------------|------------|----------------|-----------------------|
-|      1 | J. Bořil    | V. Coufal  | Slavia Praha   |                 0.230 |
-|      2 | D. Plechaty | L. Holík   | Jablonec       |                 0.217 |
-|      3 | M. Krmenčík | R. Řezník  | Viktoria Plzeň |                 0.216 |
-|      4 | T. Souček   | V. Coufal  | Slavia Praha   |                 0.214 |
-|      5 | N. Stanciu  | V. Coufal  | Slavia Praha   |                 0.211 |
+|   Rank | Player 1    | Player 2   | Team           |   Defensive chemistry |   Minutes together |   Age player 1 |   Age player 2 | Language player 1   | Language player 2   | Same language   | Same nationality   | Same region   | Same subregion   |
+|--------|-------------|------------|----------------|-----------------------|--------------------|----------------|----------------|---------------------|---------------------|-----------------|--------------------|---------------|------------------|
+|      1 | J. Bořil    | V. Coufal  | Slavia Praha   |                 0.230 |           1260.000 |         28.361 |         26.759 | Czech               | Czech               | True            | True               | True          | True             |
+|      2 | D. Plechaty | L. Holík   | Jablonec       |                 0.217 |           1080.000 |         20.076 |         21.034 | Czech               | Czech               | True            | True               | True          | True             |
+|      3 | M. Krmenčík | R. Řezník  | Viktoria Plzeň |                 0.216 |           1056.000 |         25.623 |         30.326 | Czech               | Czech               | True            | True               | True          | True             |
+|      4 | T. Souček   | V. Coufal  | Slavia Praha   |                 0.214 |           1248.000 |         24.284 |         26.759 | Czech               | Czech               | True            | True               | True          | True             |
+|      5 | N. Stanciu  | V. Coufal  | Slavia Praha   |                 0.211 |            946.000 |         26.086 |         26.759 | Romanian            | Czech               | False           | False              | True          | True             |
 
 ## 2019/2020 - I Liga (Poland) - male
-|   Rank | Player 1     | Player 2     | Team                       |   Defensive chemistry |
-|--------|--------------|--------------|----------------------------|-----------------------|
-|      1 | M. Michalski | D. Jakubik   | Radomiak Radom             |                 0.214 |
-|      2 | M. Grzelak   | K. Wołkowicz | Bełchatów                  |                 0.187 |
-|      3 | J. Serafin   | K. Stępień   | Puszcza Niepołomice        |                 0.176 |
-|      4 | L. Kubáň     | J. Bucholc   | Stomil Olsztyn             |                 0.170 |
-|      5 | B. Jaroch    | L. Sierpina  | Podbeskidzie Bielsko-Biała |                 0.162 |
+|   Rank | Player 1     | Player 2     | Team                       |   Defensive chemistry |   Minutes together |   Age player 1 |   Age player 2 | Language player 1   | Language player 2   | Same language   | Same nationality   | Same region   | Same subregion   |
+|--------|--------------|--------------|----------------------------|-----------------------|--------------------|----------------|----------------|---------------------|---------------------|-----------------|--------------------|---------------|------------------|
+|      1 | M. Michalski | D. Jakubik   | Radomiak Radom             |                 0.214 |            923.000 |         27.860 |         29.149 | Polish              | Polish              | True            | True               | True          | True             |
+|      2 | M. Grzelak   | K. Wołkowicz | Bełchatów                  |                 0.187 |            935.000 |         27.914 |         24.683 | Polish              | Polish              | True            | True               | True          | True             |
+|      3 | J. Serafin   | K. Stępień   | Puszcza Niepołomice        |                 0.176 |           1003.000 |         22.913 |         26.179 | Polish              | Polish              | True            | True               | True          | True             |
+|      4 | L. Kubáň     | J. Bucholc   | Stomil Olsztyn             |                 0.170 |           1170.000 |         31.906 |         33.916 | Czech               | Polish              | False           | False              | True          | True             |
+|      5 | B. Jaroch    | L. Sierpina  | Podbeskidzie Bielsko-Biała |                 0.162 |           1110.000 |         24.311 |         31.030 | Polish              | Polish              | True            | True               | True          | True             |
 
 ## 2019/2020 - Liga MX (Mexico) - male
-|   Rank | Player 1   | Player 2       | Team        |   Defensive chemistry |
-|--------|------------|----------------|-------------|-----------------------|
-|      1 | C. Salcedo | Rafael Carioca | Tigres UANL |                 0.166 |
-|      2 | J. Gómez   | J. Escoboza    | Querétaro   |                 0.166 |
-|      3 | C. Salcedo | L. Rodríguez   | Tigres UANL |                 0.166 |
-|      4 | C. Salcedo | H. Ayala       | Tigres UANL |                 0.158 |
-|      5 | H. Ayala   | J. Aquino      | Tigres UANL |                 0.156 |
+|   Rank | Player 1   | Player 2       | Team        |   Defensive chemistry |   Minutes together |   Age player 1 |   Age player 2 | Language player 1   | Language player 2   | Same language   | Same nationality   | Same region   | Same subregion   |
+|--------|------------|----------------|-------------|-----------------------|--------------------|----------------|----------------|---------------------|---------------------|-----------------|--------------------|---------------|------------------|
+|      1 | C. Salcedo | Rafael Carioca | Tigres UANL |                 0.166 |           1118.000 |         25.733 |         29.939 | Spanish             | Portuguese          | False           | False              | True          | False            |
+|      2 | J. Gómez   | J. Escoboza    | Querétaro   |                 0.166 |           1182.000 |         25.799 |         26.284 | Spanish             | Spanish             | True            | True               | True          | True             |
+|      3 | C. Salcedo | L. Rodríguez   | Tigres UANL |                 0.166 |            977.000 |         25.733 |         28.411 | Spanish             | Spanish             | True            | True               | True          | True             |
+|      4 | C. Salcedo | H. Ayala       | Tigres UANL |                 0.158 |           1170.000 |         25.733 |         32.157 | Spanish             | Spanish             | True            | True               | True          | True             |
+|      5 | H. Ayala   | J. Aquino      | Tigres UANL |                 0.156 |            901.000 |         32.157 |         29.287 | Spanish             | Spanish             | True            | True               | True          | True             |
 
 ## 2019/2020 - Ligue 1 (France) - male
-|   Rank | Player 1   | Player 2    | Team               |   Defensive chemistry |
-|--------|------------|-------------|--------------------|-----------------------|
-|      1 | T. Foket   | B. Dia      | Reims              |                 0.184 |
-|      2 | T. Foket   | M. Doumbia  | Reims              |                 0.172 |
-|      3 | J. Denayer | J. Andersen | Olympique Lyonnais |                 0.162 |
-|      4 | B. Dia     | A. Disasi   | Reims              |                 0.150 |
-|      5 | M. Simon   | N. Pallois  | Nantes             |                 0.148 |
+|   Rank | Player 1   | Player 2    | Team               |   Defensive chemistry |   Minutes together |   Age player 1 |   Age player 2 | Language player 1   | Language player 2   | Same language   | Same nationality   | Same region   | Same subregion   |
+|--------|------------|-------------|--------------------|-----------------------|--------------------|----------------|----------------|---------------------|---------------------|-----------------|--------------------|---------------|------------------|
+|      1 | T. Foket   | B. Dia      | Reims              |                 0.184 |           1006.000 |         24.646 |         22.428 | Dutch               | French              | False           | False              | True          | True             |
+|      2 | T. Foket   | M. Doumbia  | Reims              |                 0.172 |           1020.000 |         24.646 |         24.870 | Dutch               | French              | False           | False              | False         | False            |
+|      3 | J. Denayer | J. Andersen | Olympique Lyonnais |                 0.162 |            990.000 |         23.855 |         22.887 | Dutch               | Danish              | False           | False              | True          | False            |
+|      4 | B. Dia     | A. Disasi   | Reims              |                 0.150 |           1006.000 |         22.428 |         21.204 | French              | French              | True            | True               | True          | True             |
+|      5 | M. Simon   | N. Pallois  | Nantes             |                 0.148 |           1080.000 |         23.958 |         31.679 | English             | French              | False           | False              | False         | False            |
 
 ## 2019/2020 - Ligue 2 (France) - male
-|   Rank | Player 1   | Player 2   | Team             |   Defensive chemistry |
-|--------|------------|------------|------------------|-----------------------|
-|      1 | J. Mombris | P. Gibaud  | Grenoble Foot 38 |                 0.245 |
-|      2 | A. Monfray | P. Gibaud  | Grenoble Foot 38 |                 0.180 |
-|      3 | J. Laporte | M. Saunier | Lorient          |                 0.167 |
-|      4 | V. Le Goff | J. Laporte | Lorient          |                 0.165 |
-|      5 | C. Pickel  | P. Gibaud  | Grenoble Foot 38 |                 0.163 |
+|   Rank | Player 1   | Player 2   | Team             |   Defensive chemistry |   Minutes together |   Age player 1 |   Age player 2 | Language player 1   | Language player 2   | Same language   | Same nationality   | Same region   | Same subregion   |
+|--------|------------|------------|------------------|-----------------------|--------------------|----------------|----------------|---------------------|---------------------|-----------------|--------------------|---------------|------------------|
+|      1 | J. Mombris | P. Gibaud  | Grenoble Foot 38 |                 0.245 |           1080.000 |         31.583 |         31.050 | French              | French              | True            | True               | True          | True             |
+|      2 | A. Monfray | P. Gibaud  | Grenoble Foot 38 |                 0.180 |           1080.000 |         28.369 |         31.050 | French              | French              | True            | True               | True          | True             |
+|      3 | J. Laporte | M. Saunier | Lorient          |                 0.167 |           1199.000 |         25.437 |         29.243 | French              | French              | True            | True               | True          | True             |
+|      4 | V. Le Goff | J. Laporte | Lorient          |                 0.165 |           1199.000 |         29.588 |         25.437 | French              | French              | True            | True               | True          | True             |
+|      5 | C. Pickel  | P. Gibaud  | Grenoble Foot 38 |                 0.163 |            990.000 |         22.028 |         31.050 | German              | French              | False           | False              | True          | True             |
 
 ## 2019/2020 - National 1 (France) - male
-|   Rank | Player 1          | Player 2         | Team            |   Defensive chemistry |
-|--------|-------------------|------------------|-----------------|-----------------------|
-|      1 | Alexandre Pardal  | Y. Fofana        | Créteil         |                 0.225 |
-|      2 | A. Dauchy         | Alexandre Pardal | Créteil         |                 0.185 |
-|      3 | Y. Macon          | A. Lauray        | Dunkerque       |                 0.180 |
-|      4 | J. Pierre-Charles | S. Moizini       | Lyon Duchère AS |                 0.173 |
-|      5 | Z. Belkouche      | Y. Fofana        | Créteil         |                 0.173 |
+|   Rank | Player 1          | Player 2         | Team            |   Defensive chemistry |   Minutes together |   Age player 1 |   Age player 2 | Language player 1   | Language player 2   | Same language   | Same nationality   | Same region   | Same subregion   |
+|--------|-------------------|------------------|-----------------|-----------------------|--------------------|----------------|----------------|---------------------|---------------------|-----------------|--------------------|---------------|------------------|
+|      1 | Alexandre Pardal  | Y. Fofana        | Créteil         |                 0.225 |            914.000 |         26.578 |         27.821 | Portuguese          | French              | False           | False              | True          | False            |
+|      2 | A. Dauchy         | Alexandre Pardal | Créteil         |                 0.185 |           1004.000 |         23.778 |         26.578 | French              | Portuguese          | False           | False              | True          | False            |
+|      3 | Y. Macon          | A. Lauray        | Dunkerque       |                 0.180 |            990.000 |         38.532 |         22.130 | French              | French              | True            | False              | False         | False            |
+|      4 | J. Pierre-Charles | S. Moizini       | Lyon Duchère AS |                 0.173 |           1013.000 |         25.451 |         33.579 | French              | French              | True            | True               | True          | True             |
+|      5 | Z. Belkouche      | Y. Fofana        | Créteil         |                 0.173 |            965.000 |         26.880 |         27.821 | French              | French              | True            | True               | True          | True             |
 
 ## 2019/2020 - Persha Liga (Ukraine) - male
-|   Rank | Player 1      | Player 2       | Team           |   Defensive chemistry |
-|--------|---------------|----------------|----------------|-----------------------|
-|      1 | A. Terekhov   | K. Kovalenko   | Obolon'-Brovar |                 0.235 |
-|      2 | E. Efremov    | K. Kovalenko   | Obolon'-Brovar |                 0.230 |
-|      3 | K. Kovalenko  | I. Medynsky    | Obolon'-Brovar |                 0.203 |
-|      4 | M. Pokotylyuk | K. Kovalenko   | Obolon'-Brovar |                 0.202 |
-|      5 | K. Kovalenko  | O. Maydanevych | Obolon'-Brovar |                 0.197 |
+|   Rank | Player 1      | Player 2       | Team           |   Defensive chemistry |   Minutes together |   Age player 1 |   Age player 2 | Language player 1   | Language player 2   | Same language   | Same nationality   | Same region   | Same subregion   |
+|--------|---------------|----------------|----------------|-----------------------|--------------------|----------------|----------------|---------------------|---------------------|-----------------|--------------------|---------------|------------------|
+|      1 | A. Terekhov   | K. Kovalenko   | Obolon'-Brovar |                 0.235 |           1216.000 |         27.112 |         32.454 | Ukrainian           | Ukrainian           | True            | True               | True          | True             |
+|      2 | E. Efremov    | K. Kovalenko   | Obolon'-Brovar |                 0.230 |           1098.000 |         25.352 |         32.454 | Ukrainian           | Ukrainian           | True            | True               | True          | True             |
+|      3 | K. Kovalenko  | I. Medynsky    | Obolon'-Brovar |                 0.203 |           1127.000 |         32.454 |         26.389 | Ukrainian           | Ukrainian           | True            | True               | True          | True             |
+|      4 | M. Pokotylyuk | K. Kovalenko   | Obolon'-Brovar |                 0.202 |           1182.000 |         31.257 |         32.454 | Ukrainian           | Ukrainian           | True            | True               | True          | True             |
+|      5 | K. Kovalenko  | O. Maydanevych | Obolon'-Brovar |                 0.197 |            938.000 |         32.454 |         27.914 | Ukrainian           | Ukrainian           | True            | True               | True          | True             |
 
 ## 2019/2020 - Premier League (England) - male
-|   Rank | Player 1            | Player 2        | Team             |   Defensive chemistry |
-|--------|---------------------|-----------------|------------------|-----------------------|
-|      1 | T. Mings            | F. Guilbert     | Aston Villa      |                 0.203 |
-|      2 | E. Stevens          | J. Fleck        | Sheffield United |                 0.192 |
-|      3 | B. Chilwell         | Ricardo Pereira | Leicester City   |                 0.188 |
-|      4 | J. O'Connell        | J. Fleck        | Sheffield United |                 0.178 |
-|      5 | T. Alexander-Arnold | V. van Dijk     | Liverpool        |                 0.176 |
+|   Rank | Player 1            | Player 2        | Team             |   Defensive chemistry |   Minutes together |   Age player 1 |   Age player 2 | Language player 1   | Language player 2   | Same language   | Same nationality   | Same region   | Same subregion   |
+|--------|---------------------|-----------------|------------------|-----------------------|--------------------|----------------|----------------|---------------------|---------------------|-----------------|--------------------|---------------|------------------|
+|      1 | T. Mings            | F. Guilbert     | Aston Villa      |                 0.203 |           1053.000 |         26.206 |         24.416 | English             | French              | False           | False              | True          | False            |
+|      2 | E. Stevens          | J. Fleck        | Sheffield United |                 0.192 |           1108.000 |         28.922 |         27.698 | Irish               | English             | False           | False              | True          | True             |
+|      3 | B. Chilwell         | Ricardo Pereira | Leicester City   |                 0.188 |           1159.000 |         22.389 |         25.598 | English             | Portuguese          | False           | False              | True          | False            |
+|      4 | J. O'Connell        | J. Fleck        | Sheffield United |                 0.178 |           1108.000 |         25.102 |         27.698 | English             | English             | True            | False              | True          | True             |
+|      5 | T. Alexander-Arnold | V. van Dijk     | Liverpool        |                 0.176 |           1394.000 |         20.651 |         27.901 | English             | Dutch               | False           | False              | True          | False            |
 
 ## 2019/2020 - Premier League (Russia) - male
-|   Rank | Player 1    | Player 2       | Team           |   Defensive chemistry |
-|--------|-------------|----------------|----------------|-----------------------|
-|      1 | Z. Bakaev   | G. Dzhikiya    | Spartak Moskva |                 0.200 |
-|      2 | U. Spajić   | A. Martynovich | Krasnodar      |                 0.200 |
-|      3 | Z. Bakaev   | Ayrton         | Spartak Moskva |                 0.191 |
-|      4 | S. Driussi  | Y. Rakitskiy   | Zenit          |                 0.183 |
-|      5 | B. Ivanović | S. Driussi     | Zenit          |                 0.172 |
+|   Rank | Player 1    | Player 2       | Team           |   Defensive chemistry |   Minutes together |   Age player 1 |   Age player 2 | Language player 1   | Language player 2   | Same language   | Same nationality   | Same region   | Same subregion   |
+|--------|-------------|----------------|----------------|-----------------------|--------------------|----------------|----------------|---------------------|---------------------|-----------------|--------------------|---------------|------------------|
+|      1 | Z. Bakaev   | G. Dzhikiya    | Spartak Moskva |                 0.200 |           1239.000 |         22.901 |         25.555 | Russian             | Russian             | True            | True               | True          | True             |
+|      2 | U. Spajić   | A. Martynovich | Krasnodar      |                 0.200 |            990.000 |         26.321 |         31.794 | Serbian             | Belarusian          | False           | False              | True          | False            |
+|      3 | Z. Bakaev   | Ayrton         | Spartak Moskva |                 0.191 |           1026.000 |         22.901 |         21.934 | Russian             | Portuguese          | False           | False              | False         | False            |
+|      4 | S. Driussi  | Y. Rakitskiy   | Zenit          |                 0.183 |           1036.000 |         23.292 |         29.811 | Spanish             | Ukrainian           | False           | False              | False         | False            |
+|      5 | B. Ivanović | S. Driussi     | Zenit          |                 0.172 |           1126.000 |         35.219 |         23.292 | Serbian             | Spanish             | False           | False              | False         | False            |
 
 ## 2019/2020 - Premiership (Scotland) - male
-|   Rank | Player 1      | Player 2      | Team       |   Defensive chemistry |
-|--------|---------------|---------------|------------|-----------------------|
-|      1 | J. Tavernier  | C. Goldson    | Rangers    |                 0.184 |
-|      2 | M. El Makrini | N. Hämäläinen | Kilmarnock |                 0.163 |
-|      3 | S. Mallan     | L. Stevenson  | Hibernian  |                 0.154 |
-|      4 | K. Ajer       | J. Forrest    | Celtic     |                 0.128 |
-|      5 | O. Édouard    | C. McGregor   | Celtic     |                 0.125 |
+|   Rank | Player 1      | Player 2      | Team       |   Defensive chemistry |   Minutes together |   Age player 1 |   Age player 2 | Language player 1   | Language player 2   | Same language   | Same nationality   | Same region   | Same subregion   |
+|--------|---------------|---------------|------------|-----------------------|--------------------|----------------|----------------|---------------------|---------------------|-----------------|--------------------|---------------|------------------|
+|      1 | J. Tavernier  | C. Goldson    | Rangers    |                 0.184 |           1080.000 |         27.531 |         26.417 | English             | English             | True            | True               | True          | True             |
+|      2 | M. El Makrini | N. Hämäläinen | Kilmarnock |                 0.163 |           1104.000 |         31.796 |         22.120 | Dutch               | English             | False           | False              | False         | False            |
+|      3 | S. Mallan     | L. Stevenson  | Hibernian  |                 0.154 |            945.000 |         23.150 |         31.370 | English             | English             | True            | True               | True          | True             |
+|      4 | K. Ajer       | J. Forrest    | Celtic     |                 0.128 |           1143.000 |         21.149 |         27.931 | Norwegian           | English             | False           | False              | True          | True             |
+|      5 | O. Édouard    | C. McGregor   | Celtic     |                 0.125 |            909.000 |         21.354 |         25.993 | French              | English             | False           | False              | False         | False            |
 
 ## 2019/2020 - Prim B Nacional (Argentina) - male
-|   Rank | Player 1           | Player 2               | Team                   |   Defensive chemistry |
-|--------|--------------------|------------------------|------------------------|-----------------------|
-|      1 | R. Vera            | D. Mondino             | Gimnasia Mendoza       |                 0.136 |
-|      2 | I. Ramírez         | D. Mondino             | Gimnasia Mendoza       |                 0.117 |
-|      3 | R. Vera            | I. Ramírez             | Gimnasia Mendoza       |                 0.105 |
-|      4 | I. Nadal           | L. Martínez Montagnoli | Defensores de Belgrano |                 0.097 |
-|      5 | L. Lautaro Sánchez | E. Moreno              | Guillermo Brown        |                 0.095 |
+|   Rank | Player 1           | Player 2               | Team                   |   Defensive chemistry |   Minutes together |   Age player 1 |   Age player 2 | Language player 1   | Language player 2   | Same language   | Same nationality   | Same region   | Same subregion   |
+|--------|--------------------|------------------------|------------------------|-----------------------|--------------------|----------------|----------------|---------------------|---------------------|-----------------|--------------------|---------------|------------------|
+|      1 | R. Vera            | D. Mondino             | Gimnasia Mendoza       |                 0.136 |            990.000 |         35.830 |         24.496 | Spanish             | Spanish             | True            | True               | True          | True             |
+|      2 | I. Ramírez         | D. Mondino             | Gimnasia Mendoza       |                 0.117 |            951.000 |         29.254 |         24.496 | Spanish             | Spanish             | True            | True               | True          | True             |
+|      3 | R. Vera            | I. Ramírez             | Gimnasia Mendoza       |                 0.105 |           1041.000 |         35.830 |         29.254 | Spanish             | Spanish             | True            | True               | True          | True             |
+|      4 | I. Nadal           | L. Martínez Montagnoli | Defensores de Belgrano |                 0.097 |            973.000 |         31.909 |         32.002 | Spanish             | Spanish             | True            | True               | True          | True             |
+|      5 | L. Lautaro Sánchez | E. Moreno              | Guillermo Brown        |                 0.095 |            920.000 |            nan |         29.092 | Spanish             | Spanish             | True            | True               | True          | True             |
 
 ## 2019/2020 - Primeira Liga (Portugal) - male
-|   Rank | Player 1     | Player 2     | Team     |   Defensive chemistry |
-|--------|--------------|--------------|----------|-----------------------|
-|      1 | Marlon       | Rafael Costa | Boavista |                 0.252 |
-|      2 | Marlon       | Neris        | Boavista |                 0.238 |
-|      3 | Rafael Costa | Neris        | Boavista |                 0.211 |
-|      4 | Pepe         | J. Corona    | Porto    |                 0.187 |
-|      5 | Pepe         | Iván Marcano | Porto    |                 0.151 |
+|   Rank | Player 1     | Player 2     | Team     |   Defensive chemistry |   Minutes together |   Age player 1 |   Age player 2 | Language player 1   | Language player 2   | Same language   | Same nationality   | Same region   | Same subregion   |
+|--------|--------------|--------------|----------|-----------------------|--------------------|----------------|----------------|---------------------|---------------------|-----------------|--------------------|---------------|------------------|
+|      1 | Marlon       | Rafael Costa | Boavista |                 0.252 |            927.000 |         21.845 |         28.328 | Portuguese          | Portuguese          | True            | True               | True          | True             |
+|      2 | Marlon       | Neris        | Boavista |                 0.238 |           1047.000 |         21.845 |         26.918 | Portuguese          | Portuguese          | True            | True               | True          | True             |
+|      3 | Rafael Costa | Neris        | Boavista |                 0.211 |           1050.000 |         28.328 |         26.918 | Portuguese          | Portuguese          | True            | True               | True          | True             |
+|      4 | Pepe         | J. Corona    | Porto    |                 0.187 |            932.000 |         36.243 |         26.362 | Portuguese          | Spanish             | False           | False              | True          | False            |
+|      5 | Pepe         | Iván Marcano | Porto    |                 0.151 |           1034.000 |         36.243 |         31.808 | Portuguese          | Spanish             | False           | False              | False         | False            |
 
 ## 2019/2020 - Primera División (Spain) - male
-|   Rank | Player 1          | Player 2     | Team     |   Defensive chemistry |
-|--------|-------------------|--------------|----------|-----------------------|
-|      1 | Aridane Hernández | P. Estupiñán | Osasuna  |                 0.273 |
-|      2 | P. Estupiñán      | Oier         | Osasuna  |                 0.237 |
-|      3 | Nacho Vidal       | P. Estupiñán | Osasuna  |                 0.233 |
-|      4 | Gabriel Paulista  | D. Wass      | Valencia |                 0.194 |
-|      5 | P. Estupiñán      | L. Ávila     | Osasuna  |                 0.166 |
+|   Rank | Player 1          | Player 2     | Team     |   Defensive chemistry |   Minutes together |   Age player 1 |   Age player 2 | Language player 1   | Language player 2   | Same language   | Same nationality   | Same region   | Same subregion   |
+|--------|-------------------|--------------|----------|-----------------------|--------------------|----------------|----------------|---------------------|---------------------|-----------------|--------------------|---------------|------------------|
+|      1 | Aridane Hernández | P. Estupiñán | Osasuna  |                 0.273 |            990.000 |         30.190 |         21.421 | Spanish             | Spanish             | True            | False              | False         | False            |
+|      2 | P. Estupiñán      | Oier         | Osasuna  |                 0.237 |            953.000 |         21.421 |         33.002 | Spanish             | Spanish             | True            | False              | False         | False            |
+|      3 | Nacho Vidal       | P. Estupiñán | Osasuna  |                 0.233 |           1016.000 |         24.350 |         21.421 | Spanish             | Spanish             | True            | False              | False         | False            |
+|      4 | Gabriel Paulista  | D. Wass      | Valencia |                 0.194 |            923.000 |         28.495 |         30.028 | Portuguese          | Danish              | False           | False              | False         | False            |
+|      5 | P. Estupiñán      | L. Ávila     | Osasuna  |                 0.166 |            992.000 |         21.421 |         25.278 | Spanish             | Spanish             | True            | False              | True          | True             |
 
 ## 2019/2020 - Regionalliga (Germany) - male
-|   Rank | Player 1   | Player 2      | Team             |   Defensive chemistry |
-|--------|------------|---------------|------------------|-----------------------|
-|      1 | K. Njie    | D. Hartmann   | Weiche Flensburg |                 0.263 |
-|      2 | C. Köttler | I. Feser      | Aubstadt         |                 0.249 |
-|      3 | S. Behr    | I. Feser      | Aubstadt         |                 0.217 |
-|      4 | M. Appiah  | G. Sakai      | Aalen            |                 0.216 |
-|      5 | M. Appiah  | G. Windmüller | Aalen            |                 0.208 |
+|   Rank | Player 1   | Player 2      | Team             |   Defensive chemistry |   Minutes together |   Age player 1 |   Age player 2 | Language player 1   | Language player 2   | Same language   | Same nationality   | Same region   | Same subregion   |
+|--------|------------|---------------|------------------|-----------------------|--------------------|----------------|----------------|---------------------|---------------------|-----------------|--------------------|---------------|------------------|
+|      1 | K. Njie    | D. Hartmann   | Weiche Flensburg |                 0.263 |           1246.000 |         23.090 |         26.745 | German              | German              | True            | True               | True          | True             |
+|      2 | C. Köttler | I. Feser      | Aubstadt         |                 0.249 |            927.000 |         20.396 |         22.398 | German              | German              | True            | True               | True          | True             |
+|      3 | S. Behr    | I. Feser      | Aubstadt         |                 0.217 |           1205.000 |         22.932 |         22.398 | German              | German              | True            | True               | True          | True             |
+|      4 | M. Appiah  | G. Sakai      | Aalen            |                 0.216 |           1194.000 |         31.223 |         23.202 | German              | Japanese            | False           | False              | False         | False            |
+|      5 | M. Appiah  | G. Windmüller | Aalen            |                 0.208 |           1588.000 |         31.223 |         29.913 | German              | German              | True            | True               | True          | True             |
 
 ## 2019/2020 - Segunda B (Spain) - male
-|   Rank | Player 1        | Player 2       | Team             |   Defensive chemistry |
-|--------|-----------------|----------------|------------------|-----------------------|
-|      1 | Iñaki Sáenz     | Rubén Martínez | UD Logroñés      |                 0.233 |
-|      2 | Iago López      | Iñaki Sáenz    | UD Logroñés      |                 0.219 |
-|      3 | Eloy Gila       | Óscar Prats    | Cornellà         |                 0.217 |
-|      4 | Iago Díaz       | Charlie Dean   | Rayo Majadahonda |                 0.211 |
-|      5 | Miguel Loureiro | Jilmar Torres  | FC Andorra       |                 0.210 |
+|   Rank | Player 1        | Player 2       | Team             |   Defensive chemistry |   Minutes together |   Age player 1 |   Age player 2 | Language player 1   | Language player 2   | Same language   | Same nationality   | Same region   | Same subregion   |
+|--------|-----------------|----------------|------------------|-----------------------|--------------------|----------------|----------------|---------------------|---------------------|-----------------|--------------------|---------------|------------------|
+|      1 | Iñaki Sáenz     | Rubén Martínez | UD Logroñés      |                 0.233 |           1108.000 |         31.129 |         29.519 | Spanish             | Spanish             | True            | True               | True          | True             |
+|      2 | Iago López      | Iñaki Sáenz    | UD Logroñés      |                 0.219 |           1081.000 |            nan |         31.129 | Spanish             | Spanish             | True            | True               | True          | True             |
+|      3 | Eloy Gila       | Óscar Prats    | Cornellà         |                 0.217 |           1012.000 |         30.948 |         30.190 | Spanish             | Spanish             | True            | True               | True          | True             |
+|      4 | Iago Díaz       | Charlie Dean   | Rayo Majadahonda |                 0.211 |            939.000 |         26.346 |         25.882 | Spanish             | English             | False           | False              | True          | False            |
+|      5 | Miguel Loureiro | Jilmar Torres  | FC Andorra       |                 0.210 |            961.000 |         22.472 |         25.081 | Spanish             | Spanish             | True            | True               | True          | True             |
 
 ## 2019/2020 - Segunda División (Spain) - male
-|   Rank | Player 1           | Player 2                | Team       |   Defensive chemistry |
-|--------|--------------------|-------------------------|------------|-----------------------|
-|      1 | Óscar Gil          | Juan Cruz               | Elche      |                 0.200 |
-|      2 | Juan Cala          | Isaac Carcelén          | Cádiz      |                 0.194 |
-|      3 | Miguelón Llambrich | Jorge Pulido            | Huesca     |                 0.180 |
-|      4 | M. Mantovani       | Iñigo Ruiz de Galarreta | Las Palmas |                 0.174 |
-|      5 | A. Espino          | Isaac Carcelén          | Cádiz      |                 0.163 |
+|   Rank | Player 1           | Player 2                | Team       |   Defensive chemistry |   Minutes together |   Age player 1 |   Age player 2 | Language player 1   | Language player 2   | Same language   | Same nationality   | Same region   | Same subregion   |
+|--------|--------------------|-------------------------|------------|-----------------------|--------------------|----------------|----------------|---------------------|---------------------|-----------------|--------------------|---------------|------------------|
+|      1 | Óscar Gil          | Juan Cruz               | Elche      |                 0.200 |           1092.000 |         21.475 |         26.863 | Spanish             | Spanish             | True            | True               | True          | True             |
+|      2 | Juan Cala          | Isaac Carcelén          | Cádiz      |                 0.194 |            981.000 |         29.494 |         26.116 | Spanish             | Spanish             | True            | True               | True          | True             |
+|      3 | Miguelón Llambrich | Jorge Pulido            | Huesca     |                 0.180 |           1080.000 |         23.162 |         28.095 | Spanish             | Spanish             | True            | True               | True          | True             |
+|      4 | M. Mantovani       | Iñigo Ruiz de Galarreta | Las Palmas |                 0.174 |            938.000 |         34.864 |         25.801 | Spanish             | Spanish             | True            | False              | False         | False            |
+|      5 | A. Espino          | Isaac Carcelén          | Cádiz      |                 0.163 |           1498.000 |         27.414 |         26.116 | Spanish             | Spanish             | True            | False              | False         | False            |
 
 ## 2019/2020 - Segunda Liga (Portugal) - male
-|   Rank | Player 1      | Player 2      | Team    |   Defensive chemistry |
-|--------|---------------|---------------|---------|-----------------------|
-|      1 | Rúben Freitas | Joel          | Mafra   |                 0.140 |
-|      2 | M. Mayambela  | Fabrício      | Farense |                 0.120 |
-|      3 | Cuca          | Joel          | Mafra   |                 0.103 |
-|      4 | Luis Pedro    | João Amorim   | Varzim  |                 0.103 |
-|      5 | Cuca          | Rúben Freitas | Mafra   |                 0.094 |
+|   Rank | Player 1      | Player 2      | Team    |   Defensive chemistry |   Minutes together |   Age player 1 |   Age player 2 | Language player 1   | Language player 2   | Same language   | Same nationality   | Same region   | Same subregion   |
+|--------|---------------|---------------|---------|-----------------------|--------------------|----------------|----------------|---------------------|---------------------|-----------------|--------------------|---------------|------------------|
+|      1 | Rúben Freitas | Joel          | Mafra   |                 0.140 |            979.000 |         26.376 |         27.356 | Portuguese          | Portuguese          | True            | True               | True          | True             |
+|      2 | M. Mayambela  | Fabrício      | Farense |                 0.120 |            906.000 |         22.731 |         34.395 | Afrikaans           | Portuguese          | False           | False              | False         | False            |
+|      3 | Cuca          | Joel          | Mafra   |                 0.103 |            969.000 |         28.339 |         27.356 | Portuguese          | Portuguese          | True            | True               | True          | True             |
+|      4 | Luis Pedro    | João Amorim   | Varzim  |                 0.103 |            955.000 |         29.883 |         26.792 | Portuguese          | Portuguese          | True            | True               | True          | True             |
+|      5 | Cuca          | Rúben Freitas | Mafra   |                 0.094 |            971.000 |         28.339 |         26.376 | Portuguese          | Portuguese          | True            | True               | True          | True             |
 
 ## 2019/2020 - Serie A (Italy) - male
-|   Rank | Player 1    | Player 2   | Team     |   Defensive chemistry |
-|--------|-------------|------------|----------|-----------------------|
-|      1 | Alex Sandro | L. Bonucci | Juventus |                 0.154 |
-|      2 | G. Mancini  | A. Kolarov | Roma     |                 0.150 |
-|      3 | J. Cuadrado | L. Bonucci | Juventus |                 0.142 |
-|      4 | M. de Ligt  | L. Bonucci | Juventus |                 0.134 |
-|      5 | L. Bonucci  | M. Pjanić  | Juventus |                 0.133 |
+|   Rank | Player 1    | Player 2   | Team     |   Defensive chemistry |   Minutes together |   Age player 1 |   Age player 2 | Language player 1   | Language player 2   | Same language   | Same nationality   | Same region   | Same subregion   |
+|--------|-------------|------------|----------|-----------------------|--------------------|----------------|----------------|---------------------|---------------------|-----------------|--------------------|---------------|------------------|
+|      1 | Alex Sandro | L. Bonucci | Juventus |                 0.154 |           1080.000 |         28.419 |         32.115 | Portuguese          | Italian             | False           | False              | False         | False            |
+|      2 | G. Mancini  | A. Kolarov | Roma     |                 0.150 |           1195.000 |         23.181 |         33.582 | Italian             | Serbian             | False           | False              | True          | True             |
+|      3 | J. Cuadrado | L. Bonucci | Juventus |                 0.142 |           1053.000 |         31.091 |         32.115 | Spanish             | Italian             | False           | False              | False         | False            |
+|      4 | M. de Ligt  | L. Bonucci | Juventus |                 0.134 |           1080.000 |         19.758 |         32.115 | Dutch               | Italian             | False           | False              | True          | False            |
+|      5 | L. Bonucci  | M. Pjanić  | Juventus |                 0.133 |           1139.000 |         32.115 |         29.193 | Italian             | Bosnian             | False           | False              | True          | True             |
 
 ## 2019/2020 - Serie B (Italy) - male
-|   Rank | Player 1     | Player 2     | Team      |   Defensive chemistry |
-|--------|--------------|--------------|-----------|-----------------------|
-|      1 | G. Letizia   | L. Caldirola | Benevento |                 0.164 |
-|      2 | A. Beghetto  | L. Ariaudo   | Frosinone |                 0.157 |
-|      3 | R. Bocalon   | M. Modolo    | Venezia   |                 0.155 |
-|      4 | N. Viola     | L. Caldirola | Benevento |                 0.144 |
-|      5 | N. Brighenti | L. Ariaudo   | Frosinone |                 0.135 |
+|   Rank | Player 1     | Player 2     | Team      |   Defensive chemistry |   Minutes together |   Age player 1 |   Age player 2 | Language player 1   | Language player 2   | Same language   | Same nationality   | Same region   | Same subregion   |
+|--------|--------------|--------------|-----------|-----------------------|--------------------|----------------|----------------|---------------------|---------------------|-----------------|--------------------|---------------|------------------|
+|      1 | G. Letizia   | L. Caldirola | Benevento |                 0.164 |           1260.000 |         28.906 |         28.312 | Italian             | Italian             | True            | True               | True          | True             |
+|      2 | A. Beghetto  | L. Ariaudo   | Frosinone |                 0.157 |            967.000 |         24.621 |         29.954 | Italian             | Italian             | True            | True               | True          | True             |
+|      3 | R. Bocalon   | M. Modolo    | Venezia   |                 0.155 |           1207.000 |         30.269 |         30.214 | Italian             | Italian             | True            | True               | True          | True             |
+|      4 | N. Viola     | L. Caldirola | Benevento |                 0.144 |           1260.000 |         29.618 |         28.312 | Italian             | Italian             | True            | True               | True          | True             |
+|      5 | N. Brighenti | L. Ariaudo   | Frosinone |                 0.135 |           1046.000 |         29.815 |         29.954 | Italian             | Italian             | True            | True               | True          | True             |
 
 ## 2019/2020 - Serie C (Italy) - male
-|   Rank | Player 1    | Player 2      | Team          |   Defensive chemistry |
-|--------|-------------|---------------|---------------|-----------------------|
-|      1 | L. Galli    | M. Battistini | Pro Patria    |                 0.222 |
-|      2 | A. Boffelli | M. Battistini | Pro Patria    |                 0.211 |
-|      3 | A. Sabbione | F. Costa      | SSC Bari      |                 0.196 |
-|      4 | R. Celia    | A. Cambiaso   | Alessandria   |                 0.183 |
-|      5 | A. Spanò    | P. Rozzio     | Reggio Audace |                 0.183 |
+|   Rank | Player 1    | Player 2      | Team          |   Defensive chemistry |   Minutes together |   Age player 1 |   Age player 2 | Language player 1   | Language player 2   | Same language   | Same nationality   | Same region   | Same subregion   |
+|--------|-------------|---------------|---------------|-----------------------|--------------------|----------------|----------------|---------------------|---------------------|-----------------|--------------------|---------------|------------------|
+|      1 | L. Galli    | M. Battistini | Pro Patria    |                 0.222 |           1126.000 |         21.858 |         25.228 | Italian             | Italian             | True            | True               | True          | True             |
+|      2 | A. Boffelli | M. Battistini | Pro Patria    |                 0.211 |           1164.000 |         22.162 |         25.228 | Italian             | Italian             | True            | True               | True          | True             |
+|      3 | A. Sabbione | F. Costa      | SSC Bari      |                 0.196 |            951.000 |         27.397 |         23.917 | Italian             | Italian             | True            | True               | True          | True             |
+|      4 | R. Celia    | A. Cambiaso   | Alessandria   |                 0.183 |            976.000 |            nan |            nan | Italian             | Italian             | True            | True               | True          | True             |
+|      5 | A. Spanò    | P. Rozzio     | Reggio Audace |                 0.183 |           1148.000 |         23.758 |         25.867 | Italian             | Italian             | True            | True               | True          | True             |
 
 ## 2019/2020 - Super League (Greece) - male
-|   Rank | Player 1        | Player 2       | Team               |   Defensive chemistry |
-|--------|-----------------|----------------|--------------------|-----------------------|
-|      1 | O. Elabdellaoui | Guilherme      | Olympiakos Piraeus |                 0.171 |
-|      2 | D. Bejarano     | V. Pliatsikas  | Lamia              |                 0.146 |
-|      3 | L. Sosa         | A. Karasalidis | Xanthi             |                 0.143 |
-|      4 | D. Bejarano     | D. Adejo       | Lamia              |                 0.141 |
-|      5 | D. Limnios      | D. Giannoulis  | PAOK               |                 0.139 |
+|   Rank | Player 1        | Player 2       | Team               |   Defensive chemistry |   Minutes together |   Age player 1 |   Age player 2 | Language player 1   | Language player 2   | Same language   | Same nationality   | Same region   | Same subregion   |
+|--------|-----------------|----------------|--------------------|-----------------------|--------------------|----------------|----------------|---------------------|---------------------|-----------------|--------------------|---------------|------------------|
+|      1 | O. Elabdellaoui | Guilherme      | Olympiakos Piraeus |                 0.171 |            983.000 |         27.515 |         28.046 | Norwegian           | Portuguese          | False           | False              | False         | False            |
+|      2 | D. Bejarano     | V. Pliatsikas  | Lamia              |                 0.146 |            954.000 |         25.333 |         31.019 | Spanish             | Greek (modern)      | False           | False              | False         | False            |
+|      3 | L. Sosa         | A. Karasalidis | Xanthi             |                 0.143 |            966.000 |         28.210 |         27.950 | Spanish             | Greek (modern)      | False           | False              | False         | False            |
+|      4 | D. Bejarano     | D. Adejo       | Lamia              |                 0.141 |            915.000 |         25.333 |         29.741 | Spanish             | English             | False           | False              | False         | False            |
+|      5 | D. Limnios      | D. Giannoulis  | PAOK               |                 0.139 |            949.000 |         21.040 |         23.550 | Greek (modern)      | Greek (modern)      | True            | True               | True          | True             |
 
 ## 2019/2020 - Super League (Switzerland) - male
-|   Rank | Player 1    | Player 2      | Team     |   Defensive chemistry |
-|--------|-------------|---------------|----------|-----------------------|
-|      1 | R. Petretta | S. Widmer     | Basel    |                 0.190 |
-|      2 | O. Alderete | S. Widmer     | Basel    |                 0.144 |
-|      3 | T. Cognat   | M. Stevanović | Servette |                 0.143 |
-|      4 | T. Cognat   | S. Rouiller   | Servette |                 0.121 |
-|      5 | S. Wüthrich | S. Rouiller   | Servette |                 0.118 |
+|   Rank | Player 1    | Player 2      | Team     |   Defensive chemistry |   Minutes together |   Age player 1 |   Age player 2 | Language player 1   | Language player 2   | Same language   | Same nationality   | Same region   | Same subregion   |
+|--------|-------------|---------------|----------|-----------------------|--------------------|----------------|----------------|---------------------|---------------------|-----------------|--------------------|---------------|------------------|
+|      1 | R. Petretta | S. Widmer     | Basel    |                 0.190 |            989.000 |         22.162 |         26.195 | German              | German              | True            | False              | True          | True             |
+|      2 | O. Alderete | S. Widmer     | Basel    |                 0.144 |           1035.000 |         22.324 |         26.195 | Spanish             | German              | False           | False              | False         | False            |
+|      3 | T. Cognat   | M. Stevanović | Servette |                 0.143 |            997.000 |         21.332 |         28.826 | French              | Bosnian             | False           | False              | True          | False            |
+|      4 | T. Cognat   | S. Rouiller   | Servette |                 0.121 |            993.000 |         21.332 |         28.878 | French              | German              | False           | False              | True          | True             |
+|      5 | S. Wüthrich | S. Rouiller   | Servette |                 0.118 |           1087.000 |         28.993 |         28.878 | German              | German              | True            | True               | True          | True             |
 
 ## 2019/2020 - Super Liga (Serbia) - male
-|   Rank | Player 1     | Player 2     | Team      |   Defensive chemistry |
-|--------|--------------|--------------|-----------|-----------------------|
-|      1 | M. Bogosavac | N. Ćirković  | Čukarički |                 0.276 |
-|      2 | S. Šapić     | M. Bogosavac | Čukarički |                 0.240 |
-|      3 | M. Docić     | N. Ćirković  | Čukarički |                 0.238 |
-|      4 | S. Šapić     | M. Docić     | Čukarički |                 0.215 |
-|      5 | S. Šapić     | N. Ćirković  | Čukarički |                 0.210 |
+|   Rank | Player 1     | Player 2     | Team      |   Defensive chemistry |   Minutes together |   Age player 1 |   Age player 2 | Language player 1   | Language player 2   | Same language   | Same nationality   | Same region   | Same subregion   |
+|--------|--------------|--------------|-----------|-----------------------|--------------------|----------------|----------------|---------------------|---------------------|-----------------|--------------------|---------------|------------------|
+|      1 | M. Bogosavac | N. Ćirković  | Čukarički |                 0.276 |           1016.000 |         22.691 |         27.435 | Serbian             | Serbian             | True            | True               | True          | True             |
+|      2 | S. Šapić     | M. Bogosavac | Čukarički |                 0.240 |           1016.000 |         22.225 |         22.691 | Serbian             | Serbian             | True            | True               | True          | True             |
+|      3 | M. Docić     | N. Ćirković  | Čukarički |                 0.238 |           1260.000 |         26.077 |         27.435 | Serbian             | Serbian             | True            | True               | True          | True             |
+|      4 | S. Šapić     | M. Docić     | Čukarički |                 0.215 |           1260.000 |         22.225 |         26.077 | Serbian             | Serbian             | True            | True               | True          | True             |
+|      5 | S. Šapić     | N. Ćirković  | Čukarički |                 0.210 |           1509.000 |         22.225 |         27.435 | Serbian             | Serbian             | True            | True               | True          | True             |
 
 ## 2019/2020 - Super Liga (Slovakia) - male
-|   Rank | Player 1   | Player 2   | Team       |   Defensive chemistry |
-|--------|------------|------------|------------|-----------------------|
-|      1 | F. Kaša    | M. Králik  | Žilina     |                 0.235 |
-|      2 | M. Káčer   | M. Králik  | Žilina     |                 0.142 |
-|      3 | M. Káčer   | F. Kaša    | Žilina     |                 0.133 |
-|      4 | A. Mojžiš  | J. Maslo   | Ružomberok |                 0.120 |
-|      5 | A. Mojžiš  | M. Čurma   | Ružomberok |                 0.110 |
+|   Rank | Player 1   | Player 2   | Team       |   Defensive chemistry |   Minutes together |   Age player 1 |   Age player 2 | Language player 1   | Language player 2   | Same language   | Same nationality   | Same region   | Same subregion   |
+|--------|------------|------------|------------|-----------------------|--------------------|----------------|----------------|---------------------|---------------------|-----------------|--------------------|---------------|------------------|
+|      1 | B. Sluka   | F. Kaša    | Žilina     |                 0.277 |            658.000 |         20.317 |         25.393 | Slovak              | Czech               | False           | False              | True          | True             |
+|      2 | I. Díaz    | M. Tomič   | Žilina     |                 0.270 |            474.000 |         26.332 |         20.079 | Spanish             | Slovak              | False           | False              | False         | False            |
+|      3 | L. Kojnok  | J. Maslo   | Ružomberok |                 0.268 |            489.000 |         19.774 |         33.281 | Slovak              | Slovak              | True            | True               | True          | True             |
+|      4 | I. Díaz    | F. Kaša    | Žilina     |                 0.264 |            531.000 |         26.332 |         25.393 | Spanish             | Czech               | False           | False              | False         | False            |
+|      5 | M. Tomič   | M. Králik  | Žilina     |                 0.244 |            612.000 |         20.079 |         24.142 | Slovak              | Slovak              | True            | True               | True          | True             |
 
 ## 2019/2020 - Superliga (Argentina) - male
-|   Rank | Player 1    | Player 2     | Team               |   Defensive chemistry |
-|--------|-------------|--------------|--------------------|-----------------------|
-|      1 | A. Castro   | R. Delgado   | Defensa y Justicia |                 0.202 |
-|      2 | L. Abram    | L. Giannetti | Vélez Sarsfield    |                 0.171 |
-|      3 | N. Molina   | E. Brítez    | Rosario Central    |                 0.155 |
-|      4 | N. Tenaglia | E. Díaz      | Talleres Córdoba   |                 0.154 |
-|      5 | J. Schunke  | F. Sánchez   | Estudiantes        |                 0.151 |
+|   Rank | Player 1    | Player 2     | Team               |   Defensive chemistry |   Minutes together |   Age player 1 |   Age player 2 | Language player 1   | Language player 2   | Same language   | Same nationality   | Same region   | Same subregion   |
+|--------|-------------|--------------|--------------------|-----------------------|--------------------|----------------|----------------|---------------------|---------------------|-----------------|--------------------|---------------|------------------|
+|      1 | A. Castro   | R. Delgado   | Defensa y Justicia |                 0.202 |            913.000 |         24.496 |         29.257 | Spanish             | Spanish             | True            | True               | True          | True             |
+|      2 | L. Abram    | L. Giannetti | Vélez Sarsfield    |                 0.171 |            971.000 |         23.337 |         25.396 | Spanish             | Spanish             | True            | False              | True          | True             |
+|      3 | N. Molina   | E. Brítez    | Rosario Central    |                 0.155 |           1260.000 |         21.432 |         27.173 | Spanish             | Spanish             | True            | True               | True          | True             |
+|      4 | N. Tenaglia | E. Díaz      | Talleres Córdoba   |                 0.154 |            999.000 |         23.126 |         23.313 | Spanish             | Spanish             | True            | True               | True          | True             |
+|      5 | J. Schunke  | F. Sánchez   | Estudiantes        |                 0.151 |           1138.000 |         32.246 |         29.210 | Spanish             | Spanish             | True            | True               | True          | True             |
 
 ## 2019/2020 - Superliga (Denmark) - male
-|   Rank | Player 1    | Player 2      | Team    |   Defensive chemistry |
-|--------|-------------|---------------|---------|-----------------------|
-|      1 | M. Haarup   | J. Bøge       | Hobro   |                 0.224 |
-|      2 | J. Tverskov | O. Lund       | OB      |                 0.196 |
-|      3 | M. Haarup   | E. Sabbi      | Hobro   |                 0.183 |
-|      4 | K. Conboy   | B. Kopplin    | Randers |                 0.148 |
-|      5 | M. Kallesøe | S. Lobjanidze | Randers |                 0.143 |
+|   Rank | Player 1    | Player 2      | Team    |   Defensive chemistry |   Minutes together |   Age player 1 |   Age player 2 | Language player 1   | Language player 2   | Same language   | Same nationality   | Same region   | Same subregion   |
+|--------|-------------|---------------|---------|-----------------------|--------------------|----------------|----------------|---------------------|---------------------|-----------------|--------------------|---------------|------------------|
+|      1 | M. Haarup   | J. Bøge       | Hobro   |                 0.224 |           1163.000 |         23.208 |         29.174 | Danish              | Danish              | True            | True               | True          | True             |
+|      2 | J. Tverskov | O. Lund       | OB      |                 0.196 |            979.000 |         26.203 |         28.760 | Danish              | Danish              | True            | True               | True          | True             |
+|      3 | M. Haarup   | E. Sabbi      | Hobro   |                 0.183 |            943.000 |         23.208 |         21.338 | Danish              | English             | False           | False              | False         | False            |
+|      4 | K. Conboy   | B. Kopplin    | Randers |                 0.148 |           1110.000 |         31.627 |         30.395 | Danish              | German              | False           | False              | True          | False            |
+|      5 | M. Kallesøe | S. Lobjanidze | Randers |                 0.143 |            923.000 |         22.113 |         24.479 | Danish              | Georgian            | False           | False              | False         | False            |
 
 ## 2019/2020 - Süper Lig (Turkey) - male
-|   Rank | Player 1    | Player 2     | Team        |   Defensive chemistry |
-|--------|-------------|--------------|-------------|-----------------------|
-|      1 | A. Nwakaeme | João Pereira | Trabzonspor |                 0.283 |
-|      2 | F. Novák    | João Pereira | Trabzonspor |                 0.270 |
-|      3 | B. Emir     | L. Gassama   | Göztepe     |                 0.237 |
-|      4 | M. Hosseini | João Pereira | Trabzonspor |                 0.216 |
-|      5 | H. Türkmen  | João Pereira | Trabzonspor |                 0.193 |
+|   Rank | Player 1    | Player 2     | Team        |   Defensive chemistry |   Minutes together |   Age player 1 |   Age player 2 | Language player 1   | Language player 2   | Same language   | Same nationality   | Same region   | Same subregion   |
+|--------|-------------|--------------|-------------|-----------------------|--------------------|----------------|----------------|---------------------|---------------------|-----------------|--------------------|---------------|------------------|
+|      1 | A. Nwakaeme | João Pereira | Trabzonspor |                 0.283 |            972.000 |         30.176 |         35.244 | English             | Portuguese          | False           | False              | False         | False            |
+|      2 | F. Novák    | João Pereira | Trabzonspor |                 0.270 |            931.000 |         28.958 |         35.244 | Czech               | Portuguese          | False           | False              | True          | False            |
+|      3 | B. Emir     | L. Gassama   | Göztepe     |                 0.237 |           1029.000 |         31.301 |         29.598 | Turkish             | French              | False           | False              | False         | False            |
+|      4 | M. Hosseini | João Pereira | Trabzonspor |                 0.216 |            926.000 |         22.926 |         35.244 | Persian (Farsi)     | Portuguese          | False           | False              | False         | False            |
+|      5 | H. Türkmen  | João Pereira | Trabzonspor |                 0.193 |            947.000 |         21.442 |         35.244 | Turkish             | Portuguese          | False           | False              | False         | False            |
 
 ## 2019/2020 - UEFA Champions League (Europe) - male
-|   Rank | Player 1      | Player 2   | Team         |   Defensive chemistry |
-|--------|---------------|------------|--------------|-----------------------|
-|      1 | V. Coufal     | J. Bořil   | Slavia Praha |                 0.327 |
-|      2 | O. Kúdela     | J. Bořil   | Slavia Praha |                 0.283 |
-|      3 | P. Olayinka   | V. Coufal  | Slavia Praha |                 0.259 |
-|      4 | P. Olayinka   | O. Kúdela  | Slavia Praha |                 0.234 |
-|      5 | N. Tagliafico | J. Veltman | Ajax         |                 0.221 |
+|   Rank | Player 1      | Player 2   | Team         |   Defensive chemistry |   Minutes together |   Age player 1 |   Age player 2 | Language player 1   | Language player 2   | Same language   | Same nationality   | Same region   | Same subregion   |
+|--------|---------------|------------|--------------|-----------------------|--------------------|----------------|----------------|---------------------|---------------------|-----------------|--------------------|---------------|------------------|
+|      1 | V. Coufal     | J. Bořil   | Slavia Praha |                 0.327 |            540.000 |         26.759 |         28.361 | Czech               | Czech               | True            | True               | True          | True             |
+|      2 | O. Kúdela     | J. Bořil   | Slavia Praha |                 0.283 |            540.000 |         32.169 |         28.361 | Czech               | Czech               | True            | True               | True          | True             |
+|      3 | P. Olayinka   | V. Coufal  | Slavia Praha |                 0.259 |            534.000 |         23.520 |         26.759 | English             | Czech               | False           | False              | False         | False            |
+|      4 | P. Olayinka   | O. Kúdela  | Slavia Praha |                 0.234 |            534.000 |         23.520 |         32.169 | English             | Czech               | False           | False              | False         | False            |
+|      5 | N. Tagliafico | J. Veltman | Ajax         |                 0.221 |            718.000 |         26.825 |         27.323 | Spanish             | Dutch               | False           | False              | False         | False            |
 
 ## 2019/2020 - UEFA Europa League (Europe) - male
-|   Rank | Player 1     | Player 2       | Team    |   Defensive chemistry |
-|--------|--------------|----------------|---------|-----------------------|
-|      1 | J. Tavernier | C. Goldson     | Rangers |                 0.175 |
-|      2 | O.  Wijndal  | T. Koopmeiners | AZ      |                 0.168 |
-|      3 | R. Jack      | J. Tavernier   | Rangers |                 0.158 |
-|      4 | R. Jack      | C. Goldson     | Rangers |                 0.151 |
-|      5 | O.  Wijndal  | F. Midtsjø     | AZ      |                 0.140 |
+|   Rank | Player 1     | Player 2       | Team    |   Defensive chemistry |   Minutes together |   Age player 1 |   Age player 2 | Language player 1   | Language player 2   | Same language   | Same nationality   | Same region   | Same subregion   |
+|--------|--------------|----------------|---------|-----------------------|--------------------|----------------|----------------|---------------------|---------------------|-----------------|--------------------|---------------|------------------|
+|      1 | J. Tavernier | C. Goldson     | Rangers |                 0.175 |            990.000 |         27.531 |         26.417 | English             | English             | True            | True               | True          | True             |
+|      2 | O.  Wijndal  | T. Koopmeiners | AZ      |                 0.168 |           1020.000 |         19.463 |         21.210 | Dutch               | Dutch               | True            | True               | True          | True             |
+|      3 | R. Jack      | J. Tavernier   | Rangers |                 0.158 |            906.000 |         27.224 |         27.531 | English             | English             | True            | False              | True          | True             |
+|      4 | R. Jack      | C. Goldson     | Rangers |                 0.151 |            906.000 |         27.224 |         26.417 | English             | English             | True            | False              | True          | True             |
+|      5 | O.  Wijndal  | F. Midtsjø     | AZ      |                 0.140 |            977.000 |         19.463 |         25.831 | Dutch               | Norwegian           | False           | False              | True          | False            |
 
 ## 2019 UAE - Asian Cup (Asia) - male
-|   Rank | Player 1     | Player 2          | Team           |   Defensive chemistry |
-|--------|--------------|-------------------|----------------|-----------------------|
-|      1 | M. Degenek   | M. Milligan       | Australia      |                 0.217 |
-|      2 | Min-Jae Kim  | Young-Gwon Kim    | Korea Republic |                 0.211 |
-|      3 | M. Degenek   | A. Behich         | Australia      |                 0.207 |
-|      4 | Pedro Miguel | Abdelkarim Hassan | Qatar          |                 0.206 |
-|      5 | A. Behich    | M. Milligan       | Australia      |                 0.205 |
+|   Rank | Player 1     | Player 2          | Team           |   Defensive chemistry |   Minutes together |   Age player 1 |   Age player 2 | Language player 1   | Language player 2   | Same language   | Same nationality   | Same region   | Same subregion   |
+|--------|--------------|-------------------|----------------|-----------------------|--------------------|----------------|----------------|---------------------|---------------------|-----------------|--------------------|---------------|------------------|
+|      1 | M. Degenek   | M. Milligan       | Australia      |                 0.217 |            480.000 |         24.637 |         33.385 | Serbian             | English             | False           | False              | False         | False            |
+|      2 | Min-Jae Kim  | Young-Gwon Kim    | Korea Republic |                 0.211 |            480.000 |         22.027 |         28.330 | Korean              | Korean              | True            | True               | True          | True             |
+|      3 | M. Degenek   | A. Behich         | Australia      |                 0.207 |            480.000 |         24.637 |         27.942 | Serbian             | English             | False           | False              | False         | False            |
+|      4 | Pedro Miguel | Abdelkarim Hassan | Qatar          |                 0.206 |            461.000 |         28.511 |         25.264 | Portuguese          | Arabic              | False           | False              | False         | False            |
+|      5 | A. Behich    | M. Milligan       | Australia      |                 0.205 |            480.000 |         27.942 |         33.385 | English             | English             | True            | True               | True          | True             |
 
 ## 2019 UAE - Asian Cup Qualification (Asia) - male
-|   Rank | Player 1       | Player 2        | Team    |   Defensive chemistry |
-|--------|----------------|-----------------|---------|-----------------------|
-|      1 | Zaw Min Tun    | Thein Than Win  | Myanmar |                 0.120 |
-|      2 | Thein Than Win | Thu Aung        | Myanmar |                 0.100 |
-|      3 | Kamil Al Aswad | Waleed Al Hayam | Bahrain |                 0.074 |
-|      4 | Zaw Min Tun    | Thu Aung        | Myanmar |                 0.061 |
-|      5 | Yan Naing Oo   | Thu Aung        | Myanmar |                 0.021 |
+|   Rank | Player 1       | Player 2        | Team    |   Defensive chemistry |   Minutes together |   Age player 1 |   Age player 2 | Language player 1   | Language player 2   | Same language   | Same nationality   | Same region   | Same subregion   |
+|--------|----------------|-----------------|---------|-----------------------|--------------------|----------------|----------------|---------------------|---------------------|-----------------|--------------------|---------------|------------------|
+|      1 | Zaw Min Tun    | Thein Than Win  | Myanmar |                 0.120 |            475.000 |         23.977 |         20.620 | Burmese             | Burmese             | True            | True               | True          | True             |
+|      2 | Thein Than Win | Thu Aung        | Myanmar |                 0.100 |            475.000 |         20.620 |         19.854 | Burmese             | Burmese             | True            | True               | True          | True             |
+|      3 | Kamil Al Aswad | Waleed Al Hayam | Bahrain |                 0.074 |            540.000 |         21.976 |         25.308 | Arabic              | Arabic              | True            | True               | True          | True             |
+|      4 | Zaw Min Tun    | Thu Aung        | Myanmar |                 0.061 |            540.000 |         23.977 |         19.854 | Burmese             | Burmese             | True            | True               | True          | True             |
+|      5 | Yan Naing Oo   | Thu Aung        | Myanmar |                 0.021 |            475.000 |         19.180 |         19.854 | Burmese             | Burmese             | True            | True               | True          | True             |
 
 ## 2019 Italy - UEFA U21 Championship (Europe) - male
-|   Rank | Player 1       | Player 2      | Team        |   Defensive chemistry |
-|--------|----------------|---------------|-------------|-----------------------|
-|      1 | P. Bochniewicz | M. Wieteska   | Poland U21  |                 0.354 |
-|      2 | R. Gumny       | M. Wieteska   | Poland U21  |                 0.272 |
-|      3 | A. Pașcanu     | I. Nedelcearu | Romania U21 |                 0.252 |
-|      4 | A. Pașcanu     | C. Manea      | Romania U21 |                 0.246 |
-|      5 | P. Dziczek     | M. Wieteska   | Poland U21  |                 0.217 |
+|   Rank | Player 1       | Player 2      | Team        |   Defensive chemistry |   Minutes together |   Age player 1 |   Age player 2 | Language player 1   | Language player 2   | Same language   | Same nationality   | Same region   | Same subregion   |
+|--------|----------------|---------------|-------------|-----------------------|--------------------|----------------|----------------|---------------------|---------------------|-----------------|--------------------|---------------|------------------|
+|      1 | P. Bochniewicz | M. Wieteska   | Poland U21  |                 0.354 |            502.000 |         20.886 |         19.781 | Polish              | Polish              | True            | True               | True          | True             |
+|      2 | R. Gumny       | M. Wieteska   | Poland U21  |                 0.272 |            589.000 |         18.302 |         19.781 | Polish              | Polish              | True            | True               | True          | True             |
+|      3 | A. Pașcanu     | I. Nedelcearu | Romania U21 |                 0.252 |            810.000 |         18.222 |         20.662 | Romanian            | Romanian            | True            | True               | True          | True             |
+|      4 | A. Pașcanu     | C. Manea      | Romania U21 |                 0.246 |            810.000 |         18.222 |         19.340 | Romanian            | Romanian            | True            | True               | True          | True             |
+|      5 | P. Dziczek     | M. Wieteska   | Poland U21  |                 0.217 |            630.000 |         18.627 |         19.781 | Polish              | Polish              | True            | True               | True          | True             |
 
 ## 2019 Chile - Sudamericano U20 (South America) - male
-|   Rank | Player 1   | Player 2    | Team          |   Defensive chemistry |
-|--------|------------|-------------|---------------|-----------------------|
-|      1 | A. Reyes   | H. Palacios | Colombia U20  |                 0.192 |
-|      2 | C. Cuesta  | A. Reyes    | Colombia U20  |                 0.192 |
-|      3 | A. Reyes   | I. Angulo   | Colombia U20  |                 0.183 |
-|      4 | R. Mina    | J. Porozo   | Ecuador U20   |                 0.179 |
-|      5 | I. Anzola  | S. Sosa     | Venezuela U20 |                 0.175 |
+|   Rank | Player 1   | Player 2    | Team          |   Defensive chemistry |   Minutes together |   Age player 1 |   Age player 2 | Language player 1   | Language player 2   | Same language   | Same nationality   | Same region   | Same subregion   |
+|--------|------------|-------------|---------------|-----------------------|--------------------|----------------|----------------|---------------------|---------------------|-----------------|--------------------|---------------|------------------|
+|      1 | A. Reyes   | H. Palacios | Colombia U20  |                 0.192 |            517.000 |            nan |            nan | Spanish             | Spanish             | True            | True               | True          | True             |
+|      2 | C. Cuesta  | A. Reyes    | Colombia U20  |                 0.192 |            495.000 |         19.639 |            nan | Spanish             | Spanish             | True            | True               | True          | True             |
+|      3 | A. Reyes   | I. Angulo   | Colombia U20  |                 0.183 |            540.000 |            nan |         19.641 | Spanish             | Spanish             | True            | True               | True          | True             |
+|      4 | R. Mina    | J. Porozo   | Ecuador U20   |                 0.179 |            538.000 |            nan |         16.624 | Spanish             | Spanish             | True            | True               | True          | True             |
+|      5 | I. Anzola  | S. Sosa     | Venezuela U20 |                 0.175 |            528.000 |         19.359 |         18.655 | Spanish             | Spanish             | True            | True               | True          | True             |
 
 ## 2019 Cameroon - Africa Cup of Nations Qualification (Africa) - male
-|   Rank | Player 1      | Player 2      | Team         |   Defensive chemistry |
-|--------|---------------|---------------|--------------|-----------------------|
-|      1 | P. Tau        | T. Hlatshwayo | South Africa |                 0.187 |
-|      2 | M. Dellahi    | A. Abeid      | Mauritania   |                 0.044 |
-|      3 | Y. M'Changama | K. Abdallah   | Comoros      |                -0.010 |
-|      4 | Y. M'Changama | F. Bachirou   | Comoros      |                -0.018 |
-|      5 | F. Bachirou   | K. Abdallah   | Comoros      |                -0.025 |
+|   Rank | Player 1      | Player 2      | Team         |   Defensive chemistry |   Minutes together |   Age player 1 |   Age player 2 | Language player 1   | Language player 2   | Same language   | Same nationality   | Same region   | Same subregion   |
+|--------|---------------|---------------|--------------|-----------------------|--------------------|----------------|----------------|---------------------|---------------------|-----------------|--------------------|---------------|------------------|
+|      1 | P. Tau        | T. Hlatshwayo | South Africa |                 0.187 |            455.000 |         23.110 |         27.441 | Afrikaans           | Afrikaans           | True            | True               | True          | True             |
+|      2 | M. Dellahi    | A. Abeid      | Mauritania   |                 0.044 |            530.000 |         19.514 |         19.328 | Arabic              | Arabic              | True            | False              | False         | False            |
+|      3 | Y. M'Changama | K. Abdallah   | Comoros      |                -0.010 |            462.000 |         26.724 |         30.113 | French              | French              | True            | True               | True          | True             |
+|      4 | Y. M'Changama | F. Bachirou   | Comoros      |                -0.018 |            482.000 |         26.724 |         27.137 | French              | French              | True            | True               | True          | True             |
+|      5 | F. Bachirou   | K. Abdallah   | Comoros      |                -0.025 |            516.000 |         27.137 |         30.113 | French              | French              | True            | True               | True          | True             |
 
 ## 2019 - AFC Champions League (Asia) - male
-|   Rank | Player 1       | Player 2           | Team                 |   Defensive chemistry |
-|--------|----------------|--------------------|----------------------|-----------------------|
-|      1 | Ali Al Bulayhi | Mohammed Jahfali   | Al Hilal             |                 0.217 |
-|      2 | Ali Al Bulayhi | Mohammed Kanno     | Al Hilal             |                 0.208 |
-|      3 | Ali Al Bulayhi | Mohammed Al Burayk | Al Hilal             |                 0.200 |
-|      4 | Ji-Soo Park    | Huang Bowen        | Guangzhou Evergrande |                 0.190 |
-|      5 | Mohammed Kanno | Yasir Al Shahrani  | Al Hilal             |                 0.186 |
+|   Rank | Player 1       | Player 2           | Team                 |   Defensive chemistry |   Minutes together |   Age player 1 |   Age player 2 | Language player 1   | Language player 2   | Same language   | Same nationality   | Same region   | Same subregion   |
+|--------|----------------|--------------------|----------------------|-----------------------|--------------------|----------------|----------------|---------------------|---------------------|-----------------|--------------------|---------------|------------------|
+|      1 | Ali Al Bulayhi | Mohammed Jahfali   | Al Hilal             |                 0.217 |            540.000 |         29.083 |         27.909 | Arabic              | Arabic              | True            | True               | True          | True             |
+|      2 | Ali Al Bulayhi | Mohammed Kanno     | Al Hilal             |                 0.208 |            634.000 |         29.083 |         24.273 | Arabic              | Arabic              | True            | True               | True          | True             |
+|      3 | Ali Al Bulayhi | Mohammed Al Burayk | Al Hilal             |                 0.200 |            630.000 |         29.083 |         26.266 | Arabic              | Arabic              | True            | True               | True          | True             |
+|      4 | Ji-Soo Park    | Huang Bowen        | Guangzhou Evergrande |                 0.190 |            465.000 |         24.472 |         31.312 | Korean              | Chinese             | False           | False              | True          | True             |
+|      5 | Mohammed Kanno | Yasir Al Shahrani  | Al Hilal             |                 0.186 |            634.000 |         24.273 |         26.197 | Arabic              | Arabic              | True            | True               | True          | True             |
 
 ## 2019 - Allsvenskan (Sweden) - male
-|   Rank | Player 1    | Player 2   | Team          |   Defensive chemistry |
-|--------|-------------|------------|---------------|-----------------------|
-|      1 | J. Berget   | E. Larsson | Malmö FF      |                 0.235 |
-|      2 | J. Berget   | O. Lewicki | Malmö FF      |                 0.218 |
-|      3 | P. Wilson   | J. Tamimi  | GIF Sundsvall |                 0.217 |
-|      4 | F. Bachirou | J. Berget  | Malmö FF      |                 0.203 |
-|      5 | E. Larsson  | B. Safari  | Malmö FF      |                 0.194 |
+|   Rank | Player 1    | Player 2   | Team          |   Defensive chemistry |   Minutes together |   Age player 1 |   Age player 2 | Language player 1   | Language player 2   | Same language   | Same nationality   | Same region   | Same subregion   |
+|--------|-------------|------------|---------------|-----------------------|--------------------|----------------|----------------|---------------------|---------------------|-----------------|--------------------|---------------|------------------|
+|      1 | J. Berget   | E. Larsson | Malmö FF      |                 0.235 |           1128.000 |         28.151 |         27.416 | Norwegian           | Swedish             | False           | False              | True          | True             |
+|      2 | J. Berget   | O. Lewicki | Malmö FF      |                 0.218 |           1225.000 |         28.151 |         26.417 | Norwegian           | Swedish             | False           | False              | True          | True             |
+|      3 | P. Wilson   | J. Tamimi  | GIF Sundsvall |                 0.217 |           1308.000 |         21.998 |         24.084 | Swedish             | Swedish             | True            | True               | True          | True             |
+|      4 | F. Bachirou | J. Berget  | Malmö FF      |                 0.203 |           1025.000 |         28.665 |         28.151 | French              | Norwegian           | False           | False              | True          | False            |
+|      5 | E. Larsson  | B. Safari  | Malmö FF      |                 0.194 |            925.000 |         27.416 |         33.842 | Swedish             | Persian (Farsi)     | False           | False              | False         | False            |
 
 ## 2019 - CONCACAF Champions League (N/C America) - male
-|   Rank | Player 1     | Player 2       | Team        |   Defensive chemistry |
-|--------|--------------|----------------|-------------|-----------------------|
-|      1 | H. Ayala     | Rafael Carioca | Tigres UANL |                 0.230 |
-|      2 | J. Gallardo  | M. Layún       | Monterrey   |                 0.219 |
-|      3 | C. Rodríguez | J. Gallardo    | Monterrey   |                 0.214 |
-|      4 | J. Dueñas    | H. Ayala       | Tigres UANL |                 0.202 |
-|      5 | C. Rodríguez | N. Sánchez     | Monterrey   |                 0.195 |
+|   Rank | Player 1     | Player 2       | Team        |   Defensive chemistry |   Minutes together |   Age player 1 |   Age player 2 | Language player 1   | Language player 2   | Same language   | Same nationality   | Same region   | Same subregion   |
+|--------|--------------|----------------|-------------|-----------------------|--------------------|----------------|----------------|---------------------|---------------------|-----------------|--------------------|---------------|------------------|
+|      1 | H. Ayala     | Rafael Carioca | Tigres UANL |                 0.230 |            511.000 |         31.677 |         29.459 | Spanish             | Portuguese          | False           | False              | True          | False            |
+|      2 | J. Gallardo  | M. Layún       | Monterrey   |                 0.219 |            613.000 |         24.318 |         30.477 | Spanish             | Spanish             | True            | True               | True          | True             |
+|      3 | C. Rodríguez | J. Gallardo    | Monterrey   |                 0.214 |            625.000 |         21.930 |         24.318 | Spanish             | Spanish             | True            | True               | True          | True             |
+|      4 | J. Dueñas    | H. Ayala       | Tigres UANL |                 0.202 |            521.000 |         29.716 |         31.677 | Spanish             | Spanish             | True            | True               | True          | True             |
+|      5 | C. Rodríguez | N. Sánchez     | Monterrey   |                 0.195 |            570.000 |         21.930 |         32.844 | Spanish             | Spanish             | True            | False              | True          | False            |
 
 ## 2019 - Copa Libertadores (South America) - male
-|   Rank | Player 1           | Player 2           | Team        |   Defensive chemistry |
-|--------|--------------------|--------------------|-------------|-----------------------|
-|      1 | G. Soto            | L. Jiménez         | Palestino   |                 0.206 |
-|      2 | L. Martínez Quarta | E. Pérez           | River Plate |                 0.182 |
-|      3 | N. De La Cruz      | L. Martínez Quarta | River Plate |                 0.173 |
-|      4 | G. Cuéllar         | Rodrigo Caio       | Flamengo    |                 0.171 |
-|      5 | G. Montiel         | N. De La Cruz      | River Plate |                 0.169 |
+|   Rank | Player 1           | Player 2           | Team        |   Defensive chemistry |   Minutes together |   Age player 1 |   Age player 2 | Language player 1   | Language player 2   | Same language   | Same nationality   | Same region   | Same subregion   |
+|--------|--------------------|--------------------|-------------|-----------------------|--------------------|----------------|----------------|---------------------|---------------------|-----------------|--------------------|---------------|------------------|
+|      1 | G. Soto            | L. Jiménez         | Palestino   |                 0.206 |            468.000 |         24.895 |         34.461 | Spanish             | Spanish             | True            | True               | True          | True             |
+|      2 | L. Martínez Quarta | E. Pérez           | River Plate |                 0.182 |            481.000 |         22.619 |         32.821 | Spanish             | Spanish             | True            | True               | True          | True             |
+|      3 | N. De La Cruz      | L. Martínez Quarta | River Plate |                 0.173 |            467.000 |         21.559 |         22.619 | Spanish             | Spanish             | True            | False              | True          | True             |
+|      4 | G. Cuéllar         | Rodrigo Caio       | Flamengo    |                 0.171 |            523.000 |         26.116 |         25.268 | Spanish             | Portuguese          | False           | False              | True          | True             |
+|      5 | G. Montiel         | N. De La Cruz      | River Plate |                 0.169 |            512.000 |         21.962 |         21.559 | Spanish             | Spanish             | True            | False              | True          | True             |
+
+## 2019 - Copa Sudamericana (South America) - male
+|   Rank | Player 1    | Player 2    | Team                 |   Defensive chemistry |   Minutes together |   Age player 1 |   Age player 2 | Language player 1   | Language player 2   | Same language   | Same nationality   | Same region   | Same subregion   |
+|--------|-------------|-------------|----------------------|-----------------------|--------------------|----------------|----------------|---------------------|---------------------|-----------------|--------------------|---------------|------------------|
+|      1 | A. Torralvo | W. Pacheco  | La Equidad           |                 0.336 |            480.000 |         24.852 |         23.841 | Spanish             | Spanish             | True            | True               | True          | True             |
+|      2 | D. Arboleda | A. Torralvo | La Equidad           |                 0.280 |            543.000 |         23.417 |         24.852 | Spanish             | Spanish             | True            | True               | True          | True             |
+|      3 | A. Torralvo | J. Riquett  | La Equidad           |                 0.262 |            543.000 |         24.852 |         28.529 | Spanish             | Spanish             | True            | True               | True          | True             |
+|      4 | G. Cortez   | A. López    | Universidad Católica |                 0.242 |            570.000 |         21.160 |         25.842 | Spanish             | Spanish             | True            | True               | True          | True             |
+|      5 | Réver       | Patric      | Atlético Mineiro     |                 0.214 |            570.000 |         33.881 |         29.662 | Portuguese          | Portuguese          | True            | True               | True          | True             |
 
 ## 2019 - Eliteserien (Norway) - male
-|   Rank | Player 1       | Player 2    | Team   |   Defensive chemistry |
-|--------|----------------|-------------|--------|-----------------------|
-|      1 | K. Haugen      | M. Bjørnbak | Molde  |                 0.207 |
-|      2 | K. Haugen      | E. Hestad   | Molde  |                 0.207 |
-|      3 | A. Jenssen     | L. Nilsen   | Tromsø |                 0.196 |
-|      4 | R. Kristiansen | T. Teniste  | Brann  |                 0.182 |
-|      5 | K. Haugen      | F. Aursnes  | Molde  |                 0.182 |
+|   Rank | Player 1       | Player 2    | Team   |   Defensive chemistry |   Minutes together |   Age player 1 |   Age player 2 | Language player 1   | Language player 2   | Same language   | Same nationality   | Same region   | Same subregion   |
+|--------|----------------|-------------|--------|-----------------------|--------------------|----------------|----------------|---------------------|---------------------|-----------------|--------------------|---------------|------------------|
+|      1 | K. Haugen      | M. Bjørnbak | Molde  |                 0.207 |           1409.000 |         24.758 |         26.677 | Norwegian           | Norwegian           | True            | True               | True          | True             |
+|      2 | K. Haugen      | E. Hestad   | Molde  |                 0.207 |           1438.000 |         24.758 |         23.416 | Norwegian           | Norwegian           | True            | True               | True          | True             |
+|      3 | A. Jenssen     | L. Nilsen   | Tromsø |                 0.196 |           1068.000 |         25.088 |         23.665 | Norwegian           | Norwegian           | True            | True               | True          | True             |
+|      4 | R. Kristiansen | T. Teniste  | Brann  |                 0.182 |           1930.000 |         30.762 |         30.817 | Norwegian           | Estonian            | False           | False              | True          | True             |
+|      5 | K. Haugen      | F. Aursnes  | Molde  |                 0.182 |           1790.000 |         24.758 |         22.959 | Norwegian           | Norwegian           | True            | True               | True          | True             |
 
 ## 2019 - MLS (United States) - male
-|   Rank | Player 1          | Player 2      | Team           |   Defensive chemistry |
-|--------|-------------------|---------------|----------------|-----------------------|
-|      1 | Auro              | Omar González | Toronto        |                 0.200 |
-|      2 | A. DeLaGarza      | M. Figueroa   | Houston Dynamo |                 0.196 |
-|      3 | A. DeLaGarza      | A. Lundqvist  | Houston Dynamo |                 0.195 |
-|      4 | C. Mavinga        | Omar González | Toronto        |                 0.192 |
-|      5 | L. González Pírez | J. Meram      | Atlanta United |                 0.189 |
+|   Rank | Player 1          | Player 2      | Team           |   Defensive chemistry |   Minutes together |   Age player 1 |   Age player 2 | Language player 1   | Language player 2   | Same language   | Same nationality   | Same region   | Same subregion   |
+|--------|-------------------|---------------|----------------|-----------------------|--------------------|----------------|----------------|---------------------|---------------------|-----------------|--------------------|---------------|------------------|
+|      1 | Auro              | Omar González | Toronto        |                 0.200 |           1110.000 |         22.746 |         30.122 | Portuguese          | English             | False           | False              | True          | False            |
+|      2 | A. DeLaGarza      | M. Figueroa   | Houston Dynamo |                 0.196 |           1451.000 |         30.984 |         35.502 | English             | Spanish             | False           | False              | True          | False            |
+|      3 | A. DeLaGarza      | A. Lundqvist  | Houston Dynamo |                 0.195 |           1636.000 |         30.984 |         24.610 | English             | Swedish             | False           | False              | False         | False            |
+|      4 | C. Mavinga        | Omar González | Toronto        |                 0.192 |           1091.000 |         27.428 |         30.122 | French              | English             | False           | False              | False         | False            |
+|      5 | L. González Pírez | J. Meram      | Atlanta United |                 0.189 |           1110.000 |         26.785 |         29.939 | Spanish             | English             | False           | False              | True          | False            |
 
 ## 2019 - Obos Ligaen (Norway) - male
-|   Rank | Player 1     | Player 2     | Team        |   Defensive chemistry |
-|--------|--------------|--------------|-------------|-----------------------|
-|      1 | F. Pålerud   | I. Mafi      | Kongsvinger |                 0.206 |
-|      2 | J. Jørgensen | D. Lowe      | Start       |                 0.201 |
-|      3 | H. Robstad   | K. Kabran    | Start       |                 0.185 |
-|      4 | I. Mafi      | E. Skagestad | Kongsvinger |                 0.181 |
-|      5 | H. Robstad   | K. Skaanes   | Start       |                 0.177 |
+|   Rank | Player 1     | Player 2     | Team        |   Defensive chemistry |   Minutes together |   Age player 1 |   Age player 2 | Language player 1   | Language player 2   | Same language   | Same nationality   | Same region   | Same subregion   |
+|--------|--------------|--------------|-------------|-----------------------|--------------------|----------------|----------------|---------------------|---------------------|-----------------|--------------------|---------------|------------------|
+|      1 | F. Pålerud   | I. Mafi      | Kongsvinger |                 0.206 |           1523.000 |         24.713 |         24.344 | Norwegian           | Norwegian           | True            | True               | True          | True             |
+|      2 | J. Jørgensen | D. Lowe      | Start       |                 0.201 |           1654.000 |         30.193 |         25.530 | Norwegian           | English             | False           | False              | False         | False            |
+|      3 | H. Robstad   | K. Kabran    | Start       |                 0.185 |            977.000 |         27.539 |         25.007 | Norwegian           | Swedish             | False           | False              | True          | True             |
+|      4 | I. Mafi      | E. Skagestad | Kongsvinger |                 0.181 |           1457.000 |         24.344 |         30.351 | Norwegian           | Norwegian           | True            | True               | True          | True             |
+|      5 | H. Robstad   | K. Skaanes   | Start       |                 0.177 |           2103.000 |         27.539 |         23.687 | Norwegian           | Norwegian           | True            | True               | True          | True             |
 
 ## 2019 - Premier League (Kazakhstan) - male
-|   Rank | Player 1        | Player 2        | Team    |   Defensive chemistry |
-|--------|-----------------|-----------------|---------|-----------------------|
-|      1 | K. Hovhannisyan | O. Kerimzhanov  | Zhetysu |                 0.214 |
-|      2 | N. Alip         | D. Mikanović    | Kairat  |                 0.197 |
-|      3 | K. Hovhannisyan | E. Kuantayev    | Zhetysu |                 0.183 |
-|      4 | D. Mawutor      | K. Hovhannisyan | Zhetysu |                 0.174 |
-|      5 | K. Hovhannisyan | M. Kuklys       | Zhetysu |                 0.171 |
+|   Rank | Player 1        | Player 2        | Team    |   Defensive chemistry |   Minutes together |   Age player 1 |   Age player 2 | Language player 1   | Language player 2   | Same language   | Same nationality   | Same region   | Same subregion   |
+|--------|-----------------|-----------------|---------|-----------------------|--------------------|----------------|----------------|---------------------|---------------------|-----------------|--------------------|---------------|------------------|
+|      1 | K. Hovhannisyan | O. Kerimzhanov  | Zhetysu |                 0.214 |           1050.000 |         26.101 |         29.491 | Armenian            | Kazakh              | False           | False              | True          | False            |
+|      2 | N. Alip         | D. Mikanović    | Kairat  |                 0.197 |           1474.000 |         18.925 |         24.615 | Kazakh              | Croatian            | False           | False              | False         | False            |
+|      3 | K. Hovhannisyan | E. Kuantayev    | Zhetysu |                 0.183 |           1331.000 |         26.101 |         28.023 | Armenian            | Kazakh              | False           | False              | True          | False            |
+|      4 | D. Mawutor      | K. Hovhannisyan | Zhetysu |                 0.174 |           1416.000 |         26.583 |         26.101 | English             | Armenian            | False           | False              | False         | False            |
+|      5 | K. Hovhannisyan | M. Kuklys       | Zhetysu |                 0.171 |           1093.000 |         26.101 |         31.383 | Armenian            | Lithuanian          | False           | False              | False         | False            |
 
 ## 2019 - Primera A (Colombia) - male
-|   Rank | Player 1    | Player 2   | Team            |   Defensive chemistry |
-|--------|-------------|------------|-----------------|-----------------------|
-|      1 | A. Balanta  | J. Angulo  | Deportivo Cali  |                 0.126 |
-|      2 | M. Quiñónes | G. Perea   | Deportivo Pasto |                 0.119 |
-|      3 | M. Quiñónes | D. Giraldo | Deportivo Pasto |                 0.118 |
-|      4 | M. Quiñónes | F. Viáfara | Deportivo Pasto |                 0.118 |
-|      5 | S. Guzmán   | L. Ochoa   | Once Caldas     |                 0.115 |
+|   Rank | Player 1    | Player 2   | Team            |   Defensive chemistry |   Minutes together |   Age player 1 |   Age player 2 | Language player 1   | Language player 2   | Same language   | Same nationality   | Same region   | Same subregion   |
+|--------|-------------|------------|-----------------|-----------------------|--------------------|----------------|----------------|---------------------|---------------------|-----------------|--------------------|---------------|------------------|
+|      1 | A. Balanta  | J. Angulo  | Deportivo Cali  |                 0.126 |            952.000 |         18.776 |         30.127 | Spanish             | Spanish             | True            | True               | True          | True             |
+|      2 | M. Quiñónes | G. Perea   | Deportivo Pasto |                 0.119 |           1346.000 |         22.563 |         27.266 | Spanish             | Spanish             | True            | True               | True          | True             |
+|      3 | M. Quiñónes | D. Giraldo | Deportivo Pasto |                 0.118 |           1368.000 |         22.563 |         26.333 | Spanish             | Spanish             | True            | True               | True          | True             |
+|      4 | M. Quiñónes | F. Viáfara | Deportivo Pasto |                 0.118 |           1467.000 |         22.563 |         26.119 | Spanish             | Spanish             | True            | True               | True          | True             |
+|      5 | S. Guzmán   | L. Ochoa   | Once Caldas     |                 0.115 |           1120.000 |            nan |         33.670 | Spanish             | Spanish             | True            | True               | True          | True             |
 
 ## 2019 - Primera B (Colombia) - male
-|   Rank | Player 1   | Player 2    | Team              |   Defensive chemistry |
-|--------|------------|-------------|-------------------|-----------------------|
-|      1 | R. Navarro | D. Cano     | Deportivo Pereira |                 0.130 |
-|      2 | J. Muñoz   | J. Martínez | Boyacá Chicó      |                 0.123 |
-|      3 | J. Molina  | D. Álvarez  | Deportivo Pereira |                 0.121 |
-|      4 | R. Tavera  | D. Cano     | Deportivo Pereira |                 0.121 |
-|      5 | R. Navarro | M. Casierra | Deportivo Pereira |                 0.113 |
+|   Rank | Player 1   | Player 2    | Team              |   Defensive chemistry |   Minutes together |   Age player 1 |   Age player 2 | Language player 1   | Language player 2   | Same language   | Same nationality   | Same region   | Same subregion   |
+|--------|------------|-------------|-------------------|-----------------------|--------------------|----------------|----------------|---------------------|---------------------|-----------------|--------------------|---------------|------------------|
+|      1 | R. Navarro | D. Cano     | Deportivo Pereira |                 0.130 |           1105.000 |         29.705 |         31.636 | Spanish             | Spanish             | True            | True               | True          | True             |
+|      2 | J. Muñoz   | J. Martínez | Boyacá Chicó      |                 0.123 |            949.000 |         30.289 |         30.957 | Spanish             | Spanish             | True            | True               | True          | True             |
+|      3 | J. Molina  | D. Álvarez  | Deportivo Pereira |                 0.121 |           1744.000 |         25.369 |         37.133 | Spanish             | Spanish             | True            | True               | True          | True             |
+|      4 | R. Tavera  | D. Cano     | Deportivo Pereira |                 0.121 |           1446.000 |         23.280 |         31.636 | Spanish             | Spanish             | True            | True               | True          | True             |
+|      5 | R. Navarro | M. Casierra | Deportivo Pereira |                 0.113 |           1213.000 |         29.705 |         32.909 | Spanish             | Spanish             | True            | True               | True          | True             |
 
 ## 2019 - Serie A (Brazil) - male
-|   Rank | Player 1      | Player 2       | Team      |   Defensive chemistry |
-|--------|---------------|----------------|-----------|-----------------------|
-|      1 | Marcos Rocha  | Luan           | Palmeiras |                 0.219 |
-|      2 | Luan          | Bruno Henrique | Palmeiras |                 0.187 |
-|      3 | Marcos Rocha  | Diogo Barbosa  | Palmeiras |                 0.185 |
-|      4 | Diogo Barbosa | Luan           | Palmeiras |                 0.184 |
-|      5 | Felipe Melo   | Luan           | Palmeiras |                 0.178 |
+|   Rank | Player 1      | Player 2       | Team      |   Defensive chemistry |   Minutes together |   Age player 1 |   Age player 2 | Language player 1   | Language player 2   | Same language   | Same nationality   | Same region   | Same subregion   |
+|--------|---------------|----------------|-----------|-----------------------|--------------------|----------------|----------------|---------------------|---------------------|-----------------|--------------------|---------------|------------------|
+|      1 | Marcos Rocha  | Luan           | Palmeiras |                 0.219 |           1241.000 |         30.505 |         26.042 | Portuguese          | Portuguese          | True            | True               | True          | True             |
+|      2 | Luan          | Bruno Henrique | Palmeiras |                 0.187 |           1330.000 |         26.042 |         29.646 | Portuguese          | Portuguese          | True            | True               | True          | True             |
+|      3 | Marcos Rocha  | Diogo Barbosa  | Palmeiras |                 0.185 |           2316.000 |         30.505 |         26.823 | Portuguese          | Portuguese          | True            | True               | True          | True             |
+|      4 | Diogo Barbosa | Luan           | Palmeiras |                 0.184 |           1355.000 |         26.823 |         26.042 | Portuguese          | Portuguese          | True            | True               | True          | True             |
+|      5 | Felipe Melo   | Luan           | Palmeiras |                 0.178 |            919.000 |         35.967 |         26.042 | Portuguese          | Portuguese          | True            | True               | True          | True             |
 
 ## 2019 - Serie B (Brazil) - male
-|   Rank | Player 1      | Player 2       | Team         |   Defensive chemistry |
-|--------|---------------|----------------|--------------|-----------------------|
-|      1 | Pablo         | Pará           | Botafogo SP  |                 0.181 |
-|      2 | Pará          | Didi           | Botafogo SP  |                 0.166 |
-|      3 | Lucas Crispim | Thallyson      | Guarani      |                 0.165 |
-|      4 | Norberto      | Willian Farias | Sport Recife |                 0.163 |
-|      5 | Marquinhos    | Diego Renan    | Ponte Preta  |                 0.159 |
+|   Rank | Player 1      | Player 2       | Team         |   Defensive chemistry |   Minutes together |   Age player 1 |   Age player 2 | Language player 1   | Language player 2   | Same language   | Same nationality   | Same region   | Same subregion   |
+|--------|---------------|----------------|--------------|-----------------------|--------------------|----------------|----------------|---------------------|---------------------|-----------------|--------------------|---------------|------------------|
+|      1 | Pablo         | Pará           | Botafogo SP  |                 0.181 |           1075.000 |         23.825 |         23.803 | Portuguese          | Portuguese          | True            | True               | True          | True             |
+|      2 | Pará          | Didi           | Botafogo SP  |                 0.166 |           1065.000 |         23.803 |         26.762 | Portuguese          | Portuguese          | True            | True               | True          | True             |
+|      3 | Lucas Crispim | Thallyson      | Guarani      |                 0.165 |            965.000 |         24.671 |         27.424 | Portuguese          | Portuguese          | True            | True               | True          | True             |
+|      4 | Norberto      | Willian Farias | Sport Recife |                 0.163 |            937.000 |         28.898 |         29.875 | Portuguese          | Portuguese          | True            | True               | True          | True             |
+|      5 | Marquinhos    | Diego Renan    | Ponte Preta  |                 0.159 |            963.000 |            nan |         29.372 | Portuguese          | Portuguese          | True            | True               | True          | True             |
 
 ## 2019 - Veikkausliiga (Finland) - male
-|   Rank | Player 1    | Player 2    | Team   |   Defensive chemistry |
-|--------|-------------|-------------|--------|-----------------------|
-|      1 | T. Jyry     | L. Murillo  | KuPS   |                 0.204 |
-|      2 | H. Sesay    | R. Selander | HIFK   |                 0.193 |
-|      3 | T. Jyry     | V. Soldo    | KuPS   |                 0.191 |
-|      4 | V. Soldo    | L. Murillo  | KuPS   |                 0.169 |
-|      5 | M. Sumusalo | K. Rasimus  | Honka  |                 0.161 |
+|   Rank | Player 1    | Player 2    | Team   |   Defensive chemistry |   Minutes together |   Age player 1 |   Age player 2 | Language player 1   | Language player 2   | Same language   | Same nationality   | Same region   | Same subregion   |
+|--------|-------------|-------------|--------|-----------------------|--------------------|----------------|----------------|---------------------|---------------------|-----------------|--------------------|---------------|------------------|
+|      1 | T. Jyry     | L. Murillo  | KuPS   |                 0.204 |           1050.000 |         19.860 |         28.703 | Finnish             | Spanish             | False           | False              | False         | False            |
+|      2 | H. Sesay    | R. Selander | HIFK   |                 0.193 |           1271.000 |         31.657 |         24.571 | English             | Finnish             | False           | False              | False         | False            |
+|      3 | T. Jyry     | V. Soldo    | KuPS   |                 0.191 |            910.000 |         19.860 |         21.357 | Finnish             | Croatian            | False           | False              | True          | False            |
+|      4 | V. Soldo    | L. Murillo  | KuPS   |                 0.169 |           1322.000 |         21.357 |         28.703 | Croatian            | Spanish             | False           | False              | False         | False            |
+|      5 | M. Sumusalo | K. Rasimus  | Honka  |                 0.161 |           1054.000 |         29.272 |         29.357 | Finnish             | Finnish             | True            | True               | True          | True             |
 
 ## 2018/2019 - 1. Division (Cyprus) - male
-|   Rank | Player 1      | Player 2   | Team        |   Defensive chemistry |
-|--------|---------------|------------|-------------|-----------------------|
-|      1 | M. Širok      | Jander     | Paphos      |                 0.187 |
-|      2 | Léo Natel     | P. Vouros  | APOEL       |                 0.164 |
-|      3 | Andraž Struna | D. Pranjić | Anorthosis  |                 0.157 |
-|      4 | Truyols       | Acorán     | AEK Larnaca |                 0.155 |
-|      5 | A. Makris     | C. Wheeler | AEL         |                 0.153 |
+|   Rank | Player 1      | Player 2   | Team        |   Defensive chemistry |   Minutes together |   Age player 1 |   Age player 2 | Language player 1   | Language player 2   | Same language   | Same nationality   | Same region   | Same subregion   |
+|--------|---------------|------------|-------------|-----------------------|--------------------|----------------|----------------|---------------------|---------------------|-----------------|--------------------|---------------|------------------|
+|      1 | M. Širok      | Jander     | Paphos      |                 0.187 |           1199.000 |         26.992 |         29.809 | Slovene             | Portuguese          | False           | False              | False         | False            |
+|      2 | Léo Natel     | P. Vouros  | APOEL       |                 0.164 |           1488.000 |         21.095 |         22.975 | Portuguese          | Greek (modern)      | False           | False              | False         | False            |
+|      3 | Andraž Struna | D. Pranjić | Anorthosis  |                 0.157 |           1495.000 |         29.053 |         36.443 | Slovene             | Croatian            | False           | False              | True          | True             |
+|      4 | Truyols       | Acorán     | AEK Larnaca |                 0.155 |           1144.000 |         28.454 |         35.290 | Spanish             | Spanish             | True            | True               | True          | True             |
+|      5 | A. Makris     | C. Wheeler | AEL         |                 0.153 |           1152.000 |         22.411 |         20.793 | Greek (modern)      | Greek (modern)      | True            | True               | True          | True             |
 
 ## 2018/2019 - 1. HNL (Croatia) - male
-|   Rank | Player 1   | Player 2      | Team              |   Defensive chemistry |
-|--------|------------|---------------|-------------------|-----------------------|
-|      1 | I. Šunjić  | E. Dilaver    | Dinamo Zagreb     |                 0.212 |
-|      2 | A. Gojak   | P. Stojanović | Dinamo Zagreb     |                 0.192 |
-|      3 | R. Punčec  | Z. Kvržić     | Rijeka            |                 0.187 |
-|      4 | F. Karačić | T. Datković   | Lokomotiva Zagreb |                 0.179 |
-|      5 | A. Gojak   | E. Dilaver    | Dinamo Zagreb     |                 0.174 |
+|   Rank | Player 1   | Player 2      | Team              |   Defensive chemistry |   Minutes together |   Age player 1 |   Age player 2 | Language player 1   | Language player 2   | Same language   | Same nationality   | Same region   | Same subregion   |
+|--------|------------|---------------|-------------------|-----------------------|--------------------|----------------|----------------|---------------------|---------------------|-----------------|--------------------|---------------|------------------|
+|      1 | I. Šunjić  | E. Dilaver    | Dinamo Zagreb     |                 0.212 |           1006.000 |         21.607 |         27.009 | Bosnian             | Bosnian             | True            | True               | True          | True             |
+|      2 | A. Gojak   | P. Stojanović | Dinamo Zagreb     |                 0.192 |           1044.000 |         21.272 |         22.628 | Bosnian             | Slovene             | False           | False              | True          | True             |
+|      3 | R. Punčec  | Z. Kvržić     | Rijeka            |                 0.187 |            948.000 |         26.562 |         29.782 | Croatian            | Bosnian             | False           | False              | True          | True             |
+|      4 | F. Karačić | T. Datković   | Lokomotiva Zagreb |                 0.179 |           1882.000 |         22.017 |         24.531 | Croatian            | Croatian            | True            | True               | True          | True             |
+|      5 | A. Gojak   | E. Dilaver    | Dinamo Zagreb     |                 0.174 |            922.000 |         21.272 |         27.009 | Bosnian             | Bosnian             | True            | True               | True          | True             |
 
 ## 2018/2019 - 1. Lig (Turkey) - male
-|   Rank | Player 1    | Player 2     | Team         |   Defensive chemistry |
-|--------|-------------|--------------|--------------|-----------------------|
-|      1 | Y. Kılınç   | R. Şimşek    | Gaziantep BB |                 0.243 |
-|      2 | Y. Palaz    | Ö. Özkaya    | Altay        |                 0.200 |
-|      3 | R. Şimşek   | Y. Del Valle | Gaziantep BB |                 0.195 |
-|      4 | O. Ceylan   | K. Avcı      | Gaziantep BB |                 0.188 |
-|      5 | O. Çağlayan | O. Ceylan    | Gaziantep BB |                 0.186 |
+|   Rank | Player 1    | Player 2     | Team         |   Defensive chemistry |   Minutes together |   Age player 1 |   Age player 2 | Language player 1   | Language player 2   | Same language   | Same nationality   | Same region   | Same subregion   |
+|--------|-------------|--------------|--------------|-----------------------|--------------------|----------------|----------------|---------------------|---------------------|-----------------|--------------------|---------------|------------------|
+|      1 | Y. Kılınç   | R. Şimşek    | Gaziantep BB |                 0.243 |           1530.000 |         29.499 |         26.907 | Turkish             | Turkish             | True            | True               | True          | True             |
+|      2 | Y. Palaz    | Ö. Özkaya    | Altay        |                 0.200 |           1850.000 |         29.911 |         30.239 | Turkish             | Turkish             | True            | True               | True          | True             |
+|      3 | R. Şimşek   | Y. Del Valle | Gaziantep BB |                 0.195 |           1009.000 |         26.907 |         27.978 | Turkish             | Spanish             | False           | False              | False         | False            |
+|      4 | O. Ceylan   | K. Avcı      | Gaziantep BB |                 0.188 |            931.000 |         27.416 |         28.385 | Turkish             | German              | False           | False              | False         | False            |
+|      5 | O. Çağlayan | O. Ceylan    | Gaziantep BB |                 0.186 |           1009.000 |         22.121 |         27.416 | Turkish             | Turkish             | True            | True               | True          | True             |
 
 ## 2018/2019 - 1. SNL (Slovenia) - male
-|   Rank | Player 1      | Player 2      | Team     |   Defensive chemistry |
-|--------|---------------|---------------|----------|-----------------------|
-|      1 | M. Rom        | G. Sikošek    | Domžale  |                 0.128 |
-|      2 | M. Rom        | M. Podlogar   | Domžale  |                 0.123 |
-|      3 | M. Bagnack    | V. Maksimenko | Olimpija |                 0.108 |
-|      4 | J. Matjašič   | I. Kontek     | Aluminij |                 0.105 |
-|      5 | V. Maksimenko | D. Štiglec    | Olimpija |                 0.103 |
+|   Rank | Player 1      | Player 2      | Team     |   Defensive chemistry |   Minutes together |   Age player 1 |   Age player 2 | Language player 1   | Language player 2   | Same language   | Same nationality   | Same region   | Same subregion   |
+|--------|---------------|---------------|----------|-----------------------|--------------------|----------------|----------------|---------------------|---------------------|-----------------|--------------------|---------------|------------------|
+|      1 | M. Rom        | G. Sikošek    | Domžale  |                 0.128 |           1474.000 |         19.558 |         24.150 | Slovene             | Slovene             | True            | True               | True          | True             |
+|      2 | M. Rom        | M. Podlogar   | Domžale  |                 0.123 |            961.000 |         19.558 |         27.274 | Slovene             | Slovene             | True            | True               | True          | True             |
+|      3 | M. Bagnack    | V. Maksimenko | Olimpija |                 0.108 |           1691.000 |         22.663 |         27.446 | English             | Latvian             | False           | False              | False         | False            |
+|      4 | J. Matjašič   | I. Kontek     | Aluminij |                 0.105 |           1110.000 |         26.065 |         21.302 | Slovene             | Croatian            | False           | False              | True          | True             |
+|      5 | V. Maksimenko | D. Štiglec    | Olimpija |                 0.103 |           1383.000 |         27.446 |         27.657 | Latvian             | Croatian            | False           | False              | True          | False            |
 
 ## 2018/2019 - 1st Division (Denmark) - male
-|   Rank | Player 1           | Player 2   | Team         |   Defensive chemistry |
-|--------|--------------------|------------|--------------|-----------------------|
-|      1 | J. O. Christiansen | A. Moos    | Næstved      |                 0.164 |
-|      2 | S. Jakobsen        | F. Møller  | Silkeborg    |                 0.152 |
-|      3 | N. Mouritsen       | M. Ørnskov | Lyngby       |                 0.151 |
-|      4 | C. Lange           | F. Bay     | FC Helsingør |                 0.150 |
-|      5 | J. Henriksen       | Matheus    | FC Helsingør |                 0.149 |
+|   Rank | Player 1           | Player 2   | Team         |   Defensive chemistry |   Minutes together |   Age player 1 |   Age player 2 | Language player 1   | Language player 2   | Same language   | Same nationality   | Same region   | Same subregion   |
+|--------|--------------------|------------|--------------|-----------------------|--------------------|----------------|----------------|---------------------|---------------------|-----------------|--------------------|---------------|------------------|
+|      1 | J. O. Christiansen | A. Moos    | Næstved      |                 0.164 |           2115.000 |         25.948 |         27.364 | Danish              | Danish              | True            | True               | True          | True             |
+|      2 | S. Jakobsen        | F. Møller  | Silkeborg    |                 0.152 |            947.000 |         27.479 |         24.426 | Danish              | Danish              | True            | True               | True          | True             |
+|      3 | N. Mouritsen       | M. Ørnskov | Lyngby       |                 0.151 |           1962.000 |         23.142 |         32.552 | Danish              | Danish              | True            | True               | True          | True             |
+|      4 | C. Lange           | F. Bay     | FC Helsingør |                 0.150 |           1174.000 |            nan |         20.733 | Danish              | Danish              | True            | True               | True          | True             |
+|      5 | J. Henriksen       | Matheus    | FC Helsingør |                 0.149 |           1699.000 |         26.649 |         23.236 | Danish              | Portuguese          | False           | False              | False         | False            |
 
 ## 2018/2019 - 2. Bundesliga (Germany) - male
-|   Rank | Player 1     | Player 2      | Team           |   Defensive chemistry |
-|--------|--------------|---------------|----------------|-----------------------|
-|      1 | L. Wahlqvist | H. Duljević   | Dynamo Dresden |                 0.242 |
-|      2 | D. Burnić    | L. Wahlqvist  | Dynamo Dresden |                 0.230 |
-|      3 | L. Wahlqvist | B. Hamalainen | Dynamo Dresden |                 0.222 |
-|      4 | B. Paulsen   | Paulo Otávio  | Ingolstadt     |                 0.213 |
-|      5 | B. Paulsen   | M. Mavraj     | Ingolstadt     |                 0.186 |
+|   Rank | Player 1     | Player 2      | Team           |   Defensive chemistry |   Minutes together |   Age player 1 |   Age player 2 | Language player 1   | Language player 2   | Same language   | Same nationality   | Same region   | Same subregion   |
+|--------|--------------|---------------|----------------|-----------------------|--------------------|----------------|----------------|---------------------|---------------------|-----------------|--------------------|---------------|------------------|
+|      1 | L. Wahlqvist | H. Duljević   | Dynamo Dresden |                 0.242 |           1195.000 |         21.571 |         24.489 | Swedish             | Bosnian             | False           | False              | True          | False            |
+|      2 | D. Burnić    | L. Wahlqvist  | Dynamo Dresden |                 0.230 |           1029.000 |         19.804 |         21.571 | German              | Swedish             | False           | False              | True          | False            |
+|      3 | L. Wahlqvist | B. Hamalainen | Dynamo Dresden |                 0.222 |           1164.000 |         21.571 |         28.985 | Swedish             | Danish              | False           | False              | True          | True             |
+|      4 | B. Paulsen   | Paulo Otávio  | Ingolstadt     |                 0.213 |           1286.000 |         26.904 |         23.257 | Danish              | Portuguese          | False           | False              | False         | False            |
+|      5 | B. Paulsen   | M. Mavraj     | Ingolstadt     |                 0.186 |           1061.000 |         26.904 |         31.695 | Danish              | German              | False           | False              | True          | False            |
 
 ## 2018/2019 - 2. Liga (Austria) - male
-|   Rank | Player 1   | Player 2   | Team    |   Defensive chemistry |
-|--------|------------|------------|---------|-----------------------|
-|      1 | J. Handl   | M. Köfler  | Lafnitz |                 0.196 |
-|      2 | L. Katnik  | A. Dober   | Wattens |                 0.188 |
-|      3 | L. Grgić   | M. Ziegl   | Ried    |                 0.171 |
-|      4 | C. Reiner  | M. Kerhe   | Ried    |                 0.171 |
-|      5 | M. Kerhe   | M. Ziegl   | Ried    |                 0.171 |
+|   Rank | Player 1   | Player 2   | Team    |   Defensive chemistry |   Minutes together |   Age player 1 |   Age player 2 | Language player 1   | Language player 2   | Same language   | Same nationality   | Same region   | Same subregion   |
+|--------|------------|------------|---------|-----------------------|--------------------|----------------|----------------|---------------------|---------------------|-----------------|--------------------|---------------|------------------|
+|      1 | J. Handl   | M. Köfler  | Lafnitz |                 0.196 |           1096.000 |         20.013 |         27.490 | German              | German              | True            | True               | True          | True             |
+|      2 | L. Katnik  | A. Dober   | Wattens |                 0.188 |           1054.000 |         28.818 |         31.980 | German              | German              | True            | True               | True          | True             |
+|      3 | L. Grgić   | M. Ziegl   | Ried    |                 0.171 |           1049.000 |         22.773 |         25.429 | German              | German              | True            | True               | True          | True             |
+|      4 | C. Reiner  | M. Kerhe   | Ried    |                 0.171 |           1064.000 |         20.815 |         30.978 | German              | German              | True            | True               | True          | True             |
+|      5 | M. Kerhe   | M. Ziegl   | Ried    |                 0.171 |           1019.000 |         30.978 |         25.429 | German              | German              | True            | True               | True          | True             |
 
 ## 2018/2019 - 3. Liga (Germany) - male
-|   Rank | Player 1    | Player 2    | Team                   |   Defensive chemistry |
-|--------|-------------|-------------|------------------------|-----------------------|
-|      1 | N. Neidhart | A. Langlitz | Sportfreunde Lotte     |                 0.230 |
-|      2 | S. Nkansah  | B. Kessel   | Eintracht Braunschweig |                 0.199 |
-|      3 | S. Nkansah  | M. Pfitzner | Eintracht Braunschweig |                 0.197 |
-|      4 | N. Kijewski | B. Kessel   | Eintracht Braunschweig |                 0.196 |
-|      5 | R. Becker   | M. Pfitzner | Eintracht Braunschweig |                 0.193 |
+|   Rank | Player 1    | Player 2    | Team                   |   Defensive chemistry |   Minutes together |   Age player 1 |   Age player 2 | Language player 1   | Language player 2   | Same language   | Same nationality   | Same region   | Same subregion   |
+|--------|-------------|-------------|------------------------|-----------------------|--------------------|----------------|----------------|---------------------|---------------------|-----------------|--------------------|---------------|------------------|
+|      1 | N. Neidhart | A. Langlitz | Sportfreunde Lotte     |                 0.230 |           1092.000 |         23.624 |         27.199 | German              | Kazakh              | False           | False              | False         | False            |
+|      2 | S. Nkansah  | B. Kessel   | Eintracht Braunschweig |                 0.199 |           1196.000 |         22.039 |         30.617 | German              | German              | True            | True               | True          | True             |
+|      3 | S. Nkansah  | M. Pfitzner | Eintracht Braunschweig |                 0.197 |           1293.000 |         22.039 |         33.686 | German              | German              | True            | True               | True          | True             |
+|      4 | N. Kijewski | B. Kessel   | Eintracht Braunschweig |                 0.196 |           1491.000 |         22.126 |         30.617 | German              | German              | True            | True               | True          | True             |
+|      5 | R. Becker   | M. Pfitzner | Eintracht Braunschweig |                 0.193 |           1232.000 |         21.297 |         33.686 | German              | German              | True            | True               | True          | True             |
 
 ## 2018/2019 - A-League (Australia) - male
-|   Rank | Player 1    | Player 2   | Team            |   Defensive chemistry |
-|--------|-------------|------------|-----------------|-----------------------|
-|      1 | R. Kitto    | M. Marrone | Adelaide United |                 0.191 |
-|      2 | M. Jakobsen | R. Kitto   | Adelaide United |                 0.186 |
-|      3 | S. Galloway | R. Kitto   | Adelaide United |                 0.159 |
-|      4 | M. Marrone  | M. Boland  | Adelaide United |                 0.158 |
-|      5 | M. Jakobsen | M. Boland  | Adelaide United |                 0.145 |
+|   Rank | Player 1    | Player 2   | Team            |   Defensive chemistry |   Minutes together |   Age player 1 |   Age player 2 | Language player 1   | Language player 2   | Same language   | Same nationality   | Same region   | Same subregion   |
+|--------|-------------|------------|-----------------|-----------------------|--------------------|----------------|----------------|---------------------|---------------------|-----------------|--------------------|---------------|------------------|
+|      1 | R. Kitto    | M. Marrone | Adelaide United |                 0.191 |           1113.000 |         24.393 |         31.914 | English             | English             | True            | True               | True          | True             |
+|      2 | M. Jakobsen | R. Kitto   | Adelaide United |                 0.186 |           1189.000 |         32.992 |         24.393 | Danish              | English             | False           | False              | False         | False            |
+|      3 | S. Galloway | R. Kitto   | Adelaide United |                 0.159 |           1312.000 |         23.683 |         24.393 | English             | English             | True            | True               | True          | True             |
+|      4 | M. Marrone  | M. Boland  | Adelaide United |                 0.158 |            979.000 |         31.914 |         31.555 | English             | German              | False           | False              | False         | False            |
+|      5 | M. Jakobsen | M. Boland  | Adelaide United |                 0.145 |           1147.000 |         32.992 |         31.555 | Danish              | German              | False           | False              | True          | False            |
 
 ## 2018/2019 - Ascenso MX (Mexico) - male
-|   Rank | Player 1    | Player 2     | Team                |   Defensive chemistry |
-|--------|-------------|--------------|---------------------|-----------------------|
-|      1 | D. Barbosa  | F. Elizari   | Dorados             |                 0.257 |
-|      2 | D. Barbosa  | J. Nava      | Dorados             |                 0.225 |
-|      3 | E. Borelli  | R. Chávez    | Juárez              |                 0.222 |
-|      4 | Cadete      | M. Catalán   | Atlético San Luis   |                 0.213 |
-|      5 | E. Alaffita | D. Cervantes | Alebrijes de Oaxaca |                 0.206 |
+|   Rank | Player 1    | Player 2     | Team                |   Defensive chemistry |   Minutes together |   Age player 1 |   Age player 2 | Language player 1   | Language player 2   | Same language   | Same nationality   | Same region   | Same subregion   |
+|--------|-------------|--------------|---------------------|-----------------------|--------------------|----------------|----------------|---------------------|---------------------|-----------------|--------------------|---------------|------------------|
+|      1 | D. Barbosa  | F. Elizari   | Dorados             |                 0.257 |           1328.000 |         20.353 |         27.227 | Spanish             | Spanish             | True            | False              | True          | False            |
+|      2 | D. Barbosa  | J. Nava      | Dorados             |                 0.225 |           1945.000 |         20.353 |         28.313 | Spanish             | Spanish             | True            | True               | True          | True             |
+|      3 | E. Borelli  | R. Chávez    | Juárez              |                 0.222 |            925.000 |         27.349 |         23.363 | Spanish             | Spanish             | True            | True               | True          | True             |
+|      4 | Cadete      | M. Catalán   | Atlético San Luis   |                 0.213 |           3613.000 |         23.887 |         25.618 | Spanish             | Spanish             | True            | False              | False         | False            |
+|      5 | E. Alaffita | D. Cervantes | Alebrijes de Oaxaca |                 0.206 |           1053.000 |         21.566 |         27.699 | Spanish             | Spanish             | True            | True               | True          | True             |
 
 ## 2018/2019 - Bundesliga (Austria) - male
-|   Rank | Player 1        | Player 2         | Team         |   Defensive chemistry |
-|--------|-----------------|------------------|--------------|-----------------------|
-|      1 | A. Gruber       | L. Rath          | Mattersburg  |                 0.180 |
-|      2 | L. Meisl        | M. Haas          | St. Pölten   |                 0.174 |
-|      3 | Kwang-Ryong Pak | M. Haas          | St. Pölten   |                 0.160 |
-|      4 | T. Ebner        | C. Schoissengeyr | Austria Wien |                 0.143 |
-|      5 | D. Prokop       | F. Klein         | Austria Wien |                 0.138 |
+|   Rank | Player 1        | Player 2         | Team         |   Defensive chemistry |   Minutes together |   Age player 1 |   Age player 2 | Language player 1   | Language player 2   | Same language   | Same nationality   | Same region   | Same subregion   |
+|--------|-----------------|------------------|--------------|-----------------------|--------------------|----------------|----------------|---------------------|---------------------|-----------------|--------------------|---------------|------------------|
+|      1 | A. Gruber       | L. Rath          | Mattersburg  |                 0.180 |           1205.000 |         22.912 |         26.296 | German              | German              | True            | True               | True          | True             |
+|      2 | L. Meisl        | M. Haas          | St. Pölten   |                 0.174 |           1252.000 |         19.233 |         22.050 | German              | German              | True            | True               | True          | True             |
+|      3 | Kwang-Ryong Pak | M. Haas          | St. Pölten   |                 0.160 |            995.000 |         25.664 |         22.050 | Korean              | German              | False           | False              | False         | False            |
+|      4 | T. Ebner        | C. Schoissengeyr | Austria Wien |                 0.143 |           1014.000 |         26.261 |         23.566 | German              | Spanish             | False           | False              | False         | False            |
+|      5 | D. Prokop       | F. Klein         | Austria Wien |                 0.138 |           1461.000 |         20.985 |         31.526 | German              | German              | True            | True               | True          | True             |
 
 ## 2018/2019 - Bundesliga (Germany) - male
-|   Rank | Player 1      | Player 2       | Team          |   Defensive chemistry |
-|--------|---------------|----------------|---------------|-----------------------|
-|      1 | N. Mukiele    | M. Halstenberg | RB Leipzig    |                 0.228 |
-|      2 | C. Günter     | L. Kübler      | Freiburg      |                 0.206 |
-|      3 | M. Veljković  | N. Moisander   | Werder Bremen |                 0.185 |
-|      4 | M. Veljković  | N. Şahin       | Werder Bremen |                 0.175 |
-|      5 | J. Gouweleeuw | M. Hinteregger | Augsburg      |                 0.174 |
+|   Rank | Player 1      | Player 2       | Team          |   Defensive chemistry |   Minutes together |   Age player 1 |   Age player 2 | Language player 1   | Language player 2   | Same language   | Same nationality   | Same region   | Same subregion   |
+|--------|---------------|----------------|---------------|-----------------------|--------------------|----------------|----------------|---------------------|---------------------|-----------------|--------------------|---------------|------------------|
+|      1 | N. Mukiele    | M. Halstenberg | RB Leipzig    |                 0.228 |            917.000 |         20.487 |         26.225 | French              | German              | False           | False              | True          | True             |
+|      2 | C. Günter     | L. Kübler      | Freiburg      |                 0.206 |           1015.000 |         25.201 |         25.699 | German              | German              | True            | True               | True          | True             |
+|      3 | M. Veljković  | N. Moisander   | Werder Bremen |                 0.185 |           1633.000 |         22.754 |         32.560 | German              | Finnish             | False           | False              | True          | False            |
+|      4 | M. Veljković  | N. Şahin       | Werder Bremen |                 0.175 |            964.000 |         22.754 |         29.683 | German              | German              | True            | False              | True          | True             |
+|      5 | J. Gouweleeuw | M. Hinteregger | Augsburg      |                 0.174 |           1350.000 |         26.841 |         25.677 | Dutch               | German              | False           | False              | True          | True             |
 
 ## 2018/2019 - CAF Champions League (Africa) - male
-|   Rank | Player 1    | Player 2    | Team              |   Defensive chemistry |
-|--------|-------------|-------------|-------------------|-----------------------|
-|      1 | A. Dari     | A. Noussir  | Wydad Casablanca  |                 0.134 |
-|      2 | W. El Karti | A. Noussir  | Wydad Casablanca  |                 0.071 |
-|      3 | A. Dari     | W. El Karti | Wydad Casablanca  |                 0.059 |
-|      4 | L. Maboe    | H. Kekana   | Mamelodi Sundowns |                 0.012 |
-|      5 | T. Morena   | H. Kekana   | Mamelodi Sundowns |                 0.011 |
+|   Rank | Player 1   | Player 2     | Team             |   Defensive chemistry |   Minutes together |   Age player 1 |   Age player 2 | Language player 1   | Language player 2   | Same language   | Same nationality   | Same region   | Same subregion   |
+|--------|------------|--------------|------------------|-----------------------|--------------------|----------------|----------------|---------------------|---------------------|-----------------|--------------------|---------------|------------------|
+|      1 | M. Nahiri  | A. Noussir   | Wydad Casablanca |                 0.135 |            810.000 |         26.918 |         28.586 | Arabic              | Arabic              | True            | True               | True          | True             |
+|      2 | A. Dari    | A. Noussir   | Wydad Casablanca |                 0.134 |            990.000 |         20.052 |         28.586 | Arabic              | Arabic              | True            | True               | True          | True             |
+|      3 | M. Nahiri  | M. Ounnajem  | Wydad Casablanca |                 0.133 |            707.000 |         26.918 |         26.716 | Arabic              | Arabic              | True            | True               | True          | True             |
+|      4 | N. Zaâlani | I. Belkacemi | CS Constantine   |                 0.131 |            515.000 |         26.318 |         25.407 | Arabic              | Arabic              | True            | True               | True          | True             |
+|      5 | A. Dari    | M. Nahiri    | Wydad Casablanca |                 0.129 |            810.000 |         20.052 |         26.918 | Arabic              | Arabic              | True            | True               | True          | True             |
 
 ## 2018/2019 - Challenge League (Switzerland) - male
-|   Rank | Player 1     | Player 2   | Team           |   Defensive chemistry |
-|--------|--------------|------------|----------------|-----------------------|
-|      1 | N. Loosli    | Cabral     | Lausanne Sport |                 0.165 |
-|      2 | N. Loosli    | N. Gétaz   | Lausanne Sport |                 0.155 |
-|      3 | R. Giger     | L. Obexer  | Aarau          |                 0.154 |
-|      4 | I. N'Ganga   | Cabral     | Lausanne Sport |                 0.146 |
-|      5 | J. Geissmann | P. Flo     | Lausanne Sport |                 0.143 |
+|   Rank | Player 1     | Player 2   | Team           |   Defensive chemistry |   Minutes together |   Age player 1 |   Age player 2 | Language player 1   | Language player 2   | Same language   | Same nationality   | Same region   | Same subregion   |
+|--------|--------------|------------|----------------|-----------------------|--------------------|----------------|----------------|---------------------|---------------------|-----------------|--------------------|---------------|------------------|
+|      1 | N. Loosli    | Cabral     | Lausanne Sport |                 0.165 |           1067.000 |         21.319 |         29.574 | German              | Portuguese          | False           | False              | False         | False            |
+|      2 | N. Loosli    | N. Gétaz   | Lausanne Sport |                 0.155 |            987.000 |         21.319 |         26.940 | German              | German              | True            | True               | True          | True             |
+|      3 | R. Giger     | L. Obexer  | Aarau          |                 0.154 |           2275.000 |         20.560 |         20.960 | German              | German              | True            | True               | True          | True             |
+|      4 | I. N'Ganga   | Cabral     | Lausanne Sport |                 0.146 |           1261.000 |         31.104 |         29.574 | French              | Portuguese          | False           | False              | True          | False            |
+|      5 | J. Geissmann | P. Flo     | Lausanne Sport |                 0.143 |           1002.000 |         25.212 |         29.278 | German              | Norwegian           | False           | False              | True          | False            |
 
 ## 2018/2019 - Championship (England) - male
-|   Rank | Player 1    | Player 2         | Team             |   Defensive chemistry |
-|--------|-------------|------------------|------------------|-----------------------|
-|      1 | C. Roberts  | M. Olsson        | Swansea City     |                 0.269 |
-|      2 | R. Shotton  | G. Friend        | Middlesbrough    |                 0.226 |
-|      3 | B. Marshall | M. Romeo         | Millwall         |                 0.220 |
-|      4 | J. Mattock  | B. Jones         | Rotherham United |                 0.213 |
-|      5 | M. Olsson   | M. van der Hoorn | Swansea City     |                 0.207 |
+|   Rank | Player 1    | Player 2         | Team             |   Defensive chemistry |   Minutes together |   Age player 1 |   Age player 2 | Language player 1   | Language player 2   | Same language   | Same nationality   | Same region   | Same subregion   |
+|--------|-------------|------------------|------------------|-----------------------|--------------------|----------------|----------------|---------------------|---------------------|-----------------|--------------------|---------------|------------------|
+|      1 | C. Roberts  | M. Olsson        | Swansea City     |                 0.269 |           1022.000 |         22.625 |         29.990 | English             | Swedish             | False           | False              | True          | True             |
+|      2 | R. Shotton  | G. Friend        | Middlesbrough    |                 0.226 |           2004.000 |         29.541 |         30.579 | English             | English             | True            | True               | True          | True             |
+|      3 | B. Marshall | M. Romeo         | Millwall         |                 0.220 |           1097.000 |         27.106 |         22.609 | English             | English             | True            | True               | True          | True             |
+|      4 | J. Mattock  | B. Jones         | Rotherham United |                 0.213 |           1405.000 |         28.035 |         31.096 | English             | English             | True            | True               | True          | True             |
+|      5 | M. Olsson   | M. van der Hoorn | Swansea City     |                 0.207 |           1104.000 |         29.990 |         25.576 | Swedish             | Dutch               | False           | False              | True          | False            |
 
 ## 2018/2019 - Championship (Scotland) - male
-|   Rank | Player 1    | Player 2     | Team                 |   Defensive chemistry |
-|--------|-------------|--------------|----------------------|-----------------------|
-|      1 | C. Tremarco | S. Rooney    | Inverness CT         |                 0.171 |
-|      2 | I. Vigurs   | J. Mullin    | Ross County          |                 0.155 |
-|      3 | R. Blair    | D. Devine    | Dunfermline Athletic |                 0.144 |
-|      4 | T. Beadling | L. Ashcroft  | Dunfermline Athletic |                 0.143 |
-|      5 | J. Craigen  | J. Longridge | Dunfermline Athletic |                 0.142 |
+|   Rank | Player 1    | Player 2     | Team                 |   Defensive chemistry |   Minutes together |   Age player 1 |   Age player 2 | Language player 1   | Language player 2   | Same language   | Same nationality   | Same region   | Same subregion   |
+|--------|-------------|--------------|----------------------|-----------------------|--------------------|----------------|----------------|---------------------|---------------------|-----------------|--------------------|---------------|------------------|
+|      1 | C. Tremarco | S. Rooney    | Inverness CT         |                 0.171 |           1170.000 |         32.547 |         21.757 | English             | English             | True            | False              | True          | True             |
+|      2 | I. Vigurs   | J. Mullin    | Ross County          |                 0.155 |           1032.000 |         29.976 |         25.648 | English             | English             | True            | True               | True          | True             |
+|      3 | R. Blair    | D. Devine    | Dunfermline Athletic |                 0.144 |            945.000 |         22.178 |         25.692 | English             | English             | True            | False              | True          | True             |
+|      4 | T. Beadling | L. Ashcroft  | Dunfermline Athletic |                 0.143 |           1414.000 |         22.225 |         24.681 | English             | English             | True            | False              | True          | True             |
+|      5 | J. Craigen  | J. Longridge | Dunfermline Athletic |                 0.142 |           2245.000 |         27.104 |         23.107 | English             | English             | True            | False              | True          | True             |
 
 ## 2018/2019 - Eerste Divisie (Netherlands) - male
-|   Rank | Player 1    | Player 2               | Team             |   Defensive chemistry |
-|--------|-------------|------------------------|------------------|-----------------------|
-|      1 | H. Asmelash | N. Fleuren             | TOP Oss          |                 0.228 |
-|      2 | L. Faye     | D. Abels               | Sparta Rotterdam |                 0.208 |
-|      3 | H. Asmelash | R. Stuij van den Herik | TOP Oss          |                 0.197 |
-|      4 | M. Betti    | R. Schouten            | Volendam         |                 0.177 |
-|      5 | E. Mbende   | R. Maulun              | Cambuur          |                 0.169 |
+|   Rank | Player 1    | Player 2               | Team             |   Defensive chemistry |   Minutes together |   Age player 1 |   Age player 2 | Language player 1   | Language player 2   | Same language   | Same nationality   | Same region   | Same subregion   |
+|--------|-------------|------------------------|------------------|-----------------------|--------------------|----------------|----------------|---------------------|---------------------|-----------------|--------------------|---------------|------------------|
+|      1 | H. Asmelash | N. Fleuren             | TOP Oss          |                 0.228 |           1010.000 |         18.710 |         31.490 | Dutch               | Dutch               | True            | True               | True          | True             |
+|      2 | L. Faye     | D. Abels               | Sparta Rotterdam |                 0.208 |            989.000 |         19.901 |         20.876 | Dutch               | Dutch               | True            | True               | True          | True             |
+|      3 | H. Asmelash | R. Stuij van den Herik | TOP Oss          |                 0.197 |           1486.000 |         18.710 |         24.859 | Dutch               | Dutch               | True            | True               | True          | True             |
+|      4 | M. Betti    | R. Schouten            | Volendam         |                 0.177 |           1996.000 |         21.111 |         19.479 | Dutch               | Dutch               | True            | True               | True          | True             |
+|      5 | E. Mbende   | R. Maulun              | Cambuur          |                 0.169 |           1273.000 |         22.022 |         21.486 | English             | French              | False           | False              | False         | False            |
 
 ## 2018/2019 - Ekstraklasa (Poland) - male
-|   Rank | Player 1       | Player 2     | Team           |   Defensive chemistry |
-|--------|----------------|--------------|----------------|-----------------------|
-|      1 | M. Konczkowski | M. Kirkeskov | Piast Gliwice  |                 0.221 |
-|      2 | M. Vešović     | A. Hloušek   | Legia Warszawa |                 0.212 |
-|      3 | Mateusz Mak    | M. Kirkeskov | Piast Gliwice  |                 0.210 |
-|      4 | M. Wieteska    | A. Hloušek   | Legia Warszawa |                 0.199 |
-|      5 | Iván Márquez   | M. Gardawski | Korona Kielce  |                 0.196 |
+|   Rank | Player 1       | Player 2     | Team           |   Defensive chemistry |   Minutes together |   Age player 1 |   Age player 2 | Language player 1   | Language player 2   | Same language   | Same nationality   | Same region   | Same subregion   |
+|--------|----------------|--------------|----------------|-----------------------|--------------------|----------------|----------------|---------------------|---------------------|-----------------|--------------------|---------------|------------------|
+|      1 | M. Konczkowski | M. Kirkeskov | Piast Gliwice  |                 0.221 |           2399.000 |         24.678 |         26.685 | Polish              | Danish              | False           | False              | True          | False            |
+|      2 | M. Vešović     | A. Hloušek   | Legia Warszawa |                 0.212 |           1419.000 |         26.729 |         29.415 | Serbian             | Czech               | False           | False              | True          | False            |
+|      3 | Mateusz Mak    | M. Kirkeskov | Piast Gliwice  |                 0.210 |            942.000 |         26.513 |         26.685 | Polish              | Danish              | False           | False              | True          | False            |
+|      4 | M. Wieteska    | A. Hloušek   | Legia Warszawa |                 0.199 |           1421.000 |         21.270 |         29.415 | Polish              | Czech               | False           | False              | True          | True             |
+|      5 | Iván Márquez   | M. Gardawski | Korona Kielce  |                 0.196 |           1581.000 |         23.908 |         27.633 | Spanish             | German              | False           | False              | True          | False            |
 
 ## 2018/2019 - Eredivisie (Netherlands) - male
-|   Rank | Player 1    | Player 2           | Team      |   Defensive chemistry |
-|--------|-------------|--------------------|-----------|-----------------------|
-|      1 | R. Vlaar    | A. Maher           | AZ        |                 0.201 |
-|      2 | Angeliño    | D. Schwaab         | PSV       |                 0.186 |
-|      3 | D. Dumfries | Angeliño           | PSV       |                 0.185 |
-|      4 | P. Rosario  | Angeliño           | PSV       |                 0.184 |
-|      5 | T. Malacia  | J. van der Heijden | Feyenoord |                 0.180 |
+|   Rank | Player 1    | Player 2           | Team      |   Defensive chemistry |   Minutes together |   Age player 1 |   Age player 2 | Language player 1   | Language player 2   | Same language   | Same nationality   | Same region   | Same subregion   |
+|--------|-------------|--------------------|-----------|-----------------------|--------------------|----------------|----------------|---------------------|---------------------|-----------------|--------------------|---------------|------------------|
+|      1 | R. Vlaar    | A. Maher           | AZ        |                 0.201 |           1704.000 |         33.198 |         24.796 | Dutch               | Arabic              | False           | False              | False         | False            |
+|      2 | Angeliño    | D. Schwaab         | PSV       |                 0.186 |           2778.000 |         21.335 |         29.702 | Spanish             | German              | False           | False              | True          | False            |
+|      3 | D. Dumfries | Angeliño           | PSV       |                 0.185 |           2971.000 |         22.067 |         21.335 | Dutch               | Spanish             | False           | False              | True          | False            |
+|      4 | P. Rosario  | Angeliño           | PSV       |                 0.184 |           2746.000 |         21.327 |         21.335 | Dutch               | Spanish             | False           | False              | True          | False            |
+|      5 | T. Malacia  | J. van der Heijden | Feyenoord |                 0.180 |            969.000 |         18.672 |         30.176 | Dutch               | Dutch               | True            | True               | True          | True             |
 
 ## 2018/2019 - FAVBET Liga (Ukraine) - male
-|   Rank | Player 1      | Player 2      | Team             |   Defensive chemistry |
-|--------|---------------|---------------|------------------|-----------------------|
-|      1 | S. Bolbat     | Ismaily       | Shakhtar Donetsk |                 0.220 |
-|      2 | S. Bolbat     | D. Khocholava | Shakhtar Donetsk |                 0.200 |
-|      3 | A. Polyarus   | P. Paşayev    | Oleksandria      |                 0.196 |
-|      4 | D. Khocholava | Alan Patrick  | Shakhtar Donetsk |                 0.186 |
-|      5 | T. Kádár      | T. Kędziora   | Dynamo Kyiv      |                 0.184 |
+|   Rank | Player 1      | Player 2      | Team             |   Defensive chemistry |   Minutes together |   Age player 1 |   Age player 2 | Language player 1   | Language player 2   | Same language   | Same nationality   | Same region   | Same subregion   |
+|--------|---------------|---------------|------------------|-----------------------|--------------------|----------------|----------------|---------------------|---------------------|-----------------|--------------------|---------------|------------------|
+|      1 | S. Bolbat     | Ismaily       | Shakhtar Donetsk |                 0.220 |           1415.000 |         24.935 |         28.353 | Ukrainian           | Portuguese          | False           | False              | False         | False            |
+|      2 | S. Bolbat     | D. Khocholava | Shakhtar Donetsk |                 0.200 |           1136.000 |         24.935 |         25.275 | Ukrainian           | Georgian            | False           | False              | False         | False            |
+|      3 | A. Polyarus   | P. Paşayev    | Oleksandria      |                 0.196 |            930.000 |         25.795 |         30.373 | Ukrainian           | Ukrainian           | True            | True               | True          | True             |
+|      4 | D. Khocholava | Alan Patrick  | Shakhtar Donetsk |                 0.186 |           1515.000 |         25.275 |         27.019 | Georgian            | Portuguese          | False           | False              | False         | False            |
+|      5 | T. Kádár      | T. Kędziora   | Dynamo Kyiv      |                 0.184 |           1396.000 |         28.183 |         23.939 | Hungarian           | Polish              | False           | False              | True          | True             |
 
 ## 2018/2019 - FNL (Russia) - male
-|   Rank | Player 1       | Player 2   | Team             |   Defensive chemistry |
-|--------|----------------|------------|------------------|-----------------------|
-|      1 | D. Kutin       | P. Ten     | Armavir          |                 0.249 |
-|      2 | S. Zuykov      | D. Tikhiy  | Tom' Tomsk       |                 0.210 |
-|      3 | A. Kontsedalov | P. Ten     | Armavir          |                 0.197 |
-|      4 | V. Larents     | A. Aravin  | Sibir            |                 0.183 |
-|      5 | E. Yatchenko   | V. Obukhov | Mordovia Saransk |                 0.182 |
+|   Rank | Player 1       | Player 2   | Team             |   Defensive chemistry |   Minutes together |   Age player 1 |   Age player 2 | Language player 1   | Language player 2   | Same language   | Same nationality   | Same region   | Same subregion   |
+|--------|----------------|------------|------------------|-----------------------|--------------------|----------------|----------------|---------------------|---------------------|-----------------|--------------------|---------------|------------------|
+|      1 | D. Kutin       | P. Ten     | Armavir          |                 0.249 |           1005.000 |         24.045 |         25.116 | German              | Russian             | False           | False              | True          | False            |
+|      2 | S. Zuykov      | D. Tikhiy  | Tom' Tomsk       |                 0.210 |           1427.000 |         24.645 |         25.518 | Russian             | Russian             | True            | True               | True          | True             |
+|      3 | A. Kontsedalov | P. Ten     | Armavir          |                 0.197 |           1020.000 |         27.747 |         25.116 | Russian             | Russian             | True            | True               | True          | True             |
+|      4 | V. Larents     | A. Aravin  | Sibir            |                 0.183 |            914.000 |         23.640 |         31.843 | Russian             | Russian             | True            | True               | True          | True             |
+|      5 | E. Yatchenko   | V. Obukhov | Mordovia Saransk |                 0.182 |            939.000 |         31.714 |         26.258 | Russian             | Uzbek               | False           | False              | False         | False            |
 
 ## 2018/2019 - First Division A (Belgium) - male
-|   Rank | Player 1   | Player 2   | Team        |   Defensive chemistry |
-|--------|------------|------------|-------------|-----------------------|
-|      1 | J. Mæhle   | J. Uronen  | Genk        |                 0.213 |
-|      2 | T. Derijck | N. Asare   | Gent        |                 0.192 |
-|      3 | A. Milić   | A. Trebel  | Anderlecht  |                 0.192 |
-|      4 | S. Denswil | B. Poulain | Club Brugge |                 0.183 |
-|      5 | S. Denswil | S. Amrabat | Club Brugge |                 0.179 |
+|   Rank | Player 1   | Player 2   | Team        |   Defensive chemistry |   Minutes together |   Age player 1 |   Age player 2 | Language player 1   | Language player 2   | Same language   | Same nationality   | Same region   | Same subregion   |
+|--------|------------|------------|-------------|-----------------------|--------------------|----------------|----------------|---------------------|---------------------|-----------------|--------------------|---------------|------------------|
+|      1 | J. Mæhle   | J. Uronen  | Genk        |                 0.213 |           2552.000 |         20.963 |         23.873 | Danish              | Finnish             | False           | False              | True          | True             |
+|      2 | T. Derijck | N. Asare   | Gent        |                 0.192 |           1023.000 |         30.998 |         31.860 | Dutch               | English             | False           | False              | False         | False            |
+|      3 | A. Milić   | A. Trebel  | Anderlecht  |                 0.192 |            932.000 |         24.194 |         27.216 | Croatian            | French              | False           | False              | True          | False            |
+|      4 | S. Denswil | B. Poulain | Club Brugge |                 0.183 |           1559.000 |         25.037 |         30.817 | Dutch               | French              | False           | False              | True          | True             |
+|      5 | S. Denswil | S. Amrabat | Club Brugge |                 0.179 |           1088.000 |         25.037 |         21.817 | Dutch               | Dutch               | True            | True               | True          | True             |
 
 ## 2018/2019 - First Division B (Belgium) - male
-|   Rank | Player 1       | Player 2     | Team                 |   Defensive chemistry |
-|--------|----------------|--------------|----------------------|-----------------------|
-|      1 | J. Dom         | J. De Jonghe | Beerschot-Wilrijk    |                 0.223 |
-|      2 | D. Prychynenko | J. De Jonghe | Beerschot-Wilrijk    |                 0.190 |
-|      3 | M. Besuschkow  | T. Peyre     | Union Saint-Gilloise |                 0.180 |
-|      4 | N. Ghandri     | G. Dewaele   | Westerlo             |                 0.158 |
-|      5 | F. Vega        | T. Peyre     | Union Saint-Gilloise |                 0.153 |
+|   Rank | Player 1       | Player 2     | Team                 |   Defensive chemistry |   Minutes together |   Age player 1 |   Age player 2 | Language player 1   | Language player 2   | Same language   | Same nationality   | Same region   | Same subregion   |
+|--------|----------------|--------------|----------------------|-----------------------|--------------------|----------------|----------------|---------------------|---------------------|-----------------|--------------------|---------------|------------------|
+|      1 | J. Dom         | J. De Jonghe | Beerschot-Wilrijk    |                 0.223 |           1462.000 |         28.492 |         26.264 | Dutch               | Dutch               | True            | True               | True          | True             |
+|      2 | D. Prychynenko | J. De Jonghe | Beerschot-Wilrijk    |                 0.190 |           1911.000 |         26.253 |         26.264 | German              | Dutch               | False           | False              | True          | True             |
+|      3 | M. Besuschkow  | T. Peyre     | Union Saint-Gilloise |                 0.180 |            923.000 |         20.719 |         25.571 | German              | French              | False           | False              | True          | True             |
+|      4 | N. Ghandri     | G. Dewaele   | Westerlo             |                 0.158 |           1189.000 |         23.249 |         22.208 | French              | Dutch               | False           | False              | True          | True             |
+|      5 | F. Vega        | T. Peyre     | Union Saint-Gilloise |                 0.153 |           1520.000 |         25.308 |         25.571 | Spanish             | French              | False           | False              | False         | False            |
 
 ## 2018/2019 - Fortuna Liga (Czech Republic) - male
-|   Rank | Player 1   | Player 2          | Team           |   Defensive chemistry |
-|--------|------------|-------------------|----------------|-----------------------|
-|      1 | D. Lischka | L. Masopust       | Jablonec       |                 0.203 |
-|      2 | J. Bořil   | V. Coufal         | Slavia Praha   |                 0.198 |
-|      3 | D. Lischka | D. Hovorka        | Jablonec       |                 0.185 |
-|      4 | O. Kúdela  | M. Ngadeu Ngadjui | Slavia Praha   |                 0.184 |
-|      5 | R. Reiter  | D. Bartek         | Bohemians 1905 |                 0.182 |
+|   Rank | Player 1   | Player 2          | Team           |   Defensive chemistry |   Minutes together |   Age player 1 |   Age player 2 | Language player 1   | Language player 2   | Same language   | Same nationality   | Same region   | Same subregion   |
+|--------|------------|-------------------|----------------|-----------------------|--------------------|----------------|----------------|---------------------|---------------------|-----------------|--------------------|---------------|------------------|
+|      1 | D. Lischka | L. Masopust       | Jablonec       |                 0.203 |            958.000 |         20.779 |         25.237 | Czech               | Czech               | True            | True               | True          | True             |
+|      2 | J. Bořil   | V. Coufal         | Slavia Praha   |                 0.198 |           1901.000 |         27.372 |         25.760 | Czech               | Czech               | True            | True               | True          | True             |
+|      3 | D. Lischka | D. Hovorka        | Jablonec       |                 0.185 |           1260.000 |         20.779 |         24.801 | Czech               | Czech               | True            | True               | True          | True             |
+|      4 | O. Kúdela  | M. Ngadeu Ngadjui | Slavia Praha   |                 0.184 |           1360.000 |         31.077 |         27.506 | Czech               | English             | False           | False              | False         | False            |
+|      5 | R. Reiter  | D. Bartek         | Bohemians 1905 |                 0.182 |           1279.000 |         23.640 |         30.283 | Czech               | Czech               | True            | True               | True          | True             |
 
 ## 2018/2019 - I Liga (Poland) - male
-|   Rank | Player 1      | Player 2   | Team               |   Defensive chemistry |
-|--------|---------------|------------|--------------------|-----------------------|
-|      1 | A. Klimczak   | J. Grzesik | Łódzki KS          |                 0.234 |
-|      2 | J. Sobociński | L. Bielak  | Łódzki KS          |                 0.188 |
-|      3 | M. Kałahur    | D. Szufryn | Sandecja Nowy Sącz |                 0.171 |
-|      4 | J. Grzesik    | L. Bielak  | Łódzki KS          |                 0.167 |
-|      5 | Ł. Piątek     | L. Bielak  | Łódzki KS          |                 0.165 |
+|   Rank | Player 1      | Player 2   | Team               |   Defensive chemistry |   Minutes together |   Age player 1 |   Age player 2 | Language player 1   | Language player 2   | Same language   | Same nationality   | Same region   | Same subregion   |
+|--------|---------------|------------|--------------------|-----------------------|--------------------|----------------|----------------|---------------------|---------------------|-----------------|--------------------|---------------|------------------|
+|      1 | A. Klimczak   | J. Grzesik | Łódzki KS          |                 0.234 |            990.000 |         20.853 |         23.616 | Polish              | Polish              | True            | True               | True          | True             |
+|      2 | J. Sobociński | L. Bielak  | Łódzki KS          |                 0.188 |           1796.000 |         19.197 |         31.466 | Polish              | Slovak              | False           | False              | True          | True             |
+|      3 | M. Kałahur    | D. Szufryn | Sandecja Nowy Sącz |                 0.171 |           1171.000 |         19.430 |         31.975 | Polish              | Polish              | True            | True               | True          | True             |
+|      4 | J. Grzesik    | L. Bielak  | Łódzki KS          |                 0.167 |           1629.000 |         23.616 |         31.466 | Polish              | Slovak              | False           | False              | True          | True             |
+|      5 | Ł. Piątek     | L. Bielak  | Łódzki KS          |                 0.165 |           1206.000 |         32.659 |         31.466 | Polish              | Slovak              | False           | False              | True          | True             |
 
 ## 2018/2019 - Liga MX (Mexico) - male
-|   Rank | Player 1    | Player 2       | Team        |   Defensive chemistry |
-|--------|-------------|----------------|-------------|-----------------------|
-|      1 | R. González | W. Tesillo     | León        |                 0.174 |
-|      2 | C. Ortiz    | J. Basanta     | Monterrey   |                 0.169 |
-|      3 | C. Salcedo  | Rafael Carioca | Tigres UANL |                 0.167 |
-|      4 | J. Torres   | Rafael Carioca | Tigres UANL |                 0.163 |
-|      5 | J. Salas    | A. Aldrete     | Cruz Azul   |                 0.162 |
+|   Rank | Player 1    | Player 2       | Team        |   Defensive chemistry |   Minutes together |   Age player 1 |   Age player 2 | Language player 1   | Language player 2   | Same language   | Same nationality   | Same region   | Same subregion   |
+|--------|-------------|----------------|-------------|-----------------------|--------------------|----------------|----------------|---------------------|---------------------|-----------------|--------------------|---------------|------------------|
+|      1 | R. González | W. Tesillo     | León        |                 0.174 |            969.000 |         27.590 |         28.304 | Spanish             | Spanish             | True            | False              | True          | True             |
+|      2 | C. Ortiz    | J. Basanta     | Monterrey   |                 0.169 |            967.000 |         29.266 |         34.090 | Spanish             | Spanish             | True            | False              | True          | True             |
+|      3 | C. Salcedo  | Rafael Carioca | Tigres UANL |                 0.167 |            933.000 |         24.744 |         28.885 | Spanish             | Portuguese          | False           | False              | True          | False            |
+|      4 | J. Torres   | Rafael Carioca | Tigres UANL |                 0.163 |           1225.000 |         30.306 |         28.885 | Spanish             | Portuguese          | False           | False              | True          | False            |
+|      5 | J. Salas    | A. Aldrete     | Cruz Azul   |                 0.162 |           1395.000 |         24.693 |         29.876 | Spanish             | Spanish             | True            | True               | True          | True             |
 
 ## 2018/2019 - Ligue 1 (France) - male
-|   Rank | Player 1      | Player 2    | Team   |   Defensive chemistry |
-|--------|---------------|-------------|--------|-----------------------|
-|      1 | José Fonte    | F. Touré    | Lille  |                 0.234 |
-|      2 | Z. Çelik      | F. Touré    | Lille  |                 0.220 |
-|      3 | A. Soumaoro   | F. Touré    | Lille  |                 0.203 |
-|      4 | Thiago Mendes | F. Touré    | Lille  |                 0.197 |
-|      5 | Z. Çelik      | A. Soumaoro | Lille  |                 0.190 |
+|   Rank | Player 1      | Player 2    | Team   |   Defensive chemistry |   Minutes together |   Age player 1 |   Age player 2 | Language player 1   | Language player 2   | Same language   | Same nationality   | Same region   | Same subregion   |
+|--------|---------------|-------------|--------|-----------------------|--------------------|----------------|----------------|---------------------|---------------------|-----------------|--------------------|---------------|------------------|
+|      1 | José Fonte    | F. Touré    | Lille  |                 0.234 |           1358.000 |         34.510 |         21.374 | Portuguese          | French              | False           | False              | True          | False            |
+|      2 | Z. Çelik      | F. Touré    | Lille  |                 0.220 |           1562.000 |         21.209 |         21.374 | Turkish             | French              | False           | False              | False         | False            |
+|      3 | A. Soumaoro   | F. Touré    | Lille  |                 0.203 |           1053.000 |         25.861 |         21.374 | French              | French              | True            | True               | True          | True             |
+|      4 | Thiago Mendes | F. Touré    | Lille  |                 0.197 |           1473.000 |         26.179 |         21.374 | Portuguese          | French              | False           | False              | False         | False            |
+|      5 | Z. Çelik      | A. Soumaoro | Lille  |                 0.190 |           1505.000 |         21.209 |         25.861 | Turkish             | French              | False           | False              | False         | False            |
 
 ## 2018/2019 - Ligue 2 (France) - male
-|   Rank | Player 1      | Player 2    | Team     |   Defensive chemistry |
-|--------|---------------|-------------|----------|-----------------------|
-|      1 | R. Perraud    | F. Bong     | Paris    |                 0.218 |
-|      2 | A. Sissoko    | V. N'Simba  | Clermont |                 0.216 |
-|      3 | J. Phojo      | V. N'Simba  | Clermont |                 0.210 |
-|      4 | Yohan Tavares | J. Obiang   | Troyes   |                 0.206 |
-|      5 | A. Sissoko    | J. Iglesias | Clermont |                 0.178 |
+|   Rank | Player 1      | Player 2    | Team     |   Defensive chemistry |   Minutes together |   Age player 1 |   Age player 2 | Language player 1   | Language player 2   | Same language   | Same nationality   | Same region   | Same subregion   |
+|--------|---------------|-------------|----------|-----------------------|--------------------|----------------|----------------|---------------------|---------------------|-----------------|--------------------|---------------|------------------|
+|      1 | R. Perraud    | F. Bong     | Paris    |                 0.218 |            942.000 |         20.708 |         30.792 | French              | English             | False           | False              | False         | False            |
+|      2 | A. Sissoko    | V. N'Simba  | Clermont |                 0.216 |           1060.000 |         21.144 |         24.824 | French              | Portuguese          | False           | False              | False         | False            |
+|      3 | J. Phojo      | V. N'Simba  | Clermont |                 0.210 |           1401.000 |         25.026 |         24.824 | French              | Portuguese          | False           | False              | False         | False            |
+|      4 | Yohan Tavares | J. Obiang   | Troyes   |                 0.206 |           1499.000 |         30.198 |         24.799 | French              | French              | True            | True               | True          | True             |
+|      5 | A. Sissoko    | J. Iglesias | Clermont |                 0.178 |           1182.000 |         21.144 |         29.399 | French              | Spanish             | False           | False              | False         | False            |
 
 ## 2018/2019 - National 1 (France) - male
-|   Rank | Player 1    | Player 2     | Team         |   Defensive chemistry |
-|--------|-------------|--------------|--------------|-----------------------|
-|      1 | J. Mellot   | J. Chougrani | Rodez        |                 0.209 |
-|      2 | N. Saintini | K. Malaga    | Cholet       |                 0.172 |
-|      3 | N. Dieng    | J. Mellot    | Rodez        |                 0.168 |
-|      4 | A. Pagerie  | Y. Benedick  | Villefranche |                 0.168 |
-|      5 | D. Douline  | P. Bardy     | Rodez        |                 0.165 |
+|   Rank | Player 1    | Player 2     | Team         |   Defensive chemistry |   Minutes together |   Age player 1 |   Age player 2 | Language player 1   | Language player 2   | Same language   | Same nationality   | Same region   | Same subregion   |
+|--------|-------------|--------------|--------------|-----------------------|--------------------|----------------|----------------|---------------------|---------------------|-----------------|--------------------|---------------|------------------|
+|      1 | J. Mellot   | J. Chougrani | Rodez        |                 0.209 |           1377.000 |         24.104 |         27.099 | French              | French              | True            | True               | True          | True             |
+|      2 | N. Saintini | K. Malaga    | Cholet       |                 0.172 |            979.000 |         17.970 |         30.882 | French              | French              | True            | False              | False         | False            |
+|      3 | N. Dieng    | J. Mellot    | Rodez        |                 0.168 |           1216.000 |         20.867 |         24.104 | French              | French              | True            | True               | True          | True             |
+|      4 | A. Pagerie  | Y. Benedick  | Villefranche |                 0.168 |            987.000 |         26.009 |         26.296 | French              | French              | True            | True               | True          | True             |
+|      5 | D. Douline  | P. Bardy     | Rodez        |                 0.165 |           1286.000 |         24.955 |         25.686 | French              | French              | True            | True               | True          | True             |
 
 ## 2018/2019 - National 2 (France) - male
-|   Rank | Player 1    | Player 2    | Team     |   Defensive chemistry |
-|--------|-------------|-------------|----------|-----------------------|
-|      1 | M. Wackers  | I. Faraj    | Lille II |                 0.179 |
-|      2 | S. Sadzoute | I. Faraj    | Lille II |                 0.166 |
-|      3 | M. Wackers  | S. Sadzoute | Lille II |                 0.146 |
-|      4 | S. Sadzoute | C. Niasse   | Lille II |                 0.129 |
-|      5 | M. Wackers  | C. Niasse   | Lille II |                 0.122 |
+|   Rank | Player 1    | Player 2    | Team     |   Defensive chemistry |   Minutes together |   Age player 1 |   Age player 2 | Language player 1   | Language player 2   | Same language   | Same nationality   | Same region   | Same subregion   |
+|--------|-------------|-------------|----------|-----------------------|--------------------|----------------|----------------|---------------------|---------------------|-----------------|--------------------|---------------|------------------|
+|      1 | M. Wackers  | I. Faraj    | Lille II |                 0.179 |           1013.000 |         20.380 |         19.192 | French              | French              | True            | True               | True          | True             |
+|      2 | S. Sadzoute | I. Faraj    | Lille II |                 0.166 |            951.000 |         20.057 |         19.192 | French              | French              | True            | True               | True          | True             |
+|      3 | M. Wackers  | S. Sadzoute | Lille II |                 0.146 |           1376.000 |         20.380 |         20.057 | French              | French              | True            | True               | True          | True             |
+|      4 | S. Sadzoute | C. Niasse   | Lille II |                 0.129 |           1055.000 |         20.057 |         17.086 | French              | French              | True            | False              | False         | False            |
+|      5 | M. Wackers  | C. Niasse   | Lille II |                 0.122 |           1351.000 |         20.380 |         17.086 | French              | French              | True            | False              | False         | False            |
 
 ## 2018/2019 - Persha Liga (Ukraine) - male
-|   Rank | Player 1    | Player 2      | Team            |   Defensive chemistry |
-|--------|-------------|---------------|-----------------|-----------------------|
-|      1 | V. Klymenko | D. Balan      | Inhulets        |                 0.216 |
-|      2 | I. Yurechko | S. Platunov   | Balkany Zorya   |                 0.198 |
-|      3 | V. Lysenko  | M. Maksymenko | Kolos Kovalivka |                 0.190 |
-|      4 | V. Yemets   | M. Vorobey    | Avanhard        |                 0.187 |
-|      5 | A. Semenko  | E. Efremov    | Obolon'-Brovar  |                 0.184 |
+|   Rank | Player 1    | Player 2      | Team            |   Defensive chemistry |   Minutes together |   Age player 1 |   Age player 2 | Language player 1   | Language player 2   | Same language   | Same nationality   | Same region   | Same subregion   |
+|--------|-------------|---------------|-----------------|-----------------------|--------------------|----------------|----------------|---------------------|---------------------|-----------------|--------------------|---------------|------------------|
+|      1 | V. Klymenko | D. Balan      | Inhulets        |                 0.216 |            910.000 |         23.917 |         24.752 | Ukrainian           | Ukrainian           | True            | True               | True          | True             |
+|      2 | I. Yurechko | S. Platunov   | Balkany Zorya   |                 0.198 |            928.000 |         23.238 |         26.778 | Ukrainian           | Russian             | False           | False              | True          | True             |
+|      3 | V. Lysenko  | M. Maksymenko | Kolos Kovalivka |                 0.190 |           1026.000 |         30.080 |         27.958 | Ukrainian           | Ukrainian           | True            | True               | True          | True             |
+|      4 | V. Yemets   | M. Vorobey    | Avanhard        |                 0.187 |           1371.000 |            nan |         27.224 | Ukrainian           | Ukrainian           | True            | True               | True          | True             |
+|      5 | A. Semenko  | E. Efremov    | Obolon'-Brovar  |                 0.184 |           1865.000 |         24.744 |         24.314 | Ukrainian           | Ukrainian           | True            | True               | True          | True             |
 
 ## 2018/2019 - Premier League (England) - male
-|   Rank | Player 1            | Player 2     | Team            |   Defensive chemistry |
-|--------|---------------------|--------------|-----------------|-----------------------|
-|      1 | K. Walker           | O. Zinchenko | Manchester City |                 0.242 |
-|      2 | J. Gomez            | V. van Dijk  | Liverpool       |                 0.202 |
-|      3 | G. Wijnaldum        | J. Gomez     | Liverpool       |                 0.196 |
-|      4 | T. Alexander-Arnold | J. Milner    | Liverpool       |                 0.194 |
-|      5 | J. Gomez            | A. Robertson | Liverpool       |                 0.194 |
+|   Rank | Player 1            | Player 2     | Team            |   Defensive chemistry |   Minutes together |   Age player 1 |   Age player 2 | Language player 1   | Language player 2   | Same language   | Same nationality   | Same region   | Same subregion   |
+|--------|---------------------|--------------|-----------------|-----------------------|--------------------|----------------|----------------|---------------------|---------------------|-----------------|--------------------|---------------|------------------|
+|      1 | K. Walker           | O. Zinchenko | Manchester City |                 0.242 |            901.000 |         28.076 |         21.399 | English             | Ukrainian           | False           | False              | True          | False            |
+|      2 | J. Gomez            | V. van Dijk  | Liverpool       |                 0.202 |           1027.000 |         20.932 |         26.885 | English             | Dutch               | False           | False              | True          | False            |
+|      3 | G. Wijnaldum        | J. Gomez     | Liverpool       |                 0.196 |            947.000 |         27.540 |         20.932 | Dutch               | English             | False           | False              | True          | False            |
+|      4 | T. Alexander-Arnold | J. Milner    | Liverpool       |                 0.194 |           1093.000 |         19.726 |         32.391 | English             | English             | True            | True               | True          | True             |
+|      5 | J. Gomez            | A. Robertson | Liverpool       |                 0.194 |           1034.000 |         20.932 |         24.210 | English             | English             | True            | False              | True          | True             |
 
 ## 2018/2019 - Premier League (Russia) - male
-|   Rank | Player 1      | Player 2       | Team           |   Defensive chemistry |
-|--------|---------------|----------------|----------------|-----------------------|
-|      1 | D. Skopintsev | S. Ingason     | Rostov         |                 0.170 |
-|      2 | Ayrton        | G. Dzhikiya    | Spartak Moskva |                 0.158 |
-|      3 | D. Skopintsev | A. Gaţcan      | Rostov         |                 0.158 |
-|      4 | S. Ingason    | B. Sigurðarson | Rostov         |                 0.157 |
-|      5 | D. Skopintsev | S. Parshivlyuk | Rostov         |                 0.157 |
+|   Rank | Player 1      | Player 2       | Team           |   Defensive chemistry |   Minutes together |   Age player 1 |   Age player 2 | Language player 1   | Language player 2   | Same language   | Same nationality   | Same region   | Same subregion   |
+|--------|---------------|----------------|----------------|-----------------------|--------------------|----------------|----------------|---------------------|---------------------|-----------------|--------------------|---------------|------------------|
+|      1 | D. Skopintsev | S. Ingason     | Rostov         |                 0.170 |           1251.000 |         21.198 |         24.892 | Russian             | Icelandic           | False           | False              | True          | False            |
+|      2 | Ayrton        | G. Dzhikiya    | Spartak Moskva |                 0.158 |           1017.000 |         20.977 |         24.043 | Portuguese          | Russian             | False           | False              | False         | False            |
+|      3 | D. Skopintsev | A. Gaţcan      | Rostov         |                 0.158 |           1161.000 |         21.198 |         34.129 | Russian             | English             | False           | False              | False         | False            |
+|      4 | S. Ingason    | B. Sigurðarson | Rostov         |                 0.157 |           1080.000 |         24.892 |         26.502 | Icelandic           | Icelandic           | True            | True               | True          | True             |
+|      5 | D. Skopintsev | S. Parshivlyuk | Rostov         |                 0.157 |           1081.000 |         21.198 |         29.154 | Russian             | Russian             | True            | True               | True          | True             |
 
 ## 2018/2019 - Premiership (Scotland) - male
-|   Rank | Player 1   | Player 2   | Team   |   Defensive chemistry |
-|--------|------------|------------|--------|-----------------------|
-|      1 | D. Boyata  | S. Brown   | Celtic |                 0.214 |
-|      2 | K. Ajer    | K. Tierney | Celtic |                 0.213 |
-|      3 | D. Boyata  | K. Tierney | Celtic |                 0.196 |
-|      4 | K. Tierney | M. Lustig  | Celtic |                 0.193 |
-|      5 | K. Tierney | J. Forrest | Celtic |                 0.187 |
+|   Rank | Player 1   | Player 2   | Team   |   Defensive chemistry |   Minutes together |   Age player 1 |   Age player 2 | Language player 1   | Language player 2   | Same language   | Same nationality   | Same region   | Same subregion   |
+|--------|------------|------------|--------|-----------------------|--------------------|----------------|----------------|---------------------|---------------------|-----------------|--------------------|---------------|------------------|
+|      1 | D. Boyata  | S. Brown   | Celtic |                 0.214 |           1083.000 |         27.583 |         32.900 | Dutch               | English             | False           | False              | True          | False            |
+|      2 | K. Ajer    | K. Tierney | Celtic |                 0.213 |            962.000 |         20.089 |         20.955 | Norwegian           | English             | False           | False              | True          | True             |
+|      3 | D. Boyata  | K. Tierney | Celtic |                 0.196 |           1277.000 |         27.583 |         20.955 | Dutch               | English             | False           | False              | True          | False            |
+|      4 | K. Tierney | M. Lustig  | Celtic |                 0.193 |           1199.000 |         20.955 |         31.539 | English             | Swedish             | False           | False              | True          | True             |
+|      5 | K. Tierney | J. Forrest | Celtic |                 0.187 |           1184.000 |         20.955 |         26.868 | English             | English             | True            | False              | True          | True             |
 
 ## 2018/2019 - Prim B Nacional (Argentina) - male
-|   Rank | Player 1               | Player 2    | Team                   |   Defensive chemistry |
-|--------|------------------------|-------------|------------------------|-----------------------|
-|      1 | I. Liporace            | L. Zaragoza | Brown de Adrogué       |                 0.201 |
-|      2 | L. Martínez Montagnoli | L. Goux     | Defensores de Belgrano |                 0.179 |
-|      3 | L. Martínez Montagnoli | I. Nadal    | Defensores de Belgrano |                 0.164 |
-|      4 | F. Castet              | L. Villalba | Sarmiento              |                 0.163 |
-|      5 | I. Boggino             | E. Ortiz    | Brown de Adrogué       |                 0.159 |
+|   Rank | Player 1               | Player 2    | Team                   |   Defensive chemistry |   Minutes together |   Age player 1 |   Age player 2 | Language player 1   | Language player 2   | Same language   | Same nationality   | Same region   | Same subregion   |
+|--------|------------------------|-------------|------------------------|-----------------------|--------------------|----------------|----------------|---------------------|---------------------|-----------------|--------------------|---------------|------------------|
+|      1 | I. Liporace            | L. Zaragoza | Brown de Adrogué       |                 0.201 |            966.000 |         26.127 |         25.960 | Spanish             | Spanish             | True            | True               | True          | True             |
+|      2 | L. Martínez Montagnoli | L. Goux     | Defensores de Belgrano |                 0.179 |           1080.000 |         31.100 |         38.330 | Spanish             | Spanish             | True            | True               | True          | True             |
+|      3 | L. Martínez Montagnoli | I. Nadal    | Defensores de Belgrano |                 0.164 |            924.000 |         31.100 |         31.026 | Spanish             | Spanish             | True            | True               | True          | True             |
+|      4 | F. Castet              | L. Villalba | Sarmiento              |                 0.163 |           1282.000 |            nan |         23.419 | Spanish             | Spanish             | True            | True               | True          | True             |
+|      5 | I. Boggino             | E. Ortiz    | Brown de Adrogué       |                 0.159 |           1034.000 |         32.219 |         21.207 | Spanish             | Spanish             | True            | True               | True          | True             |
 
 ## 2018/2019 - Primeira Liga (Portugal) - male
-|   Rank | Player 1     | Player 2    | Team              |   Defensive chemistry |
-|--------|--------------|-------------|-------------------|-----------------------|
-|      1 | F. Sacko     | Rafa Soares | Vitória Guimarães |                 0.236 |
-|      2 | João Talocha | N. Obiora   | Boavista          |                 0.176 |
-|      3 | Felipe       | Y. Brahimi  | Porto             |                 0.173 |
-|      4 | F. Sacko     | Davidson    | Vitória Guimarães |                 0.166 |
-|      5 | Rafa Soares  | André André | Vitória Guimarães |                 0.164 |
+|   Rank | Player 1     | Player 2    | Team              |   Defensive chemistry |   Minutes together |   Age player 1 |   Age player 2 | Language player 1   | Language player 2   | Same language   | Same nationality   | Same region   | Same subregion   |
+|--------|--------------|-------------|-------------------|-----------------------|--------------------|----------------|----------------|---------------------|---------------------|-----------------|--------------------|---------------|------------------|
+|      1 | F. Sacko     | Rafa Soares | Vitória Guimarães |                 0.236 |           1903.000 |         23.033 |         23.014 | French              | Portuguese          | False           | False              | False         | False            |
+|      2 | João Talocha | N. Obiora   | Boavista          |                 0.176 |           1041.000 |         28.701 |         26.819 | Portuguese          | English             | False           | False              | False         | False            |
+|      3 | Felipe       | Y. Brahimi  | Porto             |                 0.173 |           1990.000 |         28.990 |         28.257 | Portuguese          | French              | False           | False              | False         | False            |
+|      4 | F. Sacko     | Davidson    | Vitória Guimarães |                 0.166 |           1809.000 |         23.033 |         27.187 | French              | Portuguese          | False           | False              | False         | False            |
+|      5 | Rafa Soares  | André André | Vitória Guimarães |                 0.164 |           1133.000 |         23.014 |         28.711 | Portuguese          | Portuguese          | True            | True               | True          | True             |
 
 ## 2018/2019 - Primera División (Spain) - male
-|   Rank | Player 1         | Player 2       | Team            |   Defensive chemistry |
-|--------|------------------|----------------|-----------------|-----------------------|
-|      1 | R. Rosales       | Dídac Vilá     | Espanyol        |                 0.218 |
-|      2 | S. Savić         | S. Arias       | Atlético Madrid |                 0.192 |
-|      3 | R. Rosales       | Mario Hermoso  | Espanyol        |                 0.187 |
-|      4 | Javi Moyano      | Nacho Martínez | Real Valladolid |                 0.186 |
-|      5 | Gabriel Paulista | E. Garay       | Valencia        |                 0.170 |
+|   Rank | Player 1         | Player 2       | Team            |   Defensive chemistry |   Minutes together |   Age player 1 |   Age player 2 | Language player 1   | Language player 2   | Same language   | Same nationality   | Same region   | Same subregion   |
+|--------|------------------|----------------|-----------------|-----------------------|--------------------|----------------|----------------|---------------------|---------------------|-----------------|--------------------|---------------|------------------|
+|      1 | R. Rosales       | Dídac Vilá     | Espanyol        |                 0.218 |            931.000 |         29.478 |         28.947 | Spanish             | Spanish             | True            | False              | False         | False            |
+|      2 | S. Savić         | S. Arias       | Atlético Madrid |                 0.192 |            937.000 |         27.364 |         26.458 | Serbian             | Spanish             | False           | False              | False         | False            |
+|      3 | R. Rosales       | Mario Hermoso  | Espanyol        |                 0.187 |           1287.000 |         29.478 |         22.863 | Spanish             | Spanish             | True            | False              | False         | False            |
+|      4 | Javi Moyano      | Nacho Martínez | Real Valladolid |                 0.186 |           1945.000 |         32.304 |         29.278 | Spanish             | Spanish             | True            | True               | True          | True             |
+|      5 | Gabriel Paulista | E. Garay       | Valencia        |                 0.170 |           1429.000 |         27.441 |         31.610 | Portuguese          | Spanish             | False           | False              | True          | True             |
 
 ## 2018/2019 - Regionalliga (Germany) - male
-|   Rank | Player 1           | Player 2       | Team         |   Defensive chemistry |
-|--------|--------------------|----------------|--------------|-----------------------|
-|      1 | P. Messingschlager | S. Maderer     | Schweinfurt  |                 0.236 |
-|      2 | L. Össwein         | J. Breitenbach | Mainz 05 II  |                 0.233 |
-|      3 | G. Lo Scrudato     | D. Weiß        | Schweinfurt  |                 0.228 |
-|      4 | L. Von Piechowski  | J. Wolff       | Rödinghausen |                 0.205 |
-|      5 | P. Messingschlager | M. Fritscher   | Schweinfurt  |                 0.205 |
+|   Rank | Player 1           | Player 2       | Team         |   Defensive chemistry |   Minutes together |   Age player 1 |   Age player 2 | Language player 1   | Language player 2   | Same language   | Same nationality   | Same region   | Same subregion   |
+|--------|--------------------|----------------|--------------|-----------------------|--------------------|----------------|----------------|---------------------|---------------------|-----------------|--------------------|---------------|------------------|
+|      1 | P. Messingschlager | S. Maderer     | Schweinfurt  |                 0.236 |           1246.000 |         25.609 |         21.694 | German              | German              | True            | True               | True          | True             |
+|      2 | L. Össwein         | J. Breitenbach | Mainz 05 II  |                 0.233 |           1068.000 |         20.165 |         19.966 | German              | German              | True            | True               | True          | True             |
+|      3 | G. Lo Scrudato     | D. Weiß        | Schweinfurt  |                 0.228 |            905.000 |         21.913 |         23.071 | Italian             | German              | False           | False              | True          | False            |
+|      4 | L. Von Piechowski  | J. Wolff       | Rödinghausen |                 0.205 |            906.000 |         24.218 |         26.099 | German              | German              | True            | True               | True          | True             |
+|      5 | P. Messingschlager | M. Fritscher   | Schweinfurt  |                 0.205 |            975.000 |         25.609 |         23.375 | German              | German              | True            | True               | True          | True             |
 
 ## 2018/2019 - Segunda División (Spain) - male
-|   Rank | Player 1       | Player 2       | Team                |   Defensive chemistry |
-|--------|----------------|----------------|---------------------|-----------------------|
-|      1 | Saúl García    | Fede Cartabia  | Deportivo La Coruña |                 0.175 |
-|      2 | Fran García    | Néstor Susaeta | Albacete            |                 0.173 |
-|      3 | Javi Ontiveros | Cifuentes      | Málaga              |                 0.170 |
-|      4 | Fran García    | Álvaro Tejero  | Albacete            |                 0.164 |
-|      5 | Fran García    | Álvaro Arroyo  | Albacete            |                 0.163 |
+|   Rank | Player 1       | Player 2       | Team                |   Defensive chemistry |   Minutes together |   Age player 1 |   Age player 2 | Language player 1   | Language player 2   | Same language   | Same nationality   | Same region   | Same subregion   |
+|--------|----------------|----------------|---------------------|-----------------------|--------------------|----------------|----------------|---------------------|---------------------|-----------------|--------------------|---------------|------------------|
+|      1 | Saúl García    | Fede Cartabia  | Deportivo La Coruña |                 0.175 |           1013.000 |         23.594 |         25.108 | Spanish             | Spanish             | True            | False              | False         | False            |
+|      2 | Fran García    | Néstor Susaeta | Albacete            |                 0.173 |           1342.000 |         25.507 |         33.459 | Spanish             | Spanish             | True            | True               | True          | True             |
+|      3 | Javi Ontiveros | Cifuentes      | Málaga              |                 0.170 |            989.000 |         20.769 |         27.660 | Spanish             | Spanish             | True            | True               | True          | True             |
+|      4 | Fran García    | Álvaro Tejero  | Albacete            |                 0.164 |           1887.000 |         25.507 |         21.814 | Spanish             | Spanish             | True            | True               | True          | True             |
+|      5 | Fran García    | Álvaro Arroyo  | Albacete            |                 0.163 |           1694.000 |         25.507 |         29.864 | Spanish             | Spanish             | True            | True               | True          | True             |
 
 ## 2018/2019 - Segunda Liga (Portugal) - male
-|   Rank | Player 1       | Player 2      | Team             |   Defensive chemistry |
-|--------|----------------|---------------|------------------|-----------------------|
-|      1 | Jorge Silva    | Derick Poloni | Leixões          |                 0.197 |
-|      2 | Pedro Amaral   | Alex Pinto    | Benfica II       |                 0.184 |
-|      3 | Henrique Gomes | Rafael Vieira | Sporting Covilhã |                 0.180 |
-|      4 | Gonçalo        | João Góis     | Estoril          |                 0.168 |
-|      5 | Jorge Silva    | Luís Silva    | Leixões          |                 0.164 |
+|   Rank | Player 1       | Player 2      | Team             |   Defensive chemistry |   Minutes together |   Age player 1 |   Age player 2 | Language player 1   | Language player 2   | Same language   | Same nationality   | Same region   | Same subregion   |
+|--------|----------------|---------------|------------------|-----------------------|--------------------|----------------|----------------|---------------------|---------------------|-----------------|--------------------|---------------|------------------|
+|      1 | Jorge Silva    | Derick Poloni | Leixões          |                 0.197 |           1133.000 |         22.101 |         24.694 | Portuguese          | Portuguese          | True            | False              | False         | False            |
+|      2 | Pedro Amaral   | Alex Pinto    | Benfica II       |                 0.184 |           1036.000 |         20.713 |         19.750 | Portuguese          | Portuguese          | True            | True               | True          | True             |
+|      3 | Henrique Gomes | Rafael Vieira | Sporting Covilhã |                 0.180 |            966.000 |         22.452 |         25.845 | Portuguese          | Portuguese          | True            | True               | True          | True             |
+|      4 | Gonçalo        | João Góis     | Estoril          |                 0.168 |            958.000 |         31.433 |         28.024 | Portuguese          | Portuguese          | True            | True               | True          | True             |
+|      5 | Jorge Silva    | Luís Silva    | Leixões          |                 0.164 |           1412.000 |         22.101 |         25.601 | Portuguese          | Portuguese          | True            | True               | True          | True             |
 
 ## 2018/2019 - Serie A (Italy) - male
-|   Rank | Player 1      | Player 2    | Team           |   Defensive chemistry |
-|--------|---------------|-------------|----------------|-----------------------|
-|      1 | S. de Vrij    | K. Asamoah  | Internazionale |                 0.224 |
-|      2 | D. D'Ambrosio | K. Asamoah  | Internazionale |                 0.187 |
-|      3 | M. Brozović   | K. Asamoah  | Internazionale |                 0.183 |
-|      4 | G. Mancini    | A. Masiello | Atalanta       |                 0.183 |
-|      5 | H. Hateboer   | A. Masiello | Atalanta       |                 0.183 |
+|   Rank | Player 1      | Player 2    | Team           |   Defensive chemistry |   Minutes together |   Age player 1 |   Age player 2 | Language player 1   | Language player 2   | Same language   | Same nationality   | Same region   | Same subregion   |
+|--------|---------------|-------------|----------------|-----------------------|--------------------|----------------|----------------|---------------------|---------------------|-----------------|--------------------|---------------|------------------|
+|      1 | S. de Vrij    | K. Asamoah  | Internazionale |                 0.224 |           1771.000 |         26.289 |         29.415 | Dutch               | English             | False           | False              | False         | False            |
+|      2 | D. D'Ambrosio | K. Asamoah  | Internazionale |                 0.187 |           1921.000 |         29.694 |         29.415 | Italian             | English             | False           | False              | False         | False            |
+|      3 | M. Brozović   | K. Asamoah  | Internazionale |                 0.183 |           1966.000 |         25.596 |         29.415 | Croatian            | English             | False           | False              | False         | False            |
+|      4 | G. Mancini    | A. Masiello | Atalanta       |                 0.183 |           1058.000 |         22.014 |         32.268 | Italian             | Italian             | True            | True               | True          | True             |
+|      5 | H. Hateboer   | A. Masiello | Atalanta       |                 0.183 |           1533.000 |         24.361 |         32.268 | Dutch               | Italian             | False           | False              | True          | False            |
 
 ## 2018/2019 - Serie B (Italy) - male
-|   Rank | Player 1      | Player 2     | Team      |   Defensive chemistry |
-|--------|---------------|--------------|-----------|-----------------------|
-|      1 | A. Caracciolo | E. Terranova | Cremonese |                 0.197 |
-|      2 | M. Curado     | S. Väisänen  | Crotone   |                 0.195 |
-|      3 | A. Corsi      | L. Palmiero  | Cosenza   |                 0.176 |
-|      4 | A. Caracciolo | Claiton      | Cremonese |                 0.173 |
-|      5 | H. Aleesami   | A. Salvi     | Palermo   |                 0.172 |
+|   Rank | Player 1      | Player 2     | Team      |   Defensive chemistry |   Minutes together |   Age player 1 |   Age player 2 | Language player 1   | Language player 2   | Same language   | Same nationality   | Same region   | Same subregion   |
+|--------|---------------|--------------|-----------|-----------------------|--------------------|----------------|----------------|---------------------|---------------------|-----------------|--------------------|---------------|------------------|
+|      1 | A. Caracciolo | E. Terranova | Cremonese |                 0.197 |            998.000 |         27.887 |         31.176 | Italian             | Italian             | True            | True               | True          | True             |
+|      2 | M. Curado     | S. Väisänen  | Crotone   |                 0.195 |            907.000 |         23.049 |         23.485 | Spanish             | Finnish             | False           | False              | False         | False            |
+|      3 | A. Corsi      | L. Palmiero  | Cosenza   |                 0.176 |            942.000 |         29.081 |         22.127 | Italian             | Italian             | True            | True               | True          | True             |
+|      4 | A. Caracciolo | Claiton      | Cremonese |                 0.173 |            991.000 |         27.887 |         33.695 | Italian             | Portuguese          | False           | False              | False         | False            |
+|      5 | H. Aleesami   | A. Salvi     | Palermo   |                 0.172 |           1009.000 |         26.880 |         30.015 | Norwegian           | Italian             | False           | False              | True          | False            |
 
 ## 2018/2019 - Super League (Greece) - male
-|   Rank | Player 1       | Player 2     | Team          |   Defensive chemistry |
-|--------|----------------|--------------|---------------|-----------------------|
-|      1 | O. El Kaddouri | Vieirinha    | PAOK          |                 0.194 |
-|      2 | M. Johansson   | E. Insúa     | Panathinaikos |                 0.185 |
-|      3 | E. Insúa       | O. Coulibaly | Panathinaikos |                 0.178 |
-|      4 | D. Chygrynskiy | N. Hult      | AEK Athens    |                 0.172 |
-|      5 | Fran Vélez     | G. Delizisis | Aris          |                 0.168 |
+|   Rank | Player 1       | Player 2     | Team          |   Defensive chemistry |   Minutes together |   Age player 1 |   Age player 2 | Language player 1   | Language player 2   | Same language   | Same nationality   | Same region   | Same subregion   |
+|--------|----------------|--------------|---------------|-----------------------|--------------------|----------------|----------------|---------------------|---------------------|-----------------|--------------------|---------------|------------------|
+|      1 | O. El Kaddouri | Vieirinha    | PAOK          |                 0.194 |            920.000 |         27.706 |         32.298 | Dutch               | Portuguese          | False           | False              | True          | False            |
+|      2 | M. Johansson   | E. Insúa     | Panathinaikos |                 0.185 |           1331.000 |         26.222 |         27.055 | Swedish             | Spanish             | False           | False              | False         | False            |
+|      3 | E. Insúa       | O. Coulibaly | Panathinaikos |                 0.178 |           1290.000 |         27.055 |         28.730 | Spanish             | French              | False           | False              | False         | False            |
+|      4 | D. Chygrynskiy | N. Hult      | AEK Athens    |                 0.172 |           1085.000 |         31.512 |         28.243 | Ukrainian           | Swedish             | False           | False              | True          | False            |
+|      5 | Fran Vélez     | G. Delizisis | Aris          |                 0.168 |            959.000 |         26.880 |         30.469 | Spanish             | Greek (modern)      | False           | False              | True          | True             |
 
 ## 2018/2019 - Super League (Switzerland) - male
-|   Rank | Player 1     | Player 2   | Team            |   Defensive chemistry |
-|--------|--------------|------------|-----------------|-----------------------|
-|      1 | R. Petretta  | T. Xhaka   | Basel           |                 0.212 |
-|      2 | D. Črnigoj   | F. Daprelà | Lugano          |                 0.207 |
-|      3 | I. Đurić     | M. Gomes   | Neuchâtel Xamax |                 0.177 |
-|      4 | D. Črnigoj   | M. Marić   | Lugano          |                 0.168 |
-|      5 | C. Fassnacht | K. Mbabu   | Young Boys      |                 0.167 |
+|   Rank | Player 1     | Player 2   | Team            |   Defensive chemistry |   Minutes together |   Age player 1 |   Age player 2 | Language player 1   | Language player 2   | Same language   | Same nationality   | Same region   | Same subregion   |
+|--------|--------------|------------|-----------------|-----------------------|--------------------|----------------|----------------|---------------------|---------------------|-----------------|--------------------|---------------|------------------|
+|      1 | R. Petretta  | T. Xhaka   | Basel           |                 0.212 |           1016.000 |         21.155 |         27.041 | German              | German              | True            | False              | True          | True             |
+|      2 | D. Črnigoj   | F. Daprelà | Lugano          |                 0.207 |           1258.000 |         22.502 |         27.247 | Slovene             | German              | False           | False              | True          | False            |
+|      3 | I. Đurić     | M. Gomes   | Neuchâtel Xamax |                 0.177 |            931.000 |         29.724 |         29.669 | German              | German              | True            | True               | True          | True             |
+|      4 | D. Črnigoj   | M. Marić   | Lugano          |                 0.168 |           1023.000 |         22.502 |         34.053 | Slovene             | German              | False           | False              | True          | False            |
+|      5 | C. Fassnacht | K. Mbabu   | Young Boys      |                 0.167 |           1573.000 |         24.541 |         23.060 | German              | German              | True            | True               | True          | True             |
 
 ## 2018/2019 - Super Liga (Serbia) - male
-|   Rank | Player 1         | Player 2          | Team          |   Defensive chemistry |
-|--------|------------------|-------------------|---------------|-----------------------|
-|      1 | S. Đorđević      | A. Todorovski     | Radnički Niš  |                 0.179 |
-|      2 | E. Ben Nabouhane | M. Rodić          | Crvena Zvezda |                 0.177 |
-|      3 | B. Jovičić       | F. Stojković      | Crvena Zvezda |                 0.168 |
-|      4 | S. Urošević      | Nemanja Miletić I | Partizan      |                 0.158 |
-|      5 | M. Gemović       | S. Marić          | Mačva Šabac   |                 0.157 |
+|   Rank | Player 1         | Player 2          | Team          |   Defensive chemistry |   Minutes together |   Age player 1 |   Age player 2 | Language player 1   | Language player 2   | Same language   | Same nationality   | Same region   | Same subregion   |
+|--------|------------------|-------------------|---------------|-----------------------|--------------------|----------------|----------------|---------------------|---------------------|-----------------|--------------------|---------------|------------------|
+|      1 | S. Đorđević      | A. Todorovski     | Radnički Niš  |                 0.179 |           1322.000 |         26.657 |         34.212 | Serbian             | Serbian             | True            | True               | True          | True             |
+|      2 | E. Ben Nabouhane | M. Rodić          | Crvena Zvezda |                 0.177 |            960.000 |         28.941 |         27.132 | Arabic              | Serbian             | False           | False              | False         | False            |
+|      3 | B. Jovičić       | F. Stojković      | Crvena Zvezda |                 0.168 |           1040.000 |         25.171 |         25.322 | Serbian             | Serbian             | True            | True               | True          | True             |
+|      4 | S. Urošević      | Nemanja Miletić I | Partizan      |                 0.158 |           1351.000 |         24.079 |         27.351 | Serbian             | Serbian             | True            | True               | True          | True             |
+|      5 | M. Gemović       | S. Marić          | Mačva Šabac   |                 0.157 |            942.000 |         23.394 |         34.195 | Serbian             | Bosnian             | False           | False              | True          | True             |
 
 ## 2018/2019 - Super Liga (Slovakia) - male
-|   Rank | Player 1    | Player 2      | Team               |   Defensive chemistry |
-|--------|-------------|---------------|--------------------|-----------------------|
-|      1 | L. Rota     | M. Vojtko     | Zemplín Michalovce |                 0.113 |
-|      2 | J. De Kamps | V. Bozhikov   | Slovan Bratislava  |                 0.111 |
-|      3 | S. Koné     | K. Koštrna    | DAC                |                 0.106 |
-|      4 | J. De Kamps | M. Apau       | Slovan Bratislava  |                 0.104 |
-|      5 | J. De Kamps | A. Sukhotskiy | Slovan Bratislava  |                 0.098 |
+|   Rank | Player 1    | Player 2      | Team               |   Defensive chemistry |   Minutes together |   Age player 1 |   Age player 2 | Language player 1   | Language player 2   | Same language   | Same nationality   | Same region   | Same subregion   |
+|--------|-------------|---------------|--------------------|-----------------------|--------------------|----------------|----------------|---------------------|---------------------|-----------------|--------------------|---------------|------------------|
+|      1 | L. Rota     | M. Vojtko     | Zemplín Michalovce |                 0.113 |           1473.000 |            nan |         16.456 | Greek (modern)      | Slovak              | False           | False              | True          | False            |
+|      2 | J. De Kamps | V. Bozhikov   | Slovan Bratislava  |                 0.111 |           1395.000 |         26.253 |         29.962 | Dutch               | Bulgarian           | False           | False              | True          | False            |
+|      3 | S. Koné     | K. Koštrna    | DAC                |                 0.106 |           1209.000 |         23.963 |         24.426 | French              | Slovak              | False           | False              | False         | False            |
+|      4 | J. De Kamps | M. Apau       | Slovan Bratislava  |                 0.104 |           1167.000 |         26.253 |         28.093 | Dutch               | Dutch               | True            | True               | True          | True             |
+|      5 | J. De Kamps | A. Sukhotskiy | Slovan Bratislava  |                 0.098 |           1486.000 |         26.253 |         25.012 | Dutch               | Ukrainian           | False           | False              | True          | False            |
 
 ## 2018/2019 - Superliga (Argentina) - male
-|   Rank | Player 1           | Player 2     | Team         |   Defensive chemistry |
-|--------|--------------------|--------------|--------------|-----------------------|
-|      1 | L. Martínez Quarta | C. Mayada    | River Plate  |                 0.176 |
-|      2 | T. Guidara         | J. Brunetta  | Belgrano     |                 0.174 |
-|      3 | R. Saravia         | A. Donatti   | Racing Club  |                 0.172 |
-|      4 | E. Más             | J. Buffarini | Boca Juniors |                 0.149 |
-|      5 | L. Villalba        | C. Chávez    | Aldosivi     |                 0.143 |
+|   Rank | Player 1           | Player 2     | Team         |   Defensive chemistry |   Minutes together |   Age player 1 |   Age player 2 | Language player 1   | Language player 2   | Same language   | Same nationality   | Same region   | Same subregion   |
+|--------|--------------------|--------------|--------------|-----------------------|--------------------|----------------|----------------|---------------------|---------------------|-----------------|--------------------|---------------|------------------|
+|      1 | L. Martínez Quarta | C. Mayada    | River Plate  |                 0.176 |           1082.000 |         21.993 |         27.349 | Spanish             | Spanish             | True            | False              | True          | True             |
+|      2 | T. Guidara         | J. Brunetta  | Belgrano     |                 0.174 |            949.000 |         22.188 |         21.024 | Spanish             | Spanish             | True            | True               | True          | True             |
+|      3 | R. Saravia         | A. Donatti   | Racing Club  |                 0.172 |            992.000 |         24.912 |         31.579 | Spanish             | Spanish             | True            | True               | True          | True             |
+|      4 | E. Más             | J. Buffarini | Boca Juniors |                 0.149 |           1125.000 |         29.322 |         29.732 | Spanish             | Spanish             | True            | True               | True          | True             |
+|      5 | L. Villalba        | C. Chávez    | Aldosivi     |                 0.143 |           1192.000 |         23.578 |         30.919 | Spanish             | Spanish             | True            | True               | True          | True             |
 
 ## 2018/2019 - Superliga (Denmark) - male
-|   Rank | Player 1     | Player 2         | Team    |   Defensive chemistry |
-|--------|--------------|------------------|---------|-----------------------|
-|      1 | D. Mikanović | C. Højer Nielsen | AGF     |                 0.169 |
-|      2 | J. Lauridsen | R. Austin        | Esbjerg |                 0.166 |
-|      3 | J. Ankersen  | N. Backman       | AGF     |                 0.165 |
-|      4 | M. Brink     | J. Lauridsen     | Esbjerg |                 0.161 |
-|      5 | A. Erceg     | A. Jung          | Brøndby |                 0.152 |
+|   Rank | Player 1     | Player 2         | Team    |   Defensive chemistry |   Minutes together |   Age player 1 |   Age player 2 | Language player 1   | Language player 2   | Same language   | Same nationality   | Same region   | Same subregion   |
+|--------|--------------|------------------|---------|-----------------------|--------------------|----------------|----------------|---------------------|---------------------|-----------------|--------------------|---------------|------------------|
+|      1 | D. Mikanović | C. Højer Nielsen | AGF     |                 0.169 |           1610.000 |         24.051 |         23.512 | Croatian            | Danish              | False           | False              | True          | False            |
+|      2 | J. Lauridsen | R. Austin        | Esbjerg |                 0.166 |           1657.000 |         27.150 |         32.826 | Danish              | English             | False           | False              | False         | False            |
+|      3 | J. Ankersen  | N. Backman       | AGF     |                 0.165 |            995.000 |         27.674 |         29.530 | Danish              | Swedish             | False           | False              | True          | True             |
+|      4 | M. Brink     | J. Lauridsen     | Esbjerg |                 0.161 |           1163.000 |         20.182 |         27.150 | Danish              | Danish              | True            | True               | True          | True             |
+|      5 | A. Erceg     | A. Jung          | Brøndby |                 0.152 |            994.000 |         28.355 |         26.548 | Croatian            | Spanish             | False           | False              | True          | True             |
 
 ## 2018/2019 - Süper Lig (Turkey) - male
-|   Rank | Player 1   | Player 2    | Team                |   Defensive chemistry |
-|--------|------------|-------------|---------------------|-----------------------|
-|      1 | N. Sangaré | A. Cissokho | Antalyaspor         |                 0.234 |
-|      2 | T. Boyd    | Tiago Pinto | Ankaragücü          |                 0.206 |
-|      3 | S. Kitsiou | T. Boyd     | Ankaragücü          |                 0.198 |
-|      4 | E. Višća   | G. Clichy   | İstanbul Başakşehir |                 0.186 |
-|      5 | Chico      | A. Cissokho | Antalyaspor         |                 0.181 |
+|   Rank | Player 1   | Player 2    | Team                |   Defensive chemistry |   Minutes together |   Age player 1 |   Age player 2 | Language player 1   | Language player 2   | Same language   | Same nationality   | Same region   | Same subregion   |
+|--------|------------|-------------|---------------------|-----------------------|--------------------|----------------|----------------|---------------------|---------------------|-----------------|--------------------|---------------|------------------|
+|      1 | N. Sangaré | A. Cissokho | Antalyaspor         |                 0.234 |           1758.000 |         23.969 |         30.674 | German              | French              | False           | False              | True          | True             |
+|      2 | T. Boyd    | Tiago Pinto | Ankaragücü          |                 0.206 |            943.000 |         23.370 |         30.258 | English             | Portuguese          | False           | False              | False         | False            |
+|      3 | S. Kitsiou | T. Boyd     | Ankaragücü          |                 0.198 |           1141.000 |         24.640 |         23.370 | Greek (modern)      | English             | False           | False              | False         | False            |
+|      4 | E. Višća   | G. Clichy   | İstanbul Başakşehir |                 0.186 |           1452.000 |         28.251 |         32.815 | Bosnian             | French              | False           | False              | True          | False            |
+|      5 | Chico      | A. Cissokho | Antalyaspor         |                 0.181 |           1191.000 |         31.290 |         30.674 | Portuguese          | French              | False           | False              | False         | False            |
 
 ## 2018/2019 - UEFA Champions League (Europe) - male
-|   Rank | Player 1      | Player 2      | Team   |   Defensive chemistry |
-|--------|---------------|---------------|--------|-----------------------|
-|      1 | N. Mazraoui   | L. Schöne     | Ajax   |                 0.182 |
-|      2 | M. de Ligt    | L. Schöne     | Ajax   |                 0.168 |
-|      3 | N. Tagliafico | L. Schöne     | Ajax   |                 0.167 |
-|      4 | D. Blind      | L. Schöne     | Ajax   |                 0.161 |
-|      5 | H. Ziyech     | N. Tagliafico | Ajax   |                 0.149 |
+|   Rank | Player 1      | Player 2      | Team   |   Defensive chemistry |   Minutes together |   Age player 1 |   Age player 2 | Language player 1   | Language player 2   | Same language   | Same nationality   | Same region   | Same subregion   |
+|--------|---------------|---------------|--------|-----------------------|--------------------|----------------|----------------|---------------------|---------------------|-----------------|--------------------|---------------|------------------|
+|      1 | N. Mazraoui   | L. Schöne     | Ajax   |                 0.182 |           1080.000 |         20.475 |         32.070 | Dutch               | Danish              | False           | False              | True          | False            |
+|      2 | M. de Ligt    | L. Schöne     | Ajax   |                 0.168 |           1158.000 |         18.734 |         32.070 | Dutch               | Danish              | False           | False              | True          | False            |
+|      3 | N. Tagliafico | L. Schöne     | Ajax   |                 0.167 |            942.000 |         25.820 |         32.070 | Spanish             | Danish              | False           | False              | False         | False            |
+|      4 | D. Blind      | L. Schöne     | Ajax   |                 0.161 |           1129.000 |         28.180 |         32.070 | Dutch               | Danish              | False           | False              | True          | False            |
+|      5 | H. Ziyech     | N. Tagliafico | Ajax   |                 0.149 |           1200.000 |         25.270 |         25.820 | Dutch               | Spanish             | False           | False              | False         | False            |
 
 ## 2018/2019 - UEFA Europa League (Europe) - male
-|   Rank | Player 1     | Player 2     | Team         |   Defensive chemistry |
-|--------|--------------|--------------|--------------|-----------------------|
-|      1 | J. Flanagan  | J. Tavernier | Rangers      |                 0.262 |
-|      2 | J. Flanagan  | C. Goldson   | Rangers      |                 0.260 |
-|      3 | T. Souček    | J. Bořil     | Slavia Praha |                 0.239 |
-|      4 | J. Thomassen | O. Halvorsen | Sarpsborg 08 |                 0.192 |
-|      5 | Igor Carioca | A. Giannou   | AEK Larnaca  |                 0.188 |
+|   Rank | Player 1     | Player 2     | Team         |   Defensive chemistry |   Minutes together |   Age player 1 |   Age player 2 | Language player 1   | Language player 2   | Same language   | Same nationality   | Same region   | Same subregion   |
+|--------|--------------|--------------|--------------|-----------------------|--------------------|----------------|----------------|---------------------|---------------------|-----------------|--------------------|---------------|------------------|
+|      1 | J. Flanagan  | J. Tavernier | Rangers      |                 0.262 |            981.000 |         25.321 |         26.534 | English             | English             | True            | True               | True          | True             |
+|      2 | J. Flanagan  | C. Goldson   | Rangers      |                 0.260 |            981.000 |         25.321 |         25.401 | English             | English             | True            | True               | True          | True             |
+|      3 | T. Souček    | J. Bořil     | Slavia Praha |                 0.239 |            930.000 |         23.243 |         27.372 | Czech               | Czech               | True            | True               | True          | True             |
+|      4 | J. Thomassen | O. Halvorsen | Sarpsborg 08 |                 0.192 |            937.000 |         30.140 |         30.729 | Norwegian           | Norwegian           | True            | True               | True          | True             |
+|      5 | Igor Carioca | A. Giannou   | AEK Larnaca  |                 0.188 |            906.000 |         21.708 |         28.306 | Portuguese          | Greek (modern)      | False           | False              | False         | False            |
 
 ## 2018/2019 - UEFA Youth League (Europe) - male
-|   Rank | Player 1    | Player 2     | Team        |   Defensive chemistry |
-|--------|-------------|--------------|-------------|-----------------------|
-|      1 | J. Colley   | J. Castillo  | Chelsea U19 |                 0.281 |
-|      2 | J. Castillo | M. Guehi     | Chelsea U19 |                 0.237 |
-|      3 | J. Colley   | B. Gilmour   | Chelsea U19 |                 0.227 |
-|      4 | B. Gilmour  | M. Guehi     | Chelsea U19 |                 0.222 |
-|      5 | J. Castillo | C. Gallagher | Chelsea U19 |                 0.184 |
+|   Rank | Player 1    | Player 2     | Team        |   Defensive chemistry |   Minutes together |   Age player 1 |   Age player 2 | Language player 1   | Language player 2   | Same language   | Same nationality   | Same region   | Same subregion   |
+|--------|-------------|--------------|-------------|-----------------------|--------------------|----------------|----------------|---------------------|---------------------|-----------------|--------------------|---------------|------------------|
+|      1 | J. Colley   | J. Castillo  | Chelsea U19 |                 0.281 |            510.000 |         19.682 |         18.929 | English             | Dutch               | False           | False              | False         | False            |
+|      2 | J. Castillo | M. Guehi     | Chelsea U19 |                 0.237 |            510.000 |         18.929 |         18.431 | Dutch               | French              | False           | False              | False         | False            |
+|      3 | J. Colley   | B. Gilmour   | Chelsea U19 |                 0.227 |            510.000 |         19.682 |         17.492 | English             | English             | True            | False              | False         | False            |
+|      4 | B. Gilmour  | M. Guehi     | Chelsea U19 |                 0.222 |            510.000 |         17.492 |         18.431 | English             | French              | False           | False              | False         | False            |
+|      5 | J. Castillo | C. Gallagher | Chelsea U19 |                 0.184 |            495.000 |         18.929 |         18.863 | Dutch               | English             | False           | False              | True          | False            |
 
 ## 2018 Russia - WC Qualification Africa (Africa) - male
-|   Rank | Player 1     | Player 2        | Team    |   Defensive chemistry |
-|--------|--------------|-----------------|---------|-----------------------|
-|      1 | N. Amrabat   | R. Saïss        | Morocco |                 0.222 |
-|      2 | M. Boussoufa | R. Saïss        | Morocco |                 0.209 |
-|      3 | S. Sunzu     | F. Kapumbu      | Zambia  |                 0.199 |
-|      4 | Ahmed Hegazy | Mohamed Elneny  | Egypt   |                 0.198 |
-|      5 | W. Ndidi     | W. Troost-Ekong | Nigeria |                 0.196 |
+|   Rank | Player 1     | Player 2        | Team    |   Defensive chemistry |   Minutes together |   Age player 1 |   Age player 2 | Language player 1   | Language player 2   | Same language   | Same nationality   | Same region   | Same subregion   |
+|--------|--------------|-----------------|---------|-----------------------|--------------------|----------------|----------------|---------------------|---------------------|-----------------|--------------------|---------------|------------------|
+|      1 | N. Amrabat   | R. Saïss        | Morocco |                 0.222 |            513.000 |         28.752 |         25.737 | Dutch               | French              | False           | False              | True          | True             |
+|      2 | M. Boussoufa | R. Saïss        | Morocco |                 0.209 |            540.000 |         30.964 |         25.737 | Dutch               | French              | False           | False              | True          | True             |
+|      3 | S. Sunzu     | F. Kapumbu      | Zambia  |                 0.199 |            540.000 |         26.483 |         26.105 | English             | English             | True            | True               | True          | True             |
+|      4 | Ahmed Hegazy | Mohamed Elneny  | Egypt   |                 0.198 |            540.000 |         24.812 |         23.424 | Arabic              | Arabic              | True            | True               | True          | True             |
+|      5 | W. Ndidi     | W. Troost-Ekong | Nigeria |                 0.196 |            456.000 |         19.027 |         22.187 | English             | Dutch               | False           | False              | False         | False            |
 
 ## 2018 Russia - WC Qualification Asia (Asia) - male
-|   Rank | Player 1     | Player 2        | Team       |   Defensive chemistry |
-|--------|--------------|-----------------|------------|-----------------------|
-|      1 | M. Yoshida   | M. Morishige    | Japan      |                 0.277 |
-|      2 | S. Ezatolahi | M. Pouraliganji | Iran       |                 0.273 |
-|      3 | M. Yoshida   | M. Hasebe       | Japan      |                 0.255 |
-|      4 | M. Yoshida   | Y. Nagatomo     | Japan      |                 0.253 |
-|      5 | V. Denisov   | O. Akhmedov     | Uzbekistan |                 0.227 |
+|   Rank | Player 1     | Player 2        | Team       |   Defensive chemistry |   Minutes together |   Age player 1 |   Age player 2 | Language player 1   | Language player 2   | Same language   | Same nationality   | Same region   | Same subregion   |
+|--------|--------------|-----------------|------------|-----------------------|--------------------|----------------|----------------|---------------------|---------------------|-----------------|--------------------|---------------|------------------|
+|      1 | M. Yoshida   | M. Morishige    | Japan      |                 0.277 |           1080.000 |         26.811 |         28.103 | Japanese            | Japanese            | True            | True               | True          | True             |
+|      2 | S. Ezatolahi | M. Pouraliganji | Iran       |                 0.273 |            906.000 |         18.438 |         23.191 | Persian (Farsi)     | Persian (Farsi)     | True            | True               | True          | True             |
+|      3 | M. Yoshida   | M. Hasebe       | Japan      |                 0.255 |           1068.000 |         26.811 |         31.410 | Japanese            | Japanese            | True            | True               | True          | True             |
+|      4 | M. Yoshida   | Y. Nagatomo     | Japan      |                 0.253 |           1170.000 |         26.811 |         28.717 | Japanese            | Japanese            | True            | True               | True          | True             |
+|      5 | V. Denisov   | O. Akhmedov     | Uzbekistan |                 0.227 |           1005.000 |         28.311 |         27.558 | Uzbek               | Uzbek               | True            | True               | True          | True             |
 
 ## 2018 Russia - WC Qualification CONCACAF (N/C America) - male
-|   Rank | Player 1   | Player 2   | Team       |   Defensive chemistry |
-|--------|------------|------------|------------|-----------------------|
-|      1 | K. Waston  | J. Acosta  | Costa Rica |                 0.195 |
-|      2 | M. Layún   | H. Moreno  | Mexico     |                 0.170 |
-|      3 | H. Herrera | H. Moreno  | Mexico     |                 0.151 |
-|      4 | K. Waston  | C. Borges  | Costa Rica |                 0.144 |
-|      5 | J. Acosta  | C. Borges  | Costa Rica |                 0.144 |
+|   Rank | Player 1   | Player 2   | Team       |   Defensive chemistry |   Minutes together |   Age player 1 |   Age player 2 | Language player 1   | Language player 2   | Same language   | Same nationality   | Same region   | Same subregion   |
+|--------|------------|------------|------------|-----------------------|--------------------|----------------|----------------|---------------------|---------------------|-----------------|--------------------|---------------|------------------|
+|      1 | K. Waston  | J. Acosta  | Costa Rica |                 0.195 |            910.000 |         27.469 |         31.842 | Spanish             | Spanish             | True            | True               | True          | True             |
+|      2 | M. Layún   | H. Moreno  | Mexico     |                 0.170 |            930.000 |         26.852 |         27.348 | Spanish             | Spanish             | True            | True               | True          | True             |
+|      3 | H. Herrera | H. Moreno  | Mexico     |                 0.151 |            966.000 |         25.092 |         27.348 | Spanish             | Spanish             | True            | True               | True          | True             |
+|      4 | K. Waston  | C. Borges  | Costa Rica |                 0.144 |            922.000 |         27.469 |         26.989 | Spanish             | Spanish             | True            | True               | True          | True             |
+|      5 | J. Acosta  | C. Borges  | Costa Rica |                 0.144 |           1026.000 |         31.842 |         26.989 | Spanish             | Spanish             | True            | True               | True          | True             |
 
 ## 2018 Russia - WC Qualification Europe (Europe) - male
-|   Rank | Player 1    | Player 2     | Team             |   Defensive chemistry |
-|--------|-------------|--------------|------------------|-----------------------|
-|      1 | V. Lindelöf | E. Forsberg  | Sweden           |                 0.220 |
-|      2 | J. Evans    | S. Davis     | Northern Ireland |                 0.216 |
-|      3 | J. Evans    | O. Norwood   | Northern Ireland |                 0.213 |
-|      4 | V. Lindelöf | A. Granqvist | Sweden           |                 0.195 |
-|      5 | E. Forsberg | A. Granqvist | Sweden           |                 0.170 |
+|   Rank | Player 1      | Player 2      | Team             |   Defensive chemistry |   Minutes together |   Age player 1 |   Age player 2 | Language player 1   | Language player 2   | Same language   | Same nationality   | Same region   | Same subregion   |
+|--------|---------------|---------------|------------------|-----------------------|--------------------|----------------|----------------|---------------------|---------------------|-----------------|--------------------|---------------|------------------|
+|      1 | M. Darmian    | A. Barzagli   | Italy            |                 0.297 |            470.000 |         26.570 |         35.140 | Italian             | Italian             | True            | True               | True          | True             |
+|      2 | A. Marušić    | A. Šćekić     | Montenegro       |                 0.288 |            457.000 |         23.594 |         24.443 | Serbian             | Serbian             | True            | False              | True          | True             |
+|      3 | S. Dallas     | C. McLaughlin | Northern Ireland |                 0.280 |            667.000 |         25.188 |         24.884 | English             | English             | True            | True               | True          | True             |
+|      4 | M. Käit       | T. Teniste    | Estonia          |                 0.279 |            614.000 |         17.382 |         28.328 | Estonian            | Estonian            | True            | True               | True          | True             |
+|      5 | C. McLaughlin | G. McAuley    | Northern Ireland |                 0.275 |            640.000 |         24.884 |         36.558 | English             | English             | True            | True               | True          | True             |
 
 ## 2018 Russia - WC Qualification South America (South America) - male
-|   Rank | Player 1    | Player 2       | Team      |   Defensive chemistry |
-|--------|-------------|----------------|-----------|-----------------------|
-|      1 | N. Otamendi | L. Biglia      | Argentina |                 0.163 |
-|      2 | Marquinhos  | Renato Augusto | Brazil    |                 0.156 |
-|      3 | N. Otamendi | Á. Di María    | Argentina |                 0.152 |
-|      4 | Marquinhos  | Miranda        | Brazil    |                 0.152 |
-|      5 | Marquinhos  | Dani Alves     | Brazil    |                 0.141 |
+|   Rank | Player 1    | Player 2       | Team      |   Defensive chemistry |   Minutes together |   Age player 1 |   Age player 2 | Language player 1   | Language player 2   | Same language   | Same nationality   | Same region   | Same subregion   |
+|--------|-------------|----------------|-----------|-----------------------|--------------------|----------------|----------------|---------------------|---------------------|-----------------|--------------------|---------------|------------------|
+|      1 | N. Otamendi | L. Biglia      | Argentina |                 0.163 |           1060.000 |         27.879 |         29.889 | Spanish             | Spanish             | True            | True               | True          | True             |
+|      2 | Marquinhos  | Renato Augusto | Brazil    |                 0.156 |            943.000 |         21.601 |         27.781 | Portuguese          | Portuguese          | True            | True               | True          | True             |
+|      3 | N. Otamendi | Á. Di María    | Argentina |                 0.152 |           1113.000 |         27.879 |         27.846 | Spanish             | Spanish             | True            | True               | True          | True             |
+|      4 | Marquinhos  | Miranda        | Brazil    |                 0.152 |           1019.000 |         21.601 |         31.285 | Portuguese          | Portuguese          | True            | True               | True          | True             |
+|      5 | Marquinhos  | Dani Alves     | Brazil    |                 0.141 |           1107.000 |         21.601 |         32.654 | Portuguese          | Portuguese          | True            | True               | True          | True             |
 
 ## 2018 Russia - World Cup (World) - male
-|   Rank | Player 1        | Player 2      | Team    |   Defensive chemistry |
-|--------|-----------------|---------------|---------|-----------------------|
-|      1 | I. Rakitić      | Š. Vrsaljko   | Croatia |                 0.198 |
-|      2 | T. Alderweireld | J. Vertonghen | Belgium |                 0.187 |
-|      3 | Š. Vrsaljko     | D. Lovren     | Croatia |                 0.186 |
-|      4 | Š. Vrsaljko     | D. Vida       | Croatia |                 0.185 |
-|      5 | H. Kane         | H. Maguire    | England |                 0.183 |
+|   Rank | Player 1        | Player 2      | Team    |   Defensive chemistry |   Minutes together |   Age player 1 |   Age player 2 | Language player 1   | Language player 2   | Same language   | Same nationality   | Same region   | Same subregion   |
+|--------|-----------------|---------------|---------|-----------------------|--------------------|----------------|----------------|---------------------|---------------------|-----------------|--------------------|---------------|------------------|
+|      1 | I. Rakitić      | Š. Vrsaljko   | Croatia |                 0.198 |            606.000 |         30.297 |         26.447 | German              | Croatian            | False           | False              | True          | False            |
+|      2 | T. Alderweireld | J. Vertonghen | Belgium |                 0.187 |            540.000 |         29.310 |         31.167 | Dutch               | Dutch               | True            | True               | True          | True             |
+|      3 | Š. Vrsaljko     | D. Lovren     | Croatia |                 0.186 |            606.000 |         26.447 |         28.977 | Croatian            | Croatian            | True            | True               | True          | True             |
+|      4 | Š. Vrsaljko     | D. Vida       | Croatia |                 0.185 |            606.000 |         26.447 |         29.147 | Croatian            | Croatian            | True            | True               | True          | True             |
+|      5 | H. Kane         | H. Maguire    | England |                 0.183 |            572.000 |         24.908 |         25.316 | English             | English             | True            | True               | True          | True             |
 
 ## 2018 Finland - UEFA U19 Championship (Europe) - male
-|   Rank | Player 1        | Player 2        | Team         |   Defensive chemistry |
-|--------|-----------------|-----------------|--------------|-----------------------|
-|      1 | Thierry Correia | Rúben Vinagre   | Portugal U19 |                 0.308 |
-|      2 | A. Tripaldelli  | D. Bettella     | Italy U19    |                 0.256 |
-|      3 | Romain Correia  | Thierry Correia | Portugal U19 |                 0.241 |
-|      4 | Romain Correia  | Rúben Vinagre   | Portugal U19 |                 0.238 |
-|      5 | Romain Correia  | Florentino Luís | Portugal U19 |                 0.220 |
+|   Rank | Player 1        | Player 2        | Team         |   Defensive chemistry |   Minutes together |   Age player 1 |   Age player 2 | Language player 1   | Language player 2   | Same language   | Same nationality   | Same region   | Same subregion   |
+|--------|-----------------|-----------------|--------------|-----------------------|--------------------|----------------|----------------|---------------------|---------------------|-----------------|--------------------|---------------|------------------|
+|      1 | Thierry Correia | Rúben Vinagre   | Portugal U19 |                 0.308 |            480.000 |         18.745 |         18.688 | Portuguese          | Portuguese          | True            | True               | True          | True             |
+|      2 | A. Tripaldelli  | D. Bettella     | Italy U19    |                 0.256 |            463.000 |         18.786 |         17.628 | Italian             | Italian             | True            | True               | True          | True             |
+|      3 | Romain Correia  | Thierry Correia | Portugal U19 |                 0.241 |            480.000 |         18.748 |         18.745 | Portuguese          | Portuguese          | True            | True               | True          | True             |
+|      4 | Romain Correia  | Rúben Vinagre   | Portugal U19 |                 0.238 |            480.000 |         18.748 |         18.688 | Portuguese          | Portuguese          | True            | True               | True          | True             |
+|      5 | Romain Correia  | Florentino Luís | Portugal U19 |                 0.220 |            480.000 |         18.748 |         18.343 | Portuguese          | Portuguese          | True            | False              | False         | False            |
 
 ## 2018 - AFC Champions League (Asia) - male
-|   Rank | Player 1    | Player 2       | Team            |   Defensive chemistry |
-|--------|-------------|----------------|-----------------|-----------------------|
-|      1 | J. Hosseini | S. Khalilzadeh | Persepolis      |                 0.161 |
-|      2 | J. Hosseini | K. Kamyabinia  | Persepolis      |                 0.144 |
-|      3 | J. Hosseini | M. Ansari      | Persepolis      |                 0.133 |
-|      4 | Ki-Hun Yeom | Ki-Je Lee      | Suwon Bluewings |                 0.131 |
-|      5 | Ki-Je Lee   | D. Damjanović  | Suwon Bluewings |                 0.130 |
+|   Rank | Player 1    | Player 2       | Team            |   Defensive chemistry |   Minutes together |   Age player 1 |   Age player 2 | Language player 1   | Language player 2   | Same language   | Same nationality   | Same region   | Same subregion   |
+|--------|-------------|----------------|-----------------|-----------------------|--------------------|----------------|----------------|---------------------|---------------------|-----------------|--------------------|---------------|------------------|
+|      1 | J. Hosseini | S. Khalilzadeh | Persepolis      |                 0.161 |           1080.000 |         35.903 |         28.628 | Persian (Farsi)     | Persian (Farsi)     | True            | True               | True          | True             |
+|      2 | J. Hosseini | K. Kamyabinia  | Persepolis      |                 0.144 |            917.000 |         35.903 |         28.946 | Persian (Farsi)     | Persian (Farsi)     | True            | True               | True          | True             |
+|      3 | J. Hosseini | M. Ansari      | Persepolis      |                 0.133 |           1058.000 |         35.903 |         26.268 | Persian (Farsi)     | Persian (Farsi)     | True            | True               | True          | True             |
+|      4 | Ki-Hun Yeom | Ki-Je Lee      | Suwon Bluewings |                 0.131 |            943.000 |         34.643 |         26.290 | Korean              | Korean              | True            | True               | True          | True             |
+|      5 | Ki-Je Lee   | D. Damjanović  | Suwon Bluewings |                 0.130 |           1071.000 |         26.290 |         36.316 | Korean              | Bosnian             | False           | False              | False         | False            |
 
 ## 2018 - Allsvenskan (Sweden) - male
-|   Rank | Player 1     | Player 2        | Team           |   Defensive chemistry |
-|--------|--------------|-----------------|----------------|-----------------------|
-|      1 | R. Lindkvist | D. Sundgren     | AIK            |                 0.245 |
-|      2 | R. Kaib      | D. Gustavsson   | Elfsborg       |                 0.232 |
-|      3 | S. Lundevall | D. Gustavsson   | Elfsborg       |                 0.223 |
-|      4 | J. Nilsson   | D. Gustavsson   | Elfsborg       |                 0.223 |
-|      5 | I. Smith     | G. Thórarinsson | IFK Norrköping |                 0.214 |
+|   Rank | Player 1     | Player 2        | Team           |   Defensive chemistry |   Minutes together |   Age player 1 |   Age player 2 | Language player 1   | Language player 2   | Same language   | Same nationality   | Same region   | Same subregion   |
+|--------|--------------|-----------------|----------------|-----------------------|--------------------|----------------|----------------|---------------------|---------------------|-----------------|--------------------|---------------|------------------|
+|      1 | R. Lindkvist | D. Sundgren     | AIK            |                 0.245 |           1081.000 |         27.476 |         26.921 | Swedish             | Swedish             | True            | True               | True          | True             |
+|      2 | R. Kaib      | D. Gustavsson   | Elfsborg       |                 0.232 |            954.000 |         20.344 |         27.189 | Swedish             | Swedish             | True            | True               | True          | True             |
+|      3 | S. Lundevall | D. Gustavsson   | Elfsborg       |                 0.223 |           1268.000 |         29.119 |         27.189 | Swedish             | Swedish             | True            | True               | True          | True             |
+|      4 | J. Nilsson   | D. Gustavsson   | Elfsborg       |                 0.223 |           1395.000 |         23.747 |         27.189 | Swedish             | Swedish             | True            | True               | True          | True             |
+|      5 | I. Smith     | G. Thórarinsson | IFK Norrköping |                 0.214 |           1309.000 |         19.786 |         25.560 | Spanish             | Icelandic           | False           | False              | False         | False            |
 
 ## 2018 - CAF Champions League (Africa) - male
-|   Rank | Player 1    | Player 2   | Team       |   Defensive chemistry |
-|--------|-------------|------------|------------|-----------------------|
-|      1 | C. Kabaso   | I. Mpeko   | TP Mazembe |                 0.295 |
-|      2 | C. Koffi    | I. Mpeko   | TP Mazembe |                 0.284 |
-|      3 | J. Kasusula | I. Mpeko   | TP Mazembe |                 0.275 |
-|      4 | C. Kabaso   | C. Koffi   | TP Mazembe |                 0.260 |
-|      5 | A. Bedrane  | I. Sidhoum | ES Sétif   |                 0.252 |
+|   Rank | Player 1    | Player 2   | Team       |   Defensive chemistry |   Minutes together |   Age player 1 |   Age player 2 | Language player 1   | Language player 2   | Same language   | Same nationality   | Same region   | Same subregion   |
+|--------|-------------|------------|------------|-----------------------|--------------------|----------------|----------------|---------------------|---------------------|-----------------|--------------------|---------------|------------------|
+|      1 | C. Kabaso   | I. Mpeko   | TP Mazembe |                 0.295 |            630.000 |         25.790 |         28.574 | English             | French              | False           | False              | True          | False            |
+|      2 | C. Koffi    | I. Mpeko   | TP Mazembe |                 0.284 |            608.000 |         26.932 |         28.574 | French              | French              | True            | False              | True          | False            |
+|      3 | J. Kasusula | I. Mpeko   | TP Mazembe |                 0.275 |            540.000 |         35.293 |         28.574 | French              | French              | True            | True               | True          | True             |
+|      4 | C. Kabaso   | C. Koffi   | TP Mazembe |                 0.260 |            608.000 |         25.790 |         26.932 | English             | French              | False           | False              | True          | False            |
+|      5 | A. Bedrane  | I. Sidhoum | ES Sétif   |                 0.252 |            500.000 |         25.686 |         28.352 | Arabic              | Arabic              | True            | True               | True          | True             |
 
 ## 2018 - CONCACAF Champions League (N/C America) - male
-|   Rank | Player 1   | Player 2    | Team        |   Defensive chemistry |
-|--------|------------|-------------|-------------|-----------------------|
-|      1 | M. Murillo | K. Lawrence | New York RB |                 0.216 |
-|      2 | M. Murillo | A. Long     | New York RB |                 0.210 |
-|      3 | T. Adams   | M. Murillo  | New York RB |                 0.181 |
-|      4 | T. Adams   | A. Long     | New York RB |                 0.173 |
-|      5 | A. Long    | K. Lawrence | New York RB |                 0.148 |
+|   Rank | Player 1   | Player 2    | Team        |   Defensive chemistry |   Minutes together |   Age player 1 |   Age player 2 | Language player 1   | Language player 2   | Same language   | Same nationality   | Same region   | Same subregion   |
+|--------|------------|-------------|-------------|-----------------------|--------------------|----------------|----------------|---------------------|---------------------|-----------------|--------------------|---------------|------------------|
+|      1 | M. Murillo | K. Lawrence | New York RB |                 0.216 |            540.000 |         21.735 |         25.136 | Spanish             | English             | False           | False              | True          | False            |
+|      2 | M. Murillo | A. Long     | New York RB |                 0.210 |            540.000 |         21.735 |         25.067 | Spanish             | English             | False           | False              | True          | False            |
+|      3 | T. Adams   | M. Murillo  | New York RB |                 0.181 |            529.000 |         18.726 |         21.735 | English             | Spanish             | False           | False              | True          | False            |
+|      4 | T. Adams   | A. Long     | New York RB |                 0.173 |            529.000 |         18.726 |         25.067 | English             | English             | True            | True               | True          | True             |
+|      5 | A. Long    | K. Lawrence | New York RB |                 0.148 |            540.000 |         25.067 |         25.136 | English             | English             | True            | False              | True          | False            |
 
 ## 2018 - Copa Libertadores (South America) - male
-|   Rank | Player 1    | Player 2       | Team      |   Defensive chemistry |
-|--------|-------------|----------------|-----------|-----------------------|
-|      1 | Dudu        | Diogo Barbosa  | Palmeiras |                 0.261 |
-|      2 | M. Zaldivia | J. Insaurralde | Colo Colo |                 0.241 |
-|      3 | Geromel     | Bruno Cortez   | Grêmio    |                 0.221 |
-|      4 | Ó. Opazo    | M. Zaldivia    | Colo Colo |                 0.210 |
-|      5 | Dedé        | Egídio         | Cruzeiro  |                 0.210 |
+|   Rank | Player 1    | Player 2       | Team      |   Defensive chemistry |   Minutes together |   Age player 1 |   Age player 2 | Language player 1   | Language player 2   | Same language   | Same nationality   | Same region   | Same subregion   |
+|--------|-------------|----------------|-----------|-----------------------|--------------------|----------------|----------------|---------------------|---------------------|-----------------|--------------------|---------------|------------------|
+|      1 | Dudu        | Diogo Barbosa  | Palmeiras |                 0.261 |            540.000 |         25.908 |         25.248 | Portuguese          | Portuguese          | True            | True               | True          | True             |
+|      2 | M. Zaldivia | J. Insaurralde | Colo Colo |                 0.241 |            491.000 |         26.883 |         32.630 | Spanish             | Spanish             | True            | True               | True          | True             |
+|      3 | Geromel     | Bruno Cortez   | Grêmio    |                 0.221 |            570.000 |         32.238 |         30.770 | Portuguese          | Portuguese          | True            | True               | True          | True             |
+|      4 | Ó. Opazo    | M. Zaldivia    | Colo Colo |                 0.210 |            516.000 |         27.129 |         26.883 | Spanish             | Spanish             | True            | False              | True          | True             |
+|      5 | Dedé        | Egídio         | Cruzeiro  |                 0.210 |            630.000 |         28.909 |         31.401 | Portuguese          | Portuguese          | True            | True               | True          | True             |
+
+## 2018 - Copa Sudamericana (South America) - male
+|   Rank | Player 1   | Player 2    | Team                |   Defensive chemistry |   Minutes together |   Age player 1 |   Age player 2 | Language player 1   | Language player 2   | Same language   | Same nationality   | Same region   | Same subregion   |
+|--------|------------|-------------|---------------------|-----------------------|--------------------|----------------|----------------|---------------------|---------------------|-----------------|--------------------|---------------|------------------|
+|      1 | Ibañez     | Ayrton      | Fluminense          |                 0.268 |            630.000 |         18.283 |         20.418 | Portuguese          | Portuguese          | True            | True               | True          | True             |
+|      2 | Jonathan   | Paulo André | Atletico Paranaense |                 0.252 |            480.000 |         31.767 |         34.272 | Portuguese          | Portuguese          | True            | True               | True          | True             |
+|      3 | Everaldo   | Gum         | Fluminense          |                 0.248 |            481.000 |         23.365 |         31.819 | Portuguese          | Portuguese          | True            | True               | True          | True             |
+|      4 | Ayrton     | Jádson      | Fluminense          |                 0.236 |            813.000 |         20.418 |         24.227 | Portuguese          | Portuguese          | True            | True               | True          | True             |
+|      5 | Ayrton     | Everaldo    | Fluminense          |                 0.234 |            482.000 |         20.418 |         23.365 | Portuguese          | Portuguese          | True            | True               | True          | True             |
 
 ## 2018 - Eliteserien (Norway) - male
-|   Rank | Player 1      | Player 2    | Team       |   Defensive chemistry |
-|--------|---------------|-------------|------------|-----------------------|
-|      1 | L. Marengo    | V. Wormgoor | Brann      |                 0.200 |
-|      2 | L. Marengo    | B. Acosta   | Brann      |                 0.181 |
-|      3 | M. Haakenstad | S. Mikalsen | Lillestrøm |                 0.173 |
-|      4 | G. Rólantsson | K. Barmen   | Brann      |                 0.162 |
-|      5 | G. Koomson    | B. Acosta   | Brann      |                 0.161 |
+|   Rank | Player 1      | Player 2    | Team       |   Defensive chemistry |   Minutes together |   Age player 1 |   Age player 2 | Language player 1   | Language player 2   | Same language   | Same nationality   | Same region   | Same subregion   |
+|--------|---------------|-------------|------------|-----------------------|--------------------|----------------|----------------|---------------------|---------------------|-----------------|--------------------|---------------|------------------|
+|      1 | L. Marengo    | V. Wormgoor | Brann      |                 0.200 |            925.000 |         26.203 |         29.010 | Dutch               | Dutch               | True            | True               | True          | True             |
+|      2 | L. Marengo    | B. Acosta   | Brann      |                 0.181 |            925.000 |         26.203 |         30.940 | Dutch               | Spanish             | False           | False              | False         | False            |
+|      3 | M. Haakenstad | S. Mikalsen | Lillestrøm |                 0.173 |            949.000 |         24.054 |         24.585 | Norwegian           | Norwegian           | True            | True               | True          | True             |
+|      4 | G. Rólantsson | K. Barmen   | Brann      |                 0.162 |           1404.000 |         25.275 |         24.216 | Faroese             | Norwegian           | False           | False              | True          | True             |
+|      5 | G. Koomson    | B. Acosta   | Brann      |                 0.161 |           1882.000 |         23.216 |         30.940 | English             | Spanish             | False           | False              | False         | False            |
 
 ## 2018 - MLS (United States) - male
-|   Rank | Player 1   | Player 2     | Team            |   Defensive chemistry |
-|--------|------------|--------------|-----------------|-----------------------|
-|      1 | J. Gressel | G. Garza     | Atlanta United  |                 0.221 |
-|      2 | G. Garza   | M. Parkhurst | Atlanta United  |                 0.215 |
-|      3 | D. Lovitz  | C. Duvall    | Montreal Impact |                 0.214 |
-|      4 | F. Escobar | D. Nagbe     | Atlanta United  |                 0.202 |
-|      5 | F. Escobar | E. Remedi    | Atlanta United  |                 0.194 |
+|   Rank | Player 1   | Player 2     | Team            |   Defensive chemistry |   Minutes together |   Age player 1 |   Age player 2 | Language player 1   | Language player 2   | Same language   | Same nationality   | Same region   | Same subregion   |
+|--------|------------|--------------|-----------------|-----------------------|--------------------|----------------|----------------|---------------------|---------------------|-----------------|--------------------|---------------|------------------|
+|      1 | J. Gressel | G. Garza     | Atlanta United  |                 0.221 |           1229.000 |         23.863 |         26.128 | German              | English             | False           | False              | False         | False            |
+|      2 | G. Garza   | M. Parkhurst | Atlanta United  |                 0.215 |           1350.000 |         26.128 |         33.758 | English             | English             | True            | True               | True          | True             |
+|      3 | D. Lovitz  | C. Duvall    | Montreal Impact |                 0.214 |           1089.000 |         26.157 |         26.059 | English             | English             | True            | True               | True          | True             |
+|      4 | F. Escobar | D. Nagbe     | Atlanta United  |                 0.202 |           1485.000 |         22.765 |         27.302 | Spanish             | English             | False           | False              | False         | False            |
+|      5 | F. Escobar | E. Remedi    | Atlanta United  |                 0.194 |           1007.000 |         22.765 |         22.518 | Spanish             | Spanish             | True            | True               | True          | True             |
 
 ## 2018 - Obos Ligaen (Norway) - male
-|   Rank | Player 1    | Player 2     | Team       |   Defensive chemistry |
-|--------|-------------|--------------|------------|-----------------------|
-|      1 | W. Sell     | V. Dragsnes  | Mjøndalen  |                 0.277 |
-|      2 | S. Johansen | W. Sell      | Mjøndalen  |                 0.245 |
-|      3 | E. Larsen   | P. Nergard   | Nest-Sotra |                 0.223 |
-|      4 | Q. Jansen   | W. Sell      | Mjøndalen  |                 0.222 |
-|      5 | E. Larsen   | P. Martinsen | Nest-Sotra |                 0.216 |
+|   Rank | Player 1    | Player 2     | Team       |   Defensive chemistry |   Minutes together |   Age player 1 |   Age player 2 | Language player 1   | Language player 2   | Same language   | Same nationality   | Same region   | Same subregion   |
+|--------|-------------|--------------|------------|-----------------------|--------------------|----------------|----------------|---------------------|---------------------|-----------------|--------------------|---------------|------------------|
+|      1 | W. Sell     | V. Dragsnes  | Mjøndalen  |                 0.277 |           1105.000 |         19.493 |         24.385 | Norwegian           | Norwegian           | True            | True               | True          | True             |
+|      2 | S. Johansen | W. Sell      | Mjøndalen  |                 0.245 |           1062.000 |         22.973 |         19.493 | Norwegian           | Norwegian           | True            | True               | True          | True             |
+|      3 | E. Larsen   | P. Nergard   | Nest-Sotra |                 0.223 |            960.000 |         22.789 |         27.635 | Norwegian           | Norwegian           | True            | True               | True          | True             |
+|      4 | Q. Jansen   | W. Sell      | Mjøndalen  |                 0.222 |           1062.000 |         27.794 |         19.493 | Dutch               | Norwegian           | False           | False              | True          | False            |
+|      5 | E. Larsen   | P. Martinsen | Nest-Sotra |                 0.216 |            936.000 |         22.789 |         28.391 | Norwegian           | Norwegian           | True            | True               | True          | True             |
 
 ## 2018 - Premier League (Belarus) - male
-|   Rank | Player 1      | Player 2      | Team      |   Defensive chemistry |
-|--------|---------------|---------------|-----------|-----------------------|
-|      1 | N. Zolotov    | A. Skitov     | Vitebsk   |                 0.193 |
-|      2 | Elis Bakaj    | I. Burko      | Shakhtyor |                 0.186 |
-|      3 | Y. Kovalev    | I. Burko      | Shakhtyor |                 0.177 |
-|      4 | S. Matveichyk | M. Bordachev  | Shakhtyor |                 0.172 |
-|      5 | N. Naumov     | O. Karamushka | Vitebsk   |                 0.168 |
+|   Rank | Player 1      | Player 2      | Team      |   Defensive chemistry |   Minutes together |   Age player 1 |   Age player 2 | Language player 1   | Language player 2   | Same language   | Same nationality   | Same region   | Same subregion   |
+|--------|---------------|---------------|-----------|-----------------------|--------------------|----------------|----------------|---------------------|---------------------|-----------------|--------------------|---------------|------------------|
+|      1 | N. Zolotov    | A. Skitov     | Vitebsk   |                 0.193 |           2479.000 |         23.043 |         26.849 | Belarusian          | Belarusian          | True            | True               | True          | True             |
+|      2 | Elis Bakaj    | I. Burko      | Shakhtyor |                 0.186 |           1511.000 |         30.496 |         29.217 | Albanian            | Belarusian          | False           | False              | True          | False            |
+|      3 | Y. Kovalev    | I. Burko      | Shakhtyor |                 0.177 |           1957.000 |         24.831 |         29.217 | Belarusian          | Belarusian          | True            | True               | True          | True             |
+|      4 | S. Matveichyk | M. Bordachev  | Shakhtyor |                 0.172 |            916.000 |         29.477 |         31.443 | Belarusian          | Belarusian          | True            | True               | True          | True             |
+|      5 | N. Naumov     | O. Karamushka | Vitebsk   |                 0.168 |           1313.000 |         28.032 |         33.576 | Belarusian          | Ukrainian           | False           | False              | True          | True             |
 
 ## 2018 - Premier League (Kazakhstan) - male
-|   Rank | Player 1      | Player 2        | Team   |   Defensive chemistry |
-|--------|---------------|-----------------|--------|-----------------------|
-|      1 | F. Kassaï     | V. Dmitrenko    | Tobol  |                 0.204 |
-|      2 | F. Kassaï     | M. Fedin        | Tobol  |                 0.201 |
-|      3 | M. Fedin      | V. Dmitrenko    | Tobol  |                 0.193 |
-|      4 | D. Shomko     | L. Kleinheisler | Astana |                 0.191 |
-|      5 | A. Beysebekov | D. Shomko       | Astana |                 0.189 |
+|   Rank | Player 1      | Player 2        | Team   |   Defensive chemistry |   Minutes together |   Age player 1 |   Age player 2 | Language player 1   | Language player 2   | Same language   | Same nationality   | Same region   | Same subregion   |
+|--------|---------------|-----------------|--------|-----------------------|--------------------|----------------|----------------|---------------------|---------------------|-----------------|--------------------|---------------|------------------|
+|      1 | F. Kassaï     | V. Dmitrenko    | Tobol  |                 0.204 |           1533.000 |         30.981 |         27.221 | French              | Russian             | False           | False              | False         | False            |
+|      2 | F. Kassaï     | M. Fedin        | Tobol  |                 0.201 |           1521.000 |         30.981 |         22.041 | French              | Kazakh              | False           | False              | False         | False            |
+|      3 | M. Fedin      | V. Dmitrenko    | Tobol  |                 0.193 |           1479.000 |         22.041 |         27.221 | Kazakh              | Russian             | False           | False              | False         | False            |
+|      4 | D. Shomko     | L. Kleinheisler | Astana |                 0.191 |            908.000 |         28.268 |         24.213 | Kazakh              | Hungarian           | False           | False              | False         | False            |
+|      5 | A. Beysebekov | D. Shomko       | Astana |                 0.189 |            911.000 |         25.546 |         28.268 | Kazakh              | Kazakh              | True            | True               | True          | True             |
 
 ## 2018 - Primera A (Colombia) - male
-|   Rank | Player 1    | Player 2    | Team              |   Defensive chemistry |
-|--------|-------------|-------------|-------------------|-----------------------|
-|      1 | J. Nieto    | D. Arias    | Atlético Nacional |                 0.184 |
-|      2 | A. Torralvo | W. Pacheco  | La Equidad        |                 0.173 |
-|      3 | D. Machado  | H. Palacios | Atlético Nacional |                 0.166 |
-|      4 | D. Muñoz    | L. Mosquera | Rionegro Águilas  |                 0.161 |
-|      5 | J. Nieto    | E. Velasco  | Atlético Nacional |                 0.158 |
+|   Rank | Player 1    | Player 2    | Team              |   Defensive chemistry |   Minutes together |   Age player 1 |   Age player 2 | Language player 1   | Language player 2   | Same language   | Same nationality   | Same region   | Same subregion   |
+|--------|-------------|-------------|-------------------|-----------------------|--------------------|----------------|----------------|---------------------|---------------------|-----------------|--------------------|---------------|------------------|
+|      1 | J. Nieto    | D. Arias    | Atlético Nacional |                 0.184 |           1517.000 |         24.753 |         32.469 | Spanish             | Spanish             | True            | True               | True          | True             |
+|      2 | A. Torralvo | W. Pacheco  | La Equidad        |                 0.173 |           1336.000 |         23.145 |         22.872 | Spanish             | Spanish             | True            | True               | True          | True             |
+|      3 | D. Machado  | H. Palacios | Atlético Nacional |                 0.166 |           1066.000 |         24.317 |         24.371 | Spanish             | Spanish             | True            | True               | True          | True             |
+|      4 | D. Muñoz    | L. Mosquera | Rionegro Águilas  |                 0.161 |           1080.000 |         21.484 |         28.487 | Spanish             | Spanish             | True            | True               | True          | True             |
+|      5 | J. Nieto    | E. Velasco  | Atlético Nacional |                 0.158 |           1518.000 |         24.753 |         26.078 | Spanish             | Spanish             | True            | True               | True          | True             |
 
 ## 2018 - Primera B (Colombia) - male
-|   Rank | Player 1    | Player 2    | Team              |   Defensive chemistry |
-|--------|-------------|-------------|-------------------|-----------------------|
-|      1 | J. Palomino | L. Mena     | Deportivo Pereira |                 0.091 |
-|      2 | C. Mejía    | L. Mena     | Deportivo Pereira |                 0.078 |
-|      3 | C. Mejía    | R. Navarro  | Deportivo Pereira |                 0.071 |
-|      4 | J. Palomino | R. Castillo | Deportivo Pereira |                 0.070 |
-|      5 | R. Castillo | F. Córdoba  | Deportivo Pereira |                 0.064 |
+|   Rank | Player 1    | Player 2    | Team              |   Defensive chemistry |   Minutes together |   Age player 1 |   Age player 2 | Language player 1   | Language player 2   | Same language   | Same nationality   | Same region   | Same subregion   |
+|--------|-------------|-------------|-------------------|-----------------------|--------------------|----------------|----------------|---------------------|---------------------|-----------------|--------------------|---------------|------------------|
+|      1 | J. Palomino | L. Mena     | Deportivo Pereira |                 0.091 |            941.000 |         28.821 |         23.482 | Spanish             | Spanish             | True            | True               | True          | True             |
+|      2 | C. Mejía    | L. Mena     | Deportivo Pereira |                 0.078 |           1014.000 |         27.088 |         23.482 | Spanish             | Spanish             | True            | True               | True          | True             |
+|      3 | C. Mejía    | R. Navarro  | Deportivo Pereira |                 0.071 |            935.000 |         27.088 |         28.704 | Spanish             | Spanish             | True            | True               | True          | True             |
+|      4 | J. Palomino | R. Castillo | Deportivo Pereira |                 0.070 |            946.000 |         28.821 |         26.779 | Spanish             | Spanish             | True            | True               | True          | True             |
+|      5 | R. Castillo | F. Córdoba  | Deportivo Pereira |                 0.064 |           1110.000 |         26.779 |         29.180 | Spanish             | Spanish             | True            | True               | True          | True             |
 
 ## 2018 - Serie A (Brazil) - male
-|   Rank | Player 1    | Player 2      | Team        |   Defensive chemistry |
-|--------|-------------|---------------|-------------|-----------------------|
-|      1 | L. Romero   | Egídio        | Cruzeiro    |                 0.216 |
-|      2 | Léo Pereira | Jonathan      | Atlético PR |                 0.216 |
-|      3 | Renan Lodi  | Jonathan      | Atlético PR |                 0.209 |
-|      4 | J. Rojas    | Bruno Alves   | São Paulo   |                 0.204 |
-|      5 | Nikão       | Thiago Heleno | Atlético PR |                 0.201 |
+|   Rank | Player 1    | Player 2      | Team        |   Defensive chemistry |   Minutes together |   Age player 1 |   Age player 2 | Language player 1   | Language player 2   | Same language   | Same nationality   | Same region   | Same subregion   |
+|--------|-------------|---------------|-------------|-----------------------|--------------------|----------------|----------------|---------------------|---------------------|-----------------|--------------------|---------------|------------------|
+|      1 | L. Romero   | Egídio        | Cruzeiro    |                 0.216 |           1012.000 |         24.156 |         31.984 | Spanish             | Portuguese          | False           | False              | True          | True             |
+|      2 | Léo Pereira | Jonathan      | Atlético PR |                 0.216 |           1286.000 |         22.187 |         32.208 | Portuguese          | Portuguese          | True            | True               | True          | True             |
+|      3 | Renan Lodi  | Jonathan      | Atlético PR |                 0.209 |           1327.000 |         20.184 |         32.208 | Portuguese          | Portuguese          | True            | True               | True          | True             |
+|      4 | J. Rojas    | Bruno Alves   | São Paulo   |                 0.204 |           1079.000 |         28.911 |         27.160 | Spanish             | Portuguese          | False           | False              | True          | True             |
+|      5 | Nikão       | Thiago Heleno | Atlético PR |                 0.201 |           1061.000 |         25.876 |         29.739 | Portuguese          | Portuguese          | True            | True               | True          | True             |
 
 ## 2018 - Serie B (Brazil) - male
-|   Rank | Player 1        | Player 2      | Team              |   Defensive chemistry |
-|--------|-----------------|---------------|-------------------|-----------------------|
-|      1 | Conrado         | Daniel Borges | Oeste             |                 0.192 |
-|      2 | Reginaldo       | Igor Vinícius | Ponte Preta       |                 0.181 |
-|      3 | Alex Ruan       | Éder Sciola   | Brasil de Pelotas |                 0.177 |
-|      4 | Éder Sciola     | Héverton      | Brasil de Pelotas |                 0.174 |
-|      5 | Matheus Barbosa | Betão         | Avaí              |                 0.168 |
+|   Rank | Player 1        | Player 2      | Team              |   Defensive chemistry |   Minutes together |   Age player 1 |   Age player 2 | Language player 1   | Language player 2   | Same language   | Same nationality   | Same region   | Same subregion   |
+|--------|-----------------|---------------|-------------------|-----------------------|--------------------|----------------|----------------|---------------------|---------------------|-----------------|--------------------|---------------|------------------|
+|      1 | Conrado         | Daniel Borges | Oeste             |                 0.192 |           1251.000 |         21.232 |         25.262 | Portuguese          | Portuguese          | True            | True               | True          | True             |
+|      2 | Reginaldo       | Igor Vinícius | Ponte Preta       |                 0.181 |           1402.000 |         25.903 |         21.218 | Portuguese          | Portuguese          | True            | True               | True          | True             |
+|      3 | Alex Ruan       | Éder Sciola   | Brasil de Pelotas |                 0.177 |            984.000 |         25.382 |         32.739 | Portuguese          | Portuguese          | True            | True               | True          | True             |
+|      4 | Éder Sciola     | Héverton      | Brasil de Pelotas |                 0.174 |           1095.000 |         32.739 |         30.347 | Portuguese          | Portuguese          | True            | True               | True          | True             |
+|      5 | Matheus Barbosa | Betão         | Avaí              |                 0.168 |           1340.000 |         23.809 |         34.626 | Portuguese          | Portuguese          | True            | True               | True          | True             |
 
 ## 2018 - Superettan (Sweden) - male
-|   Rank | Player 1   | Player 2       | Team       |   Defensive chemistry |
-|--------|------------|----------------|------------|-----------------------|
-|      1 | K. Hodzic  | A. Kojic       | Eskilstuna |                 0.249 |
-|      2 | K. Hodzic  | Wellyson       | Eskilstuna |                 0.234 |
-|      3 | K. Hodzic  | A. Michel      | Eskilstuna |                 0.227 |
-|      4 | K. Hodzic  | R. Åstedt      | Eskilstuna |                 0.224 |
-|      5 | K. Hodzic  | Z. Tsiskaridze | Eskilstuna |                 0.200 |
+|   Rank | Player 1   | Player 2       | Team       |   Defensive chemistry |   Minutes together |   Age player 1 |   Age player 2 | Language player 1   | Language player 2   | Same language   | Same nationality   | Same region   | Same subregion   |
+|--------|------------|----------------|------------|-----------------------|--------------------|----------------|----------------|---------------------|---------------------|-----------------|--------------------|---------------|------------------|
+|      1 | K. Hodzic  | A. Kojic       | Eskilstuna |                 0.249 |           2397.000 |         23.252 |         21.907 | Swedish             | Swedish             | True            | True               | True          | True             |
+|      2 | K. Hodzic  | Wellyson       | Eskilstuna |                 0.234 |            974.000 |         23.252 |         23.799 | Swedish             | Portuguese          | False           | False              | False         | False            |
+|      3 | K. Hodzic  | A. Michel      | Eskilstuna |                 0.227 |           2487.000 |         23.252 |         24.976 | Swedish             | Swedish             | True            | True               | True          | True             |
+|      4 | K. Hodzic  | R. Åstedt      | Eskilstuna |                 0.224 |           1557.000 |         23.252 |         21.759 | Swedish             | Swedish             | True            | True               | True          | True             |
+|      5 | K. Hodzic  | Z. Tsiskaridze | Eskilstuna |                 0.200 |           2084.000 |         23.252 |         30.814 | Swedish             | Georgian            | False           | False              | False         | False            |
 
 ## 2018 - Veikkausliiga (Finland) - male
-|   Rank | Player 1       | Player 2    | Team   |   Defensive chemistry |
-|--------|----------------|-------------|--------|-----------------------|
-|      1 | F. Obilor      | J. Pirinen  | HJK    |                 0.221 |
-|      2 | Agnaldo        | T. Taiwo    | RoPS   |                 0.218 |
-|      3 | J. Pirinen     | N. Alho     | HJK    |                 0.216 |
-|      4 | E. Mensah      | F. Obilor   | HJK    |                 0.212 |
-|      5 | A. Laatikainen | J. Engström | VPS    |                 0.211 |
+|   Rank | Player 1       | Player 2    | Team   |   Defensive chemistry |   Minutes together |   Age player 1 |   Age player 2 | Language player 1   | Language player 2   | Same language   | Same nationality   | Same region   | Same subregion   |
+|--------|----------------|-------------|--------|-----------------------|--------------------|----------------|----------------|---------------------|---------------------|-----------------|--------------------|---------------|------------------|
+|      1 | F. Obilor      | J. Pirinen  | HJK    |                 0.221 |           1215.000 |         27.320 |         26.688 | English             | Finnish             | False           | False              | False         | False            |
+|      2 | Agnaldo        | T. Taiwo    | RoPS   |                 0.218 |           1418.000 |         24.174 |         33.196 | Portuguese          | English             | False           | False              | False         | False            |
+|      3 | J. Pirinen     | N. Alho     | HJK    |                 0.216 |            933.000 |         26.688 |         25.300 | Finnish             | Finnish             | True            | True               | True          | True             |
+|      4 | E. Mensah      | F. Obilor   | HJK    |                 0.212 |           1023.000 |         20.385 |         27.320 | English             | English             | True            | False              | True          | True             |
+|      5 | A. Laatikainen | J. Engström | VPS    |                 0.211 |            913.000 |         21.475 |         26.077 | Finnish             | Finnish             | True            | True               | True          | True             |
 
 ## 2017/2018 - 1. Division (Cyprus) - male
-|   Rank | Player 1       | Player 2     | Team   |   Defensive chemistry |
-|--------|----------------|--------------|--------|-----------------------|
-|      1 | C. Wheeler     | Marco Airosa | AEL    |                 0.315 |
-|      2 | C. Wheeler     | B. Mitrea    | AEL    |                 0.219 |
-|      3 | C. Wheeler     | K. Lafrance  | AEL    |                 0.212 |
-|      4 | C. Wheeler     | Marco Soares | AEL    |                 0.211 |
-|      5 | Fidelis Irhene | C. Wheeler   | AEL    |                 0.210 |
+|   Rank | Player 1       | Player 2     | Team   |   Defensive chemistry |   Minutes together |   Age player 1 |   Age player 2 | Language player 1   | Language player 2   | Same language   | Same nationality   | Same region   | Same subregion   |
+|--------|----------------|--------------|--------|-----------------------|--------------------|----------------|----------------|---------------------|---------------------|-----------------|--------------------|---------------|------------------|
+|      1 | C. Wheeler     | Marco Airosa | AEL    |                 0.315 |           1322.000 |         19.895 |         32.898 | Greek (modern)      | Portuguese          | False           | False              | False         | False            |
+|      2 | C. Wheeler     | B. Mitrea    | AEL    |                 0.219 |           1582.000 |         19.895 |         29.752 | Greek (modern)      | Romanian            | False           | False              | True          | False            |
+|      3 | C. Wheeler     | K. Lafrance  | AEL    |                 0.212 |           1386.000 |         19.895 |         27.460 | Greek (modern)      | French              | False           | False              | True          | False            |
+|      4 | C. Wheeler     | Marco Soares | AEL    |                 0.211 |           1515.000 |         19.895 |         33.037 | Greek (modern)      | Portuguese          | False           | False              | True          | True             |
+|      5 | Fidelis Irhene | C. Wheeler   | AEL    |                 0.210 |           1181.000 |         21.335 |         19.895 | English             | Greek (modern)      | False           | False              | False         | False            |
 
 ## 2017/2018 - 1. HNL (Croatia) - male
-|   Rank | Player 1     | Player 2      | Team                     |   Defensive chemistry |
-|--------|--------------|---------------|--------------------------|-----------------------|
-|      1 | N. Matas     | A. Vojnović   | Istra 1961               |                 0.188 |
-|      2 | Borja López  | H. Memolla    | Hajduk Split             |                 0.182 |
-|      3 | V. Međimorec | V. Purić      | Slaven Belupo Koprivnica |                 0.181 |
-|      4 | H. Barry     | A. Fomitschow | Hajduk Split             |                 0.176 |
-|      5 | R. Mitrevski | M. Bertoša    | Istra 1961               |                 0.174 |
+|   Rank | Player 1     | Player 2      | Team                     |   Defensive chemistry |   Minutes together |   Age player 1 |   Age player 2 | Language player 1   | Language player 2   | Same language   | Same nationality   | Same region   | Same subregion   |
+|--------|--------------|---------------|--------------------------|-----------------------|--------------------|----------------|----------------|---------------------|---------------------|-----------------|--------------------|---------------|------------------|
+|      1 | N. Matas     | A. Vojnović   | Istra 1961               |                 0.188 |            994.000 |         29.916 |         31.589 | Croatian            | Croatian            | True            | True               | True          | True             |
+|      2 | Borja López  | H. Memolla    | Hajduk Split             |                 0.182 |            928.000 |         23.375 |         24.897 | Spanish             | Albanian            | False           | False              | True          | True             |
+|      3 | V. Međimorec | V. Purić      | Slaven Belupo Koprivnica |                 0.181 |            998.000 |         20.985 |            nan | Croatian            | Croatian            | True            | True               | True          | True             |
+|      4 | H. Barry     | A. Fomitschow | Hajduk Split             |                 0.176 |           1039.000 |         22.614 |         26.715 | English             | German              | False           | False              | False         | False            |
+|      5 | R. Mitrevski | M. Bertoša    | Istra 1961               |                 0.174 |           1109.000 |         25.631 |         28.355 | Macedonian          | Croatian            | False           | False              | True          | True             |
 
 ## 2017/2018 - 1. Lig (Turkey) - male
-|   Rank | Player 1   | Player 2   | Team        |   Defensive chemistry |
-|--------|------------|------------|-------------|-----------------------|
-|      1 | R. Arapi   | A. Öztürk  | Boluspor    |                 0.195 |
-|      2 | A. Korkut  | D. Dimov   | Manisaspor  |                 0.194 |
-|      3 | Z. Alkurt  | K. Akyüz   | Denizlispor |                 0.183 |
-|      4 | F. Şeker   | R. Poepon  | Boluspor    |                 0.176 |
-|      5 | U. Meraş   | F. Şeker   | Boluspor    |                 0.172 |
+|   Rank | Player 1   | Player 2   | Team        |   Defensive chemistry |   Minutes together |   Age player 1 |   Age player 2 | Language player 1   | Language player 2   | Same language   | Same nationality   | Same region   | Same subregion   |
+|--------|------------|------------|-------------|-----------------------|--------------------|----------------|----------------|---------------------|---------------------|-----------------|--------------------|---------------|------------------|
+|      1 | R. Arapi   | A. Öztürk  | Boluspor    |                 0.195 |           1038.000 |         30.754 |         24.531 | Albanian            | Dutch               | False           | False              | True          | False            |
+|      2 | A. Korkut  | D. Dimov   | Manisaspor  |                 0.194 |            990.000 |         23.534 |         28.311 | Turkish             | Bulgarian           | False           | False              | False         | False            |
+|      3 | Z. Alkurt  | K. Akyüz   | Denizlispor |                 0.183 |           1732.000 |         26.650 |         27.870 | Turkish             | Turkish             | True            | True               | True          | True             |
+|      4 | F. Şeker   | R. Poepon  | Boluspor    |                 0.176 |            935.000 |         25.141 |         28.753 | Turkish             | Dutch               | False           | False              | False         | False            |
+|      5 | U. Meraş   | F. Şeker   | Boluspor    |                 0.172 |           1897.000 |         21.431 |         25.141 | Turkish             | Turkish             | True            | True               | True          | True             |
 
 ## 2017/2018 - 1. SNL (Slovenia) - male
-|   Rank | Player 1      | Player 2      | Team    |   Defensive chemistry |
-|--------|---------------|---------------|---------|-----------------------|
-|      1 | D. Melnjak    | M. Širok      | Domžale |                 0.188 |
-|      2 | G. Dobrovoljc | D. Melnjak    | Domžale |                 0.162 |
-|      3 | A. Ibraimi    | D. Melnjak    | Domžale |                 0.154 |
-|      4 | A. Ibraimi    | G. Dobrovoljc | Domžale |                 0.145 |
-|      5 | G. Dobrovoljc | M. Širok      | Domžale |                 0.141 |
+|   Rank | Player 1      | Player 2      | Team    |   Defensive chemistry |   Minutes together |   Age player 1 |   Age player 2 | Language player 1   | Language player 2   | Same language   | Same nationality   | Same region   | Same subregion   |
+|--------|---------------|---------------|---------|-----------------------|--------------------|----------------|----------------|---------------------|---------------------|-----------------|--------------------|---------------|------------------|
+|      1 | D. Melnjak    | M. Širok      | Domžale |                 0.188 |           1698.000 |         24.569 |         26.083 | Croatian            | Slovene             | False           | False              | True          | True             |
+|      2 | G. Dobrovoljc | D. Melnjak    | Domžale |                 0.162 |           1951.000 |         24.421 |         24.569 | Slovene             | Croatian            | False           | False              | True          | True             |
+|      3 | A. Ibraimi    | D. Melnjak    | Domžale |                 0.154 |           1250.000 |         27.980 |         24.569 | Macedonian          | Croatian            | False           | False              | True          | True             |
+|      4 | A. Ibraimi    | G. Dobrovoljc | Domžale |                 0.145 |           1160.000 |         27.980 |         24.421 | Macedonian          | Slovene             | False           | False              | True          | True             |
+|      5 | G. Dobrovoljc | M. Širok      | Domžale |                 0.141 |           2011.000 |         24.421 |         26.083 | Slovene             | Slovene             | True            | True               | True          | True             |
 
 ## 2017/2018 - 1st Division (Denmark) - male
-|   Rank | Player 1      | Player 2     | Team    |   Defensive chemistry |
-|--------|---------------|--------------|---------|-----------------------|
-|      1 | M. Greve      | M. Lauritsen | Vejle   |                 0.215 |
-|      2 | S. Branca     | V. Davidsen  | Vejle   |                 0.204 |
-|      3 | S. Branca     | M. Greve     | Vejle   |                 0.199 |
-|      4 | N. Hagelskjær | J. Lauridsen | Esbjerg |                 0.183 |
-|      5 | Allan Sousa   | V. Davidsen  | Vejle   |                 0.177 |
+|   Rank | Player 1      | Player 2     | Team    |   Defensive chemistry |   Minutes together |   Age player 1 |   Age player 2 | Language player 1   | Language player 2   | Same language   | Same nationality   | Same region   | Same subregion   |
+|--------|---------------|--------------|---------|-----------------------|--------------------|----------------|----------------|---------------------|---------------------|-----------------|--------------------|---------------|------------------|
+|      1 | M. Greve      | M. Lauritsen | Vejle   |                 0.215 |            960.000 |         27.706 |         24.620 | Danish              | Danish              | True            | True               | True          | True             |
+|      2 | S. Branca     | V. Davidsen  | Vejle   |                 0.204 |            997.000 |         25.231 |         25.894 | Italian             | Faroese             | False           | False              | True          | False            |
+|      3 | S. Branca     | M. Greve     | Vejle   |                 0.199 |           1106.000 |         25.231 |         27.706 | Italian             | Danish              | False           | False              | True          | False            |
+|      4 | N. Hagelskjær | J. Lauridsen | Esbjerg |                 0.183 |           1893.000 |         26.945 |         26.091 | Danish              | Danish              | True            | True               | True          | True             |
+|      5 | Allan Sousa   | V. Davidsen  | Vejle   |                 0.177 |           1006.000 |         20.234 |         25.894 | Portuguese          | Faroese             | False           | False              | False         | False            |
 
 ## 2017/2018 - 2. Bundesliga (Germany) - male
-|   Rank | Player 1    | Player 2     | Team         |   Defensive chemistry |
-|--------|-------------|--------------|--------------|-----------------------|
-|      1 | R. Brégerie | A. Sulu      | Darmstadt 98 |                 0.179 |
-|      2 | L. Paqarada | P. Klingmann | Sandhausen   |                 0.177 |
-|      3 | R. Brégerie | F. Holland   | Darmstadt 98 |                 0.166 |
-|      4 | J. Jones    | R. Brégerie  | Darmstadt 98 |                 0.165 |
-|      5 | L. Paqarada | T. Kister    | Sandhausen   |                 0.163 |
+|   Rank | Player 1    | Player 2     | Team         |   Defensive chemistry |   Minutes together |   Age player 1 |   Age player 2 | Language player 1   | Language player 2   | Same language   | Same nationality   | Same region   | Same subregion   |
+|--------|-------------|--------------|--------------|-----------------------|--------------------|----------------|----------------|---------------------|---------------------|-----------------|--------------------|---------------|------------------|
+|      1 | R. Brégerie | A. Sulu      | Darmstadt 98 |                 0.179 |           1100.000 |         30.781 |         31.421 | French              | German              | False           | False              | True          | True             |
+|      2 | L. Paqarada | P. Klingmann | Sandhausen   |                 0.177 |           1521.000 |         22.619 |         29.081 | German              | German              | True            | True               | True          | True             |
+|      3 | R. Brégerie | F. Holland   | Darmstadt 98 |                 0.166 |           1055.000 |         30.781 |         26.841 | French              | German              | False           | False              | True          | True             |
+|      4 | J. Jones    | R. Brégerie  | Darmstadt 98 |                 0.165 |           1071.000 |         25.906 |         30.781 | English             | French              | False           | False              | False         | False            |
+|      5 | L. Paqarada | T. Kister    | Sandhausen   |                 0.163 |           1375.000 |         22.619 |         30.392 | German              | German              | True            | True               | True          | True             |
 
 ## 2017/2018 - 2. HNL (Croatia) - male
-|   Rank | Player 1      | Player 2      | Team           |   Defensive chemistry |
-|--------|---------------|---------------|----------------|-----------------------|
-|      1 | R. Pantalon   | P. Šimunić    | Kustošija      |                 0.128 |
-|      2 | R. Pantalon   | M. Vragolović | Kustošija      |                 0.106 |
-|      3 | I. Kontek     | H. Džijan     | Radnik Sesvete |                 0.100 |
-|      4 | P. Šimunić    | M. Vragolović | Kustošija      |                 0.100 |
-|      5 | M. Vragolović | T. Hanžek     | Kustošija      |                 0.084 |
+|   Rank | Player 1     | Player 2   | Team                 |   Defensive chemistry |   Minutes together |   Age player 1 |   Age player 2 | Language player 1   | Language player 2   | Same language   | Same nationality   | Same region   | Same subregion   |
+|--------|--------------|------------|----------------------|-----------------------|--------------------|----------------|----------------|---------------------|---------------------|-----------------|--------------------|---------------|------------------|
+|      1 | M. Goić      | D. Kluk    | Radnik Sesvete       |                 0.291 |            508.000 |         19.079 |         26.039 | German              | Croatian            | False           | False              | True          | False            |
+|      2 | M. Ćosić     | M. Goić    | Radnik Sesvete       |                 0.234 |            470.000 |         20.774 |         19.079 | Croatian            | German              | False           | False              | True          | False            |
+|      3 | B. Sunagić   | T. Puljić  | Hrvatski Dragovoljac |                 0.197 |            598.000 |         20.621 |         24.561 | Croatian            | Bosnian             | False           | False              | True          | True             |
+|      4 | M. Čavić     | H. Bukvić  | Hrvatski Dragovoljac |                 0.197 |            517.000 |         21.209 |         22.346 | Croatian            | Croatian            | True            | True               | True          | True             |
+|      5 | M. Filipović | T. Puljić  | Hrvatski Dragovoljac |                 0.195 |            517.000 |         20.867 |         24.561 | Croatian            | Bosnian             | False           | False              | True          | True             |
 
 ## 2017/2018 - 2. Liga (Austria) - male
-|   Rank | Player 1      | Player 2   | Team             |   Defensive chemistry |
-|--------|---------------|------------|------------------|-----------------------|
-|      1 | A. Gründler   | D. Harrer  | Wiener Neustadt  |                 0.217 |
-|      2 | F. Jamnig     | H. Pichler | Wacker Innsbruck |                 0.203 |
-|      3 | G. Mensah     | L. Meisl   | Liefering        |                 0.191 |
-|      4 | R. Kerschbaum | H. Pichler | Wacker Innsbruck |                 0.165 |
-|      5 | D. Gabriele   | H. Pichler | Wacker Innsbruck |                 0.156 |
+|   Rank | Player 1      | Player 2   | Team             |   Defensive chemistry |   Minutes together |   Age player 1 |   Age player 2 | Language player 1   | Language player 2   | Same language   | Same nationality   | Same region   | Same subregion   |
+|--------|---------------|------------|------------------|-----------------------|--------------------|----------------|----------------|---------------------|---------------------|-----------------|--------------------|---------------|------------------|
+|      1 | A. Gründler   | D. Harrer  | Wiener Neustadt  |                 0.217 |            969.000 |         23.841 |         27.091 | German              | German              | True            | True               | True          | True             |
+|      2 | F. Jamnig     | H. Pichler | Wacker Innsbruck |                 0.203 |           1034.000 |         26.540 |         29.941 | German              | German              | True            | True               | True          | True             |
+|      3 | G. Mensah     | L. Meisl   | Liefering        |                 0.191 |           1085.000 |         18.858 |         18.231 | English             | German              | False           | False              | False         | False            |
+|      4 | R. Kerschbaum | H. Pichler | Wacker Innsbruck |                 0.165 |            914.000 |         23.351 |         29.941 | German              | German              | True            | True               | True          | True             |
+|      5 | D. Gabriele   | H. Pichler | Wacker Innsbruck |                 0.156 |           1071.000 |         22.408 |         29.941 | German              | German              | True            | False              | True          | True             |
 
 ## 2017/2018 - 3. Liga (Germany) - male
-|   Rank | Player 1        | Player 2      | Team          |   Defensive chemistry |
-|--------|-----------------|---------------|---------------|-----------------------|
-|      1 | J. Jesgarzewski | P. Posipal    | Meppen        |                 0.198 |
-|      2 | M. Niemeyer     | N. Butzen     | Magdeburg     |                 0.188 |
-|      3 | F. Muslija      | J. Föhrenbach | Karlsruher SC |                 0.186 |
-|      4 | J. Föhrenbach   | M. Thiede     | Karlsruher SC |                 0.185 |
-|      5 | B. Çamoglu      | J. Föhrenbach | Karlsruher SC |                 0.181 |
+|   Rank | Player 1        | Player 2      | Team          |   Defensive chemistry |   Minutes together |   Age player 1 |   Age player 2 | Language player 1   | Language player 2   | Same language   | Same nationality   | Same region   | Same subregion   |
+|--------|-----------------|---------------|---------------|-----------------------|--------------------|----------------|----------------|---------------------|---------------------|-----------------|--------------------|---------------|------------------|
+|      1 | J. Jesgarzewski | P. Posipal    | Meppen        |                 0.198 |            916.000 |         23.345 |         29.245 | German              | German              | True            | True               | True          | True             |
+|      2 | M. Niemeyer     | N. Butzen     | Magdeburg     |                 0.188 |           1453.000 |         21.502 |         24.133 | German              | German              | True            | True               | True          | True             |
+|      3 | F. Muslija      | J. Föhrenbach | Karlsruher SC |                 0.186 |           2620.000 |         18.876 |         20.835 | German              | German              | True            | True               | True          | True             |
+|      4 | J. Föhrenbach   | M. Thiede     | Karlsruher SC |                 0.185 |           1304.000 |         20.835 |         24.962 | German              | German              | True            | True               | True          | True             |
+|      5 | B. Çamoglu      | J. Föhrenbach | Karlsruher SC |                 0.181 |           1470.000 |         20.623 |         20.835 | German              | German              | True            | True               | True          | True             |
 
 ## 2017/2018 - A-League (Australia) - male
-|   Rank | Player 1     | Player 2    | Team            |   Defensive chemistry |
-|--------|--------------|-------------|-----------------|-----------------------|
-|      1 | D. Vidošić   | N. Atkinson | Melbourne City  |                 0.125 |
-|      2 | R. Kitto     | J. Elsey    | Adelaide United |                 0.123 |
-|      3 | N. Atkinson  | S. Jamieson | Melbourne City  |                 0.111 |
-|      4 | N. Atkinson  | M. Jakobsen | Melbourne City  |                 0.103 |
-|      5 | N. Mileusnić | J. Elsey    | Adelaide United |                 0.103 |
+|   Rank | Player 1     | Player 2    | Team            |   Defensive chemistry |   Minutes together |   Age player 1 |   Age player 2 | Language player 1   | Language player 2   | Same language   | Same nationality   | Same region   | Same subregion   |
+|--------|--------------|-------------|-----------------|-----------------------|--------------------|----------------|----------------|---------------------|---------------------|-----------------|--------------------|---------------|------------------|
+|      1 | D. Vidošić   | N. Atkinson | Melbourne City  |                 0.125 |           1040.000 |         30.693 |         18.531 | Croatian            | English             | False           | False              | False         | False            |
+|      2 | R. Kitto     | J. Elsey    | Adelaide United |                 0.123 |            985.000 |         23.393 |         23.831 | English             | English             | True            | True               | True          | True             |
+|      3 | N. Atkinson  | S. Jamieson | Melbourne City  |                 0.111 |           1421.000 |         18.531 |         29.195 | English             | English             | True            | True               | True          | True             |
+|      4 | N. Atkinson  | M. Jakobsen | Melbourne City  |                 0.103 |           1136.000 |         18.531 |         31.974 | English             | Danish              | False           | False              | False         | False            |
+|      5 | N. Mileusnić | J. Elsey    | Adelaide United |                 0.103 |           1245.000 |         24.455 |         23.831 | English             | English             | True            | True               | True          | True             |
 
 ## 2017/2018 - Ascenso MX (Mexico) - male
-|   Rank | Player 1     | Player 2   | Team        |   Defensive chemistry |
-|--------|--------------|------------|-------------|-----------------------|
-|      1 | F. Torres    | L. López   | Celaya      |                 0.195 |
-|      2 | F. Torres    | L. Padilla | Celaya      |                 0.168 |
-|      3 | A. Tapia     | A. Ochoa   | UAEM Potros |                 0.162 |
-|      4 | L. López     | L. Padilla | Celaya      |                 0.151 |
-|      5 | E. Gutiérrez | L. Padilla | Celaya      |                 0.151 |
+|   Rank | Player 1     | Player 2   | Team        |   Defensive chemistry |   Minutes together |   Age player 1 |   Age player 2 | Language player 1   | Language player 2   | Same language   | Same nationality   | Same region   | Same subregion   |
+|--------|--------------|------------|-------------|-----------------------|--------------------|----------------|----------------|---------------------|---------------------|-----------------|--------------------|---------------|------------------|
+|      1 | F. Torres    | L. López   | Celaya      |                 0.195 |            945.000 |         35.708 |         33.673 | Spanish             | Spanish             | True            | True               | True          | True             |
+|      2 | F. Torres    | L. Padilla | Celaya      |                 0.168 |            945.000 |         35.708 |         32.121 | Spanish             | Spanish             | True            | True               | True          | True             |
+|      3 | A. Tapia     | A. Ochoa   | UAEM Potros |                 0.162 |           1183.000 |         26.245 |         23.781 | Spanish             | Spanish             | True            | True               | True          | True             |
+|      4 | L. López     | L. Padilla | Celaya      |                 0.151 |           2970.000 |         33.673 |         32.121 | Spanish             | Spanish             | True            | True               | True          | True             |
+|      5 | E. Gutiérrez | L. Padilla | Celaya      |                 0.151 |           2549.000 |         21.164 |         32.121 | Spanish             | Spanish             | True            | True               | True          | True             |
 
 ## 2017/2018 - Bundesliga (Austria) - male
-|   Rank | Player 1       | Player 2     | Team         |   Defensive chemistry |
-|--------|----------------|--------------|--------------|-----------------------|
-|      1 | S. Lainer      | V. Berisha   | Salzburg     |                 0.177 |
-|      2 | M. Madl        | F. Klein     | Austria Wien |                 0.171 |
-|      3 | C. Lykogiannis | J. Jeggo     | Sturm Graz   |                 0.168 |
-|      4 | C. Lykogiannis | F. Koch      | Sturm Graz   |                 0.167 |
-|      5 | E. Pogatetz    | C. Ramsebner | LASK Linz    |                 0.162 |
+|   Rank | Player 1       | Player 2     | Team         |   Defensive chemistry |   Minutes together |   Age player 1 |   Age player 2 | Language player 1   | Language player 2   | Same language   | Same nationality   | Same region   | Same subregion   |
+|--------|----------------|--------------|--------------|-----------------------|--------------------|----------------|----------------|---------------------|---------------------|-----------------|--------------------|---------------|------------------|
+|      1 | S. Lainer      | V. Berisha   | Salzburg     |                 0.177 |           1803.000 |         24.791 |         24.342 | German              | Swedish             | False           | False              | True          | False            |
+|      2 | M. Madl        | F. Klein     | Austria Wien |                 0.171 |            938.000 |         29.051 |         30.510 | German              | German              | True            | True               | True          | True             |
+|      3 | C. Lykogiannis | J. Jeggo     | Sturm Graz   |                 0.168 |           1048.000 |         23.591 |         25.291 | Greek (modern)      | German              | False           | False              | True          | False            |
+|      4 | C. Lykogiannis | F. Koch      | Sturm Graz   |                 0.167 |           1432.000 |         23.591 |         27.928 | Greek (modern)      | German              | False           | False              | True          | False            |
+|      5 | E. Pogatetz    | C. Ramsebner | LASK Linz    |                 0.162 |           1580.000 |         34.346 |         28.120 | German              | German              | True            | True               | True          | True             |
 
 ## 2017/2018 - Bundesliga (Germany) - male
-|   Rank | Player 1       | Player 2     | Team           |   Defensive chemistry |
-|--------|----------------|--------------|----------------|-----------------------|
-|      1 | Rafinha        | J. Boateng   | Bayern München |                 0.227 |
-|      2 | Douglas Santos | D. Diekmeier | Hamburger SV   |                 0.209 |
-|      3 | M. Hinteregger | D. Opare     | Augsburg       |                 0.202 |
-|      4 | J. Kimmich     | Rafinha      | Bayern München |                 0.182 |
-|      5 | J. Boateng     | M. Hummels   | Bayern München |                 0.150 |
+|   Rank | Player 1       | Player 2     | Team           |   Defensive chemistry |   Minutes together |   Age player 1 |   Age player 2 | Language player 1   | Language player 2   | Same language   | Same nationality   | Same region   | Same subregion   |
+|--------|----------------|--------------|----------------|-----------------------|--------------------|----------------|----------------|---------------------|---------------------|-----------------|--------------------|---------------|------------------|
+|      1 | Rafinha        | J. Boateng   | Bayern München |                 0.227 |            994.000 |         31.662 |         28.711 | Portuguese          | German              | False           | False              | False         | False            |
+|      2 | Douglas Santos | D. Diekmeier | Hamburger SV   |                 0.209 |           1186.000 |         23.087 |         27.564 | Portuguese          | German              | False           | False              | False         | False            |
+|      3 | M. Hinteregger | D. Opare     | Augsburg       |                 0.202 |           1007.000 |         24.760 |         26.346 | German              | English             | False           | False              | False         | False            |
+|      4 | J. Kimmich     | Rafinha      | Bayern München |                 0.182 |           1119.000 |         22.338 |         31.662 | German              | Portuguese          | False           | False              | False         | False            |
+|      5 | J. Boateng     | M. Hummels   | Bayern München |                 0.150 |            988.000 |         28.711 |         28.369 | German              | German              | True            | True               | True          | True             |
 
 ## 2017/2018 - Challenge League (Switzerland) - male
-|   Rank | Player 1       | Player 2    | Team            |   Defensive chemistry |
-|--------|----------------|-------------|-----------------|-----------------------|
-|      1 | S. Rohrbach    | E. Kllokoqi | Rapperswil-Jona |                 0.212 |
-|      2 | G. Katz        | K. Schulz   | Winterthur      |                 0.175 |
-|      3 | Mychell Chagas | J. Elmer    | Rapperswil-Jona |                 0.168 |
-|      4 | W. Le Pogam    | A. Sauthier | Servette        |                 0.154 |
-|      5 | A. Alphonse    | A. Sauthier | Servette        |                 0.152 |
+|   Rank | Player 1       | Player 2    | Team            |   Defensive chemistry |   Minutes together |   Age player 1 |   Age player 2 | Language player 1   | Language player 2   | Same language   | Same nationality   | Same region   | Same subregion   |
+|--------|----------------|-------------|-----------------|-----------------------|--------------------|----------------|----------------|---------------------|---------------------|-----------------|--------------------|---------------|------------------|
+|      1 | S. Rohrbach    | E. Kllokoqi | Rapperswil-Jona |                 0.212 |            978.000 |         21.144 |         24.558 | German              | German              | True            | True               | True          | True             |
+|      2 | G. Katz        | K. Schulz   | Winterthur      |                 0.175 |            938.000 |         28.301 |         27.777 | German              | German              | True            | False              | True          | True             |
+|      3 | Mychell Chagas | J. Elmer    | Rapperswil-Jona |                 0.168 |           1004.000 |         26.290 |         27.252 | Portuguese          | German              | False           | False              | False         | False            |
+|      4 | W. Le Pogam    | A. Sauthier | Servette        |                 0.154 |           1476.000 |         24.235 |         26.327 | French              | German              | False           | False              | True          | True             |
+|      5 | A. Alphonse    | A. Sauthier | Servette        |                 0.152 |           1200.000 |         34.946 |         26.327 | French              | German              | False           | False              | True          | True             |
 
 ## 2017/2018 - Championship (England) - male
-|   Rank | Player 1   | Player 2          | Team         |   Defensive chemistry |
-|--------|------------|-------------------|--------------|-----------------------|
-|      1 | H. Dean    | Jota              | Brentford    |                 0.203 |
-|      2 | S. Ojo     | T. Kalas          | Fulham       |                 0.181 |
-|      3 | M. Jedinak | Ahmed El Mohamady | Aston Villa  |                 0.170 |
-|      4 | S. Ojo     | T. Ream           | Fulham       |                 0.169 |
-|      5 | A. Wisdom  | C. Forsyth        | Derby County |                 0.168 |
+|   Rank | Player 1   | Player 2          | Team         |   Defensive chemistry |   Minutes together |   Age player 1 |   Age player 2 | Language player 1   | Language player 2   | Same language   | Same nationality   | Same region   | Same subregion   |
+|--------|------------|-------------------|--------------|-----------------------|--------------------|----------------|----------------|---------------------|---------------------|-----------------|--------------------|---------------|------------------|
+|      1 | H. Dean    | Jota              | Brentford    |                 0.203 |           1848.000 |         25.784 |         25.893 | English             | Spanish             | False           | False              | True          | False            |
+|      2 | S. Ojo     | T. Kalas          | Fulham       |                 0.181 |           1095.000 |         19.979 |         24.005 | English             | Czech               | False           | False              | True          | False            |
+|      3 | M. Jedinak | Ahmed El Mohamady | Aston Villa  |                 0.170 |           1263.000 |         32.848 |         29.699 | English             | Arabic              | False           | False              | False         | False            |
+|      4 | S. Ojo     | T. Ream           | Fulham       |                 0.169 |           1168.000 |         19.979 |         29.687 | English             | English             | True            | False              | False         | False            |
+|      5 | A. Wisdom  | C. Forsyth        | Derby County |                 0.168 |           1965.000 |         24.065 |         27.487 | English             | English             | True            | False              | True          | True             |
 
 ## 2017/2018 - Championship (Scotland) - male
-|   Rank | Player 1      | Player 2   | Team                 |   Defensive chemistry |
-|--------|---------------|------------|----------------------|-----------------------|
-|      1 | L. Ashcroft   | J. Craigen | Dunfermline Athletic |                 0.205 |
-|      2 | J. Robson     | S. Fraser  | Dundee United        |                 0.185 |
-|      3 | J. Robson     | S. Murdoch | Dundee United        |                 0.184 |
-|      4 | R. Williamson | J. Craigen | Dunfermline Athletic |                 0.157 |
-|      5 | L. Smith      | C. Smith   | St. Mirren           |                 0.141 |
+|   Rank | Player 1      | Player 2   | Team                 |   Defensive chemistry |   Minutes together |   Age player 1 |   Age player 2 | Language player 1   | Language player 2   | Same language   | Same nationality   | Same region   | Same subregion   |
+|--------|---------------|------------|----------------------|-----------------------|--------------------|----------------|----------------|---------------------|---------------------|-----------------|--------------------|---------------|------------------|
+|      1 | L. Ashcroft   | J. Craigen | Dunfermline Athletic |                 0.205 |           1016.000 |         23.687 |         26.146 | English             | English             | True            | False              | True          | True             |
+|      2 | J. Robson     | S. Fraser  | Dundee United        |                 0.185 |           1080.000 |         19.408 |         22.165 | English             | English             | True            | True               | True          | True             |
+|      3 | J. Robson     | S. Murdoch | Dundee United        |                 0.184 |           1558.000 |         19.408 |         27.022 | English             | English             | True            | True               | True          | True             |
+|      4 | R. Williamson | J. Craigen | Dunfermline Athletic |                 0.157 |           1198.000 |         21.146 |         26.146 | English             | English             | True            | False              | True          | True             |
+|      5 | L. Smith      | C. Smith   | St. Mirren           |                 0.141 |           2506.000 |         21.113 |         21.702 | English             | English             | True            | True               | True          | True             |
 
 ## 2017/2018 - Eerste Divisie (Netherlands) - male
-|   Rank | Player 1      | Player 2       | Team            |   Defensive chemistry |
-|--------|---------------|----------------|-----------------|-----------------------|
-|      1 | C. Braun      | M. Ospitalieri | Fortuna Sittard |                 0.217 |
-|      2 | G. Smal       | H. Schilder    | Volendam        |                 0.209 |
-|      3 | L. Nieuwpoort | A. Driver      | De Graafschap   |                 0.192 |
-|      4 | T. Evers      | H. Schilder    | Volendam        |                 0.184 |
-|      5 | G. Bijl       | T. Siekman     | Emmen           |                 0.177 |
+|   Rank | Player 1      | Player 2       | Team            |   Defensive chemistry |   Minutes together |   Age player 1 |   Age player 2 | Language player 1   | Language player 2   | Same language   | Same nationality   | Same region   | Same subregion   |
+|--------|---------------|----------------|-----------------|-----------------------|--------------------|----------------|----------------|---------------------|---------------------|-----------------|--------------------|---------------|------------------|
+|      1 | C. Braun      | M. Ospitalieri | Fortuna Sittard |                 0.217 |           1493.000 |         25.809 |         25.081 | English             | Dutch               | False           | False              | False         | False            |
+|      2 | G. Smal       | H. Schilder    | Volendam        |                 0.209 |           1114.000 |         20.312 |         32.711 | Dutch               | Dutch               | True            | True               | True          | True             |
+|      3 | L. Nieuwpoort | A. Driver      | De Graafschap   |                 0.192 |           1066.000 |         22.538 |         29.459 | Dutch               | English             | False           | False              | True          | False            |
+|      4 | T. Evers      | H. Schilder    | Volendam        |                 0.184 |           1092.000 |         26.189 |         32.711 | Dutch               | Dutch               | True            | True               | True          | True             |
+|      5 | G. Bijl       | T. Siekman     | Emmen           |                 0.177 |            906.000 |         21.856 |         26.992 | Dutch               | Dutch               | True            | True               | True          | True             |
 
 ## 2017/2018 - Ekstraklasa (Poland) - male
-|   Rank | Player 1   | Player 2    | Team            |   Defensive chemistry |
-|--------|------------|-------------|-----------------|-----------------------|
-|      1 | Ł. Broź    | M. Pazdan   | Legia Warszawa  |                 0.194 |
-|      2 | M. Pazdan  | Iñaki Astiz | Legia Warszawa  |                 0.185 |
-|      3 | K. Pestka  | S. Zenjov   | Cracovia Kraków |                 0.180 |
-|      4 | Ł. Broź    | Iñaki Astiz | Legia Warszawa  |                 0.170 |
-|      5 | G. Piesio  | D. Zbozień  | Arka Gdynia     |                 0.170 |
+|   Rank | Player 1   | Player 2    | Team            |   Defensive chemistry |   Minutes together |   Age player 1 |   Age player 2 | Language player 1   | Language player 2   | Same language   | Same nationality   | Same region   | Same subregion   |
+|--------|------------|-------------|-----------------|-----------------------|--------------------|----------------|----------------|---------------------|---------------------|-----------------|--------------------|---------------|------------------|
+|      1 | Ł. Broź    | M. Pazdan   | Legia Warszawa  |                 0.194 |           1016.000 |         31.446 |         29.722 | Polish              | Polish              | True            | True               | True          | True             |
+|      2 | M. Pazdan  | Iñaki Astiz | Legia Warszawa  |                 0.185 |           1260.000 |         29.722 |         33.522 | Polish              | Spanish             | False           | False              | True          | False            |
+|      3 | K. Pestka  | S. Zenjov   | Cracovia Kraków |                 0.180 |            999.000 |         18.781 |         28.139 | Polish              | Estonian            | False           | False              | True          | False            |
+|      4 | Ł. Broź    | Iñaki Astiz | Legia Warszawa  |                 0.170 |            993.000 |         31.446 |         33.522 | Polish              | Spanish             | False           | False              | True          | False            |
+|      5 | G. Piesio  | D. Zbozień  | Arka Gdynia     |                 0.170 |           1662.000 |         28.843 |         28.068 | Polish              | Polish              | True            | True               | True          | True             |
 
 ## 2017/2018 - Eredivisie (Netherlands) - male
-|   Rank | Player 1   | Player 2       | Team         |   Defensive chemistry |
-|--------|------------|----------------|--------------|-----------------------|
-|      1 | T. Ambrose | F. Sporkslede  | NAC Breda    |                 0.153 |
-|      2 | T. Ouwejan | M. Seuntjens   | AZ           |                 0.153 |
-|      3 | G. Til     | T. Ouwejan     | AZ           |                 0.152 |
-|      4 | R. Leeuwin | G. Kerk        | Utrecht      |                 0.150 |
-|      5 | T. Ebuehi  | T. Beugelsdijk | ADO Den Haag |                 0.145 |
+|   Rank | Player 1   | Player 2       | Team         |   Defensive chemistry |   Minutes together |   Age player 1 |   Age player 2 | Language player 1   | Language player 2   | Same language   | Same nationality   | Same region   | Same subregion   |
+|--------|------------|----------------|--------------|-----------------------|--------------------|----------------|----------------|---------------------|---------------------|-----------------|--------------------|---------------|------------------|
+|      1 | T. Ambrose | F. Sporkslede  | NAC Breda    |                 0.153 |           1182.000 |         20.106 |         23.818 | French              | Dutch               | False           | False              | True          | True             |
+|      2 | T. Ouwejan | M. Seuntjens   | AZ           |                 0.153 |           1012.000 |         20.637 |         25.113 | Dutch               | Dutch               | True            | True               | True          | True             |
+|      3 | G. Til     | T. Ouwejan     | AZ           |                 0.152 |           2337.000 |         19.391 |         20.637 | English             | Dutch               | False           | False              | False         | False            |
+|      4 | R. Leeuwin | G. Kerk        | Utrecht      |                 0.150 |           1319.000 |         29.740 |         21.488 | Dutch               | Dutch               | True            | True               | True          | True             |
+|      5 | T. Ebuehi  | T. Beugelsdijk | ADO Den Haag |                 0.145 |           1669.000 |         21.412 |         26.770 | Dutch               | Dutch               | True            | True               | True          | True             |
 
 ## 2017/2018 - FAVBET Liga (Ukraine) - male
-|   Rank | Player 1      | Player 2     | Team            |   Defensive chemistry |
-|--------|---------------|--------------|-----------------|-----------------------|
-|      1 | M. Matviyenko | V. Chesnakov | Vorskla         |                 0.139 |
-|      2 | A. Bogdanov   | A. Shabanov  | Olimpik Donetsk |                 0.130 |
-|      3 | A. Kravchenko | A. Shabanov  | Olimpik Donetsk |                 0.128 |
-|      4 | V. Adamyuk    | M. Ishchenko | Veres           |                 0.125 |
-|      5 | T. Kádár      | T. Kędziora  | Dynamo Kyiv     |                 0.125 |
+|   Rank | Player 1      | Player 2     | Team            |   Defensive chemistry |   Minutes together |   Age player 1 |   Age player 2 | Language player 1   | Language player 2   | Same language   | Same nationality   | Same region   | Same subregion   |
+|--------|---------------|--------------|-----------------|-----------------------|--------------------|----------------|----------------|---------------------|---------------------|-----------------|--------------------|---------------|------------------|
+|      1 | M. Matviyenko | V. Chesnakov | Vorskla         |                 0.139 |           1207.000 |         21.111 |         28.549 | Ukrainian           | Ukrainian           | True            | True               | True          | True             |
+|      2 | A. Bogdanov   | A. Shabanov  | Olimpik Donetsk |                 0.130 |           1181.000 |         27.345 |         25.234 | Ukrainian           | Ukrainian           | True            | True               | True          | True             |
+|      3 | A. Kravchenko | A. Shabanov  | Olimpik Donetsk |                 0.128 |           1260.000 |         26.192 |         25.234 | Ukrainian           | Ukrainian           | True            | True               | True          | True             |
+|      4 | V. Adamyuk    | M. Ishchenko | Veres           |                 0.125 |            990.000 |         25.864 |         34.201 | Ukrainian           | Ukrainian           | True            | True               | True          | True             |
+|      5 | T. Kádár      | T. Kędziora  | Dynamo Kyiv     |                 0.125 |           1153.000 |         27.203 |         23.033 | Hungarian           | Polish              | False           | False              | True          | True             |
 
 ## 2017/2018 - FNL (Czech Republic) - male
-|   Rank | Player 1    | Player 2    | Team         |   Defensive chemistry |
-|--------|-------------|-------------|--------------|-----------------------|
-|      1 | M. Surzyn   | J. Reznicek | FK Pardubice |                 0.317 |
-|      2 | T. Ladra    | M. Šejvl    | FK Pardubice |                 0.317 |
-|      3 | M. Surzyn   | J. Piroch   | FK Pardubice |                 0.304 |
-|      4 | M. Surzyn   | M. Šejvl    | FK Pardubice |                 0.291 |
-|      5 | J. Reznicek | M. Šejvl    | FK Pardubice |                 0.284 |
+|   Rank | Player 1    | Player 2    | Team         |   Defensive chemistry |   Minutes together |   Age player 1 |   Age player 2 | Language player 1   | Language player 2   | Same language   | Same nationality   | Same region   | Same subregion   |
+|--------|-------------|-------------|--------------|-----------------------|--------------------|----------------|----------------|---------------------|---------------------|-----------------|--------------------|---------------|------------------|
+|      1 | M. Surzyn   | J. Reznicek | FK Pardubice |                 0.317 |            720.000 |         20.210 |         24.514 | Czech               | Czech               | True            | True               | True          | True             |
+|      2 | T. Ladra    | M. Šejvl    | FK Pardubice |                 0.317 |            525.000 |         20.095 |         25.275 | Czech               | Czech               | True            | True               | True          | True             |
+|      3 | M. Surzyn   | J. Piroch   | FK Pardubice |                 0.304 |            630.000 |         20.210 |         21.743 | Czech               | Czech               | True            | True               | True          | True             |
+|      4 | M. Surzyn   | M. Šejvl    | FK Pardubice |                 0.291 |            720.000 |         20.210 |         25.275 | Czech               | Czech               | True            | True               | True          | True             |
+|      5 | J. Reznicek | M. Šejvl    | FK Pardubice |                 0.284 |            720.000 |         24.514 |         25.275 | Czech               | Czech               | True            | True               | True          | True             |
 
 ## 2017/2018 - FNL (Russia) - male
-|   Rank | Player 1   | Player 2     | Team           |   Defensive chemistry |
-|--------|------------|--------------|----------------|-----------------------|
-|      1 | T. Burlak  | Nadson       | Krylya Sovetov |                 0.238 |
-|      2 | A. Bychkov | A. Zhitnikov | Sochi          |                 0.221 |
-|      3 | T. Burlak  | D. Yatchenko | Krylya Sovetov |                 0.215 |
-|      4 | T. Burlak  | G. Zotov     | Krylya Sovetov |                 0.200 |
-|      5 | A. Malykh  | A. Popov     | Orenburg       |                 0.187 |
+|   Rank | Player 1   | Player 2     | Team           |   Defensive chemistry |   Minutes together |   Age player 1 |   Age player 2 | Language player 1   | Language player 2   | Same language   | Same nationality   | Same region   | Same subregion   |
+|--------|------------|--------------|----------------|-----------------------|--------------------|----------------|----------------|---------------------|---------------------|-----------------|--------------------|---------------|------------------|
+|      1 | T. Burlak  | Nadson       | Krylya Sovetov |                 0.238 |           1080.000 |         27.167 |         32.590 | Russian             | Portuguese          | False           | False              | False         | False            |
+|      2 | A. Bychkov | A. Zhitnikov | Sochi          |                 0.221 |           1509.000 |         28.894 |         32.492 | Russian             | Russian             | True            | True               | True          | True             |
+|      3 | T. Burlak  | D. Yatchenko | Krylya Sovetov |                 0.215 |            907.000 |         27.167 |         30.740 | Russian             | Russian             | True            | True               | True          | True             |
+|      4 | T. Burlak  | G. Zotov     | Krylya Sovetov |                 0.200 |           1102.000 |         27.167 |         27.345 | Russian             | Russian             | True            | True               | True          | True             |
+|      5 | A. Malykh  | A. Popov     | Orenburg       |                 0.187 |           1306.000 |         28.760 |         24.713 | Russian             | Russian             | True            | True               | True          | True             |
 
 ## 2017/2018 - First Division A (Belgium) - male
-|   Rank | Player 1       | Player 2           | Team     |   Defensive chemistry |
-|--------|----------------|--------------------|----------|-----------------------|
-|      1 | G. Kagelmacher | B. Kumordzi        | Kortrijk |                 0.219 |
-|      2 | J. Uronen      | Clinton Mata       | Genk     |                 0.193 |
-|      3 | T. Foket       | N. Asare           | Gent     |                 0.189 |
-|      4 | B. Verboom     | H. Van der Bruggen | Kortrijk |                 0.189 |
-|      5 | Aurélio Buta   | Matheus            | Antwerp  |                 0.187 |
+|   Rank | Player 1       | Player 2           | Team     |   Defensive chemistry |   Minutes together |   Age player 1 |   Age player 2 | Language player 1   | Language player 2   | Same language   | Same nationality   | Same region   | Same subregion   |
+|--------|----------------|--------------------|----------|-----------------------|--------------------|----------------|----------------|---------------------|---------------------|-----------------|--------------------|---------------|------------------|
+|      1 | G. Kagelmacher | B. Kumordzi        | Kortrijk |                 0.219 |           1077.000 |         29.081 |         32.167 | Spanish             | English             | False           | False              | False         | False            |
+|      2 | J. Uronen      | Clinton Mata       | Genk     |                 0.193 |           1061.000 |         22.915 |         24.528 | Finnish             | Dutch               | False           | False              | True          | False            |
+|      3 | T. Foket       | N. Asare           | Gent     |                 0.189 |           1398.000 |         22.647 |         30.855 | Dutch               | English             | False           | False              | False         | False            |
+|      4 | B. Verboom     | H. Van der Bruggen | Kortrijk |                 0.189 |            931.000 |         25.327 |         24.128 | Dutch               | Dutch               | True            | True               | True          | True             |
+|      5 | Aurélio Buta   | Matheus            | Antwerp  |                 0.187 |            999.000 |         20.202 |         35.426 | Portuguese          | Portuguese          | True            | False              | False         | False            |
 
 ## 2017/2018 - First Division B (Belgium) - male
-|   Rank | Player 1   | Player 2       | Team                 |   Defensive chemistry |
-|--------|------------|----------------|----------------------|-----------------------|
-|      1 | G. Grisez  | B. Schmisser   | SV Roeselare         |                 0.165 |
-|      2 | M. Weymans | E. Dudouit     | Tubize               |                 0.164 |
-|      3 | H. Luvumbu | P. Perdichizzi | Union Saint-Gilloise |                 0.151 |
-|      4 | S. Godwin  | B. Schmisser   | SV Roeselare         |                 0.147 |
-|      5 | M. Carlier | E. Dudouit     | Tubize               |                 0.144 |
+|   Rank | Player 1   | Player 2       | Team                 |   Defensive chemistry |   Minutes together |   Age player 1 |   Age player 2 | Language player 1   | Language player 2   | Same language   | Same nationality   | Same region   | Same subregion   |
+|--------|------------|----------------|----------------------|-----------------------|--------------------|----------------|----------------|---------------------|---------------------|-----------------|--------------------|---------------|------------------|
+|      1 | G. Grisez  | B. Schmisser   | SV Roeselare         |                 0.165 |           1472.000 |         27.759 |         31.230 | Dutch               | French              | False           | False              | True          | True             |
+|      2 | M. Weymans | E. Dudouit     | Tubize               |                 0.164 |           1434.000 |         18.720 |         25.642 | Dutch               | French              | False           | False              | True          | True             |
+|      3 | H. Luvumbu | P. Perdichizzi | Union Saint-Gilloise |                 0.151 |           1237.000 |         20.279 |         24.424 | French              | Dutch               | False           | False              | False         | False            |
+|      4 | S. Godwin  | B. Schmisser   | SV Roeselare         |                 0.147 |            919.000 |         20.744 |         31.230 | English             | French              | False           | False              | False         | False            |
+|      5 | M. Carlier | E. Dudouit     | Tubize               |                 0.144 |           1040.000 |         20.183 |         25.642 | French              | French              | True            | True               | True          | True             |
 
 ## 2017/2018 - Fortuna Liga (Czech Republic) - male
-|   Rank | Player 1       | Player 2   | Team           |   Defensive chemistry |
-|--------|----------------|------------|----------------|-----------------------|
-|      1 | D. Bartek      | M. Dostál  | Bohemians 1905 |                 0.231 |
-|      2 | T. Holeš       | J. Zelený  | Jablonec       |                 0.216 |
-|      3 | M. Kocič       | M. Dostál  | Bohemians 1905 |                 0.210 |
-|      4 | M. Sladký      | M. Vepřek  | Sigma Olomouc  |                 0.199 |
-|      5 | T. Zahradníček | M. Vepřek  | Sigma Olomouc  |                 0.197 |
+|   Rank | Player 1       | Player 2   | Team           |   Defensive chemistry |   Minutes together |   Age player 1 |   Age player 2 | Language player 1   | Language player 2   | Same language   | Same nationality   | Same region   | Same subregion   |
+|--------|----------------|------------|----------------|-----------------------|--------------------|----------------|----------------|---------------------|---------------------|-----------------|--------------------|---------------|------------------|
+|      1 | D. Bartek      | M. Dostál  | Bohemians 1905 |                 0.231 |           1289.000 |         29.286 |         27.657 | Czech               | Czech               | True            | True               | True          | True             |
+|      2 | T. Holeš       | J. Zelený  | Jablonec       |                 0.216 |           1049.000 |         23.662 |         24.769 | Czech               | Czech               | True            | True               | True          | True             |
+|      3 | M. Kocič       | M. Dostál  | Bohemians 1905 |                 0.210 |           2285.000 |         27.276 |         27.657 | Slovene             | Czech               | False           | False              | True          | False            |
+|      4 | M. Sladký      | M. Vepřek  | Sigma Olomouc  |                 0.199 |           1666.000 |         25.223 |         31.928 | Czech               | Czech               | True            | True               | True          | True             |
+|      5 | T. Zahradníček | M. Vepřek  | Sigma Olomouc  |                 0.197 |           1515.000 |         23.796 |         31.928 | Czech               | Czech               | True            | True               | True          | True             |
 
 ## 2017/2018 - I Liga (Poland) - male
-|   Rank | Player 1       | Player 2      | Team              |   Defensive chemistry |
-|--------|----------------|---------------|-------------------|-----------------------|
-|      1 | S. Kamiński    | W. Wilczyński | Bytovia Bytów     |                 0.183 |
-|      2 | W. Wilczyński  | M. Stasiak    | Bytovia Bytów     |                 0.169 |
-|      3 | M. Ilków-Gołąb | K. Danielak   | Chrobry Głogów    |                 0.166 |
-|      4 | M. Goropevšek  | M. Žitko      | Olimpia Grudziądz |                 0.155 |
-|      5 | M. Bodzioch    | R. Brusiło    | Odra Opole        |                 0.147 |
+|   Rank | Player 1       | Player 2      | Team              |   Defensive chemistry |   Minutes together |   Age player 1 |   Age player 2 | Language player 1   | Language player 2   | Same language   | Same nationality   | Same region   | Same subregion   |
+|--------|----------------|---------------|-------------------|-----------------------|--------------------|----------------|----------------|---------------------|---------------------|-----------------|--------------------|---------------|------------------|
+|      1 | S. Kamiński    | W. Wilczyński | Bytovia Bytów     |                 0.183 |           1244.000 |         24.804 |         27.216 | Polish              | Polish              | True            | True               | True          | True             |
+|      2 | W. Wilczyński  | M. Stasiak    | Bytovia Bytów     |                 0.169 |            996.000 |         27.216 |         36.169 | Polish              | Polish              | True            | True               | True          | True             |
+|      3 | M. Ilków-Gołąb | K. Danielak   | Chrobry Głogów    |                 0.166 |           1485.000 |         32.130 |         25.682 | Polish              | Polish              | True            | True               | True          | True             |
+|      4 | M. Goropevšek  | M. Žitko      | Olimpia Grudziądz |                 0.155 |            990.000 |         26.192 |         27.236 | Slovene             | Slovene             | True            | True               | True          | True             |
+|      5 | M. Bodzioch    | R. Brusiło    | Odra Opole        |                 0.147 |           1240.000 |         27.000 |         28.120 | Polish              | Polish              | True            | True               | True          | True             |
 
 ## 2017/2018 - Liga MX (Mexico) - male
-|   Rank | Player 1   | Player 2    | Team      |   Defensive chemistry |
-|--------|------------|-------------|-----------|-----------------------|
-|      1 | C. Vargas  | P. Aguilar  | América   |                 0.212 |
-|      2 | C. Vargas  | B. Valdez   | América   |                 0.203 |
-|      3 | M. Ponce   | B. Beckeles | Necaxa    |                 0.200 |
-|      4 | M. Samudio | P. Aguilar  | América   |                 0.190 |
-|      5 | A. Aldrete | G. Flores   | Cruz Azul |                 0.179 |
+|   Rank | Player 1   | Player 2    | Team      |   Defensive chemistry |   Minutes together |   Age player 1 |   Age player 2 | Language player 1   | Language player 2   | Same language   | Same nationality   | Same region   | Same subregion   |
+|--------|------------|-------------|-----------|-----------------------|--------------------|----------------|----------------|---------------------|---------------------|-----------------|--------------------|---------------|------------------|
+|      1 | C. Vargas  | P. Aguilar  | América   |                 0.212 |           1692.000 |         18.267 |         31.171 | Spanish             | Spanish             | True            | True               | True          | True             |
+|      2 | C. Vargas  | B. Valdez   | América   |                 0.203 |           1681.000 |         18.267 |         24.584 | Spanish             | Spanish             | True            | False              | True          | False            |
+|      3 | M. Ponce   | B. Beckeles | Necaxa    |                 0.200 |           2277.000 |         28.121 |         31.543 | English             | Spanish             | False           | False              | True          | False            |
+|      4 | M. Samudio | P. Aguilar  | América   |                 0.190 |           1687.000 |         30.703 |         31.171 | Spanish             | Spanish             | True            | False              | True          | False            |
+|      5 | A. Aldrete | G. Flores   | Cruz Azul |                 0.179 |            953.000 |         28.896 |         30.792 | Spanish             | Spanish             | True            | True               | True          | True             |
 
 ## 2017/2018 - Ligue 1 (France) - male
-|   Rank | Player 1      | Player 2      | Team          |   Defensive chemistry |
-|--------|---------------|---------------|---------------|-----------------------|
-|      1 | L. Kurzawa    | M. Verratti   | PSG           |                 0.210 |
-|      2 | Malcom        | Pablo         | Bordeaux      |                 0.201 |
-|      3 | M. Debuchy    | Gabriel Silva | Saint-Étienne |                 0.190 |
-|      4 | Pablo         | M. Poundjé    | Bordeaux      |                 0.186 |
-|      5 | Danilo Avelar | O. El Hajjam  | Amiens SC     |                 0.182 |
+|   Rank | Player 1      | Player 2      | Team          |   Defensive chemistry |   Minutes together |   Age player 1 |   Age player 2 | Language player 1   | Language player 2   | Same language   | Same nationality   | Same region   | Same subregion   |
+|--------|---------------|---------------|---------------|-----------------------|--------------------|----------------|----------------|---------------------|---------------------|-----------------|--------------------|---------------|------------------|
+|      1 | L. Kurzawa    | M. Verratti   | PSG           |                 0.210 |            908.000 |         25.002 |         24.558 | French              | Italian             | False           | False              | True          | False            |
+|      2 | Malcom        | Pablo         | Bordeaux      |                 0.201 |            945.000 |         20.230 |         26.024 | Portuguese          | Portuguese          | True            | True               | True          | True             |
+|      3 | M. Debuchy    | Gabriel Silva | Saint-Étienne |                 0.190 |           1130.000 |         31.703 |         26.045 | French              | Portuguese          | False           | False              | False         | False            |
+|      4 | Pablo         | M. Poundjé    | Bordeaux      |                 0.186 |           1111.000 |         26.024 |         24.705 | Portuguese          | French              | False           | False              | False         | False            |
+|      5 | Danilo Avelar | O. El Hajjam  | Amiens SC     |                 0.182 |            964.000 |         27.950 |         26.247 | Portuguese          | French              | False           | False              | False         | False            |
 
 ## 2017/2018 - Ligue 2 (France) - male
-|   Rank | Player 1      | Player 2   | Team     |   Defensive chemistry |
-|--------|---------------|------------|----------|-----------------------|
-|      1 | Y. Coulibaly  | B. Bese    | Le Havre |                 0.229 |
-|      2 | J. Phojo      | M. Perez   | Clermont |                 0.184 |
-|      3 | J. Bellegarde | F. Duplus  | Lens     |                 0.174 |
-|      4 | B. Traoré     | Z. Ferhat  | Le Havre |                 0.174 |
-|      5 | T. Fontaine   | J. Phojo   | Clermont |                 0.174 |
+|   Rank | Player 1      | Player 2   | Team     |   Defensive chemistry |   Minutes together |   Age player 1 |   Age player 2 | Language player 1   | Language player 2   | Same language   | Same nationality   | Same region   | Same subregion   |
+|--------|---------------|------------|----------|-----------------------|--------------------|----------------|----------------|---------------------|---------------------|-----------------|--------------------|---------------|------------------|
+|      1 | Y. Coulibaly  | B. Bese    | Le Havre |                 0.229 |           1446.000 |         22.346 |         23.096 | French              | Hungarian           | False           | False              | False         | False            |
+|      2 | J. Phojo      | M. Perez   | Clermont |                 0.184 |           1280.000 |         24.076 |         25.930 | French              | French              | True            | True               | True          | True             |
+|      3 | J. Bellegarde | F. Duplus  | Lens     |                 0.174 |            915.000 |         18.879 |         26.929 | French              | French              | True            | True               | True          | True             |
+|      4 | B. Traoré     | Z. Ferhat  | Le Havre |                 0.174 |            997.000 |         23.907 |         24.199 | French              | Arabic              | False           | False              | False         | False            |
+|      5 | T. Fontaine   | J. Phojo   | Clermont |                 0.174 |           1722.000 |         26.034 |         24.076 | French              | French              | True            | True               | True          | True             |
 
 ## 2017/2018 - National 1 (France) - male
-|   Rank | Player 1   | Player 2   | Team      |   Defensive chemistry |
-|--------|------------|------------|-----------|-----------------------|
-|      1 | I. Savane  | H. Lingani | Béziers   |                 0.184 |
-|      2 | N. Ouammou | E. Daillet | Rodez     |                 0.183 |
-|      3 | I. Savane  | R. Taillan | Béziers   |                 0.181 |
-|      4 | N. Ouammou | P. Bardy   | Rodez     |                 0.174 |
-|      5 | M. Fachan  | J. Rocchi  | Dunkerque |                 0.173 |
+|   Rank | Player 1   | Player 2   | Team      |   Defensive chemistry |   Minutes together |   Age player 1 |   Age player 2 | Language player 1   | Language player 2   | Same language   | Same nationality   | Same region   | Same subregion   |
+|--------|------------|------------|-----------|-----------------------|--------------------|----------------|----------------|---------------------|---------------------|-----------------|--------------------|---------------|------------------|
+|      1 | I. Savane  | H. Lingani | Béziers   |                 0.184 |            910.000 |         23.690 |         29.390 | French              | French              | True            | False              | False         | False            |
+|      2 | N. Ouammou | E. Daillet | Rodez     |                 0.183 |            989.000 |         24.065 |         24.580 | French              | French              | True            | True               | True          | True             |
+|      3 | I. Savane  | R. Taillan | Béziers   |                 0.181 |           1279.000 |         23.690 |         24.884 | French              | French              | True            | True               | True          | True             |
+|      4 | N. Ouammou | P. Bardy   | Rodez     |                 0.174 |           1106.000 |         24.065 |         24.730 | French              | French              | True            | True               | True          | True             |
+|      5 | M. Fachan  | J. Rocchi  | Dunkerque |                 0.173 |           1652.000 |         28.314 |         27.948 | French              | French              | True            | True               | True          | True             |
 
 ## 2017/2018 - National 2 (France) - male
-|   Rank | Player 1     | Player 2   | Team                 |   Defensive chemistry |
-|--------|--------------|------------|----------------------|-----------------------|
-|      1 | G. Coelho    | L. Dufau   | Le Puy F.43 Auvergne |                 0.157 |
-|      2 | J. Clément   | L. Dufau   | Le Puy F.43 Auvergne |                 0.126 |
-|      3 | L. Dufau     | J. Ichane  | Le Puy F.43 Auvergne |                 0.126 |
-|      4 | J. Clément   | R. Elie    | Le Puy F.43 Auvergne |                 0.118 |
-|      5 | H. Bouguerra | L. Dufau   | Le Puy F.43 Auvergne |                 0.106 |
+|   Rank | Player 1     | Player 2   | Team                 |   Defensive chemistry |   Minutes together |   Age player 1 |   Age player 2 | Language player 1   | Language player 2   | Same language   | Same nationality   | Same region   | Same subregion   |
+|--------|--------------|------------|----------------------|-----------------------|--------------------|----------------|----------------|---------------------|---------------------|-----------------|--------------------|---------------|------------------|
+|      1 | G. Coelho    | L. Dufau   | Le Puy F.43 Auvergne |                 0.157 |            991.000 |         31.173 |         28.180 | French              | French              | True            | True               | True          | True             |
+|      2 | J. Clément   | L. Dufau   | Le Puy F.43 Auvergne |                 0.126 |           1342.000 |         32.596 |         28.180 | French              | French              | True            | True               | True          | True             |
+|      3 | L. Dufau     | J. Ichane  | Le Puy F.43 Auvergne |                 0.126 |            945.000 |         28.180 |         30.899 | French              | French              | True            | True               | True          | True             |
+|      4 | J. Clément   | R. Elie    | Le Puy F.43 Auvergne |                 0.118 |           1135.000 |         32.596 |         32.150 | French              | French              | True            | True               | True          | True             |
+|      5 | H. Bouguerra | L. Dufau   | Le Puy F.43 Auvergne |                 0.106 |           1067.000 |         26.373 |         28.180 | French              | French              | True            | True               | True          | True             |
 
 ## 2017/2018 - Persha Liga (Ukraine) - male
-|   Rank | Player 1       | Player 2      | Team               |   Defensive chemistry |
-|--------|----------------|---------------|--------------------|-----------------------|
-|      1 | S. Petko       | V. Kurko      | Zhemchuzhyna Odesa |                 0.172 |
-|      2 | O. Boroday     | V. Paramonov  | Poltava            |                 0.171 |
-|      3 | M. Pysko       | V. Zastavnyi  | Rukh Vynnyky       |                 0.168 |
-|      4 | B. Kushnirenko | V. Paramonov  | Poltava            |                 0.164 |
-|      5 | B. Kushnirenko | M. Pokotylyuk | Poltava            |                 0.154 |
+|   Rank | Player 1       | Player 2      | Team               |   Defensive chemistry |   Minutes together |   Age player 1 |   Age player 2 | Language player 1   | Language player 2   | Same language   | Same nationality   | Same region   | Same subregion   |
+|--------|----------------|---------------|--------------------|-----------------------|--------------------|----------------|----------------|---------------------|---------------------|-----------------|--------------------|---------------|------------------|
+|      1 | S. Petko       | V. Kurko      | Zhemchuzhyna Odesa |                 0.172 |            934.000 |         23.358 |         22.107 | Ukrainian           | Ukrainian           | True            | True               | True          | True             |
+|      2 | O. Boroday     | V. Paramonov  | Poltava            |                 0.171 |            997.000 |         24.402 |         26.195 | Ukrainian           | Ukrainian           | True            | True               | True          | True             |
+|      3 | M. Pysko       | V. Zastavnyi  | Rukh Vynnyky       |                 0.168 |            932.000 |         24.268 |         26.718 | Ukrainian           | Ukrainian           | True            | True               | True          | True             |
+|      4 | B. Kushnirenko | V. Paramonov  | Poltava            |                 0.164 |           1259.000 |         21.584 |         26.195 | Ukrainian           | Ukrainian           | True            | True               | True          | True             |
+|      5 | B. Kushnirenko | M. Pokotylyuk | Poltava            |                 0.154 |            950.000 |         21.584 |         29.264 | Ukrainian           | Ukrainian           | True            | True               | True          | True             |
 
 ## 2017/2018 - Premier League (England) - male
-|   Rank | Player 1        | Player 2      | Team              |   Defensive chemistry |
-|--------|-----------------|---------------|-------------------|-----------------------|
-|      1 | A. Valencia     | P. Jones      | Manchester United |                 0.202 |
-|      2 | S. Mané         | D. Lovren     | Liverpool         |                 0.185 |
-|      3 | R. Klavan       | J. Gomez      | Liverpool         |                 0.184 |
-|      4 | B. Davies       | K. Trippier   | Tottenham Hotspur |                 0.181 |
-|      5 | T. Alderweireld | J. Vertonghen | Tottenham Hotspur |                 0.180 |
+|   Rank | Player 1        | Player 2      | Team              |   Defensive chemistry |   Minutes together |   Age player 1 |   Age player 2 | Language player 1   | Language player 2   | Same language   | Same nationality   | Same region   | Same subregion   |
+|--------|-----------------|---------------|-------------------|-----------------------|--------------------|----------------|----------------|---------------------|---------------------|-----------------|--------------------|---------------|------------------|
+|      1 | A. Valencia     | P. Jones      | Manchester United |                 0.202 |           1499.000 |         31.805 |         25.248 | Spanish             | English             | False           | False              | False         | False            |
+|      2 | S. Mané         | D. Lovren     | Liverpool         |                 0.185 |           1208.000 |         24.976 |         27.937 | French              | Croatian            | False           | False              | False         | False            |
+|      3 | R. Klavan       | J. Gomez      | Liverpool         |                 0.184 |            913.000 |         31.611 |         19.961 | Estonian            | English             | False           | False              | True          | True             |
+|      4 | B. Davies       | K. Trippier   | Tottenham Hotspur |                 0.181 |           1447.000 |         24.134 |         26.671 | English             | English             | True            | False              | True          | True             |
+|      5 | T. Alderweireld | J. Vertonghen | Tottenham Hotspur |                 0.180 |           1081.000 |         28.273 |         30.130 | Dutch               | Dutch               | True            | True               | True          | True             |
 
 ## 2017/2018 - Premier League (Russia) - male
-|   Rank | Player 1      | Player 2      | Team           |   Defensive chemistry |
-|--------|---------------|---------------|----------------|-----------------------|
-|      1 | I. Kutepov    | A. Eshchenko  | Spartak Moskva |                 0.205 |
-|      2 | A. Miljković  | S. Balanovich | Amkar Perm'    |                 0.182 |
-|      3 | S. Conde      | M. Sivakov    | Amkar Perm'    |                 0.179 |
-|      4 | A. Ryazantsev | M. Sivakov    | Amkar Perm'    |                 0.173 |
-|      5 | N. Zaytsev    | M. Sivakov    | Amkar Perm'    |                 0.170 |
+|   Rank | Player 1      | Player 2      | Team           |   Defensive chemistry |   Minutes together |   Age player 1 |   Age player 2 | Language player 1   | Language player 2   | Same language   | Same nationality   | Same region   | Same subregion   |
+|--------|---------------|---------------|----------------|-----------------------|--------------------|----------------|----------------|---------------------|---------------------|-----------------|--------------------|---------------|------------------|
+|      1 | I. Kutepov    | A. Eshchenko  | Spartak Moskva |                 0.205 |           1047.000 |         23.791 |         33.270 | Russian             | Russian             | True            | True               | True          | True             |
+|      2 | A. Miljković  | S. Balanovich | Amkar Perm'    |                 0.182 |            936.000 |         27.232 |         29.782 | Serbian             | Belarusian          | False           | False              | True          | False            |
+|      3 | S. Conde      | M. Sivakov    | Amkar Perm'    |                 0.179 |           1147.000 |         23.939 |         29.399 | French              | Belarusian          | False           | False              | False         | False            |
+|      4 | A. Ryazantsev | M. Sivakov    | Amkar Perm'    |                 0.173 |           1056.000 |         30.707 |         29.399 | Russian             | Belarusian          | False           | False              | True          | True             |
+|      5 | N. Zaytsev    | M. Sivakov    | Amkar Perm'    |                 0.170 |            990.000 |         27.972 |         29.399 | Russian             | Belarusian          | False           | False              | True          | True             |
 
 ## 2017/2018 - Premiership (Scotland) - male
-|   Rank | Player 1      | Player 2     | Team       |   Defensive chemistry |
-|--------|---------------|--------------|------------|-----------------------|
-|      1 | S. Boyd       | S. O'Donnell | Kilmarnock |                 0.163 |
-|      2 | G. Shinnie    | K. Árnason   | Aberdeen   |                 0.161 |
-|      3 | S. Brown      | M. Lustig    | Celtic     |                 0.160 |
-|      4 | D. Milinković | J. Souttar   | Hearts     |                 0.157 |
-|      5 | S. Sinclair   | K. Ajer      | Celtic     |                 0.154 |
+|   Rank | Player 1      | Player 2     | Team       |   Defensive chemistry |   Minutes together |   Age player 1 |   Age player 2 | Language player 1   | Language player 2   | Same language   | Same nationality   | Same region   | Same subregion   |
+|--------|---------------|--------------|------------|-----------------------|--------------------|----------------|----------------|---------------------|---------------------|-----------------|--------------------|---------------|------------------|
+|      1 | S. Boyd       | S. O'Donnell | Kilmarnock |                 0.163 |            904.000 |         30.847 |         24.988 | English             | English             | True            | True               | True          | True             |
+|      2 | G. Shinnie    | K. Árnason   | Aberdeen   |                 0.161 |           1327.000 |         25.814 |         34.664 | English             | Swedish             | False           | False              | True          | True             |
+|      3 | S. Brown      | M. Lustig    | Celtic     |                 0.160 |           1918.000 |         31.961 |         30.491 | English             | Swedish             | False           | False              | True          | True             |
+|      4 | D. Milinković | J. Souttar   | Hearts     |                 0.157 |            948.000 |         22.967 |         20.346 | French              | English             | False           | False              | True          | False            |
+|      5 | S. Sinclair   | K. Ajer      | Celtic     |                 0.154 |           1174.000 |         28.174 |         19.156 | English             | Norwegian           | False           | False              | True          | True             |
 
 ## 2017/2018 - Prim B Nacional (Argentina) - male
-|   Rank | Player 1    | Player 2      | Team                    |   Defensive chemistry |
-|--------|-------------|---------------|-------------------------|-----------------------|
-|      1 | L. Salces   | I. Sanabria   | Gimnasia Jujuy          |                 0.206 |
-|      2 | J. Mendieta | N. Álvarez    | Los Andes               |                 0.190 |
-|      3 | L. Salces   | P. Matricardi | Gimnasia Jujuy          |                 0.187 |
-|      4 | M. Acuña    | F. Quiroga    | Estudiantes de San Luis |                 0.182 |
-|      5 | R. Tesuri   | P. Matricardi | Gimnasia Jujuy          |                 0.179 |
+|   Rank | Player 1    | Player 2      | Team                    |   Defensive chemistry |   Minutes together |   Age player 1 |   Age player 2 | Language player 1   | Language player 2   | Same language   | Same nationality   | Same region   | Same subregion   |
+|--------|-------------|---------------|-------------------------|-----------------------|--------------------|----------------|----------------|---------------------|---------------------|-----------------|--------------------|---------------|------------------|
+|      1 | L. Salces   | I. Sanabria   | Gimnasia Jujuy          |                 0.206 |            947.000 |         22.067 |         27.477 | Spanish             | Spanish             | True            | True               | True          | True             |
+|      2 | J. Mendieta | N. Álvarez    | Los Andes               |                 0.190 |           1011.000 |         24.032 |         27.414 | Spanish             | Spanish             | True            | True               | True          | True             |
+|      3 | L. Salces   | P. Matricardi | Gimnasia Jujuy          |                 0.187 |            983.000 |         22.067 |         23.463 | Spanish             | Spanish             | True            | True               | True          | True             |
+|      4 | M. Acuña    | F. Quiroga    | Estudiantes de San Luis |                 0.182 |           1170.000 |         23.581 |         32.052 | Spanish             | Spanish             | True            | True               | True          | True             |
+|      5 | R. Tesuri   | P. Matricardi | Gimnasia Jujuy          |                 0.179 |           1241.000 |         21.054 |         23.463 | Spanish             | Spanish             | True            | True               | True          | True             |
 
 ## 2017/2018 - Primeira Liga (Portugal) - male
-|   Rank | Player 1       | Player 2        | Team        |   Defensive chemistry |
-|--------|----------------|-----------------|-------------|-----------------------|
-|      1 | C. Piccini     | Fábio Coentrão  | Sporting CP |                 0.262 |
-|      2 | S. Coates      | Fábio Coentrão  | Sporting CP |                 0.217 |
-|      3 | S. Coates      | J. Mathieu      | Sporting CP |                 0.209 |
-|      4 | Fábio Coentrão | J. Mathieu      | Sporting CP |                 0.209 |
-|      5 | Iván Marcano   | Sérgio Oliveira | Porto       |                 0.205 |
+|   Rank | Player 1       | Player 2        | Team        |   Defensive chemistry |   Minutes together |   Age player 1 |   Age player 2 | Language player 1   | Language player 2   | Same language   | Same nationality   | Same region   | Same subregion   |
+|--------|----------------|-----------------|-------------|-----------------------|--------------------|----------------|----------------|---------------------|---------------------|-----------------|--------------------|---------------|------------------|
+|      1 | C. Piccini     | Fábio Coentrão  | Sporting CP |                 0.262 |           1579.000 |         24.523 |         29.155 | Italian             | Portuguese          | False           | False              | True          | True             |
+|      2 | S. Coates      | Fábio Coentrão  | Sporting CP |                 0.217 |           2045.000 |         26.623 |         29.155 | Spanish             | Portuguese          | False           | False              | False         | False            |
+|      3 | S. Coates      | J. Mathieu      | Sporting CP |                 0.209 |           2496.000 |         26.623 |         33.454 | Spanish             | French              | False           | False              | False         | False            |
+|      4 | Fábio Coentrão | J. Mathieu      | Sporting CP |                 0.209 |           1736.000 |         29.155 |         33.454 | Portuguese          | French              | False           | False              | True          | False            |
+|      5 | Iván Marcano   | Sérgio Oliveira | Porto       |                 0.205 |           1063.000 |         29.913 |         24.950 | Spanish             | Portuguese          | False           | False              | True          | True             |
 
 ## 2017/2018 - Primera División (Spain) - male
-|   Rank | Player 1       | Player 2           | Team            |   Defensive chemistry |
-|--------|----------------|--------------------|-----------------|-----------------------|
-|      1 | Bruno González | D. Suárez          | Getafe          |                 0.269 |
-|      2 | Bruno González | Francisco Portillo | Getafe          |                 0.219 |
-|      3 | A. Ndiaye      | Bruno González     | Getafe          |                 0.199 |
-|      4 | Bruno González | Djené              | Getafe          |                 0.197 |
-|      5 | A. Griezmann   | Juanfran           | Atlético Madrid |                 0.196 |
+|   Rank | Player 1       | Player 2           | Team            |   Defensive chemistry |   Minutes together |   Age player 1 |   Age player 2 | Language player 1   | Language player 2   | Same language   | Same nationality   | Same region   | Same subregion   |
+|--------|----------------|--------------------|-----------------|-----------------------|--------------------|----------------|----------------|---------------------|---------------------|-----------------|--------------------|---------------|------------------|
+|      1 | Bruno González | D. Suárez          | Getafe          |                 0.269 |           1270.000 |         26.976 |         29.161 | Spanish             | Spanish             | True            | False              | False         | False            |
+|      2 | Bruno González | Francisco Portillo | Getafe          |                 0.219 |           1362.000 |         26.976 |         27.033 | Spanish             | Spanish             | True            | True               | True          | True             |
+|      3 | A. Ndiaye      | Bruno González     | Getafe          |                 0.199 |           1210.000 |         20.941 |         26.976 | French              | Spanish             | False           | False              | False         | False            |
+|      4 | Bruno González | Djené              | Getafe          |                 0.197 |           1360.000 |         26.976 |         25.368 | Spanish             | French              | False           | False              | False         | False            |
+|      5 | A. Griezmann   | Juanfran           | Atlético Madrid |                 0.196 |            921.000 |         26.223 |         32.274 | French              | Spanish             | False           | False              | True          | False            |
 
 ## 2017/2018 - Regionalliga (Germany) - male
-|   Rank | Player 1     | Player 2      | Team             |   Defensive chemistry |
-|--------|--------------|---------------|------------------|-----------------------|
-|      1 | H. Ostermann | T. Paetow     | Weiche Flensburg |                 0.336 |
-|      2 | N. Mendy     | M. Müller     | Saarbrücken      |                 0.296 |
-|      3 | H. Ostermann | P. Thomsen    | Weiche Flensburg |                 0.296 |
-|      4 | M. Kleihs    | P. Thomsen    | Weiche Flensburg |                 0.257 |
-|      5 | N. Mendy     | M. Kehl-Gómez | Saarbrücken      |                 0.253 |
+|   Rank | Player 1     | Player 2      | Team             |   Defensive chemistry |   Minutes together |   Age player 1 |   Age player 2 | Language player 1   | Language player 2   | Same language   | Same nationality   | Same region   | Same subregion   |
+|--------|--------------|---------------|------------------|-----------------------|--------------------|----------------|----------------|---------------------|---------------------|-----------------|--------------------|---------------|------------------|
+|      1 | H. Ostermann | T. Paetow     | Weiche Flensburg |                 0.336 |            928.000 |         27.862 |         21.767 | German              | German              | True            | True               | True          | True             |
+|      2 | N. Mendy     | M. Müller     | Saarbrücken      |                 0.296 |            973.000 |         33.415 |         25.324 | French              | German              | False           | False              | True          | True             |
+|      3 | H. Ostermann | P. Thomsen    | Weiche Flensburg |                 0.296 |           1462.000 |         27.862 |         26.835 | German              | German              | True            | True               | True          | True             |
+|      4 | M. Kleihs    | P. Thomsen    | Weiche Flensburg |                 0.257 |           1006.000 |         23.172 |         26.835 | German              | German              | True            | True               | True          | True             |
+|      5 | N. Mendy     | M. Kehl-Gómez | Saarbrücken      |                 0.253 |            938.000 |         33.415 |         25.084 | French              | German              | False           | False              | True          | True             |
 
 ## 2017/2018 - Segunda División (Spain) - male
-|   Rank | Player 1       | Player 2          | Team           |   Defensive chemistry |
-|--------|----------------|-------------------|----------------|-----------------------|
-|      1 | Germán Sánchez | Víctor Díaz       | Granada        |                 0.195 |
-|      2 | Carlos Carmona | Roberto Canella   | Sporting Gijón |                 0.194 |
-|      3 | Marcos Mauro   | Jon Ander Garrido | Cádiz          |                 0.179 |
-|      4 | Jordi Calavera | Roberto Canella   | Sporting Gijón |                 0.177 |
-|      5 | Álex Pérez     | Roberto Canella   | Sporting Gijón |                 0.166 |
+|   Rank | Player 1       | Player 2          | Team           |   Defensive chemistry |   Minutes together |   Age player 1 |   Age player 2 | Language player 1   | Language player 2   | Same language   | Same nationality   | Same region   | Same subregion   |
+|--------|----------------|-------------------|----------------|-----------------------|--------------------|----------------|----------------|---------------------|---------------------|-----------------|--------------------|---------------|------------------|
+|      1 | Germán Sánchez | Víctor Díaz       | Granada        |                 0.195 |            996.000 |         30.535 |         28.939 | Spanish             | Spanish             | True            | True               | True          | True             |
+|      2 | Carlos Carmona | Roberto Canella   | Sporting Gijón |                 0.194 |           2484.000 |         29.877 |         29.283 | Spanish             | Spanish             | True            | True               | True          | True             |
+|      3 | Marcos Mauro   | Jon Ander Garrido | Cádiz          |                 0.179 |           1586.000 |         26.346 |         27.693 | Spanish             | Spanish             | True            | False              | False         | False            |
+|      4 | Jordi Calavera | Roberto Canella   | Sporting Gijón |                 0.177 |           1983.000 |         21.859 |         29.283 | Spanish             | Spanish             | True            | True               | True          | True             |
+|      5 | Álex Pérez     | Roberto Canella   | Sporting Gijón |                 0.166 |           2189.000 |         25.834 |         29.283 | Spanish             | Spanish             | True            | True               | True          | True             |
 
 ## 2017/2018 - Segunda Liga (Portugal) - male
-|   Rank | Player 1       | Player 2       | Team             |   Defensive chemistry |
-|--------|----------------|----------------|------------------|-----------------------|
-|      1 | B. Diarra      | Paulo Henrique | Sporting Covilhã |                 0.195 |
-|      2 | B. Diarra      | Joel           | Sporting Covilhã |                 0.192 |
-|      3 | B. Diarra      | João Dias      | Sporting Covilhã |                 0.188 |
-|      4 | Paulo Henrique | João Dias      | Sporting Covilhã |                 0.186 |
-|      5 | Alemão         | Diogo Valente  | UD Oliveirense   |                 0.182 |
+|   Rank | Player 1       | Player 2       | Team             |   Defensive chemistry |   Minutes together |   Age player 1 |   Age player 2 | Language player 1   | Language player 2   | Same language   | Same nationality   | Same region   | Same subregion   |
+|--------|----------------|----------------|------------------|-----------------------|--------------------|----------------|----------------|---------------------|---------------------|-----------------|--------------------|---------------|------------------|
+|      1 | B. Diarra      | Paulo Henrique | Sporting Covilhã |                 0.195 |           1154.000 |         23.706 |         19.799 | French              | Portuguese          | False           | False              | True          | False            |
+|      2 | B. Diarra      | Joel           | Sporting Covilhã |                 0.192 |           1013.000 |         23.706 |         29.453 | French              | Portuguese          | False           | False              | True          | False            |
+|      3 | B. Diarra      | João Dias      | Sporting Covilhã |                 0.188 |           1001.000 |         23.706 |         30.392 | French              | Portuguese          | False           | False              | True          | False            |
+|      4 | Paulo Henrique | João Dias      | Sporting Covilhã |                 0.186 |           2295.000 |         19.799 |         30.392 | Portuguese          | Portuguese          | True            | True               | True          | True             |
+|      5 | Alemão         | Diogo Valente  | UD Oliveirense   |                 0.182 |            954.000 |         24.492 |         32.640 | Portuguese          | Portuguese          | True            | False              | False         | False            |
 
 ## 2017/2018 - Serie A (Italy) - male
-|   Rank | Player 1        | Player 2     | Team     |   Defensive chemistry |
-|--------|-----------------|--------------|----------|-----------------------|
-|      1 | M. Benatia      | G. Chiellini | Juventus |                 0.225 |
-|      2 | N. N'Koulou     | C. Molinaro  | Torino   |                 0.214 |
-|      3 | K. Asamoah      | M. Pjanić    | Juventus |                 0.207 |
-|      4 | L. De Silvestri | C. Molinaro  | Torino   |                 0.204 |
-|      5 | S. Khedira      | M. Benatia   | Juventus |                 0.202 |
+|   Rank | Player 1        | Player 2     | Team     |   Defensive chemistry |   Minutes together |   Age player 1 |   Age player 2 | Language player 1   | Language player 2   | Same language   | Same nationality   | Same region   | Same subregion   |
+|--------|-----------------|--------------|----------|-----------------------|--------------------|----------------|----------------|---------------------|---------------------|-----------------|--------------------|---------------|------------------|
+|      1 | M. Benatia      | G. Chiellini | Juventus |                 0.225 |           1000.000 |         30.113 |         32.827 | French              | Italian             | False           | False              | True          | False            |
+|      2 | N. N'Koulou     | C. Molinaro  | Torino   |                 0.214 |           1564.000 |         27.151 |         33.792 | English             | Italian             | False           | False              | False         | False            |
+|      3 | K. Asamoah      | M. Pjanić    | Juventus |                 0.207 |           1056.000 |         28.465 |         27.189 | English             | Bosnian             | False           | False              | False         | False            |
+|      4 | L. De Silvestri | C. Molinaro  | Torino   |                 0.204 |           1278.000 |         29.015 |         33.792 | Italian             | Italian             | True            | True               | True          | True             |
+|      5 | S. Khedira      | M. Benatia   | Juventus |                 0.202 |           1002.000 |         30.168 |         30.113 | German              | French              | False           | False              | True          | True             |
 
 ## 2017/2018 - Serie C (Italy) - male
-|   Rank | Player 1      | Player 2    | Team           |   Defensive chemistry |
-|--------|---------------|-------------|----------------|-----------------------|
-|      1 | L. Carissoni  | A. D'Errico | Monza          |                 0.237 |
-|      2 | F. Karkalis   | C. Andreoni | Bassano Virtus |                 0.180 |
-|      3 | L. Giudici    | M. Origlio  | Monza          |                 0.178 |
-|      4 | A. Tentardini | L. Giudici  | Monza          |                 0.178 |
-|      5 | L. Carissoni  | R. Riva     | Monza          |                 0.173 |
+|   Rank | Player 1      | Player 2    | Team           |   Defensive chemistry |   Minutes together |   Age player 1 |   Age player 2 | Language player 1   | Language player 2   | Same language   | Same nationality   | Same region   | Same subregion   |
+|--------|---------------|-------------|----------------|-----------------------|--------------------|----------------|----------------|---------------------|---------------------|-----------------|--------------------|---------------|------------------|
+|      1 | L. Carissoni  | A. D'Errico | Monza          |                 0.237 |            975.000 |         20.246 |         23.128 | Italian             | Italian             | True            | True               | True          | True             |
+|      2 | F. Karkalis   | C. Andreoni | Bassano Virtus |                 0.180 |           1620.000 |         22.356 |         22.984 | Italian             | Italian             | True            | True               | True          | True             |
+|      3 | L. Giudici    | M. Origlio  | Monza          |                 0.178 |            985.000 |         24.386 |         18.767 | Italian             | Italian             | True            | True               | True          | True             |
+|      4 | A. Tentardini | L. Giudici  | Monza          |                 0.178 |           1898.000 |         20.314 |         24.386 | Italian             | Italian             | True            | True               | True          | True             |
+|      5 | L. Carissoni  | R. Riva     | Monza          |                 0.173 |           1333.000 |         20.246 |         25.792 | Italian             | Italian             | True            | True               | True          | True             |
 
 ## 2017/2018 - Super League (Greece) - male
-|   Rank | Player 1         | Player 2             | Team               |   Defensive chemistry |
-|--------|------------------|----------------------|--------------------|-----------------------|
-|      1 | S. Tsabouris     | G. Zaradoukas        | Levadiakos         |                 0.206 |
-|      2 | Hélder Lopes     | Rodrigo Galo         | AEK Athens         |                 0.193 |
-|      3 | G. Kyriakopoulos | K. Triantafyllopulos | Asteras Tripolis   |                 0.186 |
-|      4 | K. Lambropoulos  | Rodrigo Galo         | AEK Athens         |                 0.180 |
-|      5 | L. Koutris       | O. Elabdellaoui      | Olympiakos Piraeus |                 0.180 |
+|   Rank | Player 1         | Player 2             | Team               |   Defensive chemistry |   Minutes together |   Age player 1 |   Age player 2 | Language player 1   | Language player 2   | Same language   | Same nationality   | Same region   | Same subregion   |
+|--------|------------------|----------------------|--------------------|-----------------------|--------------------|----------------|----------------|---------------------|---------------------|-----------------|--------------------|---------------|------------------|
+|      1 | S. Tsabouris     | G. Zaradoukas        | Levadiakos         |                 0.206 |           1114.000 |         30.732 |         31.326 | Greek (modern)      | Greek (modern)      | True            | True               | True          | True             |
+|      2 | Hélder Lopes     | Rodrigo Galo         | AEK Athens         |                 0.193 |            919.000 |         28.375 |         30.699 | Portuguese          | Portuguese          | True            | False              | False         | False            |
+|      3 | G. Kyriakopoulos | K. Triantafyllopulos | Asteras Tripolis   |                 0.186 |            938.000 |         21.234 |         24.076 | Greek (modern)      | Greek (modern)      | True            | True               | True          | True             |
+|      4 | K. Lambropoulos  | Rodrigo Galo         | AEK Athens         |                 0.180 |           1235.000 |         27.019 |         30.699 | Greek (modern)      | Portuguese          | False           | False              | False         | False            |
+|      5 | L. Koutris       | O. Elabdellaoui      | Olympiakos Piraeus |                 0.180 |           1053.000 |         21.773 |         25.461 | Greek (modern)      | Norwegian           | False           | False              | True          | False            |
 
 ## 2017/2018 - Super League (Switzerland) - male
-|   Rank | Player 1           | Player 2   | Team   |   Defensive chemistry |
-|--------|--------------------|------------|--------|-----------------------|
-|      1 | É. Álvarez Balanta | M. Lang    | Basel  |                 0.196 |
-|      2 | C. Brunner         | A. Winter  | Zürich |                 0.191 |
-|      3 | M. Akanji          | M. Lang    | Basel  |                 0.182 |
-|      4 | M. Akanji          | M. Suchý   | Basel  |                 0.177 |
-|      5 | M. Akanji          | T. Xhaka   | Basel  |                 0.166 |
+|   Rank | Player 1           | Player 2   | Team   |   Defensive chemistry |   Minutes together |   Age player 1 |   Age player 2 | Language player 1   | Language player 2   | Same language   | Same nationality   | Same region   | Same subregion   |
+|--------|--------------------|------------|--------|-----------------------|--------------------|----------------|----------------|---------------------|---------------------|-----------------|--------------------|---------------|------------------|
+|      1 | É. Álvarez Balanta | M. Lang    | Basel  |                 0.196 |            985.000 |         24.015 |         26.316 | Spanish             | German              | False           | False              | False         | False            |
+|      2 | C. Brunner         | A. Winter  | Zürich |                 0.191 |           1182.000 |         23.293 |         30.907 | German              | German              | True            | True               | True          | True             |
+|      3 | M. Akanji          | M. Lang    | Basel  |                 0.182 |           1622.000 |         21.894 |         26.316 | German              | German              | True            | True               | True          | True             |
+|      4 | M. Akanji          | M. Suchý   | Basel  |                 0.177 |           1452.000 |         21.894 |         29.180 | German              | Czech               | False           | False              | True          | False            |
+|      5 | M. Akanji          | T. Xhaka   | Basel  |                 0.166 |           1072.000 |         21.894 |         26.184 | German              | German              | True            | True               | True          | True             |
 
 ## 2017/2018 - Super Liga (Serbia) - male
-|   Rank | Player 1           | Player 2       | Team             |   Defensive chemistry |
-|--------|--------------------|----------------|------------------|-----------------------|
-|      1 | F. Pejović         | N. Gavrić      | Mačva Šabac      |                 0.191 |
-|      2 | M. Gobeljić        | N. Krstičić    | Crvena Zvezda    |                 0.183 |
-|      3 | I. Zlatanović      | M. Milovanović | Radnik Surdulica |                 0.183 |
-|      4 | I. Ristivojević    | N. Gavrić      | Mačva Šabac      |                 0.180 |
-|      5 | Nemanja Miletić II | B. Ostojić     | Partizan         |                 0.178 |
+|   Rank | Player 1           | Player 2       | Team             |   Defensive chemistry |   Minutes together |   Age player 1 |   Age player 2 | Language player 1   | Language player 2   | Same language   | Same nationality   | Same region   | Same subregion   |
+|--------|--------------------|----------------|------------------|-----------------------|--------------------|----------------|----------------|---------------------|---------------------|-----------------|--------------------|---------------|------------------|
+|      1 | F. Pejović         | N. Gavrić      | Mačva Šabac      |                 0.191 |           1381.000 |         34.920 |         25.549 | Serbian             | Serbian             | True            | True               | True          | True             |
+|      2 | M. Gobeljić        | N. Krstičić    | Crvena Zvezda    |                 0.183 |            942.000 |         24.687 |         26.882 | Serbian             | Serbian             | True            | True               | True          | True             |
+|      3 | I. Zlatanović      | M. Milovanović | Radnik Surdulica |                 0.183 |            950.000 |         19.276 |         29.450 | Serbian             | Serbian             | True            | True               | True          | True             |
+|      4 | I. Ristivojević    | N. Gavrić      | Mačva Šabac      |                 0.180 |           1265.000 |         28.667 |         25.549 | Serbian             | Serbian             | True            | True               | True          | True             |
+|      5 | Nemanja Miletić II | B. Ostojić     | Partizan         |                 0.178 |            904.000 |         25.823 |         33.289 | Serbian             | Serbian             | True            | True               | True          | True             |
 
 ## 2017/2018 - Superliga (Argentina) - male
-|   Rank | Player 1     | Player 2     | Team              |   Defensive chemistry |
-|--------|--------------|--------------|-------------------|-----------------------|
-|      1 | G. Escobar   | G. Toledo    | Colón             |                 0.211 |
-|      2 | F. Angileri  | L. Abecasis  | Godoy Cruz        |                 0.206 |
-|      3 | C. Quintana  | L. Godoy     | Talleres Córdoba  |                 0.192 |
-|      4 | G. Montiel   | G. Martínez  | River Plate       |                 0.182 |
-|      5 | F. Fontanini | J. San Román | Newell's Old Boys |                 0.180 |
+|   Rank | Player 1     | Player 2     | Team              |   Defensive chemistry |   Minutes together |   Age player 1 |   Age player 2 | Language player 1   | Language player 2   | Same language   | Same nationality   | Same region   | Same subregion   |
+|--------|--------------|--------------|-------------------|-----------------------|--------------------|----------------|----------------|---------------------|---------------------|-----------------|--------------------|---------------|------------------|
+|      1 | G. Escobar   | G. Toledo    | Colón             |                 0.211 |            990.000 |         20.282 |         27.661 | Spanish             | Spanish             | True            | True               | True          | True             |
+|      2 | F. Angileri  | L. Abecasis  | Godoy Cruz        |                 0.206 |           1580.000 |         23.274 |         27.066 | Spanish             | Spanish             | True            | True               | True          | True             |
+|      3 | C. Quintana  | L. Godoy     | Talleres Córdoba  |                 0.192 |           1071.000 |         29.377 |         22.169 | Spanish             | Spanish             | True            | True               | True          | True             |
+|      4 | G. Montiel   | G. Martínez  | River Plate       |                 0.182 |           1081.000 |         20.482 |         24.036 | Spanish             | Spanish             | True            | True               | True          | True             |
+|      5 | F. Fontanini | J. San Román | Newell's Old Boys |                 0.180 |            953.000 |         27.174 |         28.862 | Spanish             | Spanish             | True            | True               | True          | True             |
 
 ## 2017/2018 - Superliga (Denmark) - male
-|   Rank | Player 1    | Player 2     | Team        |   Defensive chemistry |
-|--------|-------------|--------------|-------------|-----------------------|
-|      1 | J. Blåbjerg | J. Okore     | AaB         |                 0.182 |
-|      2 | F. Børsting | J. Okore     | AaB         |                 0.175 |
-|      3 | F. Børsting | J. Ahlmann   | AaB         |                 0.172 |
-|      4 | R. Nissen   | M. Dal Hende | Midtjylland |                 0.172 |
-|      5 | J. Larsson  | A. Jung      | Brøndby     |                 0.171 |
+|   Rank | Player 1    | Player 2     | Team        |   Defensive chemistry |   Minutes together |   Age player 1 |   Age player 2 | Language player 1   | Language player 2   | Same language   | Same nationality   | Same region   | Same subregion   |
+|--------|-------------|--------------|-------------|-----------------------|--------------------|----------------|----------------|---------------------|---------------------|-----------------|--------------------|---------------|------------------|
+|      1 | J. Blåbjerg | J. Okore     | AaB         |                 0.182 |           1601.000 |         22.453 |         24.597 | Danish              | French              | False           | False              | False         | False            |
+|      2 | F. Børsting | J. Okore     | AaB         |                 0.175 |           1588.000 |         22.346 |         24.597 | Danish              | French              | False           | False              | False         | False            |
+|      3 | F. Børsting | J. Ahlmann   | AaB         |                 0.172 |           1195.000 |         22.346 |         26.329 | Danish              | Danish              | True            | True               | True          | True             |
+|      4 | R. Nissen   | M. Dal Hende | Midtjylland |                 0.172 |           1015.000 |         19.956 |         26.647 | Danish              | Danish              | True            | True               | True          | True             |
+|      5 | J. Larsson  | A. Jung      | Brøndby     |                 0.171 |           2291.000 |         27.066 |         25.488 | Swedish             | Spanish             | False           | False              | True          | False            |
 
 ## 2017/2018 - Süper Lig (Turkey) - male
-|   Rank | Player 1      | Player 2       | Team                |   Defensive chemistry |
-|--------|---------------|----------------|---------------------|-----------------------|
-|      1 | G. Gönül      | Adriano        | Beşiktaş            |                 0.236 |
-|      2 | E. Elia       | Júnior Caiçara | İstanbul Başakşehir |                 0.207 |
-|      3 | Ş. Özbayraklı | H. Kaldirim    | Fenerbahçe          |                 0.197 |
-|      4 | Ş. Özbayraklı | M. Škrtel      | Fenerbahçe          |                 0.187 |
-|      5 | D. Milosević  | S. Ay          | Konyaspor           |                 0.180 |
+|   Rank | Player 1      | Player 2       | Team                |   Defensive chemistry |   Minutes together |   Age player 1 |   Age player 2 | Language player 1   | Language player 2   | Same language   | Same nationality   | Same region   | Same subregion   |
+|--------|---------------|----------------|---------------------|-----------------------|--------------------|----------------|----------------|---------------------|---------------------|-----------------|--------------------|---------------|------------------|
+|      1 | G. Gönül      | Adriano        | Beşiktaş            |                 0.236 |           1474.000 |         32.435 |         32.604 | Turkish             | Portuguese          | False           | False              | False         | False            |
+|      2 | E. Elia       | Júnior Caiçara | İstanbul Başakşehir |                 0.207 |           1309.000 |         30.250 |         28.068 | Dutch               | Portuguese          | False           | False              | False         | False            |
+|      3 | Ş. Özbayraklı | H. Kaldirim    | Fenerbahçe          |                 0.197 |            959.000 |         27.315 |         27.507 | Turkish             | German              | False           | False              | False         | False            |
+|      4 | Ş. Özbayraklı | M. Škrtel      | Fenerbahçe          |                 0.187 |           1218.000 |         27.315 |         32.487 | Turkish             | Slovak              | False           | False              | False         | False            |
+|      5 | D. Milosević  | S. Ay          | Konyaspor           |                 0.180 |           1071.000 |         22.239 |         25.844 | Dutch               | Turkish             | False           | False              | False         | False            |
 
 ## 2017/2018 - UEFA Champions League (Europe) - male
-|   Rank | Player 1      | Player 2        | Team    |   Defensive chemistry |
-|--------|---------------|-----------------|---------|-----------------------|
-|      1 | K. Tierney    | M. Lustig       | Celtic  |                 0.151 |
-|      2 | C. Lenglet    | Sergio Escudero | Sevilla |                 0.146 |
-|      3 | R. Nainggolan | A. Kolarov      | Roma    |                 0.128 |
-|      4 | M. Šuler      | M. Kabha        | Maribor |                 0.100 |
-|      5 | É. Banega     | Sergio Escudero | Sevilla |                 0.081 |
+|   Rank | Player 1      | Player 2        | Team    |   Defensive chemistry |   Minutes together |   Age player 1 |   Age player 2 | Language player 1   | Language player 2   | Same language   | Same nationality   | Same region   | Same subregion   |
+|--------|---------------|-----------------|---------|-----------------------|--------------------|----------------|----------------|---------------------|---------------------|-----------------|--------------------|---------------|------------------|
+|      1 | K. Tierney    | M. Lustig       | Celtic  |                 0.151 |           1002.000 |         20.016 |         30.491 | English             | Swedish             | False           | False              | True          | True             |
+|      2 | C. Lenglet    | Sergio Escudero | Sevilla |                 0.146 |            990.000 |         21.927 |         27.715 | French              | Spanish             | False           | False              | True          | False            |
+|      3 | R. Nainggolan | A. Kolarov      | Roma    |                 0.128 |            956.000 |         29.067 |         31.586 | Dutch               | Serbian             | False           | False              | True          | False            |
+|      4 | M. Šuler      | M. Kabha        | Maribor |                 0.100 |            990.000 |         34.220 |         26.048 | Slovene             | Hebrew (modern)     | False           | False              | False         | False            |
+|      5 | É. Banega     | Sergio Escudero | Sevilla |                 0.081 |            969.000 |         28.856 |         27.715 | Spanish             | Spanish             | True            | False              | False         | False            |
 
 ## 2017 Poland - UEFA U21 Championship (Europe) - male
-|   Rank | Player 1    | Player 2       | Team        |   Defensive chemistry |
-|--------|-------------|----------------|-------------|-----------------------|
-|      1 | C. Chambers | L. Baker       | England U21 |                 0.209 |
-|      2 | Y. Gerhardt | J. Toljan      | Germany U21 |                 0.178 |
-|      3 | C. Chambers | J. Ward-Prowse | England U21 |                 0.174 |
-|      4 | Deulofeu    | Saúl Ñíguez    | Spain U21   |                 0.174 |
-|      5 | L. Baker    | J. Ward-Prowse | England U21 |                 0.165 |
+|   Rank | Player 1        | Player 2    | Team        |   Defensive chemistry |   Minutes together |   Age player 1 |   Age player 2 | Language player 1   | Language player 2   | Same language   | Same nationality   | Same region   | Same subregion   |
+|--------|-----------------|-------------|-------------|-----------------------|--------------------|----------------|----------------|---------------------|---------------------|-----------------|--------------------|---------------|------------------|
+|      1 | H. Gunnlaugsson | A. Arnarson | Iceland U21 |                 0.302 |            496.000 |         20.024 |         19.243 | Icelandic           | Icelandic           | True            | True               | True          | True             |
+|      2 | D. Berardi      | A. Conti    | Italy U21   |                 0.292 |            479.000 |         20.388 |         20.815 | Italian             | Italian             | True            | True               | True          | True             |
+|      3 | M. Caldara      | A. Conti    | Italy U21   |                 0.275 |            630.000 |         20.535 |         20.815 | Italian             | Italian             | True            | True               | True          | True             |
+|      4 | A. Hjulsager    | J. Blåbjerg | Denmark U21 |                 0.273 |            455.000 |         19.876 |         19.917 | Danish              | Danish              | True            | True               | True          | True             |
+|      5 | D. Berardi      | M. Benassi  | Italy U21   |                 0.270 |            474.000 |         20.388 |         20.229 | Italian             | Italian             | True            | True               | True          | True             |
 
 ## 2017 Georgia - UEFA U19 Championship (Europe) - male
-|   Rank | Player 1    | Player 2    | Team               |   Defensive chemistry |
-|--------|-------------|-------------|--------------------|-----------------------|
-|      1 | D. Sterling | Ja. Dasilva | England U19        |                 0.259 |
-|      2 | D. Mareček  | A. Král     | Czech Republic U19 |                 0.212 |
-|      3 | A. Edun     | Ja. Dasilva | England U19        |                 0.201 |
-|      4 | M. Demir    | K. Özdemir  | Turkey U19         |                 0.197 |
-|      5 | D. Mareček  | L. Holík    | Czech Republic U19 |                 0.190 |
+|   Rank | Player 1    | Player 2    | Team               |   Defensive chemistry |   Minutes together |   Age player 1 |   Age player 2 | Language player 1   | Language player 2   | Same language   | Same nationality   | Same region   | Same subregion   |
+|--------|-------------|-------------|--------------------|-----------------------|--------------------|----------------|----------------|---------------------|---------------------|-----------------|--------------------|---------------|------------------|
+|      1 | D. Sterling | Ja. Dasilva | England U19        |                 0.259 |            540.000 |         17.130 |         18.636 | English             | English             | True            | True               | True          | True             |
+|      2 | D. Mareček  | A. Král     | Czech Republic U19 |                 0.212 |            630.000 |         18.507 |         18.400 | Czech               | Slovak              | False           | False              | True          | True             |
+|      3 | A. Edun     | Ja. Dasilva | England U19        |                 0.201 |            540.000 |         18.603 |         18.636 | English             | English             | True            | True               | True          | True             |
+|      4 | M. Demir    | K. Özdemir  | Turkey U19         |                 0.197 |            459.000 |         18.580 |         18.616 | German              | Turkish             | False           | False              | False         | False            |
+|      5 | D. Mareček  | L. Holík    | Czech Republic U19 |                 0.190 |            630.000 |         18.507 |         18.564 | Czech               | Czech               | True            | True               | True          | True             |
 
 ## 2017 Gabon - Africa Cup of Nations (Africa) - male
-|   Rank | Player 1          | Player 2   | Team     |   Defensive chemistry |
-|--------|-------------------|------------|----------|-----------------------|
-|      1 | M. Ngadeu Ngadjui | A. Oyongo  | Cameroon |                 0.306 |
-|      2 | A. Oyongo         | S. Siani   | Cameroon |                 0.299 |
-|      3 | A. Teikeu         | S. Siani   | Cameroon |                 0.287 |
-|      4 | M. Ngadeu Ngadjui | A. Teikeu  | Cameroon |                 0.282 |
-|      5 | M. Ngadeu Ngadjui | S. Siani   | Cameroon |                 0.256 |
+|   Rank | Player 1          | Player 2   | Team     |   Defensive chemistry |   Minutes together |   Age player 1 |   Age player 2 | Language player 1   | Language player 2   | Same language   | Same nationality   | Same region   | Same subregion   |
+|--------|-------------------|------------|----------|-----------------------|--------------------|----------------|----------------|---------------------|---------------------|-----------------|--------------------|---------------|------------------|
+|      1 | M. Ngadeu Ngadjui | A. Oyongo  | Cameroon |                 0.306 |            570.000 |         26.028 |         25.446 | English             | English             | True            | True               | True          | True             |
+|      2 | A. Oyongo         | S. Siani   | Cameroon |                 0.299 |            570.000 |         25.446 |         30.017 | English             | English             | True            | True               | True          | True             |
+|      3 | A. Teikeu         | S. Siani   | Cameroon |                 0.287 |            510.000 |         26.486 |         30.017 | English             | English             | True            | True               | True          | True             |
+|      4 | M. Ngadeu Ngadjui | A. Teikeu  | Cameroon |                 0.282 |            510.000 |         26.028 |         26.486 | English             | English             | True            | True               | True          | True             |
+|      5 | M. Ngadeu Ngadjui | S. Siani   | Cameroon |                 0.256 |            570.000 |         26.028 |         30.017 | English             | English             | True            | True               | True          | True             |
 
 ## 2017 Croatia - UEFA U17 Championship (Europe) - male
-|   Rank | Player 1       | Player 2       | Team        |   Defensive chemistry |
-|--------|----------------|----------------|-------------|-----------------------|
-|      1 | Juan Miranda   | Víctor Chust   | Spain U17   |                 0.291 |
-|      2 | A. Vashchyshyn | R. Slyva       | Ukraine U17 |                 0.257 |
-|      3 | Juan Miranda   | Hugo Guillamón | Spain U17   |                 0.240 |
-|      4 | M. Guehi       | P. Foden       | England U17 |                 0.234 |
-|      5 | J. Panzo       | T. Eyoma       | England U17 |                 0.231 |
+|   Rank | Player 1       | Player 2       | Team        |   Defensive chemistry |   Minutes together |   Age player 1 |   Age player 2 | Language player 1   | Language player 2   | Same language   | Same nationality   | Same region   | Same subregion   |
+|--------|----------------|----------------|-------------|-----------------------|--------------------|----------------|----------------|---------------------|---------------------|-----------------|--------------------|---------------|------------------|
+|      1 | Juan Miranda   | Víctor Chust   | Spain U17   |                 0.291 |            510.000 |         16.683 |         16.557 | Spanish             | Spanish             | True            | True               | True          | True             |
+|      2 | A. Vashchyshyn | R. Slyva       | Ukraine U17 |                 0.257 |            457.000 |         16.716 |         16.015 | Ukrainian           | Ukrainian           | True            | True               | True          | True             |
+|      3 | Juan Miranda   | Hugo Guillamón | Spain U17   |                 0.240 |            600.000 |         16.683 |         16.651 | Spanish             | Spanish             | True            | True               | True          | True             |
+|      4 | M. Guehi       | P. Foden       | England U17 |                 0.234 |            614.000 |         16.412 |         16.568 | French              | English             | False           | False              | False         | False            |
+|      5 | J. Panzo       | T. Eyoma       | England U17 |                 0.231 |            607.000 |         16.127 |         16.859 | English             | English             | True            | True               | True          | True             |
 
 ## 2017 - AFC Champions League (Asia) - male
-|   Rank | Player 1   | Player 2    | Team          |   Defensive chemistry |
-|--------|------------|-------------|---------------|-----------------------|
-|      1 | W. Endo    | Y. Abe      | Urawa Reds    |                 0.152 |
-|      2 | T. Aoki    | T. Makino   | Urawa Reds    |                 0.137 |
-|      3 | Oscar      | Shi Ke      | Shanghai SIPG |                 0.112 |
-|      4 | Y. Abe     | T. Makino   | Urawa Reds    |                 0.092 |
-|      5 | Fu Huan    | O. Akhmedov | Shanghai SIPG |                 0.082 |
+|   Rank | Player 1   | Player 2    | Team          |   Defensive chemistry |   Minutes together |   Age player 1 |   Age player 2 | Language player 1   | Language player 2   | Same language   | Same nationality   | Same region   | Same subregion   |
+|--------|------------|-------------|---------------|-----------------------|--------------------|----------------|----------------|---------------------|---------------------|-----------------|--------------------|---------------|------------------|
+|      1 | W. Endo    | Y. Abe      | Urawa Reds    |                 0.152 |            931.000 |         23.815 |         35.243 | Japanese            | Japanese            | True            | True               | True          | True             |
+|      2 | T. Aoki    | T. Makino   | Urawa Reds    |                 0.137 |           1042.000 |         27.216 |         29.567 | Japanese            | Japanese            | True            | True               | True          | True             |
+|      3 | Oscar      | Shi Ke      | Shanghai SIPG |                 0.112 |           1097.000 |         25.218 |         23.810 | Portuguese          | Chinese             | False           | False              | False         | False            |
+|      4 | Y. Abe     | T. Makino   | Urawa Reds    |                 0.092 |           1020.000 |         35.243 |         29.567 | Japanese            | Japanese            | True            | True               | True          | True             |
+|      5 | Fu Huan    | O. Akhmedov | Shanghai SIPG |                 0.082 |            926.000 |         23.292 |         29.040 | Chinese             | Uzbek               | False           | False              | True          | False            |
 
 ## 2017 - Allsvenskan (Sweden) - male
-|   Rank | Player 1      | Player 2    | Team             |   Defensive chemistry |
-|--------|---------------|-------------|------------------|-----------------------|
-|      1 | T. Siwe       | S. Karlsson | Jönköpings Södra |                 0.200 |
-|      2 | J. Karlsson   | S. Karlsson | Jönköpings Södra |                 0.188 |
-|      3 | S. Aasmundsen | S. Karlsson | Jönköpings Södra |                 0.186 |
-|      4 | B. Sævarsson  | M. Solheim  | Hammarby         |                 0.177 |
-|      5 | J. Ojala      | Paulinho    | Häcken           |                 0.177 |
+|   Rank | Player 1      | Player 2    | Team             |   Defensive chemistry |   Minutes together |   Age player 1 |   Age player 2 | Language player 1   | Language player 2   | Same language   | Same nationality   | Same region   | Same subregion   |
+|--------|---------------|-------------|------------------|-----------------------|--------------------|----------------|----------------|---------------------|---------------------|-----------------|--------------------|---------------|------------------|
+|      1 | T. Siwe       | S. Karlsson | Jönköpings Södra |                 0.200 |           1673.000 |         29.670 |         27.895 | Swedish             | Swedish             | True            | True               | True          | True             |
+|      2 | J. Karlsson   | S. Karlsson | Jönköpings Södra |                 0.188 |           1389.000 |         27.755 |         27.895 | Swedish             | Swedish             | True            | True               | True          | True             |
+|      3 | S. Aasmundsen | S. Karlsson | Jönköpings Södra |                 0.186 |            911.000 |         26.997 |         27.895 | Norwegian           | Swedish             | False           | False              | True          | True             |
+|      4 | B. Sævarsson  | M. Solheim  | Hammarby         |                 0.177 |           2299.000 |         32.005 |         28.930 | Icelandic           | Norwegian           | False           | False              | True          | True             |
+|      5 | J. Ojala      | Paulinho    | Häcken           |                 0.177 |           1259.000 |         27.347 |         30.543 | Finnish             | Portuguese          | False           | False              | False         | False            |
 
 ## 2017 - CAF Champions League (Africa) - male
-|   Rank | Player 1    | Player 2      | Team             |   Defensive chemistry |
-|--------|-------------|---------------|------------------|-----------------------|
-|      1 | A. Noussir  | Y. Rabeh      | Wydad Casablanca |                 0.192 |
-|      2 | S. Saidi    | A. Noussir    | Wydad Casablanca |                 0.153 |
-|      3 | A. Maâloul  | Amr Al Sulaya | Al Ahly          |                 0.144 |
-|      4 | S. Saidi    | Y. Rabeh      | Wydad Casablanca |                 0.139 |
-|      5 | Ahmed Fathy | Saad Samir    | Al Ahly          |                 0.115 |
+|   Rank | Player 1    | Player 2      | Team             |   Defensive chemistry |   Minutes together |   Age player 1 |   Age player 2 | Language player 1   | Language player 2   | Same language   | Same nationality   | Same region   | Same subregion   |
+|--------|-------------|---------------|------------------|-----------------------|--------------------|----------------|----------------|---------------------|---------------------|-----------------|--------------------|---------------|------------------|
+|      1 | A. Noussir  | Y. Rabeh      | Wydad Casablanca |                 0.192 |           1020.000 |         26.595 |         31.430 | Arabic              | Arabic              | True            | True               | True          | True             |
+|      2 | S. Saidi    | A. Noussir    | Wydad Casablanca |                 0.153 |           1020.000 |         29.634 |         26.595 | Arabic              | Arabic              | True            | True               | True          | True             |
+|      3 | A. Maâloul  | Amr Al Sulaya | Al Ahly          |                 0.144 |            959.000 |         26.863 |         27.397 | Arabic              | Arabic              | True            | False              | True          | True             |
+|      4 | S. Saidi    | Y. Rabeh      | Wydad Casablanca |                 0.139 |           1020.000 |         29.634 |         31.430 | Arabic              | Arabic              | True            | True               | True          | True             |
+|      5 | Ahmed Fathy | Saad Samir    | Al Ahly          |                 0.115 |            971.000 |         32.010 |         27.400 | Arabic              | Arabic              | True            | True               | True          | True             |
+
+## 2017 - Copa Sudamericana (South America) - male
+|   Rank | Player 1        | Player 2      | Team          |   Defensive chemistry |   Minutes together |   Age player 1 |   Age player 2 | Language player 1   | Language player 2   | Same language   | Same nationality   | Same region   | Same subregion   |
+|--------|-----------------|---------------|---------------|-----------------------|--------------------|----------------|----------------|---------------------|---------------------|-----------------|--------------------|---------------|------------------|
+|      1 | H. Salaberry    | J. Narváez    | LDU Quito     |                 0.228 |            480.000 |         29.637 |         25.500 | Spanish             | Spanish             | True            | False              | True          | True             |
+|      2 | F. Bustos       | N. Tagliafico | Independiente |                 0.210 |            863.000 |         20.641 |         24.298 | Spanish             | Spanish             | True            | True               | True          | True             |
+|      3 | J. Sánchez Miño | N. Tagliafico | Independiente |                 0.190 |            548.000 |         26.962 |         24.298 | Spanish             | Spanish             | True            | True               | True          | True             |
+|      4 | H. Salaberry    | J. Intriago   | LDU Quito     |                 0.187 |            476.000 |         29.637 |         20.520 | Spanish             | Spanish             | True            | False              | True          | True             |
+|      5 | R. Pérez        | J. Ávila      | Junior        |                 0.186 |            480.000 |         26.937 |         25.016 | Spanish             | Spanish             | True            | True               | True          | True             |
 
 ## 2017 - Eliteserien (Norway) - male
-|   Rank | Player 1       | Player 2     | Team      |   Defensive chemistry |
-|--------|----------------|--------------|-----------|-----------------------|
-|      1 | B. Acosta      | D. Braaten   | Brann     |                 0.224 |
-|      2 | V. Hedenstad   | J. Skjelvik  | Rosenborg |                 0.221 |
-|      3 | B. Meling      | V. Hedenstad | Rosenborg |                 0.217 |
-|      4 | B. Meling      | A. Konradsen | Rosenborg |                 0.199 |
-|      5 | R. Kristiansen | A. Nouri     | Brann     |                 0.197 |
+|   Rank | Player 1       | Player 2     | Team      |   Defensive chemistry |   Minutes together |   Age player 1 |   Age player 2 | Language player 1   | Language player 2   | Same language   | Same nationality   | Same region   | Same subregion   |
+|--------|----------------|--------------|-----------|-----------------------|--------------------|----------------|----------------|---------------------|---------------------|-----------------|--------------------|---------------|------------------|
+|      1 | B. Acosta      | D. Braaten   | Brann     |                 0.224 |            929.000 |         29.787 |         34.436 | Spanish             | Norwegian           | False           | False              | False         | False            |
+|      2 | V. Hedenstad   | J. Skjelvik  | Rosenborg |                 0.221 |           1581.000 |         25.480 |         25.381 | Norwegian           | Norwegian           | True            | True               | True          | True             |
+|      3 | B. Meling      | V. Hedenstad | Rosenborg |                 0.217 |           1313.000 |         21.916 |         25.480 | Norwegian           | Norwegian           | True            | True               | True          | True             |
+|      4 | B. Meling      | A. Konradsen | Rosenborg |                 0.199 |            902.000 |         21.916 |         26.345 | Norwegian           | Norwegian           | True            | True               | True          | True             |
+|      5 | R. Kristiansen | A. Nouri     | Brann     |                 0.197 |           2026.000 |         28.714 |         26.825 | Norwegian           | Norwegian           | True            | True               | True          | True             |
 
 ## 2017 - MLS (United States) - male
-|   Rank | Player 1    | Player 2          | Team             |   Defensive chemistry |
-|--------|-------------|-------------------|------------------|-----------------------|
-|      1 | N. Tolo     | K. Leerdam        | Seattle Sounders |                 0.248 |
-|      2 | A. Oyongo   | C. Duvall         | Montreal Impact  |                 0.237 |
-|      3 | J. Williams | H. Jiménez        | Columbus Crew    |                 0.215 |
-|      4 | M. Murillo  | D. Perrinelle     | New York RB      |                 0.214 |
-|      5 | A. Walkes   | L. González Pírez | Atlanta United   |                 0.194 |
+|   Rank | Player 1    | Player 2          | Team             |   Defensive chemistry |   Minutes together |   Age player 1 |   Age player 2 | Language player 1   | Language player 2   | Same language   | Same nationality   | Same region   | Same subregion   |
+|--------|-------------|-------------------|------------------|-----------------------|--------------------|----------------|----------------|---------------------|---------------------|-----------------|--------------------|---------------|------------------|
+|      1 | N. Tolo     | K. Leerdam        | Seattle Sounders |                 0.248 |           1120.000 |         19.258 |         26.486 | English             | Dutch               | False           | False              | False         | False            |
+|      2 | A. Oyongo   | C. Duvall         | Montreal Impact  |                 0.237 |            963.000 |         25.446 |         25.161 | English             | English             | True            | False              | False         | False            |
+|      3 | J. Williams | H. Jiménez        | Columbus Crew    |                 0.215 |           1095.000 |         28.353 |         27.972 | English             | English             | True            | True               | True          | True             |
+|      4 | M. Murillo  | D. Perrinelle     | New York RB      |                 0.214 |            906.000 |         20.717 |         33.155 | Spanish             | French              | False           | False              | False         | False            |
+|      5 | A. Walkes   | L. González Pírez | Atlanta United   |                 0.194 |           1433.000 |         19.843 |         24.810 | English             | Spanish             | False           | False              | False         | False            |
 
 ## 2017 - NASL (United States) - male
-|   Rank | Player 1        | Player 2     | Team                 |   Defensive chemistry |
-|--------|-----------------|--------------|----------------------|-----------------------|
-|      1 | B. Smith        | R. Bernstein | Miami                |                 0.152 |
-|      2 | D. Mares        | R. Bernstein | Miami                |                 0.145 |
-|      3 | Reiner Ferreira | G. Jordan    | San Francisco Deltas |                 0.144 |
-|      4 | J. Chávez       | M. Trafford  | Miami                |                 0.142 |
-|      5 | K. Ryden        | C. Kilduff   | Jacksonville Armada  |                 0.140 |
+|   Rank | Player 1        | Player 2     | Team                 |   Defensive chemistry |   Minutes together |   Age player 1 |   Age player 2 | Language player 1   | Language player 2   | Same language   | Same nationality   | Same region   | Same subregion   |
+|--------|-----------------|--------------|----------------------|-----------------------|--------------------|----------------|----------------|---------------------|---------------------|-----------------|--------------------|---------------|------------------|
+|      1 | B. Smith        | R. Bernstein | Miami                |                 0.152 |           1797.000 |         26.448 |         29.802 | English             | English             | True            | True               | True          | True             |
+|      2 | D. Mares        | R. Bernstein | Miami                |                 0.145 |           1657.000 |         25.380 |         29.802 | English             | English             | True            | True               | True          | True             |
+|      3 | Reiner Ferreira | G. Jordan    | San Francisco Deltas |                 0.144 |            967.000 |         31.604 |         27.184 | Portuguese          | English             | False           | False              | True          | False            |
+|      4 | J. Chávez       | M. Trafford  | Miami                |                 0.142 |            991.000 |         29.903 |         30.856 | English             | English             | True            | True               | True          | True             |
+|      5 | K. Ryden        | C. Kilduff   | Jacksonville Armada  |                 0.140 |           1052.000 |         26.185 |         28.742 | English             | Irish               | False           | False              | False         | False            |
 
 ## 2017 - Obos Ligaen (Norway) - male
-|   Rank | Player 1     | Player 2    | Team       |   Defensive chemistry |
-|--------|--------------|-------------|------------|-----------------------|
-|      1 | A. Witry     | A. Foosnæs  | Ranheim    |                 0.184 |
-|      2 | E. Berger    | K. Nyborg   | Levanger   |                 0.170 |
-|      3 | E. Wichne    | E. Børufsen | Start      |                 0.163 |
-|      4 | S. Pedersen  | V. Lysvoll  | Tromsdalen |                 0.158 |
-|      5 | M. Brændsrød | A. Dieserud | Strømmen   |                 0.147 |
+|   Rank | Player 1     | Player 2    | Team       |   Defensive chemistry |   Minutes together |   Age player 1 |   Age player 2 | Language player 1   | Language player 2   | Same language   | Same nationality   | Same region   | Same subregion   |
+|--------|--------------|-------------|------------|-----------------------|--------------------|----------------|----------------|---------------------|---------------------|-----------------|--------------------|---------------|------------------|
+|      1 | A. Witry     | A. Foosnæs  | Ranheim    |                 0.184 |           2235.000 |         21.294 |         23.019 | Norwegian           | Norwegian           | True            | True               | True          | True             |
+|      2 | E. Berger    | K. Nyborg   | Levanger   |                 0.170 |           1221.000 |         23.298 |         28.525 | Norwegian           | Norwegian           | True            | True               | True          | True             |
+|      3 | E. Wichne    | E. Børufsen | Start      |                 0.163 |           1444.000 |         20.128 |         29.316 | Norwegian           | Norwegian           | True            | True               | True          | True             |
+|      4 | S. Pedersen  | V. Lysvoll  | Tromsdalen |                 0.158 |           2311.000 |         24.142 |         27.860 | Norwegian           | Norwegian           | True            | True               | True          | True             |
+|      5 | M. Brændsrød | A. Dieserud | Strømmen   |                 0.147 |            993.000 |         21.804 |         21.527 | Norwegian           | Norwegian           | True            | True               | True          | True             |
 
 ## 2017 - Premier League (Belarus) - male
-|   Rank | Player 1     | Player 2      | Team     |   Defensive chemistry |
-|--------|--------------|---------------|----------|-----------------------|
-|      1 | M. Pysko     | S. Sazonovich | Gomel    |                 0.251 |
-|      2 | L. Tesák     | S. Sazonovich | Gomel    |                 0.214 |
-|      3 | M. Pysko     | R. Yudenkov   | Gomel    |                 0.195 |
-|      4 | S. Karpovich | D. Ignatenko  | Gorodeya |                 0.179 |
-|      5 | D. Aydov     | S. Sazonovich | Gomel    |                 0.172 |
+|   Rank | Player 1     | Player 2      | Team     |   Defensive chemistry |   Minutes together |   Age player 1 |   Age player 2 | Language player 1   | Language player 2   | Same language   | Same nationality   | Same region   | Same subregion   |
+|--------|--------------|---------------|----------|-----------------------|--------------------|----------------|----------------|---------------------|---------------------|-----------------|--------------------|---------------|------------------|
+|      1 | M. Pysko     | S. Sazonovich | Gomel    |                 0.251 |           1626.000 |         23.659 |         24.669 | Ukrainian           | Belarusian          | False           | False              | True          | True             |
+|      2 | L. Tesák     | S. Sazonovich | Gomel    |                 0.214 |            996.000 |         31.648 |         24.669 | Slovak              | Belarusian          | False           | False              | True          | True             |
+|      3 | M. Pysko     | R. Yudenkov   | Gomel    |                 0.195 |           1546.000 |         23.659 |         29.507 | Ukrainian           | Belarusian          | False           | False              | True          | True             |
+|      4 | S. Karpovich | D. Ignatenko  | Gorodeya |                 0.179 |           1032.000 |         22.668 |         28.095 | Belarusian          | Belarusian          | True            | True               | True          | True             |
+|      5 | D. Aydov     | S. Sazonovich | Gomel    |                 0.172 |           1189.000 |         34.632 |         24.669 | Russian             | Belarusian          | False           | False              | True          | True             |
 
 ## 2017 - Premier League (Kazakhstan) - male
-|   Rank | Player 1          | Player 2      | Team               |   Defensive chemistry |
-|--------|-------------------|---------------|--------------------|-----------------------|
-|      1 | P. Twumasi        | I. Shitov     | Astana             |                 0.180 |
-|      2 | Š. Zošák          | O. Aiyegbusi  | Shakhter Karagandy |                 0.174 |
-|      3 | D. Miroshnichenko | F. Kassaï     | Tobol              |                 0.172 |
-|      4 | I. Graf           | V. Korobkin   | Kaisar             |                 0.171 |
-|      5 | P. Twumasi        | Y. Logvinenko | Astana             |                 0.170 |
+|   Rank | Player 1          | Player 2      | Team               |   Defensive chemistry |   Minutes together |   Age player 1 |   Age player 2 | Language player 1   | Language player 2   | Same language   | Same nationality   | Same region   | Same subregion   |
+|--------|-------------------|---------------|--------------------|-----------------------|--------------------|----------------|----------------|---------------------|---------------------|-----------------|--------------------|---------------|------------------|
+|      1 | P. Twumasi        | I. Shitov     | Astana             |                 0.180 |           1057.000 |         22.587 |         30.127 | English             | Belarusian          | False           | False              | False         | False            |
+|      2 | Š. Zošák          | O. Aiyegbusi  | Shakhter Karagandy |                 0.174 |            995.000 |         32.574 |         28.311 | Slovak              | English             | False           | False              | True          | False            |
+|      3 | D. Miroshnichenko | F. Kassaï     | Tobol              |                 0.172 |           1299.000 |         24.675 |         29.332 | Kazakh              | French              | False           | False              | False         | False            |
+|      4 | I. Graf           | V. Korobkin   | Kaisar             |                 0.171 |           1156.000 |         28.864 |         32.194 | Croatian            | Russian             | False           | False              | True          | False            |
+|      5 | P. Twumasi        | Y. Logvinenko | Astana             |                 0.170 |           1003.000 |         22.587 |         28.383 | English             | Kazakh              | False           | False              | False         | False            |
 
 ## 2017 - Primera B (Colombia) - male
-|   Rank | Player 1   | Player 2    | Team              |   Defensive chemistry |
-|--------|------------|-------------|-------------------|-----------------------|
-|      1 | H. Gómez   | R. Navarro  | Deportivo Pereira |                 0.086 |
-|      2 | D. Pino    | H. Rentería | Deportes Quindío  |                 0.084 |
-|      3 | J. Medina  | E. Restrepo | Leones            |                 0.074 |
-|      4 | R. Navarro | S. García   | Deportivo Pereira |                 0.064 |
-|      5 | S. Gómez   | E. Restrepo | Leones            |                 0.063 |
+|   Rank | Player 1   | Player 2    | Team              |   Defensive chemistry |   Minutes together |   Age player 1 |   Age player 2 | Language player 1   | Language player 2   | Same language   | Same nationality   | Same region   | Same subregion   |
+|--------|------------|-------------|-------------------|-----------------------|--------------------|----------------|----------------|---------------------|---------------------|-----------------|--------------------|---------------|------------------|
+|      1 | H. Gómez   | R. Navarro  | Deportivo Pereira |                 0.086 |            975.000 |         24.608 |         27.751 | Spanish             | Spanish             | True            | True               | True          | True             |
+|      2 | D. Pino    | H. Rentería | Deportes Quindío  |                 0.084 |            912.000 |         21.278 |         26.223 | Spanish             | Spanish             | True            | True               | True          | True             |
+|      3 | J. Medina  | E. Restrepo | Leones            |                 0.074 |           1004.000 |         22.251 |         19.945 | Spanish             | Spanish             | True            | True               | True          | True             |
+|      4 | R. Navarro | S. García   | Deportivo Pereira |                 0.064 |           1009.000 |         27.751 |         26.232 | Spanish             | Spanish             | True            | True               | True          | True             |
+|      5 | S. Gómez   | E. Restrepo | Leones            |                 0.063 |            912.000 |         20.465 |         19.945 | Spanish             | Spanish             | True            | True               | True          | True             |
 
 ## 2017 - Serie A (Brazil) - male
-|   Rank | Player 1      | Player 2     | Team   |   Defensive chemistry |
-|--------|---------------|--------------|--------|-----------------------|
-|      1 | Edílson       | Bruno Cortez | Grêmio |                 0.257 |
-|      2 | Victor Ferraz | David Braz   | Santos |                 0.207 |
-|      3 | W. Kannemann  | Edílson      | Grêmio |                 0.195 |
-|      4 | Edílson       | Fernandinho  | Grêmio |                 0.191 |
-|      5 | Victor Ferraz | Jean Mota    | Santos |                 0.184 |
+|   Rank | Player 1      | Player 2     | Team   |   Defensive chemistry |   Minutes together |   Age player 1 |   Age player 2 | Language player 1   | Language player 2   | Same language   | Same nationality   | Same region   | Same subregion   |
+|--------|---------------|--------------|--------|-----------------------|--------------------|----------------|----------------|---------------------|---------------------|-----------------|--------------------|---------------|------------------|
+|      1 | Edílson       | Bruno Cortez | Grêmio |                 0.257 |           1518.000 |         30.924 |         30.303 | Portuguese          | Portuguese          | True            | True               | True          | True             |
+|      2 | Victor Ferraz | David Braz   | Santos |                 0.207 |           1178.000 |         29.457 |         30.109 | Portuguese          | Portuguese          | True            | True               | True          | True             |
+|      3 | W. Kannemann  | Edílson      | Grêmio |                 0.195 |           1489.000 |         26.294 |         30.924 | Spanish             | Portuguese          | False           | False              | True          | True             |
+|      4 | Edílson       | Fernandinho  | Grêmio |                 0.191 |           1234.000 |         30.924 |         31.592 | Portuguese          | Portuguese          | True            | True               | True          | True             |
+|      5 | Victor Ferraz | Jean Mota    | Santos |                 0.184 |           1237.000 |         29.457 |         23.705 | Portuguese          | Portuguese          | True            | True               | True          | True             |
 
 ## 2017 - Serie B (Brazil) - male
-|   Rank | Player 1        | Player 2      | Team          |   Defensive chemistry |
-|--------|-----------------|---------------|---------------|-----------------------|
-|      1 | Guilherme Romão | Daniel Borges | Oeste         |                 0.241 |
-|      2 | Ruan            | Paulinho      | Boa           |                 0.194 |
-|      3 | Guilherme Romão | Joílson       | Oeste         |                 0.186 |
-|      4 | Guilherme Romão | Betinho       | Oeste         |                 0.182 |
-|      5 | Cláudio Winck   | V. Cuesta     | Internacional |                 0.182 |
+|   Rank | Player 1        | Player 2      | Team          |   Defensive chemistry |   Minutes together |   Age player 1 |   Age player 2 | Language player 1   | Language player 2   | Same language   | Same nationality   | Same region   | Same subregion   |
+|--------|-----------------|---------------|---------------|-----------------------|--------------------|----------------|----------------|---------------------|---------------------|-----------------|--------------------|---------------|------------------|
+|      1 | Guilherme Romão | Daniel Borges | Oeste         |                 0.241 |           1054.000 |         19.705 |         24.178 | Portuguese          | Portuguese          | True            | True               | True          | True             |
+|      2 | Ruan            | Paulinho      | Boa           |                 0.194 |           1734.000 |         22.073 |         22.472 | Portuguese          | Portuguese          | True            | True               | True          | True             |
+|      3 | Guilherme Romão | Joílson       | Oeste         |                 0.186 |           1587.000 |         19.705 |         26.086 | Portuguese          | Portuguese          | True            | True               | True          | True             |
+|      4 | Guilherme Romão | Betinho       | Oeste         |                 0.182 |           1473.000 |         19.705 |         29.484 | Portuguese          | Portuguese          | True            | True               | True          | True             |
+|      5 | Cláudio Winck   | V. Cuesta     | Internacional |                 0.182 |           1444.000 |         22.220 |         28.548 | Portuguese          | Spanish             | False           | False              | True          | True             |
 
 ## 2017 - Superettan (Sweden) - male
-|   Rank | Player 1    | Player 2     | Team       |   Defensive chemistry |
-|--------|-------------|--------------|------------|-----------------------|
-|      1 | S. Strand   | F. Björkén   | Östers     |                 0.263 |
-|      2 | R. Östlind  | F. Björkén   | Östers     |                 0.253 |
-|      3 | E. Sachs    | M. Mayambela | Degerfors  |                 0.225 |
-|      4 | J. Glasberg | M. Falkeborn | Frej       |                 0.220 |
-|      5 | S. Marklund | J. Asp       | Åtvidaberg |                 0.196 |
+|   Rank | Player 1    | Player 2     | Team       |   Defensive chemistry |   Minutes together |   Age player 1 |   Age player 2 | Language player 1   | Language player 2   | Same language   | Same nationality   | Same region   | Same subregion   |
+|--------|-------------|--------------|------------|-----------------------|--------------------|----------------|----------------|---------------------|---------------------|-----------------|--------------------|---------------|------------------|
+|      1 | S. Strand   | F. Björkén   | Östers     |                 0.263 |           1170.000 |         23.473 |         25.841 | Swedish             | Swedish             | True            | True               | True          | True             |
+|      2 | R. Östlind  | F. Björkén   | Östers     |                 0.253 |           1140.000 |         26.649 |         25.841 | Swedish             | Swedish             | True            | True               | True          | True             |
+|      3 | E. Sachs    | M. Mayambela | Degerfors  |                 0.225 |            928.000 |         19.482 |         20.175 | Swedish             | Afrikaans           | False           | False              | False         | False            |
+|      4 | J. Glasberg | M. Falkeborn | Frej       |                 0.220 |           1100.000 |         21.335 |         23.810 | Swedish             | Swedish             | True            | True               | True          | True             |
+|      5 | S. Marklund | J. Asp       | Åtvidaberg |                 0.196 |            925.000 |         17.146 |         26.293 | Swedish             | Swedish             | True            | True               | True          | True             |
 
 ## 2017 - Veikkausliiga (Finland) - male
-|   Rank | Player 1   | Player 2    | Team   |   Defensive chemistry |
-|--------|------------|-------------|--------|-----------------------|
-|      1 | V. Jalasto | H. Patronen | HJK    |                 0.202 |
-|      2 | V. Jalasto | Rafinha     | HJK    |                 0.201 |
-|      3 | J. Pirinen | Rafinha     | HJK    |                 0.189 |
-|      4 | F. Obilor  | Rafinha     | HJK    |                 0.187 |
-|      5 | T. Siira   | J. Tanska   | Ilves  |                 0.186 |
+|   Rank | Player 1   | Player 2    | Team   |   Defensive chemistry |   Minutes together |   Age player 1 |   Age player 2 | Language player 1   | Language player 2   | Same language   | Same nationality   | Same region   | Same subregion   |
+|--------|------------|-------------|--------|-----------------------|--------------------|----------------|----------------|---------------------|---------------------|-----------------|--------------------|---------------|------------------|
+|      1 | V. Jalasto | H. Patronen | HJK    |                 0.202 |            918.000 |         31.197 |         33.103 | Finnish             | Finnish             | True            | True               | True          | True             |
+|      2 | V. Jalasto | Rafinha     | HJK    |                 0.201 |           1228.000 |         31.197 |         35.003 | Finnish             | Portuguese          | False           | False              | False         | False            |
+|      3 | J. Pirinen | Rafinha     | HJK    |                 0.189 |           2124.000 |         25.650 |         35.003 | Finnish             | Portuguese          | False           | False              | False         | False            |
+|      4 | F. Obilor  | Rafinha     | HJK    |                 0.187 |           1845.000 |         26.321 |         35.003 | English             | Portuguese          | False           | False              | False         | False            |
+|      5 | T. Siira   | J. Tanska   | Ilves  |                 0.186 |           1407.000 |         22.671 |         28.911 | Finnish             | Finnish             | True            | True               | True          | True             |
 
 ## 2017 - Ykkönen (Finland) - male
-|   Rank | Player 1         | Player 2     | Team   |   Defensive chemistry |
-|--------|------------------|--------------|--------|-----------------------|
-|      1 | B. Messenger     | W. Moore     | Jaro   |                 0.208 |
-|      2 | M. Tenho         | O. Jakonen   | TPS    |                 0.182 |
-|      3 | S. Rähmönen      | O. Jakonen   | TPS    |                 0.175 |
-|      4 | C. Chantzopoulos | B. Messenger | Jaro   |                 0.160 |
-|      5 | R. Holma         | M. Ääritalo  | TPS    |                 0.157 |
+|   Rank | Player 1         | Player 2     | Team   |   Defensive chemistry |   Minutes together |   Age player 1 |   Age player 2 | Language player 1   | Language player 2   | Same language   | Same nationality   | Same region   | Same subregion   |
+|--------|------------------|--------------|--------|-----------------------|--------------------|----------------|----------------|---------------------|---------------------|-----------------|--------------------|---------------|------------------|
+|      1 | B. Messenger     | W. Moore     | Jaro   |                 0.208 |           1176.000 |         21.803 |         32.821 | English             | English             | True            | False              | False         | False            |
+|      2 | M. Tenho         | O. Jakonen   | TPS    |                 0.182 |           1378.000 |         22.222 |         20.166 | Finnish             | Finnish             | True            | True               | True          | True             |
+|      3 | S. Rähmönen      | O. Jakonen   | TPS    |                 0.175 |           1317.000 |         30.176 |         20.166 | Finnish             | Finnish             | True            | True               | True          | True             |
+|      4 | C. Chantzopoulos | B. Messenger | Jaro   |                 0.160 |           1042.000 |         22.934 |         21.803 | German              | English             | False           | False              | False         | False            |
+|      5 | R. Holma         | M. Ääritalo  | TPS    |                 0.157 |           1203.000 |         24.771 |         31.909 | Finnish             | Finnish             | True            | True               | True          | True             |
 
 ## 2016/2017 - 1. Division (Cyprus) - male
-|   Rank | Player 1     | Player 2     | Team        |   Defensive chemistry |
-|--------|--------------|--------------|-------------|-----------------------|
-|      1 | D. Mojsov    | Català       | AEK Larnaca |                 0.224 |
-|      2 | V. Boljević  | Català       | AEK Larnaca |                 0.214 |
-|      3 | Mesca        | Marco Airosa | AEL         |                 0.189 |
-|      4 | Juanma Ortiz | Català       | AEK Larnaca |                 0.184 |
-|      5 | Y. Hristov   | E. De Vriese | Ermis       |                 0.183 |
+|   Rank | Player 1     | Player 2     | Team        |   Defensive chemistry |   Minutes together |   Age player 1 |   Age player 2 | Language player 1   | Language player 2   | Same language   | Same nationality   | Same region   | Same subregion   |
+|--------|--------------|--------------|-------------|-----------------------|--------------------|----------------|----------------|---------------------|---------------------|-----------------|--------------------|---------------|------------------|
+|      1 | D. Mojsov    | Català       | AEK Larnaca |                 0.224 |           1262.000 |         28.369 |         35.988 | Macedonian          | Spanish             | False           | False              | True          | True             |
+|      2 | V. Boljević  | Català       | AEK Larnaca |                 0.214 |           1205.000 |         28.281 |         35.988 | Serbian             | Spanish             | False           | False              | True          | True             |
+|      3 | Mesca        | Marco Airosa | AEL         |                 0.189 |            972.000 |         23.027 |         31.679 | Portuguese          | Portuguese          | True            | False              | True          | False            |
+|      4 | Juanma Ortiz | Català       | AEK Larnaca |                 0.184 |           1135.000 |         34.162 |         35.988 | Spanish             | Spanish             | True            | True               | True          | True             |
+|      5 | Y. Hristov   | E. De Vriese | Ermis       |                 0.183 |            980.000 |         32.290 |         31.249 | Bulgarian           | Dutch               | False           | False              | True          | False            |
 
 ## 2016/2017 - 1. HNL (Croatia) - male
-|   Rank | Player 1    | Player 2      | Team              |   Defensive chemistry |
-|--------|-------------|---------------|-------------------|-----------------------|
-|      1 | F. Tudor    | S. Gentsoglou | Hajduk Split      |                 0.227 |
-|      2 | M. Ćosić    | S. Gentsoglou | Hajduk Split      |                 0.224 |
-|      3 | H. Memolla  | S. Gentsoglou | Hajduk Split      |                 0.211 |
-|      4 | D. Kolinger | I. Šunjić     | Lokomotiva Zagreb |                 0.207 |
-|      5 | F. Benković | J. Fernándes  | Dinamo Zagreb     |                 0.198 |
+|   Rank | Player 1    | Player 2      | Team              |   Defensive chemistry |   Minutes together |   Age player 1 |   Age player 2 | Language player 1   | Language player 2   | Same language   | Same nationality   | Same region   | Same subregion   |
+|--------|-------------|---------------|-------------------|-----------------------|--------------------|----------------|----------------|---------------------|---------------------|-----------------|--------------------|---------------|------------------|
+|      1 | F. Tudor    | S. Gentsoglou | Hajduk Split      |                 0.227 |           1208.000 |         20.632 |         25.461 | Croatian            | Greek (modern)      | False           | False              | True          | True             |
+|      2 | M. Ćosić    | S. Gentsoglou | Hajduk Split      |                 0.224 |           1086.000 |         22.187 |         25.461 | Croatian            | Greek (modern)      | False           | False              | True          | True             |
+|      3 | H. Memolla  | S. Gentsoglou | Hajduk Split      |                 0.211 |            993.000 |         23.709 |         25.461 | Albanian            | Greek (modern)      | False           | False              | True          | True             |
+|      4 | D. Kolinger | I. Šunjić     | Lokomotiva Zagreb |                 0.207 |            992.000 |         22.332 |         19.556 | German              | Bosnian             | False           | False              | True          | False            |
+|      5 | F. Benković | J. Fernándes  | Dinamo Zagreb     |                 0.198 |            986.000 |         18.857 |         27.611 | Croatian            | Spanish             | False           | False              | False         | False            |
 
 ## 2016/2017 - 1. Lig (Turkey) - male
-|   Rank | Player 1   | Player 2    | Team      |   Defensive chemistry |
-|--------|------------|-------------|-----------|-----------------------|
-|      1 | A. Cebe    | Z. Erdal    | Sivasspor |                 0.219 |
-|      2 | B. Eşer    | Z. Erdal    | Sivasspor |                 0.199 |
-|      3 | Leandrinho | Z. Erdal    | Sivasspor |                 0.198 |
-|      4 | A. Koçak   | J. Boye     | Sivasspor |                 0.197 |
-|      5 | T. Kayhan  | P. Segbefia | Göztepe   |                 0.192 |
+|   Rank | Player 1   | Player 2    | Team      |   Defensive chemistry |   Minutes together |   Age player 1 |   Age player 2 | Language player 1   | Language player 2   | Same language   | Same nationality   | Same region   | Same subregion   |
+|--------|------------|-------------|-----------|-----------------------|--------------------|----------------|----------------|---------------------|---------------------|-----------------|--------------------|---------------|------------------|
+|      1 | A. Cebe    | Z. Erdal    | Sivasspor |                 0.219 |            971.000 |         33.207 |         28.372 | German              | Turkish             | False           | False              | False         | False            |
+|      2 | B. Eşer    | Z. Erdal    | Sivasspor |                 0.199 |            934.000 |         31.381 |         28.372 | Turkish             | Turkish             | True            | True               | True          | True             |
+|      3 | Leandrinho | Z. Erdal    | Sivasspor |                 0.198 |            952.000 |         29.927 |         28.372 | Portuguese          | Turkish             | False           | False              | False         | False            |
+|      4 | A. Koçak   | J. Boye     | Sivasspor |                 0.197 |           1038.000 |         32.717 |         29.076 | Turkish             | English             | False           | False              | False         | False            |
+|      5 | T. Kayhan  | P. Segbefia | Göztepe   |                 0.192 |            954.000 |         26.817 |         25.026 | German              | French              | False           | False              | False         | False            |
 
 ## 2016/2017 - 1. SNL (Slovenia) - male
-|   Rank | Player 1   | Player 2        | Team     |   Defensive chemistry |
-|--------|------------|-----------------|----------|-----------------------|
-|      1 | K. Bajrič  | D. Miškić       | Olimpija |                 0.105 |
-|      2 | K. Bajrič  | D. Klinar       | Olimpija |                 0.103 |
-|      3 | Ž. Jurečič | R. Pušaver      | Krško    |                 0.099 |
-|      4 | E. Janža   | Rodrigo Defendi | Maribor  |                 0.097 |
-|      5 | A. Kirm    | D. Klinar       | Olimpija |                 0.095 |
+|   Rank | Player 1   | Player 2        | Team     |   Defensive chemistry |   Minutes together |   Age player 1 |   Age player 2 | Language player 1   | Language player 2   | Same language   | Same nationality   | Same region   | Same subregion   |
+|--------|------------|-----------------|----------|-----------------------|--------------------|----------------|----------------|---------------------|---------------------|-----------------|--------------------|---------------|------------------|
+|      1 | K. Bajrič  | D. Miškić       | Olimpija |                 0.105 |            929.000 |         21.393 |         22.622 | Slovene             | Slovene             | True            | True               | True          | True             |
+|      2 | K. Bajrič  | D. Klinar       | Olimpija |                 0.103 |           1291.000 |         21.393 |         24.248 | Slovene             | Slovene             | True            | True               | True          | True             |
+|      3 | Ž. Jurečič | R. Pušaver      | Krško    |                 0.099 |           1060.000 |         20.555 |         21.037 | Slovene             | Slovene             | True            | True               | True          | True             |
+|      4 | E. Janža   | Rodrigo Defendi | Maribor  |                 0.097 |           1055.000 |         22.918 |         29.941 | Slovene             | Portuguese          | False           | False              | False         | False            |
+|      5 | A. Kirm    | D. Klinar       | Olimpija |                 0.095 |           1304.000 |         31.698 |         24.248 | Slovene             | Slovene             | True            | True               | True          | True             |
 
 ## 2016/2017 - 1st Division (Denmark) - male
-|   Rank | Player 1      | Player 2     | Team    |   Defensive chemistry |
-|--------|---------------|--------------|---------|-----------------------|
-|      1 | D. Arrocha    | M. Gundelach | HB Køge |                 0.220 |
-|      2 | M. Amundsen   | D. Arrocha   | HB Køge |                 0.218 |
-|      3 | A. Ludwig     | D. Arrocha   | HB Køge |                 0.195 |
-|      4 | M. Wohlgemuth | D. Arrocha   | HB Køge |                 0.186 |
-|      5 | M. Amundsen   | M. Gundelach | HB Køge |                 0.185 |
+|   Rank | Player 1      | Player 2     | Team    |   Defensive chemistry |   Minutes together |   Age player 1 |   Age player 2 | Language player 1   | Language player 2   | Same language   | Same nationality   | Same region   | Same subregion   |
+|--------|---------------|--------------|---------|-----------------------|--------------------|----------------|----------------|---------------------|---------------------|-----------------|--------------------|---------------|------------------|
+|      1 | D. Arrocha    | M. Gundelach | HB Køge |                 0.220 |           1099.000 |         21.368 |         24.374 | Danish              | Danish              | True            | True               | True          | True             |
+|      2 | M. Amundsen   | D. Arrocha   | HB Køge |                 0.218 |           1018.000 |         18.260 |         21.368 | Danish              | Danish              | True            | True               | True          | True             |
+|      3 | A. Ludwig     | D. Arrocha   | HB Køge |                 0.195 |           1249.000 |         22.895 |         21.368 | Danish              | Danish              | True            | True               | True          | True             |
+|      4 | M. Wohlgemuth | D. Arrocha   | HB Køge |                 0.186 |           1268.000 |         20.968 |         21.368 | Danish              | Danish              | True            | True               | True          | True             |
+|      5 | M. Amundsen   | M. Gundelach | HB Køge |                 0.185 |           1561.000 |         18.260 |         24.374 | Danish              | Danish              | True            | True               | True          | True             |
 
 ## 2016/2017 - 2. Bundesliga (Germany) - male
-|   Rank | Player 1      | Player 2      | Team                   |   Defensive chemistry |
-|--------|---------------|---------------|------------------------|-----------------------|
-|      1 | R. Koch       | P. Ziegler    | Kaiserslautern         |                 0.200 |
-|      2 | D. Roßbach    | T. Kister     | Sandhausen             |                 0.173 |
-|      3 | J. Baffo      | K. Reichel    | Eintracht Braunschweig |                 0.171 |
-|      4 | K. Großkreutz | E. Insúa      | Stuttgart              |                 0.166 |
-|      5 | K. Reichel    | P. Ofosu-Ayeh | Eintracht Braunschweig |                 0.160 |
+|   Rank | Player 1      | Player 2      | Team                   |   Defensive chemistry |   Minutes together |   Age player 1 |   Age player 2 | Language player 1   | Language player 2   | Same language   | Same nationality   | Same region   | Same subregion   |
+|--------|---------------|---------------|------------------------|-----------------------|--------------------|----------------|----------------|---------------------|---------------------|-----------------|--------------------|---------------|------------------|
+|      1 | R. Koch       | P. Ziegler    | Kaiserslautern         |                 0.200 |           1119.000 |         19.845 |         26.263 | German              | German              | True            | True               | True          | True             |
+|      2 | D. Roßbach    | T. Kister     | Sandhausen             |                 0.173 |           1043.000 |         23.213 |         29.376 | German              | German              | True            | True               | True          | True             |
+|      3 | J. Baffo      | K. Reichel    | Eintracht Braunschweig |                 0.171 |           1005.000 |         23.419 |         29.406 | English             | German              | False           | False              | False         | False            |
+|      4 | K. Großkreutz | E. Insúa      | Stuttgart              |                 0.166 |           1077.000 |         27.802 |         27.350 | German              | Spanish             | False           | False              | False         | False            |
+|      5 | K. Reichel    | P. Ofosu-Ayeh | Eintracht Braunschweig |                 0.160 |           1125.000 |         29.406 |         24.489 | German              | German              | True            | True               | True          | True             |
 
 ## 2016/2017 - 2. Liga (Austria) - male
-|   Rank | Player 1      | Player 2      | Team             |   Defensive chemistry |
-|--------|---------------|---------------|------------------|-----------------------|
-|      1 | R. Renner     | D. Mehmedovic | Blau-Weiß Linz   |                 0.203 |
-|      2 | D. Mehmedovic | T. Goiginger  | Blau-Weiß Linz   |                 0.184 |
-|      3 | Í. Durmuş     | M. Stark      | Austria Lustenau |                 0.152 |
-|      4 | Igor          | Luan          | Liefering        |                 0.149 |
-|      5 | Bruno         | Í. Durmuş     | Austria Lustenau |                 0.148 |
+|   Rank | Player 1      | Player 2      | Team             |   Defensive chemistry |   Minutes together |   Age player 1 |   Age player 2 | Language player 1   | Language player 2   | Same language   | Same nationality   | Same region   | Same subregion   |
+|--------|---------------|---------------|------------------|-----------------------|--------------------|----------------|----------------|---------------------|---------------------|-----------------|--------------------|---------------|------------------|
+|      1 | R. Renner     | D. Mehmedovic | Blau-Weiß Linz   |                 0.203 |           1400.000 |         22.444 |         18.474 | German              | German              | True            | True               | True          | True             |
+|      2 | D. Mehmedovic | T. Goiginger  | Blau-Weiß Linz   |                 0.184 |           1836.000 |         18.474 |         23.170 | German              | German              | True            | True               | True          | True             |
+|      3 | Í. Durmuş     | M. Stark      | Austria Lustenau |                 0.152 |            948.000 |         22.069 |         23.372 | German              | German              | True            | False              | True          | True             |
+|      4 | Igor          | Luan          | Liefering        |                 0.149 |           1343.000 |         18.819 |         19.986 | Portuguese          | Portuguese          | True            | True               | True          | True             |
+|      5 | Bruno         | Í. Durmuş     | Austria Lustenau |                 0.148 |            924.000 |         21.987 |         22.069 | Portuguese          | German              | False           | False              | False         | False            |
 
 ## 2016/2017 - A-League (Australia) - male
-|   Rank | Player 1    | Player 2    | Team          |   Defensive chemistry |
-|--------|-------------|-------------|---------------|-----------------------|
-|      1 | J. Hingert  | T. Oar      | Brisbane Roar |                 0.130 |
-|      2 | M. Ninković | R. Grant    | Sydney        |                 0.118 |
-|      3 | B. Borrello | J. Hingert  | Brisbane Roar |                 0.111 |
-|      4 | T. Broich   | J. Hingert  | Brisbane Roar |                 0.108 |
-|      5 | J. Hingert  | D. Petratos | Brisbane Roar |                 0.098 |
+|   Rank | Player 1    | Player 2    | Team          |   Defensive chemistry |   Minutes together |   Age player 1 |   Age player 2 | Language player 1   | Language player 2   | Same language   | Same nationality   | Same region   | Same subregion   |
+|--------|-------------|-------------|---------------|-----------------------|--------------------|----------------|----------------|---------------------|---------------------|-----------------|--------------------|---------------|------------------|
+|      1 | J. Hingert  | T. Oar      | Brisbane Roar |                 0.130 |           1413.000 |         26.263 |         25.058 | English             | English             | True            | False              | False         | False            |
+|      2 | M. Ninković | R. Grant    | Sydney        |                 0.118 |           2262.000 |         32.015 |         25.844 | Serbian             | English             | False           | False              | False         | False            |
+|      3 | B. Borrello | J. Hingert  | Brisbane Roar |                 0.111 |           1184.000 |         21.436 |         26.263 | English             | English             | True            | False              | False         | False            |
+|      4 | T. Broich   | J. Hingert  | Brisbane Roar |                 0.108 |           1503.000 |         35.919 |         26.263 | German              | English             | False           | False              | True          | False            |
+|      5 | J. Hingert  | D. Petratos | Brisbane Roar |                 0.098 |            934.000 |         26.263 |         24.138 | English             | English             | True            | False              | False         | False            |
 
 ## 2016/2017 - Ascenso MX (Mexico) - male
-|   Rank | Player 1   | Player 2     | Team                |   Defensive chemistry |
-|--------|------------|--------------|---------------------|-----------------------|
-|      1 | A. Escobar | Ó. Fernández | Alebrijes de Oaxaca |                 0.226 |
-|      2 | C. Calvo   | F. Uscanga   | Atlante             |                 0.220 |
-|      3 | S. Vergara | F. Torres    | Celaya              |                 0.217 |
-|      4 | F. Torres  | A. Riestra   | Celaya              |                 0.203 |
-|      5 | Á. Reyna   | A. Riestra   | Celaya              |                 0.199 |
+|   Rank | Player 1   | Player 2     | Team                |   Defensive chemistry |   Minutes together |   Age player 1 |   Age player 2 | Language player 1   | Language player 2   | Same language   | Same nationality   | Same region   | Same subregion   |
+|--------|------------|--------------|---------------------|-----------------------|--------------------|----------------|----------------|---------------------|---------------------|-----------------|--------------------|---------------|------------------|
+|      1 | A. Escobar | Ó. Fernández | Alebrijes de Oaxaca |                 0.226 |           1125.000 |         23.234 |         28.395 | Spanish             | Spanish             | True            | True               | True          | True             |
+|      2 | C. Calvo   | F. Uscanga   | Atlante             |                 0.220 |            910.000 |         23.428 |         25.104 | Spanish             | Spanish             | True            | True               | True          | True             |
+|      3 | S. Vergara | F. Torres    | Celaya              |                 0.217 |           1009.000 |         21.999 |         34.750 | Spanish             | Spanish             | True            | False              | True          | False            |
+|      4 | F. Torres  | A. Riestra   | Celaya              |                 0.203 |           1522.000 |         34.750 |         27.883 | Spanish             | Spanish             | True            | True               | True          | True             |
+|      5 | Á. Reyna   | A. Riestra   | Celaya              |                 0.199 |           1317.000 |         30.878 |         27.883 | Spanish             | Spanish             | True            | True               | True          | True             |
 
 ## 2016/2017 - Bundesliga (Austria) - male
-|   Rank | Player 1      | Player 2   | Team        |   Defensive chemistry |
-|--------|---------------|------------|-------------|-----------------------|
-|      1 | D. Ćaleta-Car | V. Lazaro  | Salzburg    |                 0.240 |
-|      2 | V. Lazaro     | A. Ulmer   | Salzburg    |                 0.202 |
-|      3 | F. Hart       | D. Chessa  | Ried        |                 0.194 |
-|      4 | S. Lainer     | V. Lazaro  | Salzburg    |                 0.180 |
-|      5 | M. Novak      | A. Höller  | Mattersburg |                 0.177 |
+|   Rank | Player 1      | Player 2   | Team        |   Defensive chemistry |   Minutes together |   Age player 1 |   Age player 2 | Language player 1   | Language player 2   | Same language   | Same nationality   | Same region   | Same subregion   |
+|--------|---------------|------------|-------------|-----------------------|--------------------|----------------|----------------|---------------------|---------------------|-----------------|--------------------|---------------|------------------|
+|      1 | D. Ćaleta-Car | V. Lazaro  | Salzburg    |                 0.240 |            972.000 |         19.671 |         20.156 | Croatian            | German              | False           | False              | True          | False            |
+|      2 | V. Lazaro     | A. Ulmer   | Salzburg    |                 0.202 |           1755.000 |         20.156 |         30.554 | German              | German              | True            | True               | True          | True             |
+|      3 | F. Hart       | D. Chessa  | Ried        |                 0.194 |           1242.000 |         26.014 |         23.569 | German              | German              | True            | False              | True          | True             |
+|      4 | S. Lainer     | V. Lazaro  | Salzburg    |                 0.180 |           1578.000 |         23.729 |         20.156 | German              | German              | True            | True               | True          | True             |
+|      5 | M. Novak      | A. Höller  | Mattersburg |                 0.177 |            983.000 |         25.366 |         27.170 | German              | German              | True            | True               | True          | True             |
 
 ## 2016/2017 - Bundesliga (Germany) - male
-|   Rank | Player 1     | Player 2     | Team       |   Defensive chemistry |
-|--------|--------------|--------------|------------|-----------------------|
-|      1 | M. Nastasić  | S. Kolašinac | Schalke 04 |                 0.191 |
-|      2 | Luiz Gustavo | J. Bruma     | Wolfsburg  |                 0.177 |
-|      3 | J. Hector    | M. Risse     | Köln       |                 0.175 |
-|      4 | F. Sørensen  | D. Heintz    | Köln       |                 0.163 |
-|      5 | P. Olkowski  | D. Heintz    | Köln       |                 0.163 |
+|   Rank | Player 1     | Player 2     | Team       |   Defensive chemistry |   Minutes together |   Age player 1 |   Age player 2 | Language player 1   | Language player 2   | Same language   | Same nationality   | Same region   | Same subregion   |
+|--------|--------------|--------------|------------|-----------------------|--------------------|----------------|----------------|---------------------|---------------------|-----------------|--------------------|---------------|------------------|
+|      1 | M. Nastasić  | S. Kolašinac | Schalke 04 |                 0.191 |           1152.000 |         22.384 |         22.901 | Serbian             | German              | False           | False              | True          | False            |
+|      2 | Luiz Gustavo | J. Bruma     | Wolfsburg  |                 0.177 |           1260.000 |         28.793 |         24.486 | Portuguese          | Dutch               | False           | False              | False         | False            |
+|      3 | J. Hector    | M. Risse     | Köln       |                 0.175 |           1103.000 |         26.086 |         26.408 | German              | German              | True            | True               | True          | True             |
+|      4 | F. Sørensen  | D. Heintz    | Köln       |                 0.163 |           2513.000 |         24.065 |         22.748 | Danish              | German              | False           | False              | True          | False            |
+|      5 | P. Olkowski  | D. Heintz    | Köln       |                 0.163 |            971.000 |         26.250 |         22.748 | Polish              | German              | False           | False              | True          | False            |
 
 ## 2016/2017 - CONCACAF Champions League (N/C America) - male
-|   Rank | Player 1   | Player 2   | Team        |   Defensive chemistry |
-|--------|------------|------------|-------------|-----------------------|
-|      1 | E. Vargas  | H. Ayala   | Tigres UANL |                 0.221 |
-|      2 | J. Dueñas  | H. Ayala   | Tigres UANL |                 0.211 |
-|      3 | J. Dueñas  | J. Torres  | Tigres UANL |                 0.205 |
-|      4 | H. Lozano  | R. López   | Pachuca     |                 0.191 |
-|      5 | J. Torres  | G. Pizarro | Tigres UANL |                 0.167 |
+|   Rank | Player 1   | Player 2   | Team        |   Defensive chemistry |   Minutes together |   Age player 1 |   Age player 2 | Language player 1   | Language player 2   | Same language   | Same nationality   | Same region   | Same subregion   |
+|--------|------------|------------|-------------|-----------------------|--------------------|----------------|----------------|---------------------|---------------------|-----------------|--------------------|---------------|------------------|
+|      1 | E. Vargas  | H. Ayala   | Tigres UANL |                 0.221 |            473.000 |         26.601 |         29.126 | Spanish             | Spanish             | True            | False              | True          | False            |
+|      2 | J. Dueñas  | H. Ayala   | Tigres UANL |                 0.211 |            614.000 |         27.261 |         29.126 | Spanish             | Spanish             | True            | True               | True          | True             |
+|      3 | J. Dueñas  | J. Torres  | Tigres UANL |                 0.205 |            642.000 |         27.261 |         28.411 | Spanish             | Spanish             | True            | True               | True          | True             |
+|      4 | H. Lozano  | R. López   | Pachuca     |                 0.191 |            581.000 |         20.890 |         23.187 | Spanish             | Spanish             | True            | True               | True          | True             |
+|      5 | J. Torres  | G. Pizarro | Tigres UANL |                 0.167 |            551.000 |         28.411 |         26.215 | Spanish             | Spanish             | True            | False              | True          | False            |
 
 ## 2016/2017 - Challenge League (Switzerland) - male
-|   Rank | Player 1       | Player 2    | Team     |   Defensive chemistry |
-|--------|----------------|-------------|----------|-----------------------|
-|      1 | J. Faug-Porret | A. Sauthier | Servette |                 0.260 |
-|      2 | J. Faug-Porret | C. Mfuyi    | Servette |                 0.204 |
-|      3 | S. Belometti   | M. Urtic    | Chiasso  |                 0.186 |
-|      4 | A. Winter      | A. Nef      | Zürich   |                 0.186 |
-|      5 | U. Bangura     | A. Winter   | Zürich   |                 0.184 |
+|   Rank | Player 1       | Player 2    | Team     |   Defensive chemistry |   Minutes together |   Age player 1 |   Age player 2 | Language player 1   | Language player 2   | Same language   | Same nationality   | Same region   | Same subregion   |
+|--------|----------------|-------------|----------|-----------------------|--------------------|----------------|----------------|---------------------|---------------------|-----------------|--------------------|---------------|------------------|
+|      1 | J. Faug-Porret | A. Sauthier | Servette |                 0.260 |            939.000 |         28.854 |         24.314 | French              | German              | False           | False              | True          | True             |
+|      2 | J. Faug-Porret | C. Mfuyi    | Servette |                 0.204 |            908.000 |         28.854 |         25.814 | French              | German              | False           | False              | True          | True             |
+|      3 | S. Belometti   | M. Urtic    | Chiasso  |                 0.186 |           1016.000 |         20.267 |         25.346 | German              | German              | True            | True               | True          | True             |
+|      4 | A. Winter      | A. Nef      | Zürich   |                 0.186 |           1793.000 |         29.969 |         34.310 | German              | German              | True            | True               | True          | True             |
+|      5 | U. Bangura     | A. Winter   | Zürich   |                 0.184 |            976.000 |         28.719 |         29.969 | English             | German              | False           | False              | False         | False            |
 
 ## 2016/2017 - Championship (England) - male
-|   Rank | Player 1     | Player 2     | Team                   |   Defensive chemistry |
-|--------|--------------|--------------|------------------------|-----------------------|
-|      1 | J. Bree      | C. Hourihane | Aston Villa            |                 0.221 |
-|      2 | S. Pocognoli | A. Knockaert | Brighton & Hove Albion |                 0.191 |
-|      3 | N. Taylor    | N. Baker     | Aston Villa            |                 0.187 |
-|      4 | N. Taylor    | J. Chester   | Aston Villa            |                 0.185 |
-|      5 | N. Taylor    | M. Jedinak   | Aston Villa            |                 0.178 |
+|   Rank | Player 1     | Player 2     | Team                   |   Defensive chemistry |   Minutes together |   Age player 1 |   Age player 2 | Language player 1   | Language player 2   | Same language   | Same nationality   | Same region   | Same subregion   |
+|--------|--------------|--------------|------------------------|-----------------------|--------------------|----------------|----------------|---------------------|---------------------|-----------------|--------------------|---------------|------------------|
+|      1 | J. Bree      | C. Hourihane | Aston Villa            |                 0.221 |           1926.000 |         18.505 |         25.321 | English             | Irish               | False           | False              | True          | True             |
+|      2 | S. Pocognoli | A. Knockaert | Brighton & Hove Albion |                 0.191 |           1400.000 |         28.599 |         24.490 | Dutch               | French              | False           | False              | True          | True             |
+|      3 | N. Taylor    | N. Baker     | Aston Villa            |                 0.187 |            996.000 |         27.381 |         25.042 | English             | English             | True            | False              | True          | True             |
+|      4 | N. Taylor    | J. Chester   | Aston Villa            |                 0.185 |           1242.000 |         27.381 |         27.422 | English             | English             | True            | False              | True          | True             |
+|      5 | N. Taylor    | M. Jedinak   | Aston Villa            |                 0.178 |            966.000 |         27.381 |         31.800 | English             | English             | True            | False              | False         | False            |
 
 ## 2016/2017 - Championship (Scotland) - male
-|   Rank | Player 1     | Player 2     | Team      |   Defensive chemistry |
-|--------|--------------|--------------|-----------|-----------------------|
-|      1 | L. Kidd      | L. Leahy     | Falkirk   |                 0.218 |
-|      2 | D. Harvie    | J. Todd      | Dumbarton |                 0.213 |
-|      3 | L. Stevenson | D. McGeouch  | Hibernian |                 0.200 |
-|      4 | D. McGregor  | L. Stevenson | Hibernian |                 0.181 |
-|      5 | L. Stevenson | D. Gray      | Hibernian |                 0.178 |
+|   Rank | Player 1     | Player 2     | Team      |   Defensive chemistry |   Minutes together |   Age player 1 |   Age player 2 | Language player 1   | Language player 2   | Same language   | Same nationality   | Same region   | Same subregion   |
+|--------|--------------|--------------|-----------|-----------------------|--------------------|----------------|----------------|---------------------|---------------------|-----------------|--------------------|---------------|------------------|
+|      1 | L. Kidd      | L. Leahy     | Falkirk   |                 0.218 |           1043.000 |         21.231 |         23.506 | English             | English             | True            | False              | True          | True             |
+|      2 | D. Harvie    | J. Todd      | Dumbarton |                 0.213 |           1110.000 |         17.839 |         21.888 | English             | English             | True            | False              | True          | True             |
+|      3 | L. Stevenson | D. McGeouch  | Hibernian |                 0.200 |            992.000 |         28.377 |         23.347 | English             | English             | True            | True               | True          | True             |
+|      4 | D. McGregor  | L. Stevenson | Hibernian |                 0.181 |           3059.000 |         30.789 |         28.377 | English             | English             | True            | True               | True          | True             |
+|      5 | L. Stevenson | D. Gray      | Hibernian |                 0.178 |           2705.000 |         28.377 |         28.048 | English             | English             | True            | True               | True          | True             |
 
 ## 2016/2017 - Eerste Divisie (Netherlands) - male
-|   Rank | Player 1       | Player 2      | Team          |   Defensive chemistry |
-|--------|----------------|---------------|---------------|-----------------------|
-|      1 | N. Röseler     | J. Opoku      | VVV           |                 0.193 |
-|      2 | M. Verkoelen   | R. Janzen     | Helmond Sport |                 0.187 |
-|      3 | M. El Allouchi | F. Sporkslede | NAC Breda     |                 0.185 |
-|      4 | H. Bos         | N. Bakker     | Emmen         |                 0.183 |
-|      5 | S. Alberto     | J. Carolina   | PSV II        |                 0.177 |
+|   Rank | Player 1       | Player 2      | Team          |   Defensive chemistry |   Minutes together |   Age player 1 |   Age player 2 | Language player 1   | Language player 2   | Same language   | Same nationality   | Same region   | Same subregion   |
+|--------|----------------|---------------|---------------|-----------------------|--------------------|----------------|----------------|---------------------|---------------------|-----------------|--------------------|---------------|------------------|
+|      1 | N. Röseler     | J. Opoku      | VVV           |                 0.193 |           1674.000 |         24.218 |         26.080 | German              | Dutch               | False           | False              | True          | True             |
+|      2 | M. Verkoelen   | R. Janzen     | Helmond Sport |                 0.187 |           1101.000 |         24.098 |         22.316 | Dutch               | Dutch               | True            | True               | True          | True             |
+|      3 | M. El Allouchi | F. Sporkslede | NAC Breda     |                 0.185 |            941.000 |         21.590 |         22.551 | Dutch               | Dutch               | True            | True               | True          | True             |
+|      4 | H. Bos         | N. Bakker     | Emmen         |                 0.183 |           1269.000 |         22.397 |         20.656 | Dutch               | Dutch               | True            | True               | True          | True             |
+|      5 | S. Alberto     | J. Carolina   | PSV II        |                 0.177 |           1040.000 |         19.890 |         17.754 | Dutch               | Dutch               | True            | False              | False         | False            |
 
 ## 2016/2017 - Ekstraklasa (Poland) - male
-|   Rank | Player 1       | Player 2       | Team           |   Defensive chemistry |
-|--------|----------------|----------------|----------------|-----------------------|
-|      1 | A. Jędrzejczyk | T. Moulin      | Legia Warszawa |                 0.274 |
-|      2 | A. Jędrzejczyk | A. Hloušek     | Legia Warszawa |                 0.267 |
-|      3 | M. Pazdan      | A. Jędrzejczyk | Legia Warszawa |                 0.257 |
-|      4 | M. Dąbrowski   | A. Jędrzejczyk | Legia Warszawa |                 0.239 |
-|      5 | M. Dąbrowski   | T. Moulin      | Legia Warszawa |                 0.216 |
+|   Rank | Player 1       | Player 2       | Team           |   Defensive chemistry |   Minutes together |   Age player 1 |   Age player 2 | Language player 1   | Language player 2   | Same language   | Same nationality   | Same region   | Same subregion   |
+|--------|----------------|----------------|----------------|-----------------------|--------------------|----------------|----------------|---------------------|---------------------|-----------------|--------------------|---------------|------------------|
+|      1 | A. Jędrzejczyk | T. Moulin      | Legia Warszawa |                 0.274 |           1169.000 |         28.642 |         26.277 | Polish              | French              | False           | False              | True          | False            |
+|      2 | A. Jędrzejczyk | A. Hloušek     | Legia Warszawa |                 0.267 |           1440.000 |         28.642 |         27.403 | Polish              | Czech               | False           | False              | True          | True             |
+|      3 | M. Pazdan      | A. Jędrzejczyk | Legia Warszawa |                 0.257 |           1350.000 |         28.763 |         28.642 | Polish              | Polish              | True            | True               | True          | True             |
+|      4 | M. Dąbrowski   | A. Jędrzejczyk | Legia Warszawa |                 0.239 |           1350.000 |         29.073 |         28.642 | Polish              | Polish              | True            | True               | True          | True             |
+|      5 | M. Dąbrowski   | T. Moulin      | Legia Warszawa |                 0.216 |           1216.000 |         29.073 |         26.277 | Polish              | French              | False           | False              | True          | False            |
 
 ## 2016/2017 - Eredivisie (Netherlands) - male
-|   Rank | Player 1    | Player 2     | Team      |   Defensive chemistry |
-|--------|-------------|--------------|-----------|-----------------------|
-|      1 | D. Kuijt    | T. Kongolo   | Feyenoord |                 0.199 |
-|      2 | K. Leerdam  | A. Kruiswijk | Vitesse   |                 0.190 |
-|      3 | R. Karsdorp | N. Jørgensen | Feyenoord |                 0.177 |
-|      4 | R. Leeuwin  | W. Brama     | Utrecht   |                 0.176 |
-|      5 | R. Karsdorp | S. Berghuis  | Feyenoord |                 0.176 |
+|   Rank | Player 1    | Player 2     | Team      |   Defensive chemistry |   Minutes together |   Age player 1 |   Age player 2 | Language player 1   | Language player 2   | Same language   | Same nationality   | Same region   | Same subregion   |
+|--------|-------------|--------------|-----------|-----------------------|--------------------|----------------|----------------|---------------------|---------------------|-----------------|--------------------|---------------|------------------|
+|      1 | D. Kuijt    | T. Kongolo   | Feyenoord |                 0.199 |           1213.000 |         35.797 |         22.230 | Dutch               | Dutch               | True            | True               | True          | True             |
+|      2 | K. Leerdam  | A. Kruiswijk | Vitesse   |                 0.190 |           1512.000 |         25.721 |         31.418 | Dutch               | Dutch               | True            | False              | False         | False            |
+|      3 | R. Karsdorp | N. Jørgensen | Feyenoord |                 0.177 |           1573.000 |         21.239 |         25.371 | Dutch               | Danish              | False           | False              | True          | False            |
+|      4 | R. Leeuwin  | W. Brama     | Utrecht   |                 0.176 |           1495.000 |         28.725 |         29.735 | Dutch               | Dutch               | True            | True               | True          | True             |
+|      5 | R. Karsdorp | S. Berghuis  | Feyenoord |                 0.176 |           1321.000 |         21.239 |         24.397 | Dutch               | Dutch               | True            | True               | True          | True             |
 
 ## 2016/2017 - FAVBET Liga (Ukraine) - male
-|   Rank | Player 1       | Player 2     | Team             |   Defensive chemistry |
-|--------|----------------|--------------|------------------|-----------------------|
-|      1 | D. Grechyshkin | A. Gordienko | Zorya            |                 0.180 |
-|      2 | D. Grechyshkin | M. Kamenyuka | Zorya            |                 0.165 |
-|      3 | V. Kovalenko   | Ismaily      | Shakhtar Donetsk |                 0.163 |
-|      4 | O. Karavaev    | M. Kamenyuka | Zorya            |                 0.159 |
-|      5 | D. Nemchaninov | K. Petrov    | Olimpik Donetsk  |                 0.158 |
+|   Rank | Player 1       | Player 2     | Team             |   Defensive chemistry |   Minutes together |   Age player 1 |   Age player 2 | Language player 1   | Language player 2   | Same language   | Same nationality   | Same region   | Same subregion   |
+|--------|----------------|--------------|------------------|-----------------------|--------------------|----------------|----------------|---------------------|---------------------|-----------------|--------------------|---------------|------------------|
+|      1 | D. Grechyshkin | A. Gordienko | Zorya            |                 0.180 |           1044.000 |         24.648 |         25.217 | Ukrainian           | Ukrainian           | True            | True               | True          | True             |
+|      2 | D. Grechyshkin | M. Kamenyuka | Zorya            |                 0.165 |            922.000 |         24.648 |         30.967 | Ukrainian           | Ukrainian           | True            | True               | True          | True             |
+|      3 | V. Kovalenko   | Ismaily      | Shakhtar Donetsk |                 0.163 |           1456.000 |         20.352 |         26.359 | Ukrainian           | Portuguese          | False           | False              | False         | False            |
+|      4 | O. Karavaev    | M. Kamenyuka | Zorya            |                 0.159 |           1076.000 |         23.969 |         30.967 | Ukrainian           | Ukrainian           | True            | True               | True          | True             |
+|      5 | D. Nemchaninov | K. Petrov    | Olimpik Donetsk  |                 0.158 |            983.000 |         26.279 |         25.880 | Ukrainian           | Ukrainian           | True            | True               | True          | True             |
 
 ## 2016/2017 - FNL (Czech Republic) - male
-|   Rank | Player 1   | Player 2     | Team           |   Defensive chemistry |
-|--------|------------|--------------|----------------|-----------------------|
-|      1 | T. Hučko   | M. Sus       | Baník Ostrava  |                 0.254 |
-|      2 | J. Pokorný | T. Hučko     | Baník Ostrava  |                 0.233 |
-|      3 | M. Sus     | T. Zápotočný | Baník Ostrava  |                 0.222 |
-|      4 | M. Zeman   | M. Jindráček | Ústí nad Labem |                 0.219 |
-|      5 | T. Hučko   | T. Zápotočný | Baník Ostrava  |                 0.219 |
+|   Rank | Player 1   | Player 2     | Team           |   Defensive chemistry |   Minutes together |   Age player 1 |   Age player 2 | Language player 1   | Language player 2   | Same language   | Same nationality   | Same region   | Same subregion   |
+|--------|------------|--------------|----------------|-----------------------|--------------------|----------------|----------------|---------------------|---------------------|-----------------|--------------------|---------------|------------------|
+|      1 | T. Hučko   | M. Sus       | Baník Ostrava  |                 0.254 |            530.000 |         31.142 |         26.696 | Slovak              | Czech               | False           | False              | True          | True             |
+|      2 | J. Pokorný | T. Hučko     | Baník Ostrava  |                 0.233 |            460.000 |         20.202 |         31.142 | Czech               | Slovak              | False           | False              | True          | True             |
+|      3 | M. Sus     | T. Zápotočný | Baník Ostrava  |                 0.222 |            632.000 |         26.696 |         36.197 | Czech               | Czech               | True            | True               | True          | True             |
+|      4 | M. Zeman   | M. Jindráček | Ústí nad Labem |                 0.219 |            586.000 |         32.197 |         26.915 | Czech               | Czech               | True            | True               | True          | True             |
+|      5 | T. Hučko   | T. Zápotočný | Baník Ostrava  |                 0.219 |            675.000 |         31.142 |         36.197 | Slovak              | Czech               | False           | False              | True          | True             |
 
 ## 2016/2017 - FNL (Russia) - male
-|   Rank | Player 1    | Player 2     | Team              |   Defensive chemistry |
-|--------|-------------|--------------|-------------------|-----------------------|
-|      1 | S. Shanbiev | V. Panteleev | Spartak Moskva II |                 0.206 |
-|      2 | G. Morozov  | S. Terekhov  | Dinamo Moskva     |                 0.202 |
-|      3 | P. Evseev   | M. Sultonov  | Shinnik           |                 0.195 |
-|      4 | G. Morozov  | I. Temnikov  | Dinamo Moskva     |                 0.179 |
-|      5 | I. Kalinin  | S. Takazov   | Volgar Astrakhan  |                 0.177 |
+|   Rank | Player 1    | Player 2     | Team              |   Defensive chemistry |   Minutes together |   Age player 1 |   Age player 2 | Language player 1   | Language player 2   | Same language   | Same nationality   | Same region   | Same subregion   |
+|--------|-------------|--------------|-------------------|-----------------------|--------------------|----------------|----------------|---------------------|---------------------|-----------------|--------------------|---------------|------------------|
+|      1 | S. Shanbiev | V. Panteleev | Spartak Moskva II |                 0.206 |           1178.000 |         19.254 |         19.766 | Tajik               | Russian             | False           | False              | False         | False            |
+|      2 | G. Morozov  | S. Terekhov  | Dinamo Moskva     |                 0.202 |            961.000 |         21.946 |         25.919 | Russian             | Russian             | True            | True               | True          | True             |
+|      3 | P. Evseev   | M. Sultonov  | Shinnik           |                 0.195 |           1258.000 |         25.458 |         23.413 | Russian             | Tajik               | False           | False              | False         | False            |
+|      4 | G. Morozov  | I. Temnikov  | Dinamo Moskva     |                 0.179 |            995.000 |         21.946 |         27.328 | Russian             | Russian             | True            | True               | True          | True             |
+|      5 | I. Kalinin  | S. Takazov   | Volgar Astrakhan  |                 0.177 |            942.000 |         19.725 |         23.227 | Ukrainian           | Russian             | False           | False              | True          | True             |
 
 ## 2016/2017 - First Division A (Belgium) - male
-|   Rank | Player 1   | Player 2   | Team               |   Defensive chemistry |
-|--------|------------|------------|--------------------|-----------------------|
-|      1 | T. Foket   | N. Asare   | Gent               |                 0.190 |
-|      2 | C. Bedia   | F. N'Ganga | Sporting Charleroi |                 0.180 |
-|      3 | C. Bedia   | S. Willems | Sporting Charleroi |                 0.167 |
-|      4 | I. Diallo  | E. Ocansey | KAS Eupen          |                 0.164 |
-|      5 | Claudemir  | L. De Bock | Club Brugge        |                 0.161 |
+|   Rank | Player 1   | Player 2   | Team               |   Defensive chemistry |   Minutes together |   Age player 1 |   Age player 2 | Language player 1   | Language player 2   | Same language   | Same nationality   | Same region   | Same subregion   |
+|--------|------------|------------|--------------------|-----------------------|--------------------|----------------|----------------|---------------------|---------------------|-----------------|--------------------|---------------|------------------|
+|      1 | T. Foket   | N. Asare   | Gent               |                 0.190 |           1194.000 |         21.658 |         29.866 | Dutch               | English             | False           | False              | False         | False            |
+|      2 | C. Bedia   | F. N'Ganga | Sporting Charleroi |                 0.180 |           1198.000 |         20.191 |         30.953 | French              | French              | True            | False              | False         | False            |
+|      3 | C. Bedia   | S. Willems | Sporting Charleroi |                 0.167 |           1032.000 |         20.191 |         25.746 | French              | French              | True            | False              | False         | False            |
+|      4 | I. Diallo  | E. Ocansey | KAS Eupen          |                 0.164 |            953.000 |         19.756 |         18.691 | French              | English             | False           | False              | True          | True             |
+|      5 | Claudemir  | L. De Bock | Club Brugge        |                 0.161 |           1016.000 |         28.155 |         23.539 | Portuguese          | Dutch               | False           | False              | False         | False            |
 
 ## 2016/2017 - First Division B (Belgium) - male
-|   Rank | Player 1   | Player 2     | Team         |   Defensive chemistry |
-|--------|------------|--------------|--------------|-----------------------|
-|      1 | N. Zolotić | B. Schmisser | SV Roeselare |                 0.202 |
-|      2 | N. Zolotić | C. Damman    | SV Roeselare |                 0.200 |
-|      3 | K. Kis     | C. Damman    | SV Roeselare |                 0.185 |
-|      4 | J. Vinck   | L. Buysens   | Lierse       |                 0.185 |
-|      5 | F. Frans   | L. Buysens   | Lierse       |                 0.183 |
+|   Rank | Player 1   | Player 2     | Team         |   Defensive chemistry |   Minutes together |   Age player 1 |   Age player 2 | Language player 1   | Language player 2   | Same language   | Same nationality   | Same region   | Same subregion   |
+|--------|------------|--------------|--------------|-----------------------|--------------------|----------------|----------------|---------------------|---------------------|-----------------|--------------------|---------------|------------------|
+|      1 | N. Zolotić | B. Schmisser | SV Roeselare |                 0.202 |           1037.000 |         22.800 |         29.948 | Bosnian             | French              | False           | False              | True          | False            |
+|      2 | N. Zolotić | C. Damman    | SV Roeselare |                 0.200 |           1151.000 |         22.800 |         23.063 | Bosnian             | Dutch               | False           | False              | True          | False            |
+|      3 | K. Kis     | C. Damman    | SV Roeselare |                 0.185 |           1863.000 |         25.596 |         23.063 | Dutch               | Dutch               | True            | True               | True          | True             |
+|      4 | J. Vinck   | L. Buysens   | Lierse       |                 0.185 |           1166.000 |         20.533 |         30.135 | Dutch               | Dutch               | True            | True               | True          | True             |
+|      5 | F. Frans   | L. Buysens   | Lierse       |                 0.183 |           1166.000 |         27.361 |         30.135 | Dutch               | Dutch               | True            | True               | True          | True             |
 
 ## 2016/2017 - Football League (Greece) - male
-|   Rank | Player 1         | Player 2        | Team            |   Defensive chemistry |
-|--------|------------------|-----------------|-----------------|-----------------------|
-|      1 | G. Delizisis     | G. Dasios       | Apollon Smirnis |                 0.173 |
-|      2 | G. Dasios        | E. Koné         | Apollon Smirnis |                 0.163 |
-|      3 | G. Delizisis     | E. Koné         | Apollon Smirnis |                 0.162 |
-|      4 | B. Ilić          | C. Pavlidis     | Aris            |                 0.122 |
-|      5 | A. Vasilogiannis | A. Anastasiadis | Lamia           |                 0.070 |
+|   Rank | Player 1     | Player 2     | Team   |   Defensive chemistry |   Minutes together |   Age player 1 |   Age player 2 | Language player 1   | Language player 2   | Same language   | Same nationality   | Same region   | Same subregion   |
+|--------|--------------|--------------|--------|-----------------------|--------------------|----------------|----------------|---------------------|---------------------|-----------------|--------------------|---------------|------------------|
+|      1 | J. Adukor    | D. Komesidis | OFI    |                 0.243 |            505.000 |         23.643 |         28.889 | English             | Greek (modern)      | False           | False              | False         | False            |
+|      2 | A. Chandi    | D. Komesidis | OFI    |                 0.229 |            671.000 |         27.284 |         28.889 | Greek (modern)      | Greek (modern)      | True            | True               | True          | True             |
+|      3 | G. Kiliaras  | D. Komesidis | OFI    |                 0.223 |            484.000 |         28.539 |         28.889 | Greek (modern)      | Greek (modern)      | True            | True               | True          | True             |
+|      4 | M. García    | Hugo Sousa   | Aris   |                 0.201 |            753.000 |         32.768 |         23.925 | Spanish             | Portuguese          | False           | False              | False         | False            |
+|      5 | N. Karabelas | Hugo Sousa   | Aris   |                 0.201 |            489.000 |         31.997 |         23.925 | Greek (modern)      | Portuguese          | False           | False              | True          | True             |
 
 ## 2016/2017 - Fortuna Liga (Czech Republic) - male
-|   Rank | Player 1    | Player 2      | Team           |   Defensive chemistry |
-|--------|-------------|---------------|----------------|-----------------------|
-|      1 | A. Matějů   | J. Kopic      | Viktoria Plzeň |                 0.214 |
-|      2 | J. Bořil    | M. Frydrych   | Slavia Praha   |                 0.187 |
-|      3 | V. Karavaev | C. Nhamoinesu | Sparta Praha   |                 0.178 |
-|      4 | A. Barák    | J. Bořil      | Slavia Praha   |                 0.176 |
-|      5 | R. Hubník   | A. Matějů     | Viktoria Plzeň |                 0.170 |
+|   Rank | Player 1    | Player 2      | Team           |   Defensive chemistry |   Minutes together |   Age player 1 |   Age player 2 | Language player 1   | Language player 2   | Same language   | Same nationality   | Same region   | Same subregion   |
+|--------|-------------|---------------|----------------|-----------------------|--------------------|----------------|----------------|---------------------|---------------------|-----------------|--------------------|---------------|------------------|
+|      1 | A. Matějů   | J. Kopic      | Viktoria Plzeň |                 0.214 |            959.000 |         19.947 |         25.946 | Czech               | Czech               | True            | True               | True          | True             |
+|      2 | J. Bořil    | M. Frydrych   | Slavia Praha   |                 0.187 |           1453.000 |         25.341 |         26.211 | Czech               | Czech               | True            | True               | True          | True             |
+|      3 | V. Karavaev | C. Nhamoinesu | Sparta Praha   |                 0.178 |            970.000 |         20.999 |         30.354 | Russian             | English             | False           | False              | False         | False            |
+|      4 | A. Barák    | J. Bořil      | Slavia Praha   |                 0.176 |           1072.000 |         21.447 |         25.341 | Czech               | Czech               | True            | True               | True          | True             |
+|      5 | R. Hubník   | A. Matějů     | Viktoria Plzeň |                 0.170 |           1111.000 |         32.044 |         19.947 | Czech               | Czech               | True            | True               | True          | True             |
 
 ## 2016/2017 - I Liga (Poland) - male
-|   Rank | Player 1       | Player 2      | Team                       |   Defensive chemistry |
-|--------|----------------|---------------|----------------------------|-----------------------|
-|      1 | K. Słaby       | D. Szufryn    | Sandecja Nowy Sącz         |                 0.268 |
-|      2 | D. Szufryn     | G. Baran      | Sandecja Nowy Sącz         |                 0.261 |
-|      3 | M. Piter-Bučko | D. Szufryn    | Sandecja Nowy Sącz         |                 0.235 |
-|      4 | K. Słaby       | G. Baran      | Sandecja Nowy Sącz         |                 0.223 |
-|      5 | A. Deja        | M. Sokołowski | Podbeskidzie Bielsko-Biała |                 0.218 |
+|   Rank | Player 1       | Player 2      | Team                       |   Defensive chemistry |   Minutes together |   Age player 1 |   Age player 2 | Language player 1   | Language player 2   | Same language   | Same nationality   | Same region   | Same subregion   |
+|--------|----------------|---------------|----------------------------|-----------------------|--------------------|----------------|----------------|---------------------|---------------------|-----------------|--------------------|---------------|------------------|
+|      1 | K. Słaby       | D. Szufryn    | Sandecja Nowy Sącz         |                 0.268 |            720.000 |         22.731 |         29.888 | Polish              | Polish              | True            | True               | True          | True             |
+|      2 | D. Szufryn     | G. Baran      | Sandecja Nowy Sącz         |                 0.261 |            720.000 |         29.888 |         33.453 | Polish              | Polish              | True            | True               | True          | True             |
+|      3 | M. Piter-Bučko | D. Szufryn    | Sandecja Nowy Sącz         |                 0.235 |            630.000 |         30.538 |         29.888 | Slovak              | Polish              | False           | False              | True          | True             |
+|      4 | K. Słaby       | G. Baran      | Sandecja Nowy Sącz         |                 0.223 |            720.000 |         22.731 |         33.453 | Polish              | Polish              | True            | True               | True          | True             |
+|      5 | A. Deja        | M. Sokołowski | Podbeskidzie Bielsko-Biała |                 0.218 |            526.000 |         22.890 |         38.179 | Polish              | Polish              | True            | True               | True          | True             |
 
 ## 2016/2017 - Liga MX (Mexico) - male
-|   Rank | Player 1    | Player 2    | Team        |   Defensive chemistry |
-|--------|-------------|-------------|-------------|-----------------------|
-|      1 | J. González | J. Isijara  | Necaxa      |                 0.241 |
-|      2 | J. González | B. Beckeles | Necaxa      |                 0.189 |
-|      3 | I. Brizuela | C. Salcido  | Guadalajara |                 0.178 |
-|      4 | B. Beckeles | F. Gallegos | Necaxa      |                 0.171 |
-|      5 | I. Brizuela | J. Sánchez  | Guadalajara |                 0.168 |
+|   Rank | Player 1    | Player 2    | Team        |   Defensive chemistry |   Minutes together |   Age player 1 |   Age player 2 | Language player 1   | Language player 2   | Same language   | Same nationality   | Same region   | Same subregion   |
+|--------|-------------|-------------|-------------|-----------------------|--------------------|----------------|----------------|---------------------|---------------------|-----------------|--------------------|---------------|------------------|
+|      1 | J. González | J. Isijara  | Necaxa      |                 0.241 |           1113.000 |         24.195 |         26.653 | Spanish             | Spanish             | True            | True               | True          | True             |
+|      2 | J. González | B. Beckeles | Necaxa      |                 0.189 |           2176.000 |         24.195 |         30.481 | Spanish             | Spanish             | True            | False              | True          | True             |
+|      3 | I. Brizuela | C. Salcido  | Guadalajara |                 0.178 |           1086.000 |         25.717 |         36.121 | Spanish             | Spanish             | True            | True               | True          | True             |
+|      4 | B. Beckeles | F. Gallegos | Necaxa      |                 0.171 |           2136.000 |         30.481 |         24.469 | Spanish             | Spanish             | True            | False              | True          | False            |
+|      5 | I. Brizuela | J. Sánchez  | Guadalajara |                 0.168 |           1462.000 |         25.717 |         26.708 | Spanish             | Spanish             | True            | True               | True          | True             |
 
 ## 2016/2017 - Ligue 1 (France) - male
-|   Rank | Player 1    | Player 2               | Team               |   Defensive chemistry |
-|--------|-------------|------------------------|--------------------|-----------------------|
-|      1 | C. M'Bengue | K. Théophile Catherine | Saint-Étienne      |                 0.264 |
-|      2 | Maxwell     | M. Verratti            | PSG                |                 0.209 |
-|      3 | K. Amian    | F. Moubandje           | Toulouse           |                 0.203 |
-|      4 | J. Morel    | Rafael                 | Olympique Lyonnais |                 0.189 |
-|      5 | P. Kimpembe | M. Verratti            | PSG                |                 0.174 |
+|   Rank | Player 1    | Player 2               | Team               |   Defensive chemistry |   Minutes together |   Age player 1 |   Age player 2 | Language player 1   | Language player 2   | Same language   | Same nationality   | Same region   | Same subregion   |
+|--------|-------------|------------------------|--------------------|-----------------------|--------------------|----------------|----------------|---------------------|---------------------|-----------------|--------------------|---------------|------------------|
+|      1 | C. M'Bengue | K. Théophile Catherine | Saint-Étienne      |                 0.264 |            909.000 |         27.717 |         26.546 | French              | French              | True            | True               | True          | True             |
+|      2 | Maxwell     | M. Verratti            | PSG                |                 0.209 |           1057.000 |         34.735 |         23.482 | Portuguese          | Italian             | False           | False              | False         | False            |
+|      3 | K. Amian    | F. Moubandje           | Toulouse           |                 0.203 |           1590.000 |         18.302 |         25.900 | French              | English             | False           | False              | False         | False            |
+|      4 | J. Morel    | Rafael                 | Olympique Lyonnais |                 0.189 |           1445.000 |         32.118 |         25.850 | French              | Portuguese          | False           | False              | False         | False            |
+|      5 | P. Kimpembe | M. Verratti            | PSG                |                 0.174 |           1013.000 |         20.755 |         23.482 | French              | Italian             | False           | False              | True          | False            |
 
 ## 2016/2017 - Persha Liga (Ukraine) - male
-|   Rank | Player 1    | Player 2   | Team              |   Defensive chemistry |
-|--------|-------------|------------|-------------------|-----------------------|
-|      1 | O. Loginov  | E. Lozovy  | Naftovyk-Ukrnafta |                 0.190 |
-|      2 | I. Lutsenko | S. Loboyko | Kobra Kharkiv     |                 0.178 |
-|      3 | V. Subochev | S. Loboyko | Kobra Kharkiv     |                 0.175 |
-|      4 | S. Loboyko  | A. Kicha   | Kobra Kharkiv     |                 0.166 |
-|      5 | V. Koltsov  | O. Nasonov | FK Mariupol       |                 0.151 |
+|   Rank | Player 1    | Player 2   | Team              |   Defensive chemistry |   Minutes together |   Age player 1 |   Age player 2 | Language player 1   | Language player 2   | Same language   | Same nationality   | Same region   | Same subregion   |
+|--------|-------------|------------|-------------------|-----------------------|--------------------|----------------|----------------|---------------------|---------------------|-----------------|--------------------|---------------|------------------|
+|      1 | O. Loginov  | E. Lozovy  | Naftovyk-Ukrnafta |                 0.190 |           1042.000 |         24.862 |         28.180 | Ukrainian           | Ukrainian           | True            | True               | True          | True             |
+|      2 | I. Lutsenko | S. Loboyko | Kobra Kharkiv     |                 0.178 |           1172.000 |         30.121 |         31.156 | Ukrainian           | Ukrainian           | True            | True               | True          | True             |
+|      3 | V. Subochev | S. Loboyko | Kobra Kharkiv     |                 0.175 |           1157.000 |         27.832 |         31.156 | Ukrainian           | Ukrainian           | True            | True               | True          | True             |
+|      4 | S. Loboyko  | A. Kicha   | Kobra Kharkiv     |                 0.166 |            920.000 |         31.156 |         26.088 | Ukrainian           | Ukrainian           | True            | True               | True          | True             |
+|      5 | V. Koltsov  | O. Nasonov | FK Mariupol       |                 0.151 |            953.000 |         22.203 |         23.473 | Ukrainian           | Ukrainian           | True            | True               | True          | True             |
 
 ## 2016/2017 - Premier League (England) - male
-|   Rank | Player 1    | Player 2      | Team              |   Defensive chemistry |
-|--------|-------------|---------------|-------------------|-----------------------|
-|      1 | M. Rojo     | M. Darmian    | Manchester United |                 0.249 |
-|      2 | M. Rojo     | A. Valencia   | Manchester United |                 0.237 |
-|      3 | M. Darmian  | Ander Herrera | Manchester United |                 0.227 |
-|      4 | A. Valencia | M. Carrick    | Manchester United |                 0.222 |
-|      5 | D. Rose     | K. Walker     | Tottenham Hotspur |                 0.219 |
+|   Rank | Player 1    | Player 2      | Team              |   Defensive chemistry |   Minutes together |   Age player 1 |   Age player 2 | Language player 1   | Language player 2   | Same language   | Same nationality   | Same region   | Same subregion   |
+|--------|-------------|---------------|-------------------|-----------------------|--------------------|----------------|----------------|---------------------|---------------------|-----------------|--------------------|---------------|------------------|
+|      1 | M. Rojo     | M. Darmian    | Manchester United |                 0.249 |            942.000 |         26.273 |         26.570 | Spanish             | Italian             | False           | False              | False         | False            |
+|      2 | M. Rojo     | A. Valencia   | Manchester United |                 0.237 |           1213.000 |         26.273 |         30.870 | Spanish             | Spanish             | True            | False              | True          | True             |
+|      3 | M. Darmian  | Ander Herrera | Manchester United |                 0.227 |           1140.000 |         26.570 |         26.759 | Italian             | Spanish             | False           | False              | True          | True             |
+|      4 | A. Valencia | M. Carrick    | Manchester United |                 0.222 |           1093.000 |         30.870 |         34.817 | Spanish             | English             | False           | False              | False         | False            |
+|      5 | D. Rose     | K. Walker     | Tottenham Hotspur |                 0.219 |           1387.000 |         25.990 |         26.086 | English             | English             | True            | True               | True          | True             |
 
 ## 2016/2017 - Premier League (Russia) - male
-|   Rank | Player 1      | Player 2    | Team           |   Defensive chemistry |
-|--------|---------------|-------------|----------------|-----------------------|
-|      1 | César Navas   | M. Mevlja   | Rostov         |                 0.219 |
-|      2 | F. Kudryashov | M. Mevlja   | Rostov         |                 0.216 |
-|      3 | T. Kalachev   | M. Mevlja   | Rostov         |                 0.203 |
-|      4 | A. Eshchenko  | D. Kombarov | Spartak Moskva |                 0.202 |
-|      5 | A. Gaţcan     | M. Mevlja   | Rostov         |                 0.201 |
+|   Rank | Player 1      | Player 2    | Team           |   Defensive chemistry |   Minutes together |   Age player 1 |   Age player 2 | Language player 1   | Language player 2   | Same language   | Same nationality   | Same region   | Same subregion   |
+|--------|---------------|-------------|----------------|-----------------------|--------------------|----------------|----------------|---------------------|---------------------|-----------------|--------------------|---------------|------------------|
+|      1 | César Navas   | M. Mevlja   | Rostov         |                 0.219 |           1356.000 |         36.254 |         25.902 | Spanish             | Slovene             | False           | False              | True          | True             |
+|      2 | F. Kudryashov | M. Mevlja   | Rostov         |                 0.216 |           1255.000 |         29.130 |         25.902 | Russian             | Slovene             | False           | False              | True          | False            |
+|      3 | T. Kalachev   | M. Mevlja   | Rostov         |                 0.203 |           1305.000 |         35.057 |         25.902 | Belarusian          | Slovene             | False           | False              | True          | False            |
+|      4 | A. Eshchenko  | D. Kombarov | Spartak Moskva |                 0.202 |           1726.000 |         32.281 |         29.412 | Russian             | Russian             | True            | True               | True          | True             |
+|      5 | A. Gaţcan     | M. Mevlja   | Rostov         |                 0.201 |           1396.000 |         32.152 |         25.902 | English             | Slovene             | False           | False              | False         | False            |
 
 ## 2016/2017 - Premiership (Scotland) - male
-|   Rank | Player 1    | Player 2    | Team     |   Defensive chemistry |
-|--------|-------------|-------------|----------|-----------------------|
-|      1 | K. Tierney  | J. Forrest  | Celtic   |                 0.223 |
-|      2 | A. O'Connor | M. Reynolds | Aberdeen |                 0.194 |
-|      3 | R. Jack     | M. Reynolds | Aberdeen |                 0.193 |
-|      4 | M. Reynolds | S. Logan    | Aberdeen |                 0.183 |
-|      5 | G. Shinnie  | S. Logan    | Aberdeen |                 0.174 |
+|   Rank | Player 1    | Player 2    | Team     |   Defensive chemistry |   Minutes together |   Age player 1 |   Age player 2 | Language player 1   | Language player 2   | Same language   | Same nationality   | Same region   | Same subregion   |
+|--------|-------------|-------------|----------|-----------------------|--------------------|----------------|----------------|---------------------|---------------------|-----------------|--------------------|---------------|------------------|
+|      1 | K. Tierney  | J. Forrest  | Celtic   |                 0.223 |           1025.000 |         18.945 |         24.657 | English             | English             | True            | False              | True          | True             |
+|      2 | A. O'Connor | M. Reynolds | Aberdeen |                 0.194 |            998.000 |         23.265 |         29.006 | Irish               | English             | False           | False              | True          | True             |
+|      3 | R. Jack     | M. Reynolds | Aberdeen |                 0.193 |           1076.000 |         24.208 |         29.006 | English             | English             | True            | True               | True          | True             |
+|      4 | M. Reynolds | S. Logan    | Aberdeen |                 0.183 |           1881.000 |         29.006 |         28.295 | English             | English             | True            | False              | True          | True             |
+|      5 | G. Shinnie  | S. Logan    | Aberdeen |                 0.174 |           3046.000 |         24.774 |         28.295 | English             | English             | True            | False              | True          | True             |
 
 ## 2016/2017 - Prim B Nacional (Argentina) - male
-|   Rank | Player 1      | Player 2    | Team               |   Defensive chemistry |
-|--------|---------------|-------------|--------------------|-----------------------|
-|      1 | F. Costa      | G. Díaz     | Flandria           |                 0.180 |
-|      2 | G. Benítez    | J. Sandoval | Argentinos Juniors |                 0.179 |
-|      3 | C. Sain       | F. Flores   | Guillermo Brown    |                 0.179 |
-|      4 | T. Albarracín | C. Sain     | Guillermo Brown    |                 0.176 |
-|      5 | C. Sain       | M. Rivadero | Guillermo Brown    |                 0.173 |
+|   Rank | Player 1      | Player 2    | Team               |   Defensive chemistry |   Minutes together |   Age player 1 |   Age player 2 | Language player 1   | Language player 2   | Same language   | Same nationality   | Same region   | Same subregion   |
+|--------|---------------|-------------|--------------------|-----------------------|--------------------|----------------|----------------|---------------------|---------------------|-----------------|--------------------|---------------|------------------|
+|      1 | F. Costa      | G. Díaz     | Flandria           |                 0.180 |            990.000 |         24.430 |         26.598 | Spanish             | Spanish             | True            | True               | True          | True             |
+|      2 | G. Benítez    | J. Sandoval | Argentinos Juniors |                 0.179 |           1833.000 |         22.239 |         28.865 | Spanish             | Spanish             | True            | False              | True          | True             |
+|      3 | C. Sain       | F. Flores   | Guillermo Brown    |                 0.179 |           1147.000 |         23.126 |         28.950 | Spanish             | Spanish             | True            | True               | True          | True             |
+|      4 | T. Albarracín | C. Sain     | Guillermo Brown    |                 0.176 |           1255.000 |         31.540 |         23.126 | Spanish             | Spanish             | True            | True               | True          | True             |
+|      5 | C. Sain       | M. Rivadero | Guillermo Brown    |                 0.173 |           1226.000 |         23.126 |         23.633 | Spanish             | Spanish             | True            | True               | True          | True             |
 
 ## 2016/2017 - Primeira Liga (Portugal) - male
-|   Rank | Player 1      | Player 2           | Team           |   Defensive chemistry |
-|--------|---------------|--------------------|----------------|-----------------------|
-|      1 | Nélson Semedo | Alejandro Grimaldo | Benfica        |                 0.251 |
-|      2 | L. Fejsa      | Alejandro Grimaldo | Benfica        |                 0.197 |
-|      3 | V. Lindelöf   | Alejandro Grimaldo | Benfica        |                 0.186 |
-|      4 | Rafael Assis  | Paulinho           | Sporting Braga |                 0.182 |
-|      5 | Eliseu        | V. Lindelöf        | Benfica        |                 0.180 |
+|   Rank | Player 1      | Player 2           | Team           |   Defensive chemistry |   Minutes together |   Age player 1 |   Age player 2 | Language player 1   | Language player 2   | Same language   | Same nationality   | Same region   | Same subregion   |
+|--------|---------------|--------------------|----------------|-----------------------|--------------------|----------------|----------------|---------------------|---------------------|-----------------|--------------------|---------------|------------------|
+|      1 | Nélson Semedo | Alejandro Grimaldo | Benfica        |                 0.251 |           1242.000 |         22.493 |         20.668 | Portuguese          | Spanish             | False           | False              | True          | True             |
+|      2 | L. Fejsa      | Alejandro Grimaldo | Benfica        |                 0.197 |           1238.000 |         27.753 |         20.668 | Serbian             | Spanish             | False           | False              | True          | True             |
+|      3 | V. Lindelöf   | Alejandro Grimaldo | Benfica        |                 0.186 |           1162.000 |         21.935 |         20.668 | Swedish             | Spanish             | False           | False              | True          | False            |
+|      4 | Rafael Assis  | Paulinho           | Sporting Braga |                 0.182 |           1620.000 |         25.740 |         24.840 | Portuguese          | Portuguese          | True            | False              | False         | False            |
+|      5 | Eliseu        | V. Lindelöf        | Benfica        |                 0.180 |            905.000 |         32.728 |         21.935 | Portuguese          | Swedish             | False           | False              | True          | False            |
 
 ## 2016/2017 - Primera División (Spain) - male
-|   Rank | Player 1       | Player 2         | Team                |   Defensive chemistry |
-|--------|----------------|------------------|---------------------|-----------------------|
-|      1 | Juanfran       | Filipe Luis      | Atlético Madrid     |                 0.223 |
-|      2 | Y. Carrasco    | Juanfran         | Atlético Madrid     |                 0.216 |
-|      3 | Raúl Albentosa | Fernando Navarro | Deportivo La Coruña |                 0.204 |
-|      4 | D. Godín       | Juanfran         | Atlético Madrid     |                 0.195 |
-|      5 | Kiko Femenía   | T. Hernández     | Deportivo Alavés    |                 0.192 |
+|   Rank | Player 1       | Player 2         | Team                |   Defensive chemistry |   Minutes together |   Age player 1 |   Age player 2 | Language player 1   | Language player 2   | Same language   | Same nationality   | Same region   | Same subregion   |
+|--------|----------------|------------------|---------------------|-----------------------|--------------------|----------------|----------------|---------------------|---------------------|-----------------|--------------------|---------------|------------------|
+|      1 | Juanfran       | Filipe Luis      | Atlético Madrid     |                 0.223 |           1772.000 |         31.466 |         30.845 | Spanish             | Portuguese          | False           | False              | False         | False            |
+|      2 | Y. Carrasco    | Juanfran         | Atlético Madrid     |                 0.216 |           1253.000 |         22.811 |         31.466 | Dutch               | Spanish             | False           | False              | True          | False            |
+|      3 | Raúl Albentosa | Fernando Navarro | Deportivo La Coruña |                 0.204 |           1520.000 |         27.687 |         33.889 | Spanish             | Spanish             | True            | True               | True          | True             |
+|      4 | D. Godín       | Juanfran         | Atlético Madrid     |                 0.195 |           1761.000 |         30.325 |         31.466 | Spanish             | Spanish             | True            | False              | False         | False            |
+|      5 | Kiko Femenía   | T. Hernández     | Deportivo Alavés    |                 0.192 |           2011.000 |         25.338 |         18.479 | Spanish             | French              | False           | False              | True          | False            |
 
 ## 2016/2017 - Regionalliga (Germany) - male
-|   Rank | Player 1     | Player 2        | Team             |   Defensive chemistry |
-|--------|--------------|-----------------|------------------|-----------------------|
-|      1 | M. Müller    | Hassan Amin     | Waldhof Mannheim |                 0.236 |
-|      2 | F. Wirlmann  | H. Ostermann    | Weiche Flensburg |                 0.231 |
-|      3 | F. Wirlmann  | J. Walter       | Weiche Flensburg |                 0.226 |
-|      4 | H. Ostermann | N. Hasanbegovic | Weiche Flensburg |                 0.220 |
-|      5 | F. Arndt     | J. Walter       | Weiche Flensburg |                 0.216 |
+|   Rank | Player 1     | Player 2        | Team             |   Defensive chemistry |   Minutes together |   Age player 1 |   Age player 2 | Language player 1   | Language player 2   | Same language   | Same nationality   | Same region   | Same subregion   |
+|--------|--------------|-----------------|------------------|-----------------------|--------------------|----------------|----------------|---------------------|---------------------|-----------------|--------------------|---------------|------------------|
+|      1 | M. Müller    | Hassan Amin     | Waldhof Mannheim |                 0.236 |           1518.000 |         22.145 |         24.609 | German              | German              | True            | True               | True          | True             |
+|      2 | F. Wirlmann  | H. Ostermann    | Weiche Flensburg |                 0.231 |           1052.000 |         19.824 |         27.340 | German              | German              | True            | True               | True          | True             |
+|      3 | F. Wirlmann  | J. Walter       | Weiche Flensburg |                 0.226 |           1052.000 |         19.824 |         25.557 | German              | German              | True            | True               | True          | True             |
+|      4 | H. Ostermann | N. Hasanbegovic | Weiche Flensburg |                 0.220 |           1071.000 |         27.340 |         28.081 | German              | German              | True            | True               | True          | True             |
+|      5 | F. Arndt     | J. Walter       | Weiche Flensburg |                 0.216 |            980.000 |         18.712 |         25.557 | German              | German              | True            | True               | True          | True             |
 
 ## 2016/2017 - Segunda División (Spain) - male
-|   Rank | Player 1              | Player 2            | Team            |   Defensive chemistry |
-|--------|-----------------------|---------------------|-----------------|-----------------------|
-|      1 | Alberto Benito        | Jesús Olmo          | Reus Deportiu   |                 0.187 |
-|      2 | I. Lichnovsky         | L. Balbi            | Real Valladolid |                 0.186 |
-|      3 | José Manuel Fernández | Christian Fernández | Real Oviedo     |                 0.182 |
-|      4 | Álex Moreno           | Ernesto Galán       | Rayo Vallecano  |                 0.171 |
-|      5 | Pichu Atienza         | Jesús Olmo          | Reus Deportiu   |                 0.163 |
+|   Rank | Player 1              | Player 2            | Team            |   Defensive chemistry |   Minutes together |   Age player 1 |   Age player 2 | Language player 1   | Language player 2   | Same language   | Same nationality   | Same region   | Same subregion   |
+|--------|-----------------------|---------------------|-----------------|-----------------------|--------------------|----------------|----------------|---------------------|---------------------|-----------------|--------------------|---------------|------------------|
+|      1 | Alberto Benito        | Jesús Olmo          | Reus Deportiu   |                 0.187 |           1882.000 |         23.961 |         31.364 | Spanish             | Spanish             | True            | True               | True          | True             |
+|      2 | I. Lichnovsky         | L. Balbi            | Real Valladolid |                 0.186 |           1174.000 |         22.132 |         27.113 | Spanish             | Spanish             | True            | False              | True          | True             |
+|      3 | José Manuel Fernández | Christian Fernández | Real Oviedo     |                 0.182 |           1347.000 |         26.521 |         30.623 | Spanish             | Spanish             | True            | True               | True          | True             |
+|      4 | Álex Moreno           | Ernesto Galán       | Rayo Vallecano  |                 0.171 |           1561.000 |         22.962 |         29.968 | Spanish             | Spanish             | True            | True               | True          | True             |
+|      5 | Pichu Atienza         | Jesús Olmo          | Reus Deportiu   |                 0.163 |           2245.000 |         26.439 |         31.364 | Spanish             | Spanish             | True            | True               | True          | True             |
 
 ## 2016/2017 - Segunda Liga (Portugal) - male
-|   Rank | Player 1           | Player 2           | Team         |   Defensive chemistry |
-|--------|--------------------|--------------------|--------------|-----------------------|
-|      1 | Lumor              | Ricardo Pessoa     | Portimonense |                 0.249 |
-|      2 | Jean Felipe        | Delmiro Nascimento | Varzim       |                 0.197 |
-|      3 | Delmiro Nascimento | Sandro             | Varzim       |                 0.192 |
-|      4 | N. Plange          | João Real          | Académica    |                 0.191 |
-|      5 | Nuno Santos        | João Real          | Académica    |                 0.185 |
+|   Rank | Player 1           | Player 2           | Team         |   Defensive chemistry |   Minutes together |   Age player 1 |   Age player 2 | Language player 1   | Language player 2   | Same language   | Same nationality   | Same region   | Same subregion   |
+|--------|--------------------|--------------------|--------------|-----------------------|--------------------|----------------|----------------|---------------------|---------------------|-----------------|--------------------|---------------|------------------|
+|      1 | Lumor              | Ricardo Pessoa     | Portimonense |                 0.249 |            946.000 |         19.730 |         34.272 | English             | Portuguese          | False           | False              | False         | False            |
+|      2 | Jean Felipe        | Delmiro Nascimento | Varzim       |                 0.197 |           1099.000 |         22.142 |         27.693 | Portuguese          | Portuguese          | True            | False              | False         | False            |
+|      3 | Delmiro Nascimento | Sandro             | Varzim       |                 0.192 |           1208.000 |         27.693 |         33.442 | Portuguese          | Portuguese          | True            | False              | False         | False            |
+|      4 | N. Plange          | João Real          | Académica    |                 0.191 |           1010.000 |         26.885 |         33.007 | English             | Portuguese          | False           | False              | False         | False            |
+|      5 | Nuno Santos        | João Real          | Académica    |                 0.185 |           1128.000 |         35.904 |         33.007 | Portuguese          | Portuguese          | True            | True               | True          | True             |
 
 ## 2016/2017 - Serie A (Italy) - male
-|   Rank | Player 1        | Player 2        | Team     |   Defensive chemistry |
-|--------|-----------------|-----------------|----------|-----------------------|
-|      1 | I. Strinić      | E. Hysaj        | Napoli   |                 0.217 |
-|      2 | A. Ragusa       | F. Peluso       | Sassuolo |                 0.197 |
-|      3 | S. Lichtsteiner | L. Bonucci      | Juventus |                 0.195 |
-|      4 | S. Lichtsteiner | G. Chiellini    | Juventus |                 0.194 |
-|      5 | Alex Sandro     | S. Lichtsteiner | Juventus |                 0.191 |
+|   Rank | Player 1        | Player 2        | Team     |   Defensive chemistry |   Minutes together |   Age player 1 |   Age player 2 | Language player 1   | Language player 2   | Same language   | Same nationality   | Same region   | Same subregion   |
+|--------|-----------------|-----------------|----------|-----------------------|--------------------|----------------|----------------|---------------------|---------------------|-----------------|--------------------|---------------|------------------|
+|      1 | I. Strinić      | E. Hysaj        | Napoli   |                 0.217 |           1034.000 |         28.944 |         22.379 | Croatian            | Albanian            | False           | False              | True          | True             |
+|      2 | A. Ragusa       | F. Peluso       | Sassuolo |                 0.197 |           1037.000 |         26.163 |         32.317 | Italian             | Italian             | True            | True               | True          | True             |
+|      3 | S. Lichtsteiner | L. Bonucci      | Juventus |                 0.195 |           1162.000 |         32.443 |         29.160 | German              | Italian             | False           | False              | True          | False            |
+|      4 | S. Lichtsteiner | G. Chiellini    | Juventus |                 0.194 |            925.000 |         32.443 |         31.871 | German              | Italian             | False           | False              | True          | False            |
+|      5 | Alex Sandro     | S. Lichtsteiner | Juventus |                 0.191 |           1151.000 |         25.319 |         32.443 | Portuguese          | German              | False           | False              | False         | False            |
 
 ## 2016/2017 - Serie B (Italy) - male
-|   Rank | Player 1     | Player 2     | Team   |   Defensive chemistry |
-|--------|--------------|--------------|--------|-----------------------|
-|      1 | G. Felicioli | A. Almici    | Ascoli |                 0.211 |
-|      2 | G. Letizia   | E. Jelenič   | Carpi  |                 0.200 |
-|      3 | F. De Col    | F. Migliore  | Spezia |                 0.195 |
-|      4 | L. Pasciuti  | G. Letizia   | Carpi  |                 0.182 |
-|      5 | A. Sabbione  | A. Di Gaudio | Carpi  |                 0.178 |
+|   Rank | Player 1     | Player 2     | Team   |   Defensive chemistry |   Minutes together |   Age player 1 |   Age player 2 | Language player 1   | Language player 2   | Same language   | Same nationality   | Same region   | Same subregion   |
+|--------|--------------|--------------|--------|-----------------------|--------------------|----------------|----------------|---------------------|---------------------|-----------------|--------------------|---------------|------------------|
+|      1 | G. Felicioli | A. Almici    | Ascoli |                 0.211 |           1440.000 |         18.499 |         23.356 | Italian             | Italian             | True            | True               | True          | True             |
+|      2 | G. Letizia   | E. Jelenič   | Carpi  |                 0.200 |            957.000 |         25.861 |         23.271 | Italian             | Slovene             | False           | False              | True          | True             |
+|      3 | F. De Col    | F. Migliore  | Spezia |                 0.195 |           1989.000 |         22.584 |         28.123 | Italian             | Italian             | True            | True               | True          | True             |
+|      4 | L. Pasciuti  | G. Letizia   | Carpi  |                 0.182 |           1013.000 |         26.642 |         25.861 | Italian             | Italian             | True            | True               | True          | True             |
+|      5 | A. Sabbione  | A. Di Gaudio | Carpi  |                 0.178 |           1422.000 |         24.440 |         26.748 | Italian             | Italian             | True            | True               | True          | True             |
 
 ## 2016/2017 - Super League (Greece) - male
-|   Rank | Player 1       | Player 2        | Team               |   Defensive chemistry |
-|--------|----------------|-----------------|--------------------|-----------------------|
-|      1 | D. Baxevanidis | K. Camara       | Xanthi             |                 0.201 |
-|      2 | M. da Costa    | André Martins   | Olympiakos Piraeus |                 0.185 |
-|      3 | D. Kolovetsios | K. Lambropoulos | AEK Athens         |                 0.180 |
-|      4 | C. Lisgaras    | K. Camara       | Xanthi             |                 0.178 |
-|      5 | Botía          | André Martins   | Olympiakos Piraeus |                 0.172 |
+|   Rank | Player 1       | Player 2        | Team               |   Defensive chemistry |   Minutes together |   Age player 1 |   Age player 2 | Language player 1   | Language player 2   | Same language   | Same nationality   | Same region   | Same subregion   |
+|--------|----------------|-----------------|--------------------|-----------------------|--------------------|----------------|----------------|---------------------|---------------------|-----------------|--------------------|---------------|------------------|
+|      1 | D. Baxevanidis | K. Camara       | Xanthi             |                 0.201 |           1059.000 |         28.010 |         23.487 | Greek (modern)      | French              | False           | False              | True          | False            |
+|      2 | M. da Costa    | André Martins   | Olympiakos Piraeus |                 0.185 |           1030.000 |         30.034 |         26.142 | French              | Portuguese          | False           | False              | True          | False            |
+|      3 | D. Kolovetsios | K. Lambropoulos | AEK Athens         |                 0.180 |           1061.000 |         24.621 |         26.171 | Greek (modern)      | Greek (modern)      | True            | True               | True          | True             |
+|      4 | C. Lisgaras    | K. Camara       | Xanthi             |                 0.178 |           1138.000 |         30.140 |         23.487 | Greek (modern)      | French              | False           | False              | True          | False            |
+|      5 | Botía          | André Martins   | Olympiakos Piraeus |                 0.172 |           1197.000 |         27.304 |         26.142 | Spanish             | Portuguese          | False           | False              | True          | True             |
 
 ## 2016/2017 - Super League (Switzerland) - male
-|   Rank | Player 1     | Player 2   | Team        |   Defensive chemistry |
-|--------|--------------|------------|-------------|-----------------------|
-|      1 | D. Sorgić    | N. Bürgy   | Thun        |                 0.180 |
-|      2 | E. Bergström | Caio       | Grasshopper |                 0.157 |
-|      3 | N. Lavanchy  | M. Vilotić | Grasshopper |                 0.157 |
-|      4 | T. Xhaka     | M. Lang    | Basel       |                 0.156 |
-|      5 | M. Aratore   | K. Schulz  | St. Gallen  |                 0.152 |
+|   Rank | Player 1     | Player 2   | Team        |   Defensive chemistry |   Minutes together |   Age player 1 |   Age player 2 | Language player 1   | Language player 2   | Same language   | Same nationality   | Same region   | Same subregion   |
+|--------|--------------|------------|-------------|-----------------------|--------------------|----------------|----------------|---------------------|---------------------|-----------------|--------------------|---------------|------------------|
+|      1 | D. Sorgić    | N. Bürgy   | Thun        |                 0.180 |            963.000 |         24.670 |         20.791 | German              | German              | True            | True               | True          | True             |
+|      2 | E. Bergström | Caio       | Grasshopper |                 0.157 |           1450.000 |         23.008 |         29.993 | Swedish             | Portuguese          | False           | False              | False         | False            |
+|      3 | N. Lavanchy  | M. Vilotić | Grasshopper |                 0.157 |           1039.000 |         22.756 |         29.596 | German              | Serbian             | False           | False              | True          | False            |
+|      4 | T. Xhaka     | M. Lang    | Basel       |                 0.156 |           2250.000 |         25.221 |         25.352 | German              | German              | True            | True               | True          | True             |
+|      5 | M. Aratore   | K. Schulz  | St. Gallen  |                 0.152 |           1173.000 |         24.977 |         26.387 | German              | German              | True            | False              | True          | True             |
 
 ## 2016/2017 - Super Liga (Serbia) - male
-|   Rank | Player 1       | Player 2     | Team           |   Defensive chemistry |
-|--------|----------------|--------------|----------------|-----------------------|
-|      1 | A. Tanasin     | L. Obradović | Borac Čačak    |                 0.176 |
-|      2 | B. Miladinović | N. Leković   | Napredak       |                 0.172 |
-|      3 | M. Simonović   | S. Urošević  | Napredak       |                 0.156 |
-|      4 | M. Šatara      | B. Milošević | Mladost Lučani |                 0.155 |
-|      5 | I. N'Diaye     | N. Leković   | Napredak       |                 0.155 |
+|   Rank | Player 1       | Player 2     | Team           |   Defensive chemistry |   Minutes together |   Age player 1 |   Age player 2 | Language player 1   | Language player 2   | Same language   | Same nationality   | Same region   | Same subregion   |
+|--------|----------------|--------------|----------------|-----------------------|--------------------|----------------|----------------|---------------------|---------------------|-----------------|--------------------|---------------|------------------|
+|      1 | A. Tanasin     | L. Obradović | Borac Čačak    |                 0.176 |           1034.000 |         24.508 |         23.460 | Serbian             | Serbian             | True            | True               | True          | True             |
+|      2 | B. Miladinović | N. Leković   | Napredak       |                 0.172 |            990.000 |         34.042 |         25.992 | Serbian             | Serbian             | True            | True               | True          | True             |
+|      3 | M. Simonović   | S. Urošević  | Napredak       |                 0.156 |           2541.000 |         25.984 |         21.086 | Serbian             | Serbian             | True            | True               | True          | True             |
+|      4 | M. Šatara      | B. Milošević | Mladost Lučani |                 0.155 |            988.000 |         20.549 |         27.006 | Bosnian             | Serbian             | False           | False              | True          | True             |
+|      5 | I. N'Diaye     | N. Leković   | Napredak       |                 0.155 |            990.000 |         22.266 |         25.992 | French              | Serbian             | False           | False              | False         | False            |
 
 ## 2016/2017 - Super Liga (Slovakia) - male
-|   Rank | Player 1        | Player 2    | Team           |   Defensive chemistry |
-|--------|-----------------|-------------|----------------|-----------------------|
-|      1 | O. Janso        | I. Hladík   | Spartak Trnava |                 0.116 |
-|      2 | L. Greššák      | O. Janso    | Spartak Trnava |                 0.116 |
-|      3 | P. Čögley       | I. Hladík   | Spartak Trnava |                 0.096 |
-|      4 | M. Ljubičić     | P. Šafranko | DAC            |                 0.093 |
-|      5 | Alberto Delgado | R. Pillár   | Senica         |                 0.090 |
+|   Rank | Player 1        | Player 2    | Team           |   Defensive chemistry |   Minutes together |   Age player 1 |   Age player 2 | Language player 1   | Language player 2   | Same language   | Same nationality   | Same region   | Same subregion   |
+|--------|-----------------|-------------|----------------|-----------------------|--------------------|----------------|----------------|---------------------|---------------------|-----------------|--------------------|---------------|------------------|
+|      1 | O. Janso        | I. Hladík   | Spartak Trnava |                 0.116 |           1079.000 |         22.660 |         23.222 | Slovak              | Slovak              | True            | True               | True          | True             |
+|      2 | L. Greššák      | O. Janso    | Spartak Trnava |                 0.116 |           1341.000 |         27.323 |         22.660 | Slovak              | Slovak              | True            | True               | True          | True             |
+|      3 | P. Čögley       | I. Hladík   | Spartak Trnava |                 0.096 |            989.000 |         27.739 |         23.222 | Slovak              | Slovak              | True            | True               | True          | True             |
+|      4 | M. Ljubičić     | P. Šafranko | DAC            |                 0.093 |            963.000 |         27.912 |         21.511 | Croatian            | Slovak              | False           | False              | True          | False            |
+|      5 | Alberto Delgado | R. Pillár   | Senica         |                 0.090 |           1161.000 |         25.001 |         24.985 | Spanish             | Slovak              | False           | False              | True          | False            |
 
 ## 2016/2017 - Superliga (Argentina) - male
-|   Rank | Player 1   | Player 2        | Team               |   Defensive chemistry |
-|--------|------------|-----------------|--------------------|-----------------------|
-|      1 | F. Bustos  | J. Sánchez Miño | Independiente      |                 0.193 |
-|      2 | C. Mayada  | I. Fernández    | River Plate        |                 0.171 |
-|      3 | J. Rivero  | H. Silva        | Defensa y Justicia |                 0.170 |
-|      4 | A. Barboza | T. Cardona      | Defensa y Justicia |                 0.167 |
-|      5 | C. Mayada  | G. Martínez     | River Plate        |                 0.165 |
+|   Rank | Player 1   | Player 2        | Team               |   Defensive chemistry |   Minutes together |   Age player 1 |   Age player 2 | Language player 1   | Language player 2   | Same language   | Same nationality   | Same region   | Same subregion   |
+|--------|------------|-----------------|--------------------|-----------------------|--------------------|----------------|----------------|---------------------|---------------------|-----------------|--------------------|---------------|------------------|
+|      1 | F. Bustos  | J. Sánchez Miño | Independiente      |                 0.193 |           1219.000 |         17.002 |         26.406 | Spanish             | Spanish             | True            | True               | True          | True             |
+|      2 | C. Mayada  | I. Fernández    | River Plate        |                 0.171 |            988.000 |         25.366 |         26.355 | Spanish             | Spanish             | True            | False              | True          | True             |
+|      3 | J. Rivero  | H. Silva        | Defensa y Justicia |                 0.170 |           1276.000 |         23.578 |         24.200 | Spanish             | Spanish             | True            | False              | True          | True             |
+|      4 | A. Barboza | T. Cardona      | Defensa y Justicia |                 0.167 |            939.000 |         21.216 |         20.646 | Spanish             | Spanish             | True            | True               | True          | True             |
+|      5 | C. Mayada  | G. Martínez     | River Plate        |                 0.165 |           1024.000 |         25.366 |         22.938 | Spanish             | Spanish             | True            | False              | True          | True             |
 
 ## 2016/2017 - Superliga (Denmark) - male
-|   Rank | Player 1     | Player 2        | Team        |   Defensive chemistry |
-|--------|--------------|-----------------|-------------|-----------------------|
-|      1 | J. Drachmann | M. Dal Hende    | SønderjyskE |                 0.266 |
-|      2 | P. Ankersen  | Y. Toutouh      | København   |                 0.263 |
-|      3 | P. Ankersen  | L. Augustinsson | København   |                 0.253 |
-|      4 | P. Ankersen  | E. Berg         | København   |                 0.231 |
-|      5 | M. Kallesøe  | J. Thomsen      | Randers     |                 0.217 |
+|   Rank | Player 1     | Player 2        | Team        |   Defensive chemistry |   Minutes together |   Age player 1 |   Age player 2 | Language player 1   | Language player 2   | Same language   | Same nationality   | Same region   | Same subregion   |
+|--------|--------------|-----------------|-------------|-----------------------|--------------------|----------------|----------------|---------------------|---------------------|-----------------|--------------------|---------------|------------------|
+|      1 | J. Drachmann | M. Dal Hende    | SønderjyskE |                 0.266 |           1296.000 |         28.051 |         25.563 | Danish              | Danish              | True            | True               | True          | True             |
+|      2 | P. Ankersen  | Y. Toutouh      | København   |                 0.263 |           1921.000 |         25.686 |         23.646 | Danish              | Danish              | True            | True               | True          | True             |
+|      3 | P. Ankersen  | L. Augustinsson | København   |                 0.253 |           2405.000 |         25.686 |         22.107 | Danish              | Swedish             | False           | False              | True          | True             |
+|      4 | P. Ankersen  | E. Berg         | København   |                 0.231 |           2229.000 |         25.686 |         27.480 | Danish              | Swedish             | False           | False              | True          | True             |
+|      5 | M. Kallesøe  | J. Thomsen      | Randers     |                 0.217 |            986.000 |         19.109 |         34.255 | Danish              | Danish              | True            | True               | True          | True             |
 
 ## 2016/2017 - Süper Lig (Turkey) - male
-|   Rank | Player 1    | Player 2     | Team                |   Defensive chemistry |
-|--------|-------------|--------------|---------------------|-----------------------|
-|      1 | E. Albayrak | U. Uçar      | İstanbul Başakşehir |                 0.255 |
-|      2 | A. Çalık    | S. Gürler    | Gençlerbirliği      |                 0.225 |
-|      3 | U. Çiftçi   | A. Karabulut | Gençlerbirliği      |                 0.203 |
-|      4 | S. Kaya     | W. Sneijder  | Galatasaray         |                 0.202 |
-|      5 | Bruma       | S. Sarıoğlu  | Galatasaray         |                 0.192 |
+|   Rank | Player 1    | Player 2     | Team                |   Defensive chemistry |   Minutes together |   Age player 1 |   Age player 2 | Language player 1   | Language player 2   | Same language   | Same nationality   | Same region   | Same subregion   |
+|--------|-------------|--------------|---------------------|-----------------------|--------------------|----------------|----------------|---------------------|---------------------|-----------------|--------------------|---------------|------------------|
+|      1 | E. Albayrak | U. Uçar      | İstanbul Başakşehir |                 0.255 |            914.000 |         24.889 |         29.122 | Turkish             | Turkish             | True            | True               | True          | True             |
+|      2 | A. Çalık    | S. Gürler    | Gençlerbirliği      |                 0.225 |           1254.000 |         22.228 |         24.670 | Turkish             | French              | False           | False              | False         | False            |
+|      3 | U. Çiftçi   | A. Karabulut | Gençlerbirliği      |                 0.203 |           1500.000 |         24.043 |         28.317 | Turkish             | German              | False           | False              | False         | False            |
+|      4 | S. Kaya     | W. Sneijder  | Galatasaray         |                 0.202 |            914.000 |         25.254 |         31.964 | Turkish             | Dutch               | False           | False              | False         | False            |
+|      5 | Bruma       | S. Sarıoğlu  | Galatasaray         |                 0.192 |           1776.000 |         21.555 |         31.835 | Portuguese          | Turkish             | False           | False              | False         | False            |
 
 ## 2016/2017 - UEFA Champions League (Europe) - male
-|   Rank | Player 1           | Player 2        | Team            |   Defensive chemistry |
-|--------|--------------------|-----------------|-----------------|-----------------------|
-|      1 | L. Bonucci         | Dani Alves      | Juventus        |                 0.209 |
-|      2 | Bernardo Silva     | Jemerson        | Monaco          |                 0.190 |
-|      3 | D. Godín           | Koke            | Atlético Madrid |                 0.147 |
-|      4 | M. Zanka Jorgensen | L. Augustinsson | København       |                 0.141 |
-|      5 | Bernardo Silva     | T. Bakayoko     | Monaco          |                 0.118 |
+|   Rank | Player 1           | Player 2        | Team            |   Defensive chemistry |   Minutes together |   Age player 1 |   Age player 2 | Language player 1   | Language player 2   | Same language   | Same nationality   | Same region   | Same subregion   |
+|--------|--------------------|-----------------|-----------------|-----------------------|--------------------|----------------|----------------|---------------------|---------------------|-----------------|--------------------|---------------|------------------|
+|      1 | L. Bonucci         | Dani Alves      | Juventus        |                 0.209 |            959.000 |         29.160 |         33.107 | Italian             | Portuguese          | False           | False              | False         | False            |
+|      2 | Bernardo Silva     | Jemerson        | Monaco          |                 0.190 |            934.000 |         21.744 |         23.704 | Portuguese          | Portuguese          | True            | False              | False         | False            |
+|      3 | D. Godín           | Koke            | Atlético Madrid |                 0.147 |            952.000 |         30.325 |         24.443 | Spanish             | Spanish             | True            | False              | False         | False            |
+|      4 | M. Zanka Jorgensen | L. Augustinsson | København       |                 0.141 |            961.000 |         26.102 |         22.107 | Danish              | Swedish             | False           | False              | True          | True             |
+|      5 | Bernardo Silva     | T. Bakayoko     | Monaco          |                 0.118 |           1019.000 |         21.744 |         21.744 | Portuguese          | French              | False           | False              | True          | False            |
 
 ## 2016 USA - Copa America (South America) - male
-|   Rank | Player 1          | Player 2      | Team      |   Defensive chemistry |
-|--------|-------------------|---------------|-----------|-----------------------|
-|      1 | M. Rojo           | N. Otamendi   | Argentina |                 0.276 |
-|      2 | G. Mercado        | J. Mascherano | Argentina |                 0.276 |
-|      3 | G. Mercado        | N. Otamendi   | Argentina |                 0.271 |
-|      4 | Ramiro Funes Mori | G. Mercado    | Argentina |                 0.264 |
-|      5 | N. Otamendi       | J. Mascherano | Argentina |                 0.254 |
+|   Rank | Player 1          | Player 2      | Team      |   Defensive chemistry |   Minutes together |   Age player 1 |   Age player 2 | Language player 1   | Language player 2   | Same language   | Same nationality   | Same region   | Same subregion   |
+|--------|-------------------|---------------|-----------|-----------------------|--------------------|----------------|----------------|---------------------|---------------------|-----------------|--------------------|---------------|------------------|
+|      1 | M. Rojo           | N. Otamendi   | Argentina |                 0.276 |            473.000 |         26.273 |         28.373 | Spanish             | Spanish             | True            | True               | True          | True             |
+|      2 | G. Mercado        | J. Mascherano | Argentina |                 0.276 |            480.000 |         29.279 |         32.052 | Spanish             | Spanish             | True            | True               | True          | True             |
+|      3 | G. Mercado        | N. Otamendi   | Argentina |                 0.271 |            480.000 |         29.279 |         28.373 | Spanish             | Spanish             | True            | True               | True          | True             |
+|      4 | Ramiro Funes Mori | G. Mercado    | Argentina |                 0.264 |            480.000 |         25.314 |         29.279 | Spanish             | Spanish             | True            | True               | True          | True             |
+|      5 | N. Otamendi       | J. Mascherano | Argentina |                 0.254 |            480.000 |         28.373 |         32.052 | Spanish             | Spanish             | True            | True               | True          | True             |
 
 ## 2016 Germany - UEFA U19 Championship (Europe) - male
-|   Rank | Player 1   | Player 2   | Team       |   Defensive chemistry |
-|--------|------------|------------|------------|-----------------------|
-|      1 | K. Mbappé  | I. Diop    | France U19 |                 0.241 |
-|      2 | K. Mbappé  | L. Tousart | France U19 |                 0.211 |
-|      3 | L. Tousart | I. Diop    | France U19 |                 0.198 |
-|      4 | A. Harit   | I. Diop    | France U19 |                 0.185 |
-|      5 | L. Tousart | D. Poha    | France U19 |                 0.181 |
+|   Rank | Player 1   | Player 2   | Team       |   Defensive chemistry |   Minutes together |   Age player 1 |   Age player 2 | Language player 1   | Language player 2   | Same language   | Same nationality   | Same region   | Same subregion   |
+|--------|------------|------------|------------|-----------------------|--------------------|----------------|----------------|---------------------|---------------------|-----------------|--------------------|---------------|------------------|
+|      1 | K. Mbappé  | I. Diop    | France U19 |                 0.241 |            495.000 |         15.971 |         18.367 | French              | French              | True            | True               | True          | True             |
+|      2 | K. Mbappé  | L. Tousart | France U19 |                 0.211 |            495.000 |         15.971 |         18.064 | French              | French              | True            | True               | True          | True             |
+|      3 | L. Tousart | I. Diop    | France U19 |                 0.198 |            540.000 |         18.064 |         18.367 | French              | French              | True            | True               | True          | True             |
+|      4 | A. Harit   | I. Diop    | France U19 |                 0.185 |            586.000 |         17.853 |         18.367 | French              | French              | True            | True               | True          | True             |
+|      5 | L. Tousart | D. Poha    | France U19 |                 0.181 |            512.000 |         18.064 |         17.987 | French              | French              | True            | True               | True          | True             |
 
 ## 2016 France - EC Qualification (Europe) - male
-|   Rank | Player 1     | Player 2     | Team                |   Defensive chemistry |
-|--------|--------------|--------------|---------------------|-----------------------|
-|      1 | J. Walters   | S. Coleman   | Republic of Ireland |                 0.298 |
-|      2 | J. O'Shea    | S. Coleman   | Republic of Ireland |                 0.266 |
-|      3 | Y. Rakitskiy | A. Fedetskiy | Ukraine             |                 0.251 |
-|      4 | J. McCarthy  | J. O'Shea    | Republic of Ireland |                 0.251 |
-|      5 | R. Brady     | S. Coleman   | Republic of Ireland |                 0.249 |
+|   Rank | Player 1     | Player 2     | Team                |   Defensive chemistry |   Minutes together |   Age player 1 |   Age player 2 | Language player 1   | Language player 2   | Same language   | Same nationality   | Same region   | Same subregion   |
+|--------|--------------|--------------|---------------------|-----------------------|--------------------|----------------|----------------|---------------------|---------------------|-----------------|--------------------|---------------|------------------|
+|      1 | J. Walters   | S. Coleman   | Republic of Ireland |                 0.298 |            540.000 |         31.274 |         26.214 | English             | Irish               | False           | False              | True          | True             |
+|      2 | J. O'Shea    | S. Coleman   | Republic of Ireland |                 0.266 |            451.000 |         33.664 |         26.214 | Irish               | Irish               | True            | True               | True          | True             |
+|      3 | Y. Rakitskiy | A. Fedetskiy | Ukraine             |                 0.251 |            540.000 |         25.355 |         29.628 | Ukrainian           | Ukrainian           | True            | True               | True          | True             |
+|      4 | J. McCarthy  | J. O'Shea    | Republic of Ireland |                 0.251 |            520.000 |         24.128 |         33.664 | English             | Irish               | False           | False              | True          | True             |
+|      5 | R. Brady     | S. Coleman   | Republic of Ireland |                 0.249 |            472.000 |         22.956 |         26.214 | Irish               | Irish               | True            | True               | True          | True             |
 
 ## 2016 France - European Championship (Europe) - male
-|   Rank | Player 1   | Player 2   | Team    |   Defensive chemistry |
-|--------|------------|------------|---------|-----------------------|
-|      1 | J. Hector  | J. Boateng | Germany |                 0.258 |
-|      2 | T. Kroos   | J. Boateng | Germany |                 0.253 |
-|      3 | J. Boateng | M. Özil    | Germany |                 0.240 |
-|      4 | J. Hector  | T. Kroos   | Germany |                 0.217 |
-|      5 | J. Hector  | M. Özil    | Germany |                 0.204 |
+|   Rank | Player 1   | Player 2   | Team    |   Defensive chemistry |   Minutes together |   Age player 1 |   Age player 2 | Language player 1   | Language player 2   | Same language   | Same nationality   | Same region   | Same subregion   |
+|--------|------------|------------|---------|-----------------------|--------------------|----------------|----------------|---------------------|---------------------|-----------------|--------------------|---------------|------------------|
+|      1 | J. Hector  | J. Boateng | Germany |                 0.258 |            506.000 |         26.086 |         27.813 | German              | German              | True            | True               | True          | True             |
+|      2 | T. Kroos   | J. Boateng | Germany |                 0.253 |            506.000 |         26.477 |         27.813 | German              | German              | True            | True               | True          | True             |
+|      3 | J. Boateng | M. Özil    | Germany |                 0.240 |            506.000 |         27.813 |         27.698 | German              | German              | True            | True               | True          | True             |
+|      4 | J. Hector  | T. Kroos   | Germany |                 0.217 |            570.000 |         26.086 |         26.477 | German              | German              | True            | True               | True          | True             |
+|      5 | J. Hector  | M. Özil    | Germany |                 0.204 |            570.000 |         26.086 |         27.698 | German              | German              | True            | True               | True          | True             |
 
 ## 2016 Azerbaijan - UEFA U17 Championship (Europe) - male
-|   Rank | Player 1     | Player 2       | Team      |   Defensive chemistry |
-|--------|--------------|----------------|-----------|-----------------------|
-|      1 | Chumi        | Álex Robles    | Spain U17 |                 0.235 |
-|      2 | Álex Robles  | Oriol Busquets | Spain U17 |                 0.233 |
-|      3 | David Subías | Gorka Zabarte  | Spain U17 |                 0.227 |
-|      4 | Álex Robles  | Gorka Zabarte  | Spain U17 |                 0.217 |
-|      5 | Chumi        | Oriol Busquets | Spain U17 |                 0.212 |
+|   Rank | Player 1     | Player 2       | Team      |   Defensive chemistry |   Minutes together |   Age player 1 |   Age player 2 | Language player 1   | Language player 2   | Same language   | Same nationality   | Same region   | Same subregion   |
+|--------|--------------|----------------|-----------|-----------------------|--------------------|----------------|----------------|---------------------|---------------------|-----------------|--------------------|---------------|------------------|
+|      1 | Chumi        | Álex Robles    | Spain U17 |                 0.235 |            654.000 |         16.664 |         16.755 | Spanish             | Spanish             | True            | True               | True          | True             |
+|      2 | Álex Robles  | Oriol Busquets | Spain U17 |                 0.233 |            703.000 |         16.755 |         16.886 | Spanish             | Spanish             | True            | True               | True          | True             |
+|      3 | David Subías | Gorka Zabarte  | Spain U17 |                 0.227 |            666.000 |         16.653 |         16.807 | Spanish             | Spanish             | True            | True               | True          | True             |
+|      4 | Álex Robles  | Gorka Zabarte  | Spain U17 |                 0.217 |            660.000 |         16.755 |         16.807 | Spanish             | Spanish             | True            | True               | True          | True             |
+|      5 | Chumi        | Oriol Busquets | Spain U17 |                 0.212 |            619.000 |         16.664 |         16.886 | Spanish             | Spanish             | True            | True               | True          | True             |
 
 ## 2016 - AFC Champions League (Asia) - male
-|   Rank | Player 1      | Player 2       | Team   |   Defensive chemistry |
-|--------|---------------|----------------|--------|-----------------------|
-|      1 | Ismail Ahmed  | Mohammed Fayez | Al Ain |                 0.113 |
-|      2 | Ismail Ahmed  | Mohanad Salem  | Al Ain |                 0.112 |
-|      3 | Mohanad Salem | Mohammed Fayez | Al Ain |                 0.101 |
-|      4 | Osmar         | Yo-Han Go      | Seoul  |                 0.099 |
-|      5 | Myeong-Ju Lee | Douglas        | Al Ain |                 0.095 |
+|   Rank | Player 1      | Player 2       | Team   |   Defensive chemistry |   Minutes together |   Age player 1 |   Age player 2 | Language player 1   | Language player 2   | Same language   | Same nationality   | Same region   | Same subregion   |
+|--------|---------------|----------------|--------|-----------------------|--------------------|----------------|----------------|---------------------|---------------------|-----------------|--------------------|---------------|------------------|
+|      1 | Ismail Ahmed  | Mohammed Fayez | Al Ain |                 0.113 |            969.000 |         32.470 |         26.206 | Arabic              | Arabic              | True            | False              | False         | False            |
+|      2 | Ismail Ahmed  | Mohanad Salem  | Al Ain |                 0.112 |           1140.000 |         32.470 |         30.819 | Arabic              | Arabic              | True            | False              | False         | False            |
+|      3 | Mohanad Salem | Mohammed Fayez | Al Ain |                 0.101 |            958.000 |         30.819 |         26.206 | Arabic              | Arabic              | True            | True               | True          | True             |
+|      4 | Osmar         | Yo-Han Go      | Seoul  |                 0.099 |            968.000 |         27.483 |         27.721 | Spanish             | Korean              | False           | False              | False         | False            |
+|      5 | Myeong-Ju Lee | Douglas        | Al Ain |                 0.095 |           1032.000 |         25.672 |         27.990 | Korean              | Portuguese          | False           | False              | False         | False            |
 
 ## 2016 - Allsvenskan (Sweden) - male
-|   Rank | Player 1     | Player 2      | Team           |   Defensive chemistry |
-|--------|--------------|---------------|----------------|-----------------------|
-|      1 | H. Aleesami  | J. Ankersen   | IFK Göteborg   |                 0.198 |
-|      2 | L. Wahlqvist | A. Blomqvist  | IFK Norrköping |                 0.189 |
-|      3 | J. Berget    | A. Tinnerholm | Malmö FF       |                 0.165 |
-|      4 | J. Berget    | M. Eikrem     | Malmö FF       |                 0.163 |
-|      5 | S. Larsson   | Ismael        | Kalmar         |                 0.159 |
+|   Rank | Player 1     | Player 2      | Team           |   Defensive chemistry |   Minutes together |   Age player 1 |   Age player 2 | Language player 1   | Language player 2   | Same language   | Same nationality   | Same region   | Same subregion   |
+|--------|--------------|---------------|----------------|-----------------------|--------------------|----------------|----------------|---------------------|---------------------|-----------------|--------------------|---------------|------------------|
+|      1 | H. Aleesami  | J. Ankersen   | IFK Göteborg   |                 0.198 |           1096.000 |         24.831 |         25.686 | Norwegian           | Danish              | False           | False              | True          | True             |
+|      2 | L. Wahlqvist | A. Blomqvist  | IFK Norrköping |                 0.189 |           1124.000 |         19.561 |         24.068 | Swedish             | Swedish             | True            | True               | True          | True             |
+|      3 | J. Berget    | A. Tinnerholm | Malmö FF       |                 0.165 |           2000.000 |         25.686 |         25.253 | Norwegian           | Swedish             | False           | False              | True          | True             |
+|      4 | J. Berget    | M. Eikrem     | Malmö FF       |                 0.163 |           1034.500 |         25.686 |         25.806 | Norwegian           | Norwegian           | True            | True               | True          | True             |
+|      5 | S. Larsson   | Ismael        | Kalmar         |                 0.159 |           1222.000 |         33.313 |         21.494 | Swedish             | Portuguese          | False           | False              | False         | False            |
 
 ## 2016 - CAF Champions League (Africa) - male
-|   Rank | Player 1     | Player 2     | Team              |   Defensive chemistry |
-|--------|--------------|--------------|-------------------|-----------------------|
-|      1 | T. Langerman | H. Kekana    | Mamelodi Sundowns |                 0.186 |
-|      2 | T. Nthethe   | T. Langerman | Mamelodi Sundowns |                 0.160 |
-|      3 | T. Nthethe   | H. Kekana    | Mamelodi Sundowns |                 0.157 |
-|      4 | Ahmed Tawfik | M. Yousef    | Zamalek           |                 0.151 |
-|      5 | S. Mabunda   | T. Langerman | Mamelodi Sundowns |                 0.147 |
+|   Rank | Player 1     | Player 2     | Team              |   Defensive chemistry |   Minutes together |   Age player 1 |   Age player 2 | Language player 1   | Language player 2   | Same language   | Same nationality   | Same region   | Same subregion   |
+|--------|--------------|--------------|-------------------|-----------------------|--------------------|----------------|----------------|---------------------|---------------------|-----------------|--------------------|---------------|------------------|
+|      1 | T. Langerman | H. Kekana    | Mamelodi Sundowns |                 0.186 |            613.000 |         30.151 |         31.104 | Afrikaans           | Afrikaans           | True            | True               | True          | True             |
+|      2 | T. Nthethe   | T. Langerman | Mamelodi Sundowns |                 0.160 |            649.000 |         31.739 |         30.151 | Afrikaans           | Afrikaans           | True            | True               | True          | True             |
+|      3 | T. Nthethe   | H. Kekana    | Mamelodi Sundowns |                 0.157 |            624.000 |         31.739 |         31.104 | Afrikaans           | Afrikaans           | True            | True               | True          | True             |
+|      4 | Ahmed Tawfik | M. Yousef    | Zamalek           |                 0.151 |            673.000 |         24.719 |         23.498 | Arabic              | English             | False           | False              | True          | False            |
+|      5 | S. Mabunda   | T. Langerman | Mamelodi Sundowns |                 0.147 |            539.000 |         28.202 |         30.151 | Afrikaans           | Afrikaans           | True            | True               | True          | True             |
 
 ## 2016 - Copa Sudamericana (South America) - male
-|   Rank | Player 1    | Player 2      | Team              |   Defensive chemistry |
-|--------|-------------|---------------|-------------------|-----------------------|
-|      1 | M. Gómez    | M. Rivas      | Wanderers         |                 0.297 |
-|      2 | M. Gómez    | D. Barboza    | Wanderers         |                 0.272 |
-|      3 | M. Uribe    | A. Henríquez  | Atlético Nacional |                 0.265 |
-|      4 | M. Angeleri | S. Blanco     | San Lorenzo       |                 0.258 |
-|      5 | M. Gómez    | Matías Santos | Wanderers         |                 0.258 |
+|   Rank | Player 1    | Player 2      | Team              |   Defensive chemistry |   Minutes together |   Age player 1 |   Age player 2 | Language player 1   | Language player 2   | Same language   | Same nationality   | Same region   | Same subregion   |
+|--------|-------------|---------------|-------------------|-----------------------|--------------------|----------------|----------------|---------------------|---------------------|-----------------|--------------------|---------------|------------------|
+|      1 | M. Gómez    | M. Rivas      | Wanderers         |                 0.297 |            600.000 |         24.156 |         24.227 | Spanish             | Spanish             | True            | True               | True          | True             |
+|      2 | M. Gómez    | D. Barboza    | Wanderers         |                 0.272 |            530.000 |         24.156 |         25.254 | Spanish             | Spanish             | True            | True               | True          | True             |
+|      3 | M. Uribe    | A. Henríquez  | Atlético Nacional |                 0.265 |            532.000 |         25.172 |         33.361 | Spanish             | Spanish             | True            | True               | True          | True             |
+|      4 | M. Angeleri | S. Blanco     | San Lorenzo       |                 0.258 |            611.000 |         33.147 |         28.208 | Spanish             | Spanish             | True            | True               | True          | True             |
+|      5 | M. Gómez    | Matías Santos | Wanderers         |                 0.258 |            551.000 |         24.156 |         22.236 | Spanish             | Spanish             | True            | True               | True          | True             |
 
 ## 2016 - Eliteserien (Norway) - male
-|   Rank | Player 1       | Player 2        | Team      |   Defensive chemistry |
-|--------|----------------|-----------------|-----------|-----------------------|
-|      1 | A. Nouri       | J. Grønner      | Brann     |                 0.197 |
-|      2 | H. Eyjólfsson  | A. Gersbach     | Rosenborg |                 0.184 |
-|      3 | S. Nilsen      | J. Grønner      | Brann     |                 0.184 |
-|      4 | R. Kristiansen | J. Grønner      | Brann     |                 0.183 |
-|      5 | A. Gersbach    | M. Vilhjálmsson | Rosenborg |                 0.178 |
+|   Rank | Player 1       | Player 2        | Team      |   Defensive chemistry |   Minutes together |   Age player 1 |   Age player 2 | Language player 1   | Language player 2   | Same language   | Same nationality   | Same region   | Same subregion   |
+|--------|----------------|-----------------|-----------|-----------------------|--------------------|----------------|----------------|---------------------|---------------------|-----------------|--------------------|---------------|------------------|
+|      1 | A. Nouri       | J. Grønner      | Brann     |                 0.197 |           1186.000 |         25.808 |         21.559 | Norwegian           | Norwegian           | True            | True               | True          | True             |
+|      2 | H. Eyjólfsson  | A. Gersbach     | Rosenborg |                 0.184 |            944.000 |         25.308 |         18.635 | Icelandic           | English             | False           | False              | False         | False            |
+|      3 | S. Nilsen      | J. Grønner      | Brann     |                 0.184 |           1006.000 |         24.035 |         21.559 | Norwegian           | Norwegian           | True            | True               | True          | True             |
+|      4 | R. Kristiansen | J. Grønner      | Brann     |                 0.183 |           1096.000 |         27.698 |         21.559 | Norwegian           | Norwegian           | True            | True               | True          | True             |
+|      5 | A. Gersbach    | M. Vilhjálmsson | Rosenborg |                 0.178 |            908.000 |         18.635 |         28.862 | English             | Icelandic           | False           | False              | False         | False            |
 
 ## 2016 - MLS (United States) - male
-|   Rank | Player 1     | Player 2    | Team             |   Defensive chemistry |
-|--------|--------------|-------------|------------------|-----------------------|
-|      1 | M. Wynne     | K. Sarkodie | SJ Earthquakes   |                 0.192 |
-|      2 | F. Alashe    | K. Sarkodie | SJ Earthquakes   |                 0.192 |
-|      3 | A. DeLaGarza | B. Husidic  | LA Galaxy        |                 0.172 |
-|      4 | J. Jones     | C. Dempsey  | Seattle Sounders |                 0.154 |
-|      5 | M. Wynne     | S. Francis  | SJ Earthquakes   |                 0.151 |
+|   Rank | Player 1     | Player 2    | Team             |   Defensive chemistry |   Minutes together |   Age player 1 |   Age player 2 | Language player 1   | Language player 2   | Same language   | Same nationality   | Same region   | Same subregion   |
+|--------|--------------|-------------|------------------|-----------------------|--------------------|----------------|----------------|---------------------|---------------------|-----------------|--------------------|---------------|------------------|
+|      1 | M. Wynne     | K. Sarkodie | SJ Earthquakes   |                 0.192 |            953.000 |         29.468 |         24.501 | English             | English             | True            | True               | True          | True             |
+|      2 | F. Alashe    | K. Sarkodie | SJ Earthquakes   |                 0.192 |            923.000 |         22.012 |         24.501 | English             | English             | True            | True               | True          | True             |
+|      3 | A. DeLaGarza | B. Husidic  | LA Galaxy        |                 0.172 |           1044.000 |         28.024 |         28.447 | English             | Bosnian             | False           | False              | False         | False            |
+|      4 | J. Jones     | C. Dempsey  | Seattle Sounders |                 0.154 |           1040.000 |         24.293 |         32.671 | English             | English             | True            | False              | True          | False            |
+|      5 | M. Wynne     | S. Francis  | SJ Earthquakes   |                 0.151 |           1322.000 |         29.468 |         29.065 | English             | English             | True            | False              | True          | False            |
 
 ## 2016 - NASL (United States) - male
-|   Rank | Player 1     | Player 2     | Team      |   Defensive chemistry |
-|--------|--------------|--------------|-----------|-----------------------|
-|      1 | K. Kimura    | M. Hernández | Rayo OKC  |                 0.239 |
-|      2 | M. Hernández | F. Danso     | Rayo OKC  |                 0.191 |
-|      3 | R. Menjívar  | K. Kimura    | Rayo OKC  |                 0.188 |
-|      4 | Rubén Bover  | Ayoze        | NY Cosmos |                 0.179 |
-|      5 | D. Boateng   | K. Kimura    | Rayo OKC  |                 0.177 |
+|   Rank | Player 1     | Player 2     | Team      |   Defensive chemistry |   Minutes together |   Age player 1 |   Age player 2 | Language player 1   | Language player 2   | Same language   | Same nationality   | Same region   | Same subregion   |
+|--------|--------------|--------------|-----------|-----------------------|--------------------|----------------|----------------|---------------------|---------------------|-----------------|--------------------|---------------|------------------|
+|      1 | K. Kimura    | M. Hernández | Rayo OKC  |                 0.239 |           1147.000 |         32.080 |         24.271 | Japanese            | English             | False           | False              | False         | False            |
+|      2 | M. Hernández | F. Danso     | Rayo OKC  |                 0.191 |           1057.000 |         24.271 |         33.128 | English             | English             | True            | False              | False         | False            |
+|      3 | R. Menjívar  | K. Kimura    | Rayo OKC  |                 0.188 |           1006.000 |         25.615 |         32.080 | English             | Japanese            | False           | False              | False         | False            |
+|      4 | Rubén Bover  | Ayoze        | NY Cosmos |                 0.179 |           1021.000 |         23.978 |         30.566 | Spanish             | Spanish             | True            | True               | True          | True             |
+|      5 | D. Boateng   | K. Kimura    | Rayo OKC  |                 0.177 |            964.000 |         33.115 |         32.080 | English             | Japanese            | False           | False              | False         | False            |
 
 ## 2016 - Obos Ligaen (Norway) - male
-|   Rank | Player 1         | Player 2     | Team         |   Defensive chemistry |
-|--------|------------------|--------------|--------------|-----------------------|
-|      1 | R. Peiponen      | M. Ueland    | Åsane        |                 0.306 |
-|      2 | R. Peiponen      | E. Steen     | Åsane        |                 0.250 |
-|      3 | T. Torske        | J. Rønningen | Kristiansund |                 0.223 |
-|      4 | R. Peiponen      | J. Soltvedt  | Åsane        |                 0.206 |
-|      5 | J. Olsen Øveraas | V. Nisja     | Sandnes Ulf  |                 0.192 |
+|   Rank | Player 1         | Player 2     | Team         |   Defensive chemistry |   Minutes together |   Age player 1 |   Age player 2 | Language player 1   | Language player 2   | Same language   | Same nationality   | Same region   | Same subregion   |
+|--------|------------------|--------------|--------------|-----------------------|--------------------|----------------|----------------|---------------------|---------------------|-----------------|--------------------|---------------|------------------|
+|      1 | R. Peiponen      | M. Ueland    | Åsane        |                 0.306 |           1034.000 |         19.216 |         24.257 | Finnish             | Norwegian           | False           | False              | True          | True             |
+|      2 | R. Peiponen      | E. Steen     | Åsane        |                 0.250 |            964.000 |         19.216 |         22.740 | Finnish             | Norwegian           | False           | False              | True          | True             |
+|      3 | T. Torske        | J. Rønningen | Kristiansund |                 0.223 |            957.000 |         32.963 |         25.590 | Norwegian           | Norwegian           | True            | True               | True          | True             |
+|      4 | R. Peiponen      | J. Soltvedt  | Åsane        |                 0.206 |            926.000 |         19.216 |         20.807 | Finnish             | Norwegian           | False           | False              | True          | True             |
+|      5 | J. Olsen Øveraas | V. Nisja     | Sandnes Ulf  |                 0.192 |           1443.000 |         26.573 |         29.859 | Norwegian           | Norwegian           | True            | True               | True          | True             |
 
 ## 2016 - Prim B Nacional (Argentina) - male
-|   Rank | Player 1     | Player 2   | Team                    |   Defensive chemistry |
-|--------|--------------|------------|-------------------------|-----------------------|
-|      1 | N. Solís     | I. Chaves  | Talleres Córdoba        |                 0.215 |
-|      2 | M. Abelairas | A. Agüero  | Independiente Rivadavia |                 0.198 |
-|      3 | J. Silva     | A. Agüero  | Independiente Rivadavia |                 0.181 |
-|      4 | J. Menéndez  | F. Rosso   | Chacarita Juniors       |                 0.179 |
-|      5 | L. Acevedo   | M. Mosset  | Estudiantes de San Luis |                 0.178 |
+|   Rank | Player 1     | Player 2   | Team                    |   Defensive chemistry |   Minutes together |   Age player 1 |   Age player 2 | Language player 1   | Language player 2   | Same language   | Same nationality   | Same region   | Same subregion   |
+|--------|--------------|------------|-------------------------|-----------------------|--------------------|----------------|----------------|---------------------|---------------------|-----------------|--------------------|---------------|------------------|
+|      1 | N. Solís     | I. Chaves  | Talleres Córdoba        |                 0.215 |           1114.000 |         21.568 |         22.327 | Spanish             | Spanish             | True            | True               | True          | True             |
+|      2 | M. Abelairas | A. Agüero  | Independiente Rivadavia |                 0.198 |            914.000 |         30.335 |         35.705 | Spanish             | Spanish             | True            | True               | True          | True             |
+|      3 | J. Silva     | A. Agüero  | Independiente Rivadavia |                 0.181 |            990.000 |         23.792 |         35.705 | Spanish             | Spanish             | True            | True               | True          | True             |
+|      4 | J. Menéndez  | F. Rosso   | Chacarita Juniors       |                 0.179 |           1107.000 |         21.700 |         28.224 | Spanish             | Spanish             | True            | True               | True          | True             |
+|      5 | L. Acevedo   | M. Mosset  | Estudiantes de San Luis |                 0.178 |            990.000 |         23.791 |         34.034 | Spanish             | Spanish             | True            | True               | True          | True             |
 
 ## 2016 - Primera A (Colombia) - male
-|   Rank | Player 1     | Player 2     | Team              |   Defensive chemistry |
-|--------|--------------|--------------|-------------------|-----------------------|
-|      1 | W. Tesillo   | J. Roa       | Santa Fe          |                 0.137 |
-|      2 | D. Bocanegra | A. Henríquez | Atlético Nacional |                 0.136 |
-|      3 | S. Mosquera  | A. Rodríguez | Deportes Tolima   |                 0.135 |
-|      4 | S. Vega      | J. Estrada   | Millonarios       |                 0.131 |
-|      5 | H. Urrego    | J. Roa       | Santa Fe          |                 0.120 |
+|   Rank | Player 1     | Player 2     | Team              |   Defensive chemistry |   Minutes together |   Age player 1 |   Age player 2 | Language player 1   | Language player 2   | Same language   | Same nationality   | Same region   | Same subregion   |
+|--------|--------------|--------------|-------------------|-----------------------|--------------------|----------------|----------------|---------------------|---------------------|-----------------|--------------------|---------------|------------------|
+|      1 | W. Tesillo   | J. Roa       | Santa Fe          |                 0.137 |           1295.000 |         25.881 |         24.307 | Spanish             | Spanish             | True            | True               | True          | True             |
+|      2 | D. Bocanegra | A. Henríquez | Atlético Nacional |                 0.136 |            981.000 |         28.663 |         32.885 | Spanish             | Spanish             | True            | True               | True          | True             |
+|      3 | S. Mosquera  | A. Rodríguez | Deportes Tolima   |                 0.135 |           1454.000 |         21.785 |         26.571 | Spanish             | Spanish             | True            | True               | True          | True             |
+|      4 | S. Vega      | J. Estrada   | Millonarios       |                 0.131 |            953.000 |         17.506 |         32.879 | Spanish             | Spanish             | True            | True               | True          | True             |
+|      5 | H. Urrego    | J. Roa       | Santa Fe          |                 0.120 |           1144.000 |         22.976 |         24.307 | Spanish             | Spanish             | True            | True               | True          | True             |
 
 ## 2016 - Primera B (Colombia) - male
-|   Rank | Player 1    | Player 2    | Team            |   Defensive chemistry |
-|--------|-------------|-------------|-----------------|-----------------------|
-|      1 | J. Martínez | J. Angulo   | América de Cali |                 0.160 |
-|      2 | D. Herner   | E. Cortés   | América de Cali |                 0.154 |
-|      3 | E. Cortés   | J. Martínez | América de Cali |                 0.150 |
-|      4 | D. Herner   | J. Martínez | América de Cali |                 0.150 |
-|      5 | E. Cortés   | C. Ayala    | América de Cali |                 0.131 |
+|   Rank | Player 1    | Player 2    | Team            |   Defensive chemistry |   Minutes together |   Age player 1 |   Age player 2 | Language player 1   | Language player 2   | Same language   | Same nationality   | Same region   | Same subregion   |
+|--------|-------------|-------------|-----------------|-----------------------|--------------------|----------------|----------------|---------------------|---------------------|-----------------|--------------------|---------------|------------------|
+|      1 | J. Martínez | J. Angulo   | América de Cali |                 0.160 |            540.000 |         29.191 |         27.675 | Spanish             | Spanish             | True            | True               | True          | True             |
+|      2 | D. Herner   | E. Cortés   | América de Cali |                 0.154 |            540.000 |         32.833 |         31.888 | Spanish             | Spanish             | True            | False              | True          | True             |
+|      3 | E. Cortés   | J. Martínez | América de Cali |                 0.150 |            630.000 |         31.888 |         29.191 | Spanish             | Spanish             | True            | True               | True          | True             |
+|      4 | D. Herner   | J. Martínez | América de Cali |                 0.150 |            630.000 |         32.833 |         29.191 | Spanish             | Spanish             | True            | False              | True          | True             |
+|      5 | E. Cortés   | C. Ayala    | América de Cali |                 0.131 |            540.000 |         31.888 |         29.936 | Spanish             | Spanish             | True            | True               | True          | True             |
 
 ## 2016 - Serie A (Brazil) - male
-|   Rank | Player 1        | Player 2      | Team        |   Defensive chemistry |
-|--------|-----------------|---------------|-------------|-----------------------|
-|      1 | E. Mena         | J. Buffarini  | São Paulo   |                 0.198 |
-|      2 | Sidcley         | Léo           | Atlético PR |                 0.194 |
-|      3 | Lucas Fernandes | Thiago Heleno | Atlético PR |                 0.184 |
-|      4 | Elicarlos       | Ayrton        | Figueirense |                 0.171 |
-|      5 | Nicolas         | Thiago Heleno | Atlético PR |                 0.170 |
+|   Rank | Player 1        | Player 2      | Team        |   Defensive chemistry |   Minutes together |   Age player 1 |   Age player 2 | Language player 1   | Language player 2   | Same language   | Same nationality   | Same region   | Same subregion   |
+|--------|-----------------|---------------|-------------|-----------------------|--------------------|----------------|----------------|---------------------|---------------------|-----------------|--------------------|---------------|------------------|
+|      1 | E. Mena         | J. Buffarini  | São Paulo   |                 0.198 |           1171.000 |         27.888 |         27.781 | Spanish             | Spanish             | True            | False              | True          | True             |
+|      2 | Sidcley         | Léo           | Atlético PR |                 0.194 |           1443.000 |         23.124 |         24.733 | Portuguese          | Portuguese          | True            | True               | True          | True             |
+|      3 | Lucas Fernandes | Thiago Heleno | Atlético PR |                 0.184 |           1036.000 |         22.182 |         27.775 | Portuguese          | Portuguese          | True            | True               | True          | True             |
+|      4 | Elicarlos       | Ayrton        | Figueirense |                 0.171 |            940.000 |         31.053 |         31.190 | Portuguese          | Portuguese          | True            | True               | True          | True             |
+|      5 | Nicolas         | Thiago Heleno | Atlético PR |                 0.170 |            978.000 |         19.329 |         27.775 | Portuguese          | Portuguese          | True            | True               | True          | True             |
 
 ## 2016 - Serie B (Brazil) - male
-|   Rank | Player 1          | Player 2     | Team              |   Defensive chemistry |
-|--------|-------------------|--------------|-------------------|-----------------------|
-|      1 | Léo               | Lucas Ramon  | Londrina          |                 0.186 |
-|      2 | Felipe Rodrigues  | Léo Artur    | Oeste             |                 0.185 |
-|      3 | Fernando Lombardi | Rafael Costa | Paysandu          |                 0.182 |
-|      4 | Capa              | Renato       | Avaí              |                 0.177 |
-|      5 | Elias             | Weldinho     | Brasil de Pelotas |                 0.168 |
+|   Rank | Player 1          | Player 2     | Team              |   Defensive chemistry |   Minutes together |   Age player 1 |   Age player 2 | Language player 1   | Language player 2   | Same language   | Same nationality   | Same region   | Same subregion   |
+|--------|-------------------|--------------|-------------------|-----------------------|--------------------|----------------|----------------|---------------------|---------------------|-----------------|--------------------|---------------|------------------|
+|      1 | Léo               | Lucas Ramon  | Londrina          |                 0.186 |            990.000 |         20.315 |         22.182 | Portuguese          | Portuguese          | True            | True               | True          | True             |
+|      2 | Felipe Rodrigues  | Léo Artur    | Oeste             |                 0.185 |           1645.000 |         20.643 |         21.270 | Portuguese          | Portuguese          | True            | True               | True          | True             |
+|      3 | Fernando Lombardi | Rafael Costa | Paysandu          |                 0.182 |            939.000 |         34.448 |         25.443 | Portuguese          | Portuguese          | True            | True               | True          | True             |
+|      4 | Capa              | Renato       | Avaí              |                 0.177 |           1991.000 |         23.559 |         26.442 | Portuguese          | Portuguese          | True            | True               | True          | True             |
+|      5 | Elias             | Weldinho     | Brasil de Pelotas |                 0.168 |           1183.000 |         22.782 |         25.451 | Portuguese          | Portuguese          | True            | True               | True          | True             |
 
 ## 2016 - Superettan (Sweden) - male
-|   Rank | Player 1     | Player 2     | Team       |   Defensive chemistry |
-|--------|--------------|--------------|------------|-----------------------|
-|      1 | A. Tideman   | M. Andersson | Trelleborg |                 0.295 |
-|      2 | A. Ekblad    | S. Stenberg  | Dalkurd    |                 0.223 |
-|      3 | J. Meade     | I. Demir     | Eskilstuna |                 0.214 |
-|      4 | A. Blomqvist | M. Andersson | Trelleborg |                 0.206 |
-|      5 | J. Meade     | Da Silva     | Eskilstuna |                 0.202 |
+|   Rank | Player 1     | Player 2     | Team       |   Defensive chemistry |   Minutes together |   Age player 1 |   Age player 2 | Language player 1   | Language player 2   | Same language   | Same nationality   | Same region   | Same subregion   |
+|--------|--------------|--------------|------------|-----------------------|--------------------|----------------|----------------|---------------------|---------------------|-----------------|--------------------|---------------|------------------|
+|      1 | A. Tideman   | M. Andersson | Trelleborg |                 0.295 |           1017.000 |         23.794 |         35.167 | Swedish             | Swedish             | True            | True               | True          | True             |
+|      2 | A. Ekblad    | S. Stenberg  | Dalkurd    |                 0.223 |           1186.000 |         28.889 |         28.834 | Swedish             | Swedish             | True            | True               | True          | True             |
+|      3 | J. Meade     | I. Demir     | Eskilstuna |                 0.214 |           1241.000 |         23.671 |         30.879 | English             | Swedish             | False           | False              | True          | True             |
+|      4 | A. Blomqvist | M. Andersson | Trelleborg |                 0.206 |           1273.000 |         21.899 |         35.167 | Swedish             | Swedish             | True            | True               | True          | True             |
+|      5 | J. Meade     | Da Silva     | Eskilstuna |                 0.202 |           1498.000 |         23.671 |         29.814 | English             | Portuguese          | False           | False              | False         | False            |
 
 ## 2016 - Superliga (Argentina) - male
-|   Rank | Player 1     | Player 2     | Team              |   Defensive chemistry |
-|--------|--------------|--------------|-------------------|-----------------------|
-|      1 | D. Braghieri | J. Gómez     | Lanús             |                 0.213 |
-|      2 | E. Más       | J. Buffarini | San Lorenzo       |                 0.206 |
-|      3 | J. Gómez     | G. Gómez     | Lanús             |                 0.204 |
-|      4 | E. Insúa     | L. Advíncula | Newell's Old Boys |                 0.203 |
-|      5 | J. Gómez     | R. Martínez  | Lanús             |                 0.192 |
+|   Rank | Player 1     | Player 2     | Team              |   Defensive chemistry |   Minutes together |   Age player 1 |   Age player 2 | Language player 1   | Language player 2   | Same language   | Same nationality   | Same region   | Same subregion   |
+|--------|--------------|--------------|-------------------|-----------------------|--------------------|----------------|----------------|---------------------|---------------------|-----------------|--------------------|---------------|------------------|
+|      1 | D. Braghieri | J. Gómez     | Lanús             |                 0.213 |           1110.000 |         28.786 |         22.187 | Spanish             | Spanish             | True            | True               | True          | True             |
+|      2 | E. Más       | J. Buffarini | San Lorenzo       |                 0.206 |           1062.000 |         26.814 |         27.225 | Spanish             | Spanish             | True            | True               | True          | True             |
+|      3 | J. Gómez     | G. Gómez     | Lanús             |                 0.204 |           1218.000 |         22.187 |         22.587 | Spanish             | Spanish             | True            | False              | True          | True             |
+|      4 | E. Insúa     | L. Advíncula | Newell's Old Boys |                 0.203 |           1168.000 |         24.649 |         25.801 | Spanish             | Spanish             | True            | False              | True          | True             |
+|      5 | J. Gómez     | R. Martínez  | Lanús             |                 0.192 |           1007.000 |         22.187 |         32.698 | Spanish             | Spanish             | True            | True               | True          | True             |
 
 ## 2016 - Veikkausliiga (Finland) - male
-|   Rank | Player 1      | Player 2      | Team   |   Defensive chemistry |
-|--------|---------------|---------------|--------|-----------------------|
-|      1 | A. Abubakar   | J. Lautamaja  | KuPS   |                 0.221 |
-|      2 | A. Hynynen    | F. Aspegren   | Ilves  |                 0.206 |
-|      3 | A. Egwuekwe   | T. Rannankari | KuPS   |                 0.189 |
-|      4 | J. Lahdenmäki | J. Saksela    | RoPS   |                 0.167 |
-|      5 | V. Lampi      | S. Strandvall | VPS    |                 0.158 |
+|   Rank | Player 1      | Player 2      | Team   |   Defensive chemistry |   Minutes together |   Age player 1 |   Age player 2 | Language player 1   | Language player 2   | Same language   | Same nationality   | Same region   | Same subregion   |
+|--------|---------------|---------------|--------|-----------------------|--------------------|----------------|----------------|---------------------|---------------------|-----------------|--------------------|---------------|------------------|
+|      1 | A. Abubakar   | J. Lautamaja  | KuPS   |                 0.221 |            985.000 |         20.002 |         20.941 | English             | Finnish             | False           | False              | False         | False            |
+|      2 | A. Hynynen    | F. Aspegren   | Ilves  |                 0.206 |           1023.000 |         32.082 |         22.376 | Finnish             | Spanish             | False           | False              | False         | False            |
+|      3 | A. Egwuekwe   | T. Rannankari | KuPS   |                 0.189 |           1050.000 |         26.929 |         25.083 | English             | Finnish             | False           | False              | False         | False            |
+|      4 | J. Lahdenmäki | J. Saksela    | RoPS   |                 0.167 |           1344.000 |         25.190 |         23.279 | Finnish             | Finnish             | True            | True               | True          | True             |
+|      5 | V. Lampi      | S. Strandvall | VPS    |                 0.158 |            945.000 |         31.780 |         29.562 | Finnish             | Finnish             | True            | True               | True          | True             |
 
 ## 2015/2016 - 1. Division (Cyprus) - male
-|   Rank | Player 1     | Player 2     | Team           |   Defensive chemistry |
-|--------|--------------|--------------|----------------|-----------------------|
-|      1 | Marco Airosa | V. Sielis    | AEL            |                 0.224 |
-|      2 | Karim Hafez  | A. Kirm      | Omonia Nicosia |                 0.189 |
-|      3 | Tete         | Juanma Ortiz | AEK Larnaca    |                 0.185 |
-|      4 | E. Sachetti  | João Pedro   | Apollon        |                 0.185 |
-|      5 | João Pedro   | Elízio       | Apollon        |                 0.184 |
+|   Rank | Player 1     | Player 2     | Team           |   Defensive chemistry |   Minutes together |   Age player 1 |   Age player 2 | Language player 1   | Language player 2   | Same language   | Same nationality   | Same region   | Same subregion   |
+|--------|--------------|--------------|----------------|-----------------------|--------------------|----------------|----------------|---------------------|---------------------|-----------------|--------------------|---------------|------------------|
+|      1 | Marco Airosa | V. Sielis    | AEL            |                 0.224 |            997.000 |         29.817 |         25.284 | Portuguese          | Greek (modern)      | False           | False              | False         | False            |
+|      2 | Karim Hafez  | A. Kirm      | Omonia Nicosia |                 0.189 |           1097.000 |         19.123 |         30.770 | Arabic              | Slovene             | False           | False              | False         | False            |
+|      3 | Tete         | Juanma Ortiz | AEK Larnaca    |                 0.185 |           1082.000 |         30.014 |         33.231 | Spanish             | Spanish             | True            | True               | True          | True             |
+|      4 | E. Sachetti  | João Pedro   | Apollon        |                 0.185 |           1250.000 |         29.494 |         29.054 | Spanish             | Portuguese          | False           | False              | False         | False            |
+|      5 | João Pedro   | Elízio       | Apollon        |                 0.184 |           1560.000 |         29.054 |         27.249 | Portuguese          | Portuguese          | True            | False              | False         | False            |
 
 ## 2015/2016 - 1. HNL (Croatia) - male
-|   Rank | Player 1     | Player 2       | Team          |   Defensive chemistry |
-|--------|--------------|----------------|---------------|-----------------------|
-|      1 | M. Oremuš    | A. Majstorović | Split         |                 0.223 |
-|      2 | J. Fernándes | A. Mățel       | Dinamo Zagreb |                 0.195 |
-|      3 | M. Samardžić | M. Lešković    | Rijeka        |                 0.194 |
-|      4 | I. Močinić   | M. Lešković    | Rijeka        |                 0.191 |
-|      5 | Z. Nižić     | H. Milić       | Hajduk Split  |                 0.182 |
+|   Rank | Player 1     | Player 2       | Team          |   Defensive chemistry |   Minutes together |   Age player 1 |   Age player 2 | Language player 1   | Language player 2   | Same language   | Same nationality   | Same region   | Same subregion   |
+|--------|--------------|----------------|---------------|-----------------------|--------------------|----------------|----------------|---------------------|---------------------|-----------------|--------------------|---------------|------------------|
+|      1 | M. Oremuš    | A. Majstorović | Split         |                 0.223 |            986.000 |         26.672 |         21.560 | Croatian            | Croatian            | True            | True               | True          | True             |
+|      2 | J. Fernándes | A. Mățel       | Dinamo Zagreb |                 0.195 |            988.000 |         26.650 |         25.615 | Spanish             | Romanian            | False           | False              | False         | False            |
+|      3 | M. Samardžić | M. Lešković    | Rijeka        |                 0.194 |           1336.000 |         28.279 |         24.073 | Slovene             | Croatian            | False           | False              | True          | True             |
+|      4 | I. Močinić   | M. Lešković    | Rijeka        |                 0.191 |           1291.000 |         22.080 |         24.073 | Croatian            | Croatian            | True            | True               | True          | True             |
+|      5 | Z. Nižić     | H. Milić       | Hajduk Split  |                 0.182 |            945.000 |         25.631 |         26.055 | Croatian            | Croatian            | True            | True               | True          | True             |
 
 ## 2015/2016 - 1. Lig (Turkey) - male
-|   Rank | Player 1   | Player 2    | Team            |   Defensive chemistry |
-|--------|------------|-------------|-----------------|-----------------------|
-|      1 | E. Teber   | İ. Yıldırım | Karabükspor     |                 0.242 |
-|      2 | H. Kala    | Ş. Can      | Adana Demirspor |                 0.209 |
-|      3 | O. Çelik   | İ. Yıldırım | Karabükspor     |                 0.189 |
-|      4 | M. Akın    | İ. Yıldırım | Karabükspor     |                 0.186 |
-|      5 | C. Arıcı   | K. Akyüz    | Alanyaspor      |                 0.181 |
+|   Rank | Player 1   | Player 2    | Team            |   Defensive chemistry |   Minutes together |   Age player 1 |   Age player 2 | Language player 1   | Language player 2   | Same language   | Same nationality   | Same region   | Same subregion   |
+|--------|------------|-------------|-----------------|-----------------------|--------------------|----------------|----------------|---------------------|---------------------|-----------------|--------------------|---------------|------------------|
+|      1 | E. Teber   | İ. Yıldırım | Karabükspor     |                 0.242 |           1051.000 |            nan |         31.227 | Turkish             | Turkish             | True            | True               | True          | True             |
+|      2 | H. Kala    | Ş. Can      | Adana Demirspor |                 0.209 |           1092.000 |         28.076 |         32.156 | Turkish             | Bulgarian           | False           | False              | False         | False            |
+|      3 | O. Çelik   | İ. Yıldırım | Karabükspor     |                 0.189 |            954.000 |         23.523 |         31.227 | Turkish             | Turkish             | True            | True               | True          | True             |
+|      4 | M. Akın    | İ. Yıldırım | Karabükspor     |                 0.186 |           1475.000 |         28.585 |         31.227 | Dutch               | Turkish             | False           | False              | False         | False            |
+|      5 | C. Arıcı   | K. Akyüz    | Alanyaspor      |                 0.181 |           1167.000 |         28.487 |         25.919 | Turkish             | Turkish             | True            | True               | True          | True             |
 
 ## 2015/2016 - 1. SNL (Slovenia) - male
-|   Rank | Player 1      | Player 2      | Team    |   Defensive chemistry |
-|--------|---------------|---------------|---------|-----------------------|
-|      1 | N. Skubic     | M. Črnic      | Domžale |                 0.146 |
-|      2 | G. Dobrovoljc | M. Črnic      | Domžale |                 0.135 |
-|      3 | B. Morel      | D. Trajkovski | Domžale |                 0.129 |
-|      4 | B. Morel      | K. Horić      | Domžale |                 0.125 |
-|      5 | B. Morel      | G. Dobrovoljc | Domžale |                 0.117 |
+|   Rank | Player 1      | Player 2      | Team    |   Defensive chemistry |   Minutes together |   Age player 1 |   Age player 2 | Language player 1   | Language player 2   | Same language   | Same nationality   | Same region   | Same subregion   |
+|--------|---------------|---------------|---------|-----------------------|--------------------|----------------|----------------|---------------------|---------------------|-----------------|--------------------|---------------|------------------|
+|      1 | N. Skubic     | M. Črnic      | Domžale |                 0.146 |           1387.000 |         25.962 |         22.926 | Slovene             | Slovene             | True            | True               | True          | True             |
+|      2 | G. Dobrovoljc | M. Črnic      | Domžale |                 0.135 |           1759.000 |         22.337 |         22.926 | Slovene             | Slovene             | True            | True               | True          | True             |
+|      3 | B. Morel      | D. Trajkovski | Domžale |                 0.129 |            952.000 |         27.972 |         23.107 | French              | Slovene             | False           | False              | True          | False            |
+|      4 | B. Morel      | K. Horić      | Domžale |                 0.125 |           1169.000 |         27.972 |         24.711 | French              | Bosnian             | False           | False              | True          | False            |
+|      5 | B. Morel      | G. Dobrovoljc | Domžale |                 0.117 |           1122.000 |         27.972 |         22.337 | French              | Slovene             | False           | False              | True          | False            |
 
 ## 2015/2016 - 1st Division (Denmark) - male
-|   Rank | Player 1     | Player 2     | Team       |   Defensive chemistry |
-|--------|--------------|--------------|------------|-----------------------|
-|      1 | S. Henriksen | Brandão      | HB Køge    |                 0.208 |
-|      2 | S. Henriksen | Brandão      | HB Køge    |                 0.191 |
-|      3 | O. Feldballe | S. Kiilerich | Fredericia |                 0.181 |
-|      4 | C. Nielsen   | M. Podstavek | Fredericia |                 0.126 |
-|      5 | A. Albers    | M. Vendelbo  | Silkeborg  |                 0.100 |
+|   Rank | Player 1     | Player 2     | Team       |   Defensive chemistry |   Minutes together |   Age player 1 |   Age player 2 | Language player 1   | Language player 2   | Same language   | Same nationality   | Same region   | Same subregion   |
+|--------|--------------|--------------|------------|-----------------------|--------------------|----------------|----------------|---------------------|---------------------|-----------------|--------------------|---------------|------------------|
+|      1 | S. Henriksen | Brandão      | HB Køge    |                 0.208 |            933.000 |         23.301 |         24.801 | Danish              | Portuguese          | False           | False              | False         | False            |
+|      2 | S. Henriksen | Brandão      | HB Køge    |                 0.191 |            933.000 |         23.301 |         24.801 | Danish              | Portuguese          | False           | False              | False         | False            |
+|      3 | O. Feldballe | S. Kiilerich | Fredericia |                 0.181 |            950.000 |         25.237 |         24.467 | Danish              | Danish              | True            | True               | True          | True             |
+|      4 | C. Nielsen   | M. Podstavek | Fredericia |                 0.126 |            917.000 |         24.467 |         24.235 | Danish              | Slovak              | False           | False              | True          | False            |
+|      5 | A. Albers    | M. Vendelbo  | Silkeborg  |                 0.100 |           1033.000 |         25.206 |         27.800 | Danish              | Danish              | True            | True               | True          | True             |
 
 ## 2015/2016 - 2. Bundesliga (Germany) - male
-|   Rank | Player 1    | Player 2       | Team         |   Defensive chemistry |
-|--------|-------------|----------------|--------------|-----------------------|
-|      1 | D. Kaiser   | M. Halstenberg | RB Leipzig   |                 0.166 |
-|      2 | S. Ilsanker | D. Demme       | RB Leipzig   |                 0.164 |
-|      3 | Torrejón    | V. Grifo       | Freiburg     |                 0.153 |
-|      4 | J. Dudziak  | D. Buballa     | St. Pauli    |                 0.148 |
-|      5 | M. Thiel    | C. Trimmel     | Union Berlin |                 0.148 |
+|   Rank | Player 1    | Player 2       | Team         |   Defensive chemistry |   Minutes together |   Age player 1 |   Age player 2 | Language player 1   | Language player 2   | Same language   | Same nationality   | Same region   | Same subregion   |
+|--------|-------------|----------------|--------------|-----------------------|--------------------|----------------|----------------|---------------------|---------------------|-----------------|--------------------|---------------|------------------|
+|      1 | D. Kaiser   | M. Halstenberg | RB Leipzig   |                 0.166 |           1769.000 |         26.685 |         23.657 | German              | German              | True            | True               | True          | True             |
+|      2 | S. Ilsanker | D. Demme       | RB Leipzig   |                 0.164 |           1252.000 |         26.075 |         23.506 | German              | German              | True            | False              | True          | True             |
+|      3 | Torrejón    | V. Grifo       | Freiburg     |                 0.153 |           1590.000 |         29.182 |         22.129 | Spanish             | German              | False           | False              | True          | False            |
+|      4 | J. Dudziak  | D. Buballa     | St. Pauli    |                 0.148 |           1148.000 |         19.795 |         25.037 | German              | German              | True            | True               | True          | True             |
+|      5 | M. Thiel    | C. Trimmel     | Union Berlin |                 0.148 |            933.000 |         22.302 |         28.204 | German              | German              | True            | False              | True          | True             |
 
 ## 2015/2016 - 2. Liga (Austria) - male
-|   Rank | Player 1      | Player 2      | Team             |   Defensive chemistry |
-|--------|---------------|---------------|------------------|-----------------------|
-|      1 | R. Mally      | A. Pfingstner | Wiener Neustadt  |                 0.230 |
-|      2 | M. Lercher    | C. Freitag    | Wacker Innsbruck |                 0.192 |
-|      3 | M. Grasegger  | D. Stec       | St. Pölten       |                 0.156 |
-|      4 | A. Pfingstner | S. Duran      | Wiener Neustadt  |                 0.147 |
-|      5 | S. Siller     | A. Hauser     | Wacker Innsbruck |                 0.147 |
+|   Rank | Player 1      | Player 2      | Team             |   Defensive chemistry |   Minutes together |   Age player 1 |   Age player 2 | Language player 1   | Language player 2   | Same language   | Same nationality   | Same region   | Same subregion   |
+|--------|---------------|---------------|------------------|-----------------------|--------------------|----------------|----------------|---------------------|---------------------|-----------------|--------------------|---------------|------------------|
+|      1 | R. Mally      | A. Pfingstner | Wiener Neustadt  |                 0.230 |            919.000 |         23.975 |         22.154 | German              | German              | True            | True               | True          | True             |
+|      2 | M. Lercher    | C. Freitag    | Wacker Innsbruck |                 0.192 |           1526.000 |         19.344 |         25.357 | German              | German              | True            | False              | True          | True             |
+|      3 | M. Grasegger  | D. Stec       | St. Pölten       |                 0.156 |           1967.000 |         26.381 |         21.053 | German              | German              | True            | True               | True          | True             |
+|      4 | A. Pfingstner | S. Duran      | Wiener Neustadt  |                 0.147 |           1522.000 |         22.154 |         28.268 | German              | German              | True            | True               | True          | True             |
+|      5 | S. Siller     | A. Hauser     | Wacker Innsbruck |                 0.147 |           1021.000 |         26.031 |         30.932 | German              | German              | True            | True               | True          | True             |
 
 ## 2015/2016 - 3. Liga (Germany) - male
-|   Rank | Player 1      | Player 2     | Team               |   Defensive chemistry |
-|--------|---------------|--------------|--------------------|-----------------------|
-|      1 | F. Müller     | N. Kreuzer   | Dynamo Dresden     |                 0.252 |
-|      2 | F. Müller     | G. Modica    | Dynamo Dresden     |                 0.186 |
-|      3 | P. Kurzweg    | N. Daghfous  | Würzburger Kickers |                 0.185 |
-|      4 | F. Müller     | A. Lambertz  | Dynamo Dresden     |                 0.173 |
-|      5 | J. Karsanidis | D. Nothnagel | Würzburger Kickers |                 0.170 |
+|   Rank | Player 1      | Player 2     | Team               |   Defensive chemistry |   Minutes together |   Age player 1 |   Age player 2 | Language player 1   | Language player 2   | Same language   | Same nationality   | Same region   | Same subregion   |
+|--------|---------------|--------------|--------------------|-----------------------|--------------------|----------------|----------------|---------------------|---------------------|-----------------|--------------------|---------------|------------------|
+|      1 | F. Müller     | N. Kreuzer   | Dynamo Dresden     |                 0.252 |           1330.000 |         28.547 |         22.252 | German              | German              | True            | True               | True          | True             |
+|      2 | F. Müller     | G. Modica    | Dynamo Dresden     |                 0.186 |           1890.000 |         28.547 |         24.221 | German              | Spanish             | False           | False              | False         | False            |
+|      3 | P. Kurzweg    | N. Daghfous  | Würzburger Kickers |                 0.185 |           1369.000 |         21.280 |         28.221 | German              | German              | True            | True               | True          | True             |
+|      4 | F. Müller     | A. Lambertz  | Dynamo Dresden     |                 0.173 |           1529.000 |         28.547 |         30.606 | German              | German              | True            | True               | True          | True             |
+|      5 | J. Karsanidis | D. Nothnagel | Würzburger Kickers |                 0.170 |           1096.000 |         21.932 |         20.423 | German              | German              | True            | True               | True          | True             |
 
 ## 2015/2016 - A-League (Australia) - male
-|   Rank | Player 1    | Player 2   | Team            |   Defensive chemistry |
-|--------|-------------|------------|-----------------|-----------------------|
-|      1 | C. Goodwin  | M. Marrone | Adelaide United |                 0.125 |
-|      2 | I. La Rocca | D. McGowan | Adelaide United |                 0.122 |
-|      3 | M. Marrone  | S. Mauk    | Adelaide United |                 0.118 |
-|      4 | D. McGowan  | S. Mauk    | Adelaide United |                 0.106 |
-|      5 | M. Ninković | S. Ryall   | Sydney          |                 0.105 |
+|   Rank | Player 1    | Player 2   | Team            |   Defensive chemistry |   Minutes together |   Age player 1 |   Age player 2 | Language player 1   | Language player 2   | Same language   | Same nationality   | Same region   | Same subregion   |
+|--------|-------------|------------|-----------------|-----------------------|--------------------|----------------|----------------|---------------------|---------------------|-----------------|--------------------|---------------|------------------|
+|      1 | C. Goodwin  | M. Marrone | Adelaide United |                 0.125 |           1051.000 |         24.028 |         28.913 | English             | English             | True            | True               | True          | True             |
+|      2 | I. La Rocca | D. McGowan | Adelaide United |                 0.122 |           1018.000 |         31.213 |         24.390 | Italian             | English             | False           | False              | False         | False            |
+|      3 | M. Marrone  | S. Mauk    | Adelaide United |                 0.118 |            985.000 |         28.913 |         20.209 | English             | English             | True            | True               | True          | True             |
+|      4 | D. McGowan  | S. Mauk    | Adelaide United |                 0.106 |           1003.000 |         24.390 |         20.209 | English             | English             | True            | True               | True          | True             |
+|      5 | M. Ninković | S. Ryall   | Sydney          |                 0.105 |           1546.000 |         31.002 |         26.441 | Serbian             | English             | False           | False              | False         | False            |
 
 ## 2015/2016 - Ascenso MX (Mexico) - male
-|   Rank | Player 1   | Player 2    | Team                 |   Defensive chemistry |
-|--------|------------|-------------|----------------------|-----------------------|
-|      1 | H. Olvera  | L. Delgado  | Mineros de Zacatecas |                 0.226 |
-|      2 | Gilberto   | J. Rojas    | Juárez               |                 0.202 |
-|      3 | M. De Luna | M. González | Necaxa               |                 0.201 |
-|      4 | Derley     | Gilberto    | Juárez               |                 0.188 |
-|      5 | E. Borelli | J. Rojas    | Juárez               |                 0.187 |
+|   Rank | Player 1   | Player 2    | Team                 |   Defensive chemistry |   Minutes together |   Age player 1 |   Age player 2 | Language player 1   | Language player 2   | Same language   | Same nationality   | Same region   | Same subregion   |
+|--------|------------|-------------|----------------------|-----------------------|--------------------|----------------|----------------|---------------------|---------------------|-----------------|--------------------|---------------|------------------|
+|      1 | H. Olvera  | L. Delgado  | Mineros de Zacatecas |                 0.226 |           1124.000 |         25.033 |         24.570 | Spanish             | Spanish             | True            | True               | True          | True             |
+|      2 | Gilberto   | J. Rojas    | Juárez               |                 0.202 |            936.000 |         25.555 |         30.667 | Portuguese          | Spanish             | False           | False              | True          | False            |
+|      3 | M. De Luna | M. González | Necaxa               |                 0.201 |            928.000 |         27.294 |         34.897 | Spanish             | Portuguese          | False           | False              | True          | False            |
+|      4 | Derley     | Gilberto    | Juárez               |                 0.188 |           1084.000 |         28.633 |         25.555 | Portuguese          | Portuguese          | True            | True               | True          | True             |
+|      5 | E. Borelli | J. Rojas    | Juárez               |                 0.187 |           1353.000 |         23.956 |         30.667 | Spanish             | Spanish             | True            | True               | True          | True             |
 
 ## 2015/2016 - Bundesliga (Austria) - male
-|   Rank | Player 1       | Player 2      | Team           |   Defensive chemistry |
-|--------|----------------|---------------|----------------|-----------------------|
-|      1 | F. Hart        | B. Janeczek   | Ried           |                 0.177 |
-|      2 | N. Rnić        | C. Wernitznig | Wolfsberger AC |                 0.175 |
-|      3 | M. Pavelić     | S. Stangl     | Rapid Wien     |                 0.169 |
-|      4 | D. Avdijaj     | M. Potzmann   | Sturm Graz     |                 0.165 |
-|      5 | C. Lykogiannis | T. Schick     | Sturm Graz     |                 0.164 |
+|   Rank | Player 1       | Player 2      | Team           |   Defensive chemistry |   Minutes together |   Age player 1 |   Age player 2 | Language player 1   | Language player 2   | Same language   | Same nationality   | Same region   | Same subregion   |
+|--------|----------------|---------------|----------------|-----------------------|--------------------|----------------|----------------|---------------------|---------------------|-----------------|--------------------|---------------|------------------|
+|      1 | F. Hart        | B. Janeczek   | Ried           |                 0.177 |            989.000 |         24.966 |         23.224 | German              | German              | True            | True               | True          | True             |
+|      2 | N. Rnić        | C. Wernitznig | Wolfsberger AC |                 0.175 |            901.000 |         30.647 |         25.264 | Serbian             | German              | False           | False              | True          | False            |
+|      3 | M. Pavelić     | S. Stangl     | Rapid Wien     |                 0.169 |           1260.000 |         21.697 |         23.613 | German              | German              | True            | True               | True          | True             |
+|      4 | D. Avdijaj     | M. Potzmann   | Sturm Graz     |                 0.165 |            967.000 |         18.764 |         21.439 | German              | German              | True            | False              | True          | True             |
+|      5 | C. Lykogiannis | T. Schick     | Sturm Graz     |                 0.164 |           1047.000 |         21.530 |         25.034 | Greek (modern)      | German              | False           | False              | True          | False            |
 
 ## 2015/2016 - Bundesliga (Germany) - male
-|   Rank | Player 1      | Player 2        | Team           |   Defensive chemistry |
-|--------|---------------|-----------------|----------------|-----------------------|
-|      1 | J. Brooks     | S. Langkamp     | Hertha BSC     |                 0.229 |
-|      2 | S. Langkamp   | F. Lustenberger | Hertha BSC     |                 0.197 |
-|      3 | S. Langkamp   | M. Plattenhardt | Hertha BSC     |                 0.194 |
-|      4 | S. Kalou      | S. Langkamp     | Hertha BSC     |                 0.191 |
-|      5 | Douglas Costa | Xabi Alonso     | Bayern München |                 0.182 |
+|   Rank | Player 1      | Player 2        | Team           |   Defensive chemistry |   Minutes together |   Age player 1 |   Age player 2 | Language player 1   | Language player 2   | Same language   | Same nationality   | Same region   | Same subregion   |
+|--------|---------------|-----------------|----------------|-----------------------|--------------------|----------------|----------------|---------------------|---------------------|-----------------|--------------------|---------------|------------------|
+|      1 | J. Brooks     | S. Langkamp     | Hertha BSC     |                 0.229 |           1026.000 |         22.296 |         27.353 | German              | German              | True            | True               | True          | True             |
+|      2 | S. Langkamp   | F. Lustenberger | Hertha BSC     |                 0.197 |           1691.000 |         27.353 |         27.057 | German              | German              | True            | False              | True          | True             |
+|      3 | S. Langkamp   | M. Plattenhardt | Hertha BSC     |                 0.194 |           1878.000 |         27.353 |         23.323 | German              | German              | True            | True               | True          | True             |
+|      4 | S. Kalou      | S. Langkamp     | Hertha BSC     |                 0.191 |           1062.000 |         29.798 |         27.353 | French              | German              | False           | False              | False         | False            |
+|      5 | Douglas Costa | Xabi Alonso     | Bayern München |                 0.182 |           1253.000 |         24.786 |         33.491 | Portuguese          | Spanish             | False           | False              | False         | False            |
 
 ## 2015/2016 - Challenge League (Switzerland) - male
-|   Rank | Player 1       | Player 2       | Team            |   Defensive chemistry |
-|--------|----------------|----------------|-----------------|-----------------------|
-|      1 | M. Yang        | N. Gétaz       | Lausanne Sport  |                 0.225 |
-|      2 | J. Manière     | Elton Monteiro | Lausanne Sport  |                 0.215 |
-|      3 | M. Delley      | M. Gomes       | Neuchâtel Xamax |                 0.155 |
-|      4 | N. Gétaz       | A. Pasche      | Lausanne Sport  |                 0.149 |
-|      5 | Elton Monteiro | N. Gétaz       | Lausanne Sport  |                 0.128 |
+|   Rank | Player 1       | Player 2       | Team            |   Defensive chemistry |   Minutes together |   Age player 1 |   Age player 2 | Language player 1   | Language player 2   | Same language   | Same nationality   | Same region   | Same subregion   |
+|--------|----------------|----------------|-----------------|-----------------------|--------------------|----------------|----------------|---------------------|---------------------|-----------------|--------------------|---------------|------------------|
+|      1 | M. Yang        | N. Gétaz       | Lausanne Sport  |                 0.225 |            516.000 |         19.887 |         23.969 | German              | German              | True            | True               | True          | True             |
+|      2 | J. Manière     | Elton Monteiro | Lausanne Sport  |                 0.215 |            540.000 |         23.846 |         21.267 | German              | German              | True            | True               | True          | True             |
+|      3 | M. Delley      | M. Gomes       | Neuchâtel Xamax |                 0.155 |            497.000 |         26.175 |         26.006 | German              | German              | True            | True               | True          | True             |
+|      4 | N. Gétaz       | A. Pasche      | Lausanne Sport  |                 0.149 |            674.000 |         23.969 |         23.999 | German              | German              | True            | True               | True          | True             |
+|      5 | Elton Monteiro | N. Gétaz       | Lausanne Sport  |                 0.128 |            869.000 |         21.267 |         23.969 | German              | German              | True            | True               | True          | True             |
 
 ## 2015/2016 - Championship (England) - male
-|   Rank | Player 1      | Player 2        | Team                   |   Defensive chemistry |
-|--------|---------------|-----------------|------------------------|-----------------------|
-|      1 | K. LuaLua     | Bruno Saltor    | Brighton & Hove Albion |                 0.238 |
-|      2 | G. Bong       | Bruno Saltor    | Brighton & Hove Albion |                 0.229 |
-|      3 | Dani Pinillos | Nélson Oliveira | Nottingham Forest      |                 0.205 |
-|      4 | G. Friend     | T. Kalas        | Middlesbrough          |                 0.202 |
-|      5 | M. Mancienne  | B. Jokić        | Nottingham Forest      |                 0.183 |
+|   Rank | Player 1      | Player 2        | Team                   |   Defensive chemistry |   Minutes together |   Age player 1 |   Age player 2 | Language player 1   | Language player 2   | Same language   | Same nationality   | Same region   | Same subregion   |
+|--------|---------------|-----------------|------------------------|-----------------------|--------------------|----------------|----------------|---------------------|---------------------|-----------------|--------------------|---------------|------------------|
+|      1 | K. LuaLua     | Bruno Saltor    | Brighton & Hove Albion |                 0.238 |            923.000 |         24.393 |         34.564 | French              | Spanish             | False           | False              | False         | False            |
+|      2 | G. Bong       | Bruno Saltor    | Brighton & Hove Albion |                 0.229 |           1368.000 |         27.019 |         34.564 | English             | Spanish             | False           | False              | False         | False            |
+|      3 | Dani Pinillos | Nélson Oliveira | Nottingham Forest      |                 0.205 |           1133.000 |         22.414 |         23.734 | Spanish             | Portuguese          | False           | False              | True          | True             |
+|      4 | G. Friend     | T. Kalas        | Middlesbrough          |                 0.202 |           1602.000 |         27.605 |         22.108 | English             | Czech               | False           | False              | True          | False            |
+|      5 | M. Mancienne  | B. Jokić        | Nottingham Forest      |                 0.183 |           1019.000 |         27.314 |         29.078 | English             | Slovene             | False           | False              | True          | False            |
 
 ## 2015/2016 - Eerste Divisie (Netherlands) - male
-|   Rank | Player 1            | Player 2      | Team      |   Defensive chemistry |
-|--------|---------------------|---------------|-----------|-----------------------|
-|      1 | D. Klinkenberg      | E. Schouten   | Volendam  |                 0.223 |
-|      2 | D. Klinkenberg      | E. Hooi       | Volendam  |                 0.200 |
-|      3 | J. Lo Fo Sang       | S. Laghmouchi | Volendam  |                 0.190 |
-|      4 | D. Klinkenberg      | G. van Velzen | Volendam  |                 0.181 |
-|      5 | S. van Wermeskerken | J. Lumu       | Dordrecht |                 0.179 |
+|   Rank | Player 1            | Player 2      | Team      |   Defensive chemistry |   Minutes together |   Age player 1 |   Age player 2 | Language player 1   | Language player 2   | Same language   | Same nationality   | Same region   | Same subregion   |
+|--------|---------------------|---------------|-----------|-----------------------|--------------------|----------------|----------------|---------------------|---------------------|-----------------|--------------------|---------------|------------------|
+|      1 | D. Klinkenberg      | E. Schouten   | Volendam  |                 0.223 |           1168.000 |         20.317 |         23.791 | Dutch               | Dutch               | True            | True               | True          | True             |
+|      2 | D. Klinkenberg      | E. Hooi       | Volendam  |                 0.200 |           1169.000 |         20.317 |         23.704 | Dutch               | Dutch               | True            | False              | False         | False            |
+|      3 | J. Lo Fo Sang       | S. Laghmouchi | Volendam  |                 0.190 |            915.000 |         23.552 |         24.790 | Dutch               | Dutch               | True            | True               | True          | True             |
+|      4 | D. Klinkenberg      | G. van Velzen | Volendam  |                 0.181 |           1255.000 |         20.317 |         20.569 | Dutch               | Dutch               | True            | True               | True          | True             |
+|      5 | S. van Wermeskerken | J. Lumu       | Dordrecht |                 0.179 |            966.000 |         20.867 |         19.244 | Dutch               | Dutch               | True            | True               | True          | True             |
 
 ## 2015/2016 - Ekstraklasa (Poland) - male
-|   Rank | Player 1    | Player 2      | Team           |   Defensive chemistry |
-|--------|-------------|---------------|----------------|-----------------------|
-|      1 | N. Nikolić  | A. Hloušek    | Legia Warszawa |                 0.188 |
-|      2 | B. Jović    | M. Jankowski  | Wisła Kraków   |                 0.173 |
-|      3 | B. Jović    | Ł. Burliga    | Wisła Kraków   |                 0.168 |
-|      4 | A. Glowacki | M. Jankowski  | Wisła Kraków   |                 0.167 |
-|      5 | M. Chrapek  | J. Wawrzyniak | Lechia Gdańsk  |                 0.164 |
+|   Rank | Player 1    | Player 2      | Team           |   Defensive chemistry |   Minutes together |   Age player 1 |   Age player 2 | Language player 1   | Language player 2   | Same language   | Same nationality   | Same region   | Same subregion   |
+|--------|-------------|---------------|----------------|-----------------------|--------------------|----------------|----------------|---------------------|---------------------|-----------------|--------------------|---------------|------------------|
+|      1 | N. Nikolić  | A. Hloušek    | Legia Warszawa |                 0.188 |           1006.000 |         27.452 |         26.345 | Serbian             | Czech               | False           | False              | True          | False            |
+|      2 | B. Jović    | M. Jankowski  | Wisła Kraków   |                 0.173 |           1076.000 |         23.953 |         25.423 | Slovene             | Polish              | False           | False              | True          | False            |
+|      3 | B. Jović    | Ł. Burliga    | Wisła Kraków   |                 0.168 |           1369.000 |         23.953 |         27.077 | Slovene             | Polish              | False           | False              | True          | False            |
+|      4 | A. Glowacki | M. Jankowski  | Wisła Kraków   |                 0.167 |           1012.000 |         36.238 |         25.423 | Polish              | Polish              | True            | True               | True          | True             |
+|      5 | M. Chrapek  | J. Wawrzyniak | Lechia Gdańsk  |                 0.164 |            949.000 |         23.117 |         31.871 | Polish              | Polish              | True            | True               | True          | True             |
 
 ## 2015/2016 - Eredivisie (Netherlands) - male
-|   Rank | Player 1   | Player 2     | Team      |   Defensive chemistry |
-|--------|------------|--------------|-----------|-----------------------|
-|      1 | L. Burnet  | H. Hateboer  | Groningen |                 0.241 |
-|      2 | K. Tete    | J. Riedewald | Ajax      |                 0.228 |
-|      3 | R. Haps    | D. Luckassen | AZ        |                 0.226 |
-|      4 | L. Burnet  | S. Tibbling  | Groningen |                 0.222 |
-|      5 | L. Burnet  | E. Reijnen   | Groningen |                 0.200 |
+|   Rank | Player 1   | Player 2     | Team      |   Defensive chemistry |   Minutes together |   Age player 1 |   Age player 2 | Language player 1   | Language player 2   | Same language   | Same nationality   | Same region   | Same subregion   |
+|--------|------------|--------------|-----------|-----------------------|--------------------|----------------|----------------|---------------------|---------------------|-----------------|--------------------|---------------|------------------|
+|      1 | L. Burnet  | H. Hateboer  | Groningen |                 0.241 |           1559.000 |         24.327 |         21.390 | Dutch               | Dutch               | True            | True               | True          | True             |
+|      2 | K. Tete    | J. Riedewald | Ajax      |                 0.228 |           1439.000 |         19.605 |         18.685 | Dutch               | Dutch               | True            | True               | True          | True             |
+|      3 | R. Haps    | D. Luckassen | AZ        |                 0.226 |            963.000 |         21.831 |         19.923 | Dutch               | Dutch               | True            | True               | True          | True             |
+|      4 | L. Burnet  | S. Tibbling  | Groningen |                 0.222 |           1288.000 |         24.327 |         20.805 | Dutch               | Swedish             | False           | False              | True          | False            |
+|      5 | L. Burnet  | E. Reijnen   | Groningen |                 0.200 |           1725.000 |         24.327 |         28.117 | Dutch               | Dutch               | True            | True               | True          | True             |
 
 ## 2015/2016 - FAVBET Liga (Ukraine) - male
-|   Rank | Player 1      | Player 2    | Team        |   Defensive chemistry |
-|--------|---------------|-------------|-------------|-----------------------|
-|      1 | Danilo Silva  | Antunes     | Dynamo Kyiv |                 0.185 |
-|      2 | A. Yarmolenko | Antunes     | Dynamo Kyiv |                 0.182 |
-|      3 | Antunes       | A. Dragović | Dynamo Kyiv |                 0.179 |
-|      4 | Y. Khacheridi | Antunes     | Dynamo Kyiv |                 0.174 |
-|      5 | A. Sukhotskiy | V. Ponomar  | Oleksandria |                 0.158 |
+|   Rank | Player 1      | Player 2    | Team        |   Defensive chemistry |   Minutes together |   Age player 1 |   Age player 2 | Language player 1   | Language player 2   | Same language   | Same nationality   | Same region   | Same subregion   |
+|--------|---------------|-------------|-------------|-----------------------|--------------------|----------------|----------------|---------------------|---------------------|-----------------|--------------------|---------------|------------------|
+|      1 | Danilo Silva  | Antunes     | Dynamo Kyiv |                 0.185 |           1440.000 |         28.528 |         28.178 | Portuguese          | Portuguese          | True            | False              | False         | False            |
+|      2 | A. Yarmolenko | Antunes     | Dynamo Kyiv |                 0.182 |           1530.000 |         25.642 |         28.178 | Ukrainian           | Portuguese          | False           | False              | True          | False            |
+|      3 | Antunes       | A. Dragović | Dynamo Kyiv |                 0.179 |           1350.000 |         28.178 |         24.276 | Portuguese          | German              | False           | False              | True          | False            |
+|      4 | Y. Khacheridi | Antunes     | Dynamo Kyiv |                 0.174 |           1170.000 |         27.882 |         28.178 | Ukrainian           | Portuguese          | False           | False              | True          | False            |
+|      5 | A. Sukhotskiy | V. Ponomar  | Oleksandria |                 0.158 |            958.000 |         22.491 |         25.009 | Ukrainian           | Ukrainian           | True            | True               | True          | True             |
 
 ## 2015/2016 - FNL (Russia) - male
-|   Rank | Player 1     | Player 2       | Team     |   Defensive chemistry |
-|--------|--------------|----------------|----------|-----------------------|
-|      1 | A. Malykh    | I. Markelov    | Orenburg |                 0.218 |
-|      2 | V. Parnyakov | V. Poluyakhtov | Orenburg |                 0.203 |
-|      3 | A. Malykh    | D. Andreev     | Orenburg |                 0.199 |
-|      4 | V. Parnyakov | D. Andreev     | Orenburg |                 0.197 |
-|      5 | D. Andreev   | R. Vorobyov    | Orenburg |                 0.181 |
+|   Rank | Player 1     | Player 2       | Team     |   Defensive chemistry |   Minutes together |   Age player 1 |   Age player 2 | Language player 1   | Language player 2   | Same language   | Same nationality   | Same region   | Same subregion   |
+|--------|--------------|----------------|----------|-----------------------|--------------------|----------------|----------------|---------------------|---------------------|-----------------|--------------------|---------------|------------------|
+|      1 | A. Malykh    | I. Markelov    | Orenburg |                 0.218 |           1290.000 |         26.764 |         27.118 | Russian             | Russian             | True            | True               | True          | True             |
+|      2 | V. Parnyakov | V. Poluyakhtov | Orenburg |                 0.203 |           2241.000 |         31.331 |         25.885 | Russian             | Russian             | True            | True               | True          | True             |
+|      3 | A. Malykh    | D. Andreev     | Orenburg |                 0.199 |           2240.000 |         26.764 |         34.674 | Russian             | Russian             | True            | True               | True          | True             |
+|      4 | V. Parnyakov | D. Andreev     | Orenburg |                 0.197 |           2359.000 |         31.331 |         34.674 | Russian             | Russian             | True            | True               | True          | True             |
+|      5 | D. Andreev   | R. Vorobyov    | Orenburg |                 0.181 |           1429.000 |         34.674 |         31.098 | Russian             | Russian             | True            | True               | True          | True             |
 
 ## 2015/2016 - First Division A (Belgium) - male
-|   Rank | Player 1    | Player 2   | Team         |   Defensive chemistry |
-|--------|-------------|------------|--------------|-----------------------|
-|      1 | Rafinha     | S. Kums    | Gent         |                 0.201 |
-|      2 | S. Dewaest  | N. Kebano  | Genk         |                 0.189 |
-|      3 | M. Bagayoko | C. Cuevas  | Sint-Truiden |                 0.183 |
-|      4 | S. Denswil  | T. Meunier | Club Brugge  |                 0.176 |
-|      5 | B. Engels   | T. Meunier | Club Brugge  |                 0.176 |
+|   Rank | Player 1    | Player 2   | Team         |   Defensive chemistry |   Minutes together |   Age player 1 |   Age player 2 | Language player 1   | Language player 2   | Same language   | Same nationality   | Same region   | Same subregion   |
+|--------|-------------|------------|--------------|-----------------------|--------------------|----------------|----------------|---------------------|---------------------|-----------------|--------------------|---------------|------------------|
+|      1 | Rafinha     | S. Kums    | Gent         |                 0.201 |            941.000 |         32.895 |         27.233 | Portuguese          | Dutch               | False           | False              | False         | False            |
+|      2 | S. Dewaest  | N. Kebano  | Genk         |                 0.189 |           2251.000 |         24.013 |         23.224 | Dutch               | French              | False           | False              | True          | True             |
+|      3 | M. Bagayoko | C. Cuevas  | Sint-Truiden |                 0.183 |           1501.000 |         24.925 |         19.934 | French              | Spanish             | False           | False              | False         | False            |
+|      4 | S. Denswil  | T. Meunier | Club Brugge  |                 0.176 |           1816.000 |         22.047 |         23.698 | Dutch               | Dutch               | True            | False              | True          | True             |
+|      5 | B. Engels   | T. Meunier | Club Brugge  |                 0.176 |           1313.000 |         20.056 |         23.698 | Dutch               | Dutch               | True            | True               | True          | True             |
 
 ## 2015/2016 - Football League (Greece) - male
-|   Rank | Player 1          | Player 2     | Team    |   Defensive chemistry |
-|--------|-------------------|--------------|---------|-----------------------|
-|      1 | A. Vertzos        | M. Moniakis  | Larissa |                 0.233 |
-|      2 | N. Anastasopoulos | D. Komesidis | Larissa |                 0.222 |
-|      3 | B. Jovanović      | M. Moniakis  | Larissa |                 0.214 |
-|      4 | B. Jovanović      | D. Komesidis | Larissa |                 0.210 |
-|      5 | N. Anastasopoulos | M. Moniakis  | Larissa |                 0.193 |
+|   Rank | Player 1          | Player 2     | Team    |   Defensive chemistry |   Minutes together |   Age player 1 |   Age player 2 | Language player 1   | Language player 2   | Same language   | Same nationality   | Same region   | Same subregion   |
+|--------|-------------------|--------------|---------|-----------------------|--------------------|----------------|----------------|---------------------|---------------------|-----------------|--------------------|---------------|------------------|
+|      1 | A. Vertzos        | M. Moniakis  | Larissa |                 0.233 |            930.000 |         31.901 |         26.353 | Greek (modern)      | Greek (modern)      | True            | True               | True          | True             |
+|      2 | N. Anastasopoulos | D. Komesidis | Larissa |                 0.222 |            934.000 |         22.354 |         27.008 | Greek (modern)      | Greek (modern)      | True            | True               | True          | True             |
+|      3 | B. Jovanović      | M. Moniakis  | Larissa |                 0.214 |           1128.000 |         28.330 |         26.353 | Serbian             | Greek (modern)      | False           | False              | True          | True             |
+|      4 | B. Jovanović      | D. Komesidis | Larissa |                 0.210 |           1192.000 |         28.330 |         27.008 | Serbian             | Greek (modern)      | False           | False              | True          | True             |
+|      5 | N. Anastasopoulos | M. Moniakis  | Larissa |                 0.193 |            963.000 |         22.354 |         26.353 | Greek (modern)      | Greek (modern)      | True            | True               | True          | True             |
 
 ## 2015/2016 - Fortuna Liga (Czech Republic) - male
-|   Rank | Player 1     | Player 2   | Team           |   Defensive chemistry |
-|--------|--------------|------------|----------------|-----------------------|
-|      1 | D. Jablonský | J. Hora    | Teplice        |                 0.203 |
-|      2 | M. Frydrych  | J. Zmrhal  | Slavia Praha   |                 0.202 |
-|      3 | T. Hořava    | A. Matějů  | Viktoria Plzeň |                 0.194 |
-|      4 | J. Kovařík   | R. Hubník  | Viktoria Plzeň |                 0.191 |
-|      5 | V. Coufal    | J. Šural   | Slovan Liberec |                 0.183 |
+|   Rank | Player 1     | Player 2   | Team           |   Defensive chemistry |   Minutes together |   Age player 1 |   Age player 2 | Language player 1   | Language player 2   | Same language   | Same nationality   | Same region   | Same subregion   |
+|--------|--------------|------------|----------------|-----------------------|--------------------|----------------|----------------|---------------------|---------------------|-----------------|--------------------|---------------|------------------|
+|      1 | D. Jablonský | J. Hora    | Teplice        |                 0.203 |            913.000 |         23.643 |         24.265 | Czech               | Czech               | True            | True               | True          | True             |
+|      2 | M. Frydrych  | J. Zmrhal  | Slavia Praha   |                 0.202 |            912.000 |         25.253 |         21.891 | Czech               | Czech               | True            | True               | True          | True             |
+|      3 | T. Hořava    | A. Matějů  | Viktoria Plzeň |                 0.194 |           1018.000 |         27.003 |         18.989 | Czech               | Czech               | True            | True               | True          | True             |
+|      4 | J. Kovařík   | R. Hubník  | Viktoria Plzeň |                 0.191 |           1002.000 |         26.945 |         30.948 | Czech               | Czech               | True            | True               | True          | True             |
+|      5 | V. Coufal    | J. Šural   | Slovan Liberec |                 0.183 |            988.000 |         22.770 |         25.001 | Czech               | Czech               | True            | True               | True          | True             |
 
 ## 2015/2016 - I Liga (Poland) - male
-|   Rank | Player 1      | Player 2        | Team           |   Defensive chemistry |
-|--------|---------------|-----------------|----------------|-----------------------|
-|      1 | K. Wrzesiński | D. Chyła        | Pogoń Siedlce  |                 0.258 |
-|      2 | D. Chyła      | R. Zembrowski   | Pogoń Siedlce  |                 0.203 |
-|      3 | J. Ratajczak  | J. Bucholc      | Stomil Olsztyn |                 0.199 |
-|      4 | A. Bogusz     | J. Bartkowski   | Wigry Suwałki  |                 0.191 |
-|      5 | M. Marcjanik  | Marcus Vinícius | Arka Gdynia    |                 0.191 |
+|   Rank | Player 1      | Player 2        | Team           |   Defensive chemistry |   Minutes together |   Age player 1 |   Age player 2 | Language player 1   | Language player 2   | Same language   | Same nationality   | Same region   | Same subregion   |
+|--------|---------------|-----------------|----------------|-----------------------|--------------------|----------------|----------------|---------------------|---------------------|-----------------|--------------------|---------------|------------------|
+|      1 | K. Wrzesiński | D. Chyła        | Pogoń Siedlce  |                 0.258 |           1075.000 |         22.219 |         27.805 | Polish              | Polish              | True            | True               | True          | True             |
+|      2 | D. Chyła      | R. Zembrowski   | Pogoń Siedlce  |                 0.203 |           1065.000 |         27.805 |         24.500 | Polish              | Polish              | True            | True               | True          | True             |
+|      3 | J. Ratajczak  | J. Bucholc      | Stomil Olsztyn |                 0.199 |           1080.000 |         24.623 |         30.447 | Polish              | Polish              | True            | True               | True          | True             |
+|      4 | A. Bogusz     | J. Bartkowski   | Wigry Suwałki  |                 0.191 |           1078.000 |         22.613 |         24.059 | Polish              | Polish              | True            | True               | True          | True             |
+|      5 | M. Marcjanik  | Marcus Vinícius | Arka Gdynia    |                 0.191 |            952.000 |         20.952 |         31.666 | Polish              | Portuguese          | False           | False              | False         | False            |
 
 ## 2015/2016 - Liga MX (Mexico) - male
-|   Rank | Player 1   | Player 2      | Team        |   Defensive chemistry |
-|--------|------------|---------------|-------------|-----------------------|
-|      1 | H. Ayala   | J. Rivas      | Tigres UANL |                 0.300 |
-|      2 | L. Fuentes | J. Van Rankin | Pumas UNAM  |                 0.214 |
-|      3 | E. Velarde | J. Magallón   | León        |                 0.208 |
-|      4 | E. García  | S. Medina     | Pachuca     |                 0.200 |
-|      5 | M. Samudio | A. Andrade    | América     |                 0.195 |
+|   Rank | Player 1   | Player 2      | Team        |   Defensive chemistry |   Minutes together |   Age player 1 |   Age player 2 | Language player 1   | Language player 2   | Same language   | Same nationality   | Same region   | Same subregion   |
+|--------|------------|---------------|-------------|-----------------------|--------------------|----------------|----------------|---------------------|---------------------|-----------------|--------------------|---------------|------------------|
+|      1 | H. Ayala   | J. Rivas      | Tigres UANL |                 0.300 |            930.000 |         28.222 |         30.604 | Spanish             | Spanish             | True            | True               | True          | True             |
+|      2 | L. Fuentes | J. Van Rankin | Pumas UNAM  |                 0.214 |           1296.000 |         28.652 |         22.061 | Spanish             | Spanish             | True            | True               | True          | True             |
+|      3 | E. Velarde | J. Magallón   | León        |                 0.208 |           1114.000 |         29.172 |         33.465 | Spanish             | Spanish             | True            | True               | True          | True             |
+|      4 | E. García  | S. Medina     | Pachuca     |                 0.200 |           1888.000 |         25.386 |         22.902 | Spanish             | Spanish             | True            | False              | True          | False            |
+|      5 | M. Samudio | A. Andrade    | América     |                 0.195 |           1598.000 |         28.813 |         26.188 | Spanish             | Spanish             | True            | False              | True          | True             |
 
 ## 2015/2016 - Ligue 1 (France) - male
-|   Rank | Player 1        | Player 2   | Team   |   Defensive chemistry |
-|--------|-----------------|------------|--------|-----------------------|
-|      1 | Ricardo Pereira | P. Baysse  | Nice   |                 0.191 |
-|      2 | S. Aurier       | David Luiz | PSG    |                 0.190 |
-|      3 | S. Aurier       | Maxwell    | PSG    |                 0.181 |
-|      4 | M. Le Marchand  | J. Pied    | Nice   |                 0.177 |
-|      5 | S. Aurier       | B. Matuidi | PSG    |                 0.174 |
+|   Rank | Player 1        | Player 2   | Team   |   Defensive chemistry |   Minutes together |   Age player 1 |   Age player 2 | Language player 1   | Language player 2   | Same language   | Same nationality   | Same region   | Same subregion   |
+|--------|-----------------|------------|--------|-----------------------|--------------------|----------------|----------------|---------------------|---------------------|-----------------|--------------------|---------------|------------------|
+|      1 | Ricardo Pereira | P. Baysse  | Nice   |                 0.191 |           1620.000 |         21.724 |         26.921 | Portuguese          | French              | False           | False              | True          | False            |
+|      2 | S. Aurier       | David Luiz | PSG    |                 0.190 |           1167.000 |         22.392 |         28.167 | French              | Portuguese          | False           | False              | False         | False            |
+|      3 | S. Aurier       | Maxwell    | PSG    |                 0.181 |           1525.000 |         22.392 |         33.758 | French              | Portuguese          | False           | False              | False         | False            |
+|      4 | M. Le Marchand  | J. Pied    | Nice   |                 0.177 |           1744.000 |         25.612 |         26.245 | French              | French              | True            | True               | True          | True             |
+|      5 | S. Aurier       | B. Matuidi | PSG    |                 0.174 |           1298.000 |         22.392 |         28.142 | French              | French              | True            | False              | False         | False            |
 
 ## 2015/2016 - Ligue 2 (France) - male
-|   Rank | Player 1    | Player 2     | Team    |   Defensive chemistry |
-|--------|-------------|--------------|---------|-----------------------|
-|      1 | V. Muratori | J. Cétout    | Nancy   |                 0.205 |
-|      2 | V. Muratori | A. Robic     | Nancy   |                 0.192 |
-|      3 | V. Muratori | D. Guidileye | Nancy   |                 0.180 |
-|      4 | C. Vincent  | A. Lippini   | Ajaccio |                 0.172 |
-|      5 | M. Chrétien | D. Guidileye | Nancy   |                 0.170 |
+|   Rank | Player 1    | Player 2     | Team    |   Defensive chemistry |   Minutes together |   Age player 1 |   Age player 2 | Language player 1   | Language player 2   | Same language   | Same nationality   | Same region   | Same subregion   |
+|--------|-------------|--------------|---------|-----------------------|--------------------|----------------|----------------|---------------------|---------------------|-----------------|--------------------|---------------|------------------|
+|      1 | V. Muratori | J. Cétout    | Nancy   |                 0.205 |           2446.000 |         27.803 |         27.386 | French              | French              | True            | True               | True          | True             |
+|      2 | V. Muratori | A. Robic     | Nancy   |                 0.192 |           1054.000 |         27.803 |         29.215 | French              | French              | True            | True               | True          | True             |
+|      3 | V. Muratori | D. Guidileye | Nancy   |                 0.180 |           1985.000 |         27.803 |         25.395 | French              | Arabic              | False           | False              | False         | False            |
+|      4 | C. Vincent  | A. Lippini   | Ajaccio |                 0.172 |           1182.000 |         22.518 |         26.346 | French              | French              | True            | True               | True          | True             |
+|      5 | M. Chrétien | D. Guidileye | Nancy   |                 0.170 |           1518.000 |         30.866 |         25.395 | French              | Arabic              | False           | False              | False         | False            |
 
 ## 2015/2016 - National 1 (France) - male
-|   Rank | Player 1    | Player 2    | Team       |   Defensive chemistry |
-|--------|-------------|-------------|------------|-----------------------|
-|      1 | D. Liénard  | Felipe Saad | Strasbourg |                 0.198 |
-|      2 | A. N'Dour   | D. Liénard  | Strasbourg |                 0.197 |
-|      3 | E. Marester | D. Liénard  | Strasbourg |                 0.188 |
-|      4 | E. Seka     | D. Liénard  | Strasbourg |                 0.184 |
-|      5 | D. Bouanga  | A. N'Dour   | Strasbourg |                 0.183 |
+|   Rank | Player 1    | Player 2    | Team       |   Defensive chemistry |   Minutes together |   Age player 1 |   Age player 2 | Language player 1   | Language player 2   | Same language   | Same nationality   | Same region   | Same subregion   |
+|--------|-------------|-------------|------------|-----------------------|--------------------|----------------|----------------|---------------------|---------------------|-----------------|--------------------|---------------|------------------|
+|      1 | D. Liénard  | Felipe Saad | Strasbourg |                 0.198 |           1095.000 |         27.252 |         31.679 | French              | Portuguese          | False           | False              | False         | False            |
+|      2 | A. N'Dour   | D. Liénard  | Strasbourg |                 0.197 |           1236.000 |         21.420 |         27.252 | French              | French              | True            | False              | False         | False            |
+|      3 | E. Marester | D. Liénard  | Strasbourg |                 0.188 |           1236.000 |         30.943 |         27.252 | French              | French              | True            | True               | True          | True             |
+|      4 | E. Seka     | D. Liénard  | Strasbourg |                 0.184 |           1326.000 |         27.917 |         27.252 | French              | French              | True            | True               | True          | True             |
+|      5 | D. Bouanga  | A. N'Dour   | Strasbourg |                 0.183 |           1056.000 |         20.530 |         21.420 | French              | French              | True            | False              | False         | False            |
 
 ## 2015/2016 - Premier League (England) - male
-|   Rank | Player 1   | Player 2      | Team              |   Defensive chemistry |
-|--------|------------|---------------|-------------------|-----------------------|
-|      1 | D. Simpson | C. Fuchs      | Leicester City    |                 0.230 |
-|      2 | B. Davies  | K. Walker     | Tottenham Hotspur |                 0.223 |
-|      3 | R. Mahrez  | C. Fuchs      | Leicester City    |                 0.207 |
-|      4 | D. Simpson | M. Albrighton | Leicester City    |                 0.194 |
-|      5 | D. Simpson | R. Huth       | Leicester City    |                 0.186 |
+|   Rank | Player 1   | Player 2      | Team              |   Defensive chemistry |   Minutes together |   Age player 1 |   Age player 2 | Language player 1   | Language player 2   | Same language   | Same nationality   | Same region   | Same subregion   |
+|--------|------------|---------------|-------------------|-----------------------|--------------------|----------------|----------------|---------------------|---------------------|-----------------|--------------------|---------------|------------------|
+|      1 | D. Simpson | C. Fuchs      | Leicester City    |                 0.230 |           2544.000 |         28.164 |         29.188 | English             | German              | False           | False              | True          | False            |
+|      2 | B. Davies  | K. Walker     | Tottenham Hotspur |                 0.223 |           1091.000 |         22.003 |         24.856 | English             | English             | True            | False              | True          | True             |
+|      3 | R. Mahrez  | C. Fuchs      | Leicester City    |                 0.207 |           2366.000 |         24.254 |         29.188 | French              | German              | False           | False              | True          | True             |
+|      4 | D. Simpson | M. Albrighton | Leicester City    |                 0.194 |           2140.000 |         28.164 |         25.513 | English             | English             | True            | True               | True          | True             |
+|      5 | D. Simpson | R. Huth       | Leicester City    |                 0.186 |           2376.000 |         28.164 |         30.764 | English             | German              | False           | False              | True          | False            |
 
 ## 2015/2016 - Premier League (Russia) - male
-|   Rank | Player 1     | Player 2       | Team             |   Defensive chemistry |
-|--------|--------------|----------------|------------------|-----------------------|
-|      1 | D. Yatchenko | I. Tsallagov   | Krylya Sovetov   |                 0.243 |
-|      2 | D. Yatchenko | I. Taranov     | Krylya Sovetov   |                 0.220 |
-|      3 | R. Shishkin  | N. Pejčinović  | Lokomotiv Moskva |                 0.218 |
-|      4 | A. Kasaev    | R. Shishkin    | Lokomotiv Moskva |                 0.211 |
-|      5 | P. Wernbloom | G. Shchennikov | CSKA Moskva      |                 0.202 |
+|   Rank | Player 1     | Player 2       | Team             |   Defensive chemistry |   Minutes together |   Age player 1 |   Age player 2 | Language player 1   | Language player 2   | Same language   | Same nationality   | Same region   | Same subregion   |
+|--------|--------------|----------------|------------------|-----------------------|--------------------|----------------|----------------|---------------------|---------------------|-----------------|--------------------|---------------|------------------|
+|      1 | D. Yatchenko | I. Tsallagov   | Krylya Sovetov   |                 0.243 |           1078.000 |         28.763 |         24.464 | Russian             | Russian             | True            | True               | True          | True             |
+|      2 | D. Yatchenko | I. Taranov     | Krylya Sovetov   |                 0.220 |            942.000 |         28.763 |         28.938 | Russian             | Russian             | True            | True               | True          | True             |
+|      3 | R. Shishkin  | N. Pejčinović  | Lokomotiv Moskva |                 0.218 |           1121.000 |         28.338 |         27.569 | Russian             | Serbian             | False           | False              | True          | False            |
+|      4 | A. Kasaev    | R. Shishkin    | Lokomotiv Moskva |                 0.211 |           1070.000 |         29.143 |         28.338 | Tajik               | Russian             | False           | False              | False         | False            |
+|      5 | P. Wernbloom | G. Shchennikov | CSKA Moskva      |                 0.202 |           1372.000 |         28.972 |         24.008 | Swedish             | Russian             | False           | False              | True          | False            |
 
 ## 2015/2016 - Premiership (Scotland) - male
-|   Rank | Player 1     | Player 2     | Team     |   Defensive chemistry |
-|--------|--------------|--------------|----------|-----------------------|
-|      1 | E. Izaguirre | T. Rogić     | Celtic   |                 0.216 |
-|      2 | L. Griffiths | E. Izaguirre | Celtic   |                 0.183 |
-|      3 | A. Considine | A. Rooney    | Aberdeen |                 0.183 |
-|      4 | E. Izaguirre | D. Boyata    | Celtic   |                 0.174 |
-|      5 | J. Oshaniwa  | M. Gomis     | Hearts   |                 0.171 |
+|   Rank | Player 1     | Player 2     | Team     |   Defensive chemistry |   Minutes together |   Age player 1 |   Age player 2 | Language player 1   | Language player 2   | Same language   | Same nationality   | Same region   | Same subregion   |
+|--------|--------------|--------------|----------|-----------------------|--------------------|----------------|----------------|---------------------|---------------------|-----------------|--------------------|---------------|------------------|
+|      1 | E. Izaguirre | T. Rogić     | Celtic   |                 0.216 |            972.000 |         29.039 |         21.301 | Spanish             | English             | False           | False              | False         | False            |
+|      2 | L. Griffiths | E. Izaguirre | Celtic   |                 0.183 |            935.000 |         24.760 |         29.039 | English             | Spanish             | False           | False              | False         | False            |
+|      3 | A. Considine | A. Rooney    | Aberdeen |                 0.183 |            968.000 |         28.147 |         27.068 | English             | Irish               | False           | False              | True          | True             |
+|      4 | E. Izaguirre | D. Boyata    | Celtic   |                 0.174 |            905.000 |         29.039 |         24.158 | Spanish             | Dutch               | False           | False              | False         | False            |
+|      5 | J. Oshaniwa  | M. Gomis     | Hearts   |                 0.171 |            924.000 |            nan |         29.800 | English             | French              | False           | False              | False         | False            |
 
 ## 2015/2016 - Primeira Liga (Portugal) - male
-|   Rank | Player 1          | Player 2       | Team            |   Defensive chemistry |
-|--------|-------------------|----------------|-----------------|-----------------------|
-|      1 | Ruca              | William Alves  | Vitória Setúbal |                 0.218 |
-|      2 | Jefferson         | B. Ruiz        | Sporting CP     |                 0.215 |
-|      3 | Paulo Oliveira    | B. Ruiz        | Sporting CP     |                 0.205 |
-|      4 | Naldo             | B. Ruiz        | Sporting CP     |                 0.203 |
-|      5 | Afonso Figueiredo | Tiago Mesquita | Boavista        |                 0.194 |
+|   Rank | Player 1          | Player 2       | Team            |   Defensive chemistry |   Minutes together |   Age player 1 |   Age player 2 | Language player 1   | Language player 2   | Same language   | Same nationality   | Same region   | Same subregion   |
+|--------|-------------------|----------------|-----------------|-----------------------|--------------------|----------------|----------------|---------------------|---------------------|-----------------|--------------------|---------------|------------------|
+|      1 | Ruca              | William Alves  | Vitória Setúbal |                 0.218 |            925.000 |         24.662 |         27.972 | Portuguese          | Portuguese          | True            | False              | False         | False            |
+|      2 | Jefferson         | B. Ruiz        | Sporting CP     |                 0.215 |           1307.000 |         26.904 |         29.705 | Portuguese          | Spanish             | False           | False              | True          | False            |
+|      3 | Paulo Oliveira    | B. Ruiz        | Sporting CP     |                 0.205 |           1362.000 |         24.467 |         29.705 | Portuguese          | Spanish             | False           | False              | False         | False            |
+|      4 | Naldo             | B. Ruiz        | Sporting CP     |                 0.203 |           1225.000 |         26.743 |         29.705 | Portuguese          | Spanish             | False           | False              | True          | False            |
+|      5 | Afonso Figueiredo | Tiago Mesquita | Boavista        |                 0.194 |           1268.000 |         22.376 |         24.500 | Portuguese          | Portuguese          | True            | True               | True          | True             |
 
 ## 2015/2016 - Primera División (Spain) - male
-|   Rank | Player 1      | Player 2      | Team        |   Defensive chemistry |
-|--------|---------------|---------------|-------------|-----------------------|
-|      1 | Dani Carvajal | Marcelo       | Real Madrid |                 0.248 |
-|      2 | Casemiro      | Marcelo       | Real Madrid |                 0.239 |
-|      3 | R. Rosales    | M. Angeleri   | Málaga      |                 0.221 |
-|      4 | Jaume Costa   | J. dos Santos | Villarreal  |                 0.219 |
-|      5 | Víctor Ruíz   | A. Rukavina   | Villarreal  |                 0.213 |
+|   Rank | Player 1      | Player 2      | Team        |   Defensive chemistry |   Minutes together |   Age player 1 |   Age player 2 | Language player 1   | Language player 2   | Same language   | Same nationality   | Same region   | Same subregion   |
+|--------|---------------|---------------|-------------|-----------------------|--------------------|----------------|----------------|---------------------|---------------------|-----------------|--------------------|---------------|------------------|
+|      1 | Dani Carvajal | Marcelo       | Real Madrid |                 0.248 |           1112.000 |         23.364 |         27.030 | Spanish             | Portuguese          | False           | False              | False         | False            |
+|      2 | Casemiro      | Marcelo       | Real Madrid |                 0.239 |           1046.000 |         23.244 |         27.030 | Portuguese          | Portuguese          | True            | True               | True          | True             |
+|      3 | R. Rosales    | M. Angeleri   | Málaga      |                 0.221 |           1112.000 |         26.585 |         32.128 | Spanish             | Spanish             | True            | False              | True          | True             |
+|      4 | Jaume Costa   | J. dos Santos | Villarreal  |                 0.219 |            914.000 |         27.181 |         25.040 | Spanish             | Spanish             | True            | False              | False         | False            |
+|      5 | Víctor Ruíz   | A. Rukavina   | Villarreal  |                 0.213 |           1052.000 |         26.324 |         31.323 | Spanish             | Serbian             | False           | False              | True          | True             |
 
 ## 2015/2016 - Regionalliga (Germany) - male
-|   Rank | Player 1        | Player 2        | Team       |   Defensive chemistry |
-|--------|-----------------|-----------------|------------|-----------------------|
-|      1 | M. Kehl-Gómez   | K. Maek         | Elversberg |                 0.174 |
-|      2 | T. Birk         | K. Maek         | Elversberg |                 0.144 |
-|      3 | M. Kehl-Gómez   | T. Birk         | Elversberg |                 0.111 |
-|      4 | M. Oesterhelweg | K. Maek         | Elversberg |                 0.104 |
-|      5 | M. Kehl-Gómez   | M. Oesterhelweg | Elversberg |                 0.088 |
+|   Rank | Player 1        | Player 2        | Team       |   Defensive chemistry |   Minutes together |   Age player 1 |   Age player 2 | Language player 1   | Language player 2   | Same language   | Same nationality   | Same region   | Same subregion   |
+|--------|-----------------|-----------------|------------|-----------------------|--------------------|----------------|----------------|---------------------|---------------------|-----------------|--------------------|---------------|------------------|
+|      1 | M. Kehl-Gómez   | K. Maek         | Elversberg |                 0.174 |            510.000 |         23.635 |         27.084 | German              | German              | True            | False              | True          | True             |
+|      2 | T. Birk         | K. Maek         | Elversberg |                 0.144 |            540.000 |         27.418 |         27.084 | German              | German              | True            | True               | True          | True             |
+|      3 | M. Kehl-Gómez   | T. Birk         | Elversberg |                 0.111 |            510.000 |         23.635 |         27.418 | German              | German              | True            | False              | True          | True             |
+|      4 | M. Oesterhelweg | K. Maek         | Elversberg |                 0.104 |            509.000 |         25.376 |         27.084 | German              | German              | True            | True               | True          | True             |
+|      5 | M. Kehl-Gómez   | M. Oesterhelweg | Elversberg |                 0.088 |            504.000 |         23.635 |         25.376 | German              | German              | True            | False              | True          | True             |
+
+## 2015/2016 - Segunda B (Spain) - male
+|   Rank | Player 1     | Player 2     | Team        |   Defensive chemistry |   Minutes together |   Age player 1 |   Age player 2 | Language player 1   | Language player 2   | Same language   | Same nationality   | Same region   | Same subregion   |
+|--------|--------------|--------------|-------------|-----------------------|--------------------|----------------|----------------|---------------------|---------------------|-----------------|--------------------|---------------|------------------|
+|      1 | Zurdo        | Álvaro Pérez | Socuéllamos |                 0.219 |            513.000 |         33.596 |         19.786 | Spanish             | Spanish             | True            | True               | True          | True             |
+|      2 | Tekio        | Juan Góngora | UCAM Murcia |                 0.217 |            809.000 |         24.873 |         26.830 | Spanish             | Spanish             | True            | True               | True          | True             |
+|      3 | Nono         | Juan Góngora | UCAM Murcia |                 0.217 |            607.000 |         24.046 |         26.830 | Spanish             | Spanish             | True            | True               | True          | True             |
+|      4 | Iván Aguilar | Juan Góngora | UCAM Murcia |                 0.217 |            523.000 |         23.930 |         26.830 | Spanish             | Spanish             | True            | True               | True          | True             |
+|      5 | César Remón  | Juan Góngora | UCAM Murcia |                 0.216 |            758.000 |         29.697 |         26.830 | Spanish             | Spanish             | True            | True               | True          | True             |
 
 ## 2015/2016 - Segunda División (Spain) - male
-|   Rank | Player 1       | Player 2      | Team             |   Defensive chemistry |
-|--------|----------------|---------------|------------------|-----------------------|
-|      1 | D. Johannesson | Peña          | Real Oviedo      |                 0.200 |
-|      2 | Dani Pacheco   | Carpio        | Deportivo Alavés |                 0.171 |
-|      3 | Néstor Susaeta | Borja Gómez   | Real Oviedo      |                 0.168 |
-|      4 | Héctor Verdés  | Peña          | Real Oviedo      |                 0.168 |
-|      5 | Manuel Sánchez | Carlos Moreno | Huesca           |                 0.159 |
+|   Rank | Player 1       | Player 2      | Team             |   Defensive chemistry |   Minutes together |   Age player 1 |   Age player 2 | Language player 1   | Language player 2   | Same language   | Same nationality   | Same region   | Same subregion   |
+|--------|----------------|---------------|------------------|-----------------------|--------------------|----------------|----------------|---------------------|---------------------|-----------------|--------------------|---------------|------------------|
+|      1 | D. Johannesson | Peña          | Real Oviedo      |                 0.200 |           1239.000 |         21.686 |         31.879 | Spanish             | Spanish             | True            | True               | True          | True             |
+|      2 | Dani Pacheco   | Carpio        | Deportivo Alavés |                 0.171 |           1777.000 |         24.402 |         31.170 | Spanish             | Spanish             | True            | True               | True          | True             |
+|      3 | Néstor Susaeta | Borja Gómez   | Real Oviedo      |                 0.168 |           1002.000 |         30.497 |         27.066 | Spanish             | Spanish             | True            | True               | True          | True             |
+|      4 | Héctor Verdés  | Peña          | Real Oviedo      |                 0.168 |            987.000 |         30.934 |         31.879 | Spanish             | Spanish             | True            | True               | True          | True             |
+|      5 | Manuel Sánchez | Carlos Moreno | Huesca           |                 0.159 |            955.000 |         26.789 |         29.040 | Spanish             | Spanish             | True            | True               | True          | True             |
 
 ## 2015/2016 - Segunda Liga (Portugal) - male
-|   Rank | Player 1      | Player 2   | Team        |   Defensive chemistry |
-|--------|---------------|------------|-------------|-----------------------|
-|      1 | Serginho      | Barge      | Feirense    |                 0.217 |
-|      2 | Sérgio Semedo | Barge      | Feirense    |                 0.169 |
-|      3 | Nuno Diogo    | Barge      | Feirense    |                 0.159 |
-|      4 | Nuno Diogo    | Serginho   | Feirense    |                 0.154 |
-|      5 | Rui Silva     | João Dias  | Santa Clara |                 0.154 |
+|   Rank | Player 1      | Player 2   | Team        |   Defensive chemistry |   Minutes together |   Age player 1 |   Age player 2 | Language player 1   | Language player 2   | Same language   | Same nationality   | Same region   | Same subregion   |
+|--------|---------------|------------|-------------|-----------------------|--------------------|----------------|----------------|---------------------|---------------------|-----------------|--------------------|---------------|------------------|
+|      1 | Serginho      | Barge      | Feirense    |                 0.217 |           1224.000 |         29.544 |         31.337 | Portuguese          | Portuguese          | True            | True               | True          | True             |
+|      2 | Sérgio Semedo | Barge      | Feirense    |                 0.169 |            949.000 |         27.247 |         31.337 | Portuguese          | Portuguese          | True            | True               | True          | True             |
+|      3 | Nuno Diogo    | Barge      | Feirense    |                 0.159 |           1168.000 |         33.946 |         31.337 | Portuguese          | Portuguese          | True            | True               | True          | True             |
+|      4 | Nuno Diogo    | Serginho   | Feirense    |                 0.154 |           1024.000 |         33.946 |         29.544 | Portuguese          | Portuguese          | True            | True               | True          | True             |
+|      5 | Rui Silva     | João Dias  | Santa Clara |                 0.154 |           1036.000 |         18.320 |         28.416 | Portuguese          | Portuguese          | True            | True               | True          | True             |
 
 ## 2015/2016 - Serie A (Italy) - male
-|   Rank | Player 1      | Player 2    | Team           |   Defensive chemistry |
-|--------|---------------|-------------|----------------|-----------------------|
-|      1 | Bruno Peres   | C. Molinaro | Torino         |                 0.206 |
-|      2 | N. Burdisso   | D. Perotti  | Genoa          |                 0.190 |
-|      3 | Alex Sandro   | A. Barzagli | Juventus       |                 0.179 |
-|      4 | D. D'Ambrosio | Miranda     | Internazionale |                 0.179 |
-|      5 | S. Sturaro    | A. Barzagli | Juventus       |                 0.176 |
+|   Rank | Player 1      | Player 2    | Team           |   Defensive chemistry |   Minutes together |   Age player 1 |   Age player 2 | Language player 1   | Language player 2   | Same language   | Same nationality   | Same region   | Same subregion   |
+|--------|---------------|-------------|----------------|-----------------------|--------------------|----------------|----------------|---------------------|---------------------|-----------------|--------------------|---------------|------------------|
+|      1 | Bruno Peres   | C. Molinaro | Torino         |                 0.206 |           1481.000 |         25.251 |         31.819 | Portuguese          | Italian             | False           | False              | False         | False            |
+|      2 | N. Burdisso   | D. Perotti  | Genoa          |                 0.190 |            917.000 |         34.113 |         26.751 | Spanish             | Spanish             | True            | True               | True          | True             |
+|      3 | Alex Sandro   | A. Barzagli | Juventus       |                 0.179 |           1207.000 |         24.306 |         34.081 | Portuguese          | Italian             | False           | False              | False         | False            |
+|      4 | D. D'Ambrosio | Miranda     | Internazionale |                 0.179 |           1433.000 |         26.702 |         30.804 | Italian             | Portuguese          | False           | False              | False         | False            |
+|      5 | S. Sturaro    | A. Barzagli | Juventus       |                 0.176 |            908.000 |         22.277 |         34.081 | Italian             | Italian             | True            | True               | True          | True             |
 
 ## 2015/2016 - Serie B (Italy) - male
-|   Rank | Player 1      | Player 2      | Team            |   Defensive chemistry |
-|--------|---------------|---------------|-----------------|-----------------------|
-|      1 | M. Rossi      | L. Del Prete  | Perugia         |                 0.211 |
-|      2 | F. Zampano    | H. Campagnaro | Pescara         |                 0.208 |
-|      3 | C. Mammarella | R. Pucino     | Virtus Lanciano |                 0.201 |
-|      4 | F. Amenta     | C. Mammarella | Virtus Lanciano |                 0.175 |
-|      5 | A. Crescenzi  | H. Campagnaro | Pescara         |                 0.174 |
+|   Rank | Player 1      | Player 2      | Team            |   Defensive chemistry |   Minutes together |   Age player 1 |   Age player 2 | Language player 1   | Language player 2   | Same language   | Same nationality   | Same region   | Same subregion   |
+|--------|---------------|---------------|-----------------|-----------------------|--------------------|----------------|----------------|---------------------|---------------------|-----------------|--------------------|---------------|------------------|
+|      1 | M. Rossi      | L. Del Prete  | Perugia         |                 0.211 |            996.000 |         27.644 |         29.358 | Italian             | Italian             | True            | True               | True          | True             |
+|      2 | F. Zampano    | H. Campagnaro | Pescara         |                 0.208 |           1016.000 |         21.692 |         34.727 | Italian             | Spanish             | False           | False              | False         | False            |
+|      3 | C. Mammarella | R. Pucino     | Virtus Lanciano |                 0.201 |           1612.000 |         32.862 |         24.104 | Italian             | Italian             | True            | True               | True          | True             |
+|      4 | F. Amenta     | C. Mammarella | Virtus Lanciano |                 0.175 |           1125.000 |         35.931 |         32.862 | Italian             | Italian             | True            | True               | True          | True             |
+|      5 | A. Crescenzi  | H. Campagnaro | Pescara         |                 0.174 |            933.000 |         23.668 |         34.727 | Italian             | Spanish             | False           | False              | False         | False            |
 
 ## 2015/2016 - Serie C (Italy) - male
-|   Rank | Player 1     | Player 2     | Team   |   Defensive chemistry |
-|--------|--------------|--------------|--------|-----------------------|
-|      1 | P. Rozzio    | A. Lisuzzo   | Pisa   |                 0.237 |
-|      2 | L. Crescenzi | D. Polverini | Pisa   |                 0.217 |
-|      3 | D. Mannini   | S. Avogadri  | Pisa   |                 0.204 |
-|      4 | P. Ceccaroni | N. Giani     | SPAL   |                 0.198 |
-|      5 | L. Crescenzi | M. Ricci     | Pisa   |                 0.183 |
+|   Rank | Player 1     | Player 2     | Team   |   Defensive chemistry |   Minutes together |   Age player 1 |   Age player 2 | Language player 1   | Language player 2   | Same language   | Same nationality   | Same region   | Same subregion   |
+|--------|--------------|--------------|--------|-----------------------|--------------------|----------------|----------------|---------------------|---------------------|-----------------|--------------------|---------------|------------------|
+|      1 | P. Rozzio    | A. Lisuzzo   | Pisa   |                 0.237 |            903.000 |         22.797 |         34.282 | Italian             | Italian             | True            | True               | True          | True             |
+|      2 | L. Crescenzi | D. Polverini | Pisa   |                 0.217 |            975.000 |         23.024 |         28.054 | Italian             | Italian             | True            | True               | True          | True             |
+|      3 | D. Mannini   | S. Avogadri  | Pisa   |                 0.204 |           1129.000 |         31.539 |         29.765 | Italian             | Italian             | True            | True               | True          | True             |
+|      4 | P. Ceccaroni | N. Giani     | SPAL   |                 0.198 |           1097.000 |         18.865 |         29.157 | Italian             | Italian             | True            | True               | True          | True             |
+|      5 | L. Crescenzi | M. Ricci     | Pisa   |                 0.183 |           1383.000 |         23.024 |         20.897 | Italian             | Italian             | True            | True               | True          | True             |
 
 ## 2015/2016 - Super League (Greece) - male
-|   Rank | Player 1       | Player 2        | Team               |   Defensive chemistry |
-|--------|----------------|-----------------|--------------------|-----------------------|
-|      1 | Dídac Vilá     | Rodrigo Galo    | AEK Athens         |                 0.192 |
-|      2 | L. Milivojević | O. Elabdellaoui | Olympiakos Piraeus |                 0.189 |
-|      3 | Botía          | L. Milivojević  | Olympiakos Piraeus |                 0.180 |
-|      4 | C. Karypidis   | Wallace         | Xanthi             |                 0.172 |
-|      5 | D. Kolovetsios | Rodrigo Galo    | AEK Athens         |                 0.171 |
+|   Rank | Player 1       | Player 2        | Team               |   Defensive chemistry |   Minutes together |   Age player 1 |   Age player 2 | Language player 1   | Language player 2   | Same language   | Same nationality   | Same region   | Same subregion   |
+|--------|----------------|-----------------|--------------------|-----------------------|--------------------|----------------|----------------|---------------------|---------------------|-----------------|--------------------|---------------|------------------|
+|      1 | Dídac Vilá     | Rodrigo Galo    | AEK Athens         |                 0.192 |           1942.000 |         25.954 |         28.566 | Spanish             | Portuguese          | False           | False              | False         | False            |
+|      2 | L. Milivojević | O. Elabdellaoui | Olympiakos Piraeus |                 0.189 |           1238.000 |         24.128 |         23.520 | Serbian             | Norwegian           | False           | False              | True          | False            |
+|      3 | Botía          | L. Milivojević  | Olympiakos Piraeus |                 0.180 |           1081.000 |         26.318 |         24.128 | Spanish             | Serbian             | False           | False              | True          | True             |
+|      4 | C. Karypidis   | Wallace         | Xanthi             |                 0.172 |           1072.000 |         32.473 |         28.566 | Greek (modern)      | Portuguese          | False           | False              | False         | False            |
+|      5 | D. Kolovetsios | Rodrigo Galo    | AEK Athens         |                 0.171 |           2120.000 |         23.651 |         28.566 | Greek (modern)      | Portuguese          | False           | False              | False         | False            |
 
 ## 2015/2016 - Super League (Switzerland) - male
-|   Rank | Player 1   | Player 2       | Team       |   Defensive chemistry |
-|--------|------------|----------------|------------|-----------------------|
-|      1 | M. Mutsch  | M. Facchinetti | St. Gallen |                 0.199 |
-|      2 | M. Suchý   | W. Samuel      | Basel      |                 0.198 |
-|      3 | T. Xhaka   | B. Safari      | Basel      |                 0.196 |
-|      4 | V. Sierro  | E. Zverotić    | Sion       |                 0.188 |
-|      5 | T. Xhaka   | M. Lang        | Basel      |                 0.186 |
+|   Rank | Player 1   | Player 2       | Team       |   Defensive chemistry |   Minutes together |   Age player 1 |   Age player 2 | Language player 1   | Language player 2   | Same language   | Same nationality   | Same region   | Same subregion   |
+|--------|------------|----------------|------------|-----------------------|--------------------|----------------|----------------|---------------------|---------------------|-----------------|--------------------|---------------|------------------|
+|      1 | M. Mutsch  | M. Facchinetti | St. Gallen |                 0.199 |           1046.000 |         30.778 |         24.284 | Dutch               | German              | False           | False              | True          | True             |
+|      2 | M. Suchý   | W. Samuel      | Basel      |                 0.198 |            970.000 |         27.191 |            nan | Czech               | Spanish             | False           | False              | False         | False            |
+|      3 | T. Xhaka   | B. Safari      | Basel      |                 0.196 |           1031.000 |         24.196 |         30.300 | German              | Persian (Farsi)     | False           | False              | False         | False            |
+|      4 | V. Sierro  | E. Zverotić    | Sion       |                 0.188 |           1119.000 |         19.777 |         28.621 | German              | Serbian             | False           | False              | True          | False            |
+|      5 | T. Xhaka   | M. Lang        | Basel      |                 0.186 |           1198.000 |         24.196 |         24.304 | German              | German              | True            | True               | True          | True             |
 
 ## 2015/2016 - Super Liga (Serbia) - male
-|   Rank | Player 1       | Player 2          | Team          |   Defensive chemistry |
-|--------|----------------|-------------------|---------------|-----------------------|
-|      1 | D. Mićić       | Nemanja Miletić I | Vojvodina     |                 0.208 |
-|      2 | V. Jovanović   | L. Ibáñez         | Crvena Zvezda |                 0.168 |
-|      3 | S. Babić       | B. Nastić         | Vojvodina     |                 0.159 |
-|      4 | M. Blažić      | D. Bulatović      | Radnički Niš  |                 0.154 |
-|      5 | N. Lakić-Pešić | M. Blažić         | Radnički Niš  |                 0.142 |
+|   Rank | Player 1       | Player 2          | Team          |   Defensive chemistry |   Minutes together |   Age player 1 |   Age player 2 | Language player 1   | Language player 2   | Same language   | Same nationality   | Same region   | Same subregion   |
+|--------|----------------|-------------------|---------------|-----------------------|--------------------|----------------|----------------|---------------------|---------------------|-----------------|--------------------|---------------|------------------|
+|      1 | D. Mićić       | Nemanja Miletić I | Vojvodina     |                 0.208 |           1848.000 |         30.154 |         24.330 | Serbian             | Serbian             | True            | True               | True          | True             |
+|      2 | V. Jovanović   | L. Ibáñez         | Crvena Zvezda |                 0.168 |           1241.000 |         19.092 |         26.838 | Serbian             | Spanish             | False           | False              | False         | False            |
+|      3 | S. Babić       | B. Nastić         | Vojvodina     |                 0.159 |           1287.000 |         24.273 |         20.883 | Serbian             | Bosnian             | False           | False              | True          | True             |
+|      4 | M. Blažić      | D. Bulatović      | Radnički Niš  |                 0.154 |           1145.000 |         29.272 |         25.716 | Serbian             | Serbian             | True            | False              | True          | True             |
+|      5 | N. Lakić-Pešić | M. Blažić         | Radnički Niš  |                 0.142 |           1117.000 |         24.358 |         29.272 | Serbian             | Serbian             | True            | True               | True          | True             |
 
 ## 2015/2016 - Super Liga (Slovakia) - male
-|   Rank | Player 1      | Player 2      | Team              |   Defensive chemistry |
-|--------|---------------|---------------|-------------------|-----------------------|
-|      1 | A. Zreľák     | J. Podaný     | Slovan Bratislava |                 0.101 |
-|      2 | L. Đorđević   | M. Turňa      | Podbrezová        |                 0.101 |
-|      3 | F. Kubik      | J. Podaný     | Slovan Bratislava |                 0.091 |
-|      4 | M. Milinković | J. Podaný     | Slovan Bratislava |                 0.091 |
-|      5 | N. Gorosito   | M. Milinković | Slovan Bratislava |                 0.091 |
+|   Rank | Player 1      | Player 2      | Team              |   Defensive chemistry |   Minutes together |   Age player 1 |   Age player 2 | Language player 1   | Language player 2   | Same language   | Same nationality   | Same region   | Same subregion   |
+|--------|---------------|---------------|-------------------|-----------------------|--------------------|----------------|----------------|---------------------|---------------------|-----------------|--------------------|---------------|------------------|
+|      1 | A. Zreľák     | J. Podaný     | Slovan Bratislava |                 0.101 |           1460.000 |         21.070 |         27.958 | Slovak              | Czech               | False           | False              | True          | True             |
+|      2 | L. Đorđević   | M. Turňa      | Podbrezová        |                 0.101 |            980.000 |         24.355 |         29.053 | Serbian             | Slovak              | False           | False              | True          | False            |
+|      3 | F. Kubik      | J. Podaný     | Slovan Bratislava |                 0.091 |           1255.000 |         26.211 |         27.958 | Slovak              | Czech               | False           | False              | True          | True             |
+|      4 | M. Milinković | J. Podaný     | Slovan Bratislava |                 0.091 |           1325.000 |         27.120 |         27.958 | Serbian             | Czech               | False           | False              | True          | False            |
+|      5 | N. Gorosito   | M. Milinković | Slovan Bratislava |                 0.091 |           1018.000 |         26.784 |         27.120 | Spanish             | Serbian             | False           | False              | False         | False            |
 
 ## 2015/2016 - Superliga (Denmark) - male
-|   Rank | Player 1     | Player 2           | Team        |   Defensive chemistry |
-|--------|--------------|--------------------|-------------|-----------------------|
-|      1 | João Pereira | M. Pedersen        | SønderjyskE |                 0.210 |
-|      2 | K. Kusk      | M. Zanka Jorgensen | København   |                 0.205 |
-|      3 | D. Amartey   | P. Ankersen        | København   |                 0.205 |
-|      4 | P. Sisto     | K. Hansen          | Midtjylland |                 0.197 |
-|      5 | K. Kusk      | Y. Toutouh         | København   |                 0.194 |
+|   Rank | Player 1     | Player 2           | Team        |   Defensive chemistry |   Minutes together |   Age player 1 |   Age player 2 | Language player 1   | Language player 2   | Same language   | Same nationality   | Same region   | Same subregion   |
+|--------|--------------|--------------------|-------------|-----------------------|--------------------|----------------|----------------|---------------------|---------------------|-----------------|--------------------|---------------|------------------|
+|      1 | João Pereira | M. Pedersen        | SønderjyskE |                 0.210 |           1551.000 |         25.075 |         25.804 | Portuguese          | Danish              | False           | False              | True          | False            |
+|      2 | K. Kusk      | M. Zanka Jorgensen | København   |                 0.205 |           1445.000 |         23.493 |         25.124 | Danish              | Danish              | True            | True               | True          | True             |
+|      3 | D. Amartey   | P. Ankersen        | København   |                 0.205 |            939.000 |         20.462 |         24.698 | English             | Danish              | False           | False              | False         | False            |
+|      4 | P. Sisto     | K. Hansen          | Midtjylland |                 0.197 |           1468.000 |         20.394 |         26.184 | English             | Danish              | False           | False              | False         | False            |
+|      5 | K. Kusk      | Y. Toutouh         | København   |                 0.194 |            950.000 |         23.493 |         22.535 | Danish              | Danish              | True            | True               | True          | True             |
 
 ## 2015/2016 - Süper Lig (Turkey) - male
-|   Rank | Player 1    | Player 2   | Team       |   Defensive chemistry |
-|--------|-------------|------------|------------|-----------------------|
-|      1 | S. Kjær     | Diego      | Fenerbahçe |                 0.196 |
-|      2 | K. Omeruo   | Titi       | Kasımpaşa  |                 0.192 |
-|      3 | K. Omeruo   | A. Büyük   | Kasımpaşa  |                 0.186 |
-|      4 | K. Omeruo   | V. Sarı    | Kasımpaşa  |                 0.186 |
-|      5 | Bruno Alves | G. Gönül   | Fenerbahçe |                 0.182 |
+|   Rank | Player 1    | Player 2   | Team       |   Defensive chemistry |   Minutes together |   Age player 1 |   Age player 2 | Language player 1   | Language player 2   | Same language   | Same nationality   | Same region   | Same subregion   |
+|--------|-------------|------------|------------|-----------------------|--------------------|----------------|----------------|---------------------|---------------------|-----------------|--------------------|---------------|------------------|
+|      1 | S. Kjær     | Diego      | Fenerbahçe |                 0.196 |           1370.000 |         26.217 |         30.250 | Danish              | Portuguese          | False           | False              | False         | False            |
+|      2 | K. Omeruo   | Titi       | Kasımpaşa  |                 0.192 |           1893.000 |         21.492 |         27.293 | English             | Portuguese          | False           | False              | False         | False            |
+|      3 | K. Omeruo   | A. Büyük   | Kasımpaşa  |                 0.186 |           1279.000 |         21.492 |         27.635 | English             | Turkish             | False           | False              | False         | False            |
+|      4 | K. Omeruo   | V. Sarı    | Kasımpaşa  |                 0.186 |            927.000 |         21.492 |         26.827 | English             | Turkish             | False           | False              | False         | False            |
+|      5 | Bruno Alves | G. Gönül   | Fenerbahçe |                 0.182 |           1440.000 |         33.544 |         30.436 | Portuguese          | Turkish             | False           | False              | False         | False            |
 
 ## 2015/2016 - UEFA Champions League (Europe) - male
-|   Rank | Player 1    | Player 2    | Team            |   Defensive chemistry |
-|--------|-------------|-------------|-----------------|-----------------------|
-|      1 | Saúl Ñíguez | Juanfran    | Atlético Madrid |                 0.237 |
-|      2 | Gabi        | Filipe Luis | Atlético Madrid |                 0.202 |
-|      3 | D. Godín    | Juanfran    | Atlético Madrid |                 0.193 |
-|      4 | Juanfran    | Gabi        | Atlético Madrid |                 0.193 |
-|      5 | D. Godín    | Saúl Ñíguez | Atlético Madrid |                 0.163 |
+|   Rank | Player 1    | Player 2    | Team            |   Defensive chemistry |   Minutes together |   Age player 1 |   Age player 2 | Language player 1   | Language player 2   | Same language   | Same nationality   | Same region   | Same subregion   |
+|--------|-------------|-------------|-----------------|-----------------------|--------------------|----------------|----------------|---------------------|---------------------|-----------------|--------------------|---------------|------------------|
+|      1 | Saúl Ñíguez | Juanfran    | Atlético Madrid |                 0.237 |           1026.000 |         20.503 |         30.428 | Spanish             | Spanish             | True            | True               | True          | True             |
+|      2 | Gabi        | Filipe Luis | Atlético Madrid |                 0.202 |            948.000 |         31.871 |         29.884 | Spanish             | Portuguese          | False           | False              | False         | False            |
+|      3 | D. Godín    | Juanfran    | Atlético Madrid |                 0.193 |           1018.000 |         29.353 |         30.428 | Spanish             | Spanish             | True            | False              | False         | False            |
+|      4 | Juanfran    | Gabi        | Atlético Madrid |                 0.193 |           1079.000 |         30.428 |         31.871 | Spanish             | Spanish             | True            | True               | True          | True             |
+|      5 | D. Godín    | Saúl Ñíguez | Atlético Madrid |                 0.163 |            926.000 |         29.353 |         20.503 | Spanish             | Spanish             | True            | False              | False         | False            |
 
 ## 2015/2016 - UEFA Europa League (Europe) - male
-|   Rank | Player 1         | Player 2        | Team          |   Defensive chemistry |
-|--------|------------------|-----------------|---------------|-----------------------|
-|      1 | E. Can           | N. Clyne        | Liverpool     |                 0.232 |
-|      2 | N. Clyne         | Alberto Moreno  | Liverpool     |                 0.226 |
-|      3 | N. Clyne         | J. Milner       | Liverpool     |                 0.222 |
-|      4 | Beñat Etxebarria | Óscar De Marcos | Athletic Club |                 0.194 |
-|      5 | Víctor Ruíz      | Denis Suárez    | Villarreal    |                 0.179 |
+|   Rank | Player 1         | Player 2        | Team          |   Defensive chemistry |   Minutes together |   Age player 1 |   Age player 2 | Language player 1   | Language player 2   | Same language   | Same nationality   | Same region   | Same subregion   |
+|--------|------------------|-----------------|---------------|-----------------------|--------------------|----------------|----------------|---------------------|---------------------|-----------------|--------------------|---------------|------------------|
+|      1 | E. Can           | N. Clyne        | Liverpool     |                 0.232 |           1047.000 |         21.456 |         24.136 | German              | English             | False           | False              | True          | False            |
+|      2 | N. Clyne         | Alberto Moreno  | Liverpool     |                 0.226 |            990.000 |         24.136 |         22.885 | English             | Spanish             | False           | False              | True          | False            |
+|      3 | N. Clyne         | J. Milner       | Liverpool     |                 0.222 |           1009.000 |         24.136 |         29.385 | English             | English             | True            | True               | True          | True             |
+|      4 | Beñat Etxebarria | Óscar De Marcos | Athletic Club |                 0.194 |            947.000 |         28.276 |         26.108 | Spanish             | Spanish             | True            | True               | True          | True             |
+|      5 | Víctor Ruíz      | Denis Suárez    | Villarreal    |                 0.179 |            964.000 |         26.324 |         21.376 | Spanish             | Spanish             | True            | True               | True          | True             |
 
 ## 2015/2016 - UEFA Youth League (Europe) - male
-|   Rank | Player 1      | Player 2          | Team            |   Defensive chemistry |
-|--------|---------------|-------------------|-----------------|-----------------------|
-|      1 | João Carvalho | Aurélio Buta      | Benfica U19     |                 0.260 |
-|      2 | Aurélio Buta  | Yuri Ribeiro      | Benfica U19     |                 0.249 |
-|      3 | Aurélio Buta  | Pedro Rodrigues   | Benfica U19     |                 0.241 |
-|      4 | A. Hakimi     | José Carlos Lazo  | Real Madrid U19 |                 0.205 |
-|      5 | Aurélio Buta  | Gonçalo Rodrigues | Benfica U19     |                 0.198 |
+|   Rank | Player 1      | Player 2          | Team            |   Defensive chemistry |   Minutes together |   Age player 1 |   Age player 2 | Language player 1   | Language player 2   | Same language   | Same nationality   | Same region   | Same subregion   |
+|--------|---------------|-------------------|-----------------|-----------------------|--------------------|----------------|----------------|---------------------|---------------------|-----------------|--------------------|---------------|------------------|
+|      1 | João Carvalho | Aurélio Buta      | Benfica U19     |                 0.260 |            516.000 |         18.209 |         17.792 | Portuguese          | Portuguese          | True            | True               | True          | True             |
+|      2 | Aurélio Buta  | Yuri Ribeiro      | Benfica U19     |                 0.249 |            480.000 |         17.792 |         18.329 | Portuguese          | German              | False           | False              | True          | False            |
+|      3 | Aurélio Buta  | Pedro Rodrigues   | Benfica U19     |                 0.241 |            469.000 |         17.792 |         18.039 | Portuguese          | Portuguese          | True            | True               | True          | True             |
+|      4 | A. Hakimi     | José Carlos Lazo  | Real Madrid U19 |                 0.205 |            651.000 |         17.094 |         19.005 | Spanish             | Spanish             | True            | True               | True          | True             |
+|      5 | Aurélio Buta  | Gonçalo Rodrigues | Benfica U19     |                 0.198 |            668.000 |         17.792 |         17.664 | Portuguese          | Portuguese          | True            | True               | True          | True             |
 
 ## 2015 Greece - UEFA U19 Championship (Europe) - male
-|   Rank | Player 1    | Player 2          | Team       |   Defensive chemistry |
-|--------|-------------|-------------------|------------|-----------------------|
-|      1 | R. Şeydayev | S. Makarov        | Russia U19 |                 0.104 |
-|      2 | D. Barinov  | R. Şeydayev       | Russia U19 |                 0.100 |
-|      3 | A. Golovin  | R. Şeydayev       | Russia U19 |                 0.085 |
-|      4 | A. Gasilin  | R. Şeydayev       | Russia U19 |                 0.083 |
-|      5 | S. Makarov  | D. Khodzhaniyazov | Russia U19 |                 0.065 |
+|   Rank | Player 1    | Player 2          | Team       |   Defensive chemistry |   Minutes together |   Age player 1 |   Age player 2 | Language player 1   | Language player 2   | Same language   | Same nationality   | Same region   | Same subregion   |
+|--------|-------------|-------------------|------------|-----------------------|--------------------|----------------|----------------|---------------------|---------------------|-----------------|--------------------|---------------|------------------|
+|      1 | R. Şeydayev | S. Makarov        | Russia U19 |                 0.104 |            565.000 |         18.737 |         18.030 | Russian             | Russian             | True            | True               | True          | True             |
+|      2 | D. Barinov  | R. Şeydayev       | Russia U19 |                 0.100 |            598.000 |         18.091 |         18.737 | Russian             | Russian             | True            | True               | True          | True             |
+|      3 | A. Golovin  | R. Şeydayev       | Russia U19 |                 0.085 |            561.000 |         18.531 |         18.737 | Russian             | Russian             | True            | True               | True          | True             |
+|      4 | A. Gasilin  | R. Şeydayev       | Russia U19 |                 0.083 |            459.000 |         18.775 |         18.737 | Russian             | Russian             | True            | True               | True          | True             |
+|      5 | S. Makarov  | D. Khodzhaniyazov | Russia U19 |                 0.065 |            488.000 |         18.030 |         18.394 | Russian             | Turkmen             | False           | False              | False         | False            |
 
 ## 2015 Czech Republic - UEFA U21 Championship (Europe) - male
-|   Rank | Player 1          | Player 2         | Team         |   Defensive chemistry |
-|--------|-------------------|------------------|--------------|-----------------------|
-|      1 | Raphaël Guerreiro | Ricardo Esgaio   | Portugal U21 |                 0.300 |
-|      2 | Raphaël Guerreiro | Paulo Oliveira   | Portugal U21 |                 0.267 |
-|      3 | Paulo Oliveira    | William Carvalho | Portugal U21 |                 0.214 |
-|      4 | Ricardo Esgaio    | Paulo Oliveira   | Portugal U21 |                 0.210 |
-|      5 | Ricardo Esgaio    | William Carvalho | Portugal U21 |                 0.209 |
+|   Rank | Player 1          | Player 2         | Team         |   Defensive chemistry |   Minutes together |   Age player 1 |   Age player 2 | Language player 1   | Language player 2   | Same language   | Same nationality   | Same region   | Same subregion   |
+|--------|-------------------|------------------|--------------|-----------------------|--------------------|----------------|----------------|---------------------|---------------------|-----------------|--------------------|---------------|------------------|
+|      1 | Raphaël Guerreiro | Ricardo Esgaio   | Portugal U21 |                 0.300 |            453.000 |         21.513 |         22.116 | French              | Portuguese          | False           | False              | True          | False            |
+|      2 | Raphaël Guerreiro | Paulo Oliveira   | Portugal U21 |                 0.267 |            453.000 |         21.513 |         24.467 | French              | Portuguese          | False           | False              | True          | False            |
+|      3 | Paulo Oliveira    | William Carvalho | Portugal U21 |                 0.214 |            480.000 |         24.467 |         23.222 | Portuguese          | Portuguese          | True            | False              | False         | False            |
+|      4 | Ricardo Esgaio    | Paulo Oliveira   | Portugal U21 |                 0.210 |            480.000 |         22.116 |         24.467 | Portuguese          | Portuguese          | True            | True               | True          | True             |
+|      5 | Ricardo Esgaio    | William Carvalho | Portugal U21 |                 0.209 |            480.000 |         22.116 |         23.222 | Portuguese          | Portuguese          | True            | False              | False         | False            |
 
 ## 2015 Bulgaria - UEFA U17 Championship (Europe) - male
-|   Rank | Player 1    | Player 2    | Team        |   Defensive chemistry |
-|--------|-------------|-------------|-------------|-----------------------|
-|      1 | J. Busam    | F. Passlack | Germany U17 |                 0.146 |
-|      2 | D. Nesseler | F. Passlack | Germany U17 |                 0.131 |
-|      3 | M. Köhlert  | J. Busam    | Germany U17 |                 0.127 |
-|      4 | J. Busam    | D. Nesseler | Germany U17 |                 0.119 |
-|      5 | F. Passlack | G. Gül      | Germany U17 |                 0.114 |
+|   Rank | Player 1    | Player 2    | Team        |   Defensive chemistry |   Minutes together |   Age player 1 |   Age player 2 | Language player 1   | Language player 2   | Same language   | Same nationality   | Same region   | Same subregion   |
+|--------|-------------|-------------|-------------|-----------------------|--------------------|----------------|----------------|---------------------|---------------------|-----------------|--------------------|---------------|------------------|
+|      1 | J. Busam    | F. Passlack | Germany U17 |                 0.146 |            629.000 |         17.053 |         16.982 | German              | German              | True            | True               | True          | True             |
+|      2 | D. Nesseler | F. Passlack | Germany U17 |                 0.131 |            566.000 |         17.188 |         16.982 | German              | German              | True            | True               | True          | True             |
+|      3 | M. Köhlert  | J. Busam    | Germany U17 |                 0.127 |            463.000 |         17.056 |         17.053 | German              | German              | True            | True               | True          | True             |
+|      4 | J. Busam    | D. Nesseler | Germany U17 |                 0.119 |            597.000 |         17.053 |         17.188 | German              | German              | True            | True               | True          | True             |
+|      5 | F. Passlack | G. Gül      | Germany U17 |                 0.114 |            464.000 |         16.982 |         16.350 | German              | German              | True            | True               | True          | True             |
 
 ## 2019/2020 - Feminine Division 1 (France) - female
-|   Rank | Player 1   | Player 2    | Team               |   Defensive chemistry |
-|--------|------------|-------------|--------------------|-----------------------|
-|      1 | L. Bronze  | A. Henry    | Olympique Lyonnais |                 0.244 |
-|      2 | L. Bronze  | G. Mbock    | Olympique Lyonnais |                 0.233 |
-|      3 | G. Mbock   | A. Henry    | Olympique Lyonnais |                 0.219 |
-|      4 | G. Mbock   | D. Marozsan | Olympique Lyonnais |                 0.194 |
-|      5 | K. Diani   | O. Geyoro   | PSG                |                 0.182 |
+|   Rank | Player 1   | Player 2    | Team               |   Defensive chemistry |   Minutes together |   Age player 1 |   Age player 2 | Language player 1   | Language player 2   | Same language   | Same nationality   | Same region   | Same subregion   |
+|--------|------------|-------------|--------------------|-----------------------|--------------------|----------------|----------------|---------------------|---------------------|-----------------|--------------------|---------------|------------------|
+|      1 | L. Bronze  | A. Henry    | Olympique Lyonnais |                 0.244 |            481.000 |            nan |            nan | English             | French              | False           | False              | True          | False            |
+|      2 | L. Bronze  | G. Mbock    | Olympique Lyonnais |                 0.233 |            555.000 |            nan |            nan | English             | French              | False           | False              | True          | False            |
+|      3 | G. Mbock   | A. Henry    | Olympique Lyonnais |                 0.219 |            488.000 |            nan |            nan | French              | French              | True            | True               | True          | True             |
+|      4 | G. Mbock   | D. Marozsan | Olympique Lyonnais |                 0.194 |            526.000 |            nan |            nan | French              | Hungarian           | False           | False              | True          | False            |
+|      5 | K. Diani   | O. Geyoro   | PSG                |                 0.182 |            485.000 |            nan |            nan | French              | French              | True            | False              | False         | False            |
 
 ## 2019 France - Women's World Cup (World) - female
-|   Rank | Player 1      | Player 2         | Team        |   Defensive chemistry |
-|--------|---------------|------------------|-------------|-----------------------|
-|      1 | A. Majri      | G. Mbock         | France      |                 0.298 |
-|      2 | G. Mbock      | W. Renard        | France      |                 0.282 |
-|      3 | D. Bloodworth | S. van der Gragt | Netherlands |                 0.263 |
-|      4 | A. Majri      | W. Renard        | France      |                 0.250 |
-|      5 | A. Majri      | A. Henry         | France      |                 0.246 |
+|   Rank | Player 1      | Player 2         | Team        |   Defensive chemistry |   Minutes together |   Age player 1 |   Age player 2 | Language player 1   | Language player 2   | Same language   | Same nationality   | Same region   | Same subregion   |
+|--------|---------------|------------------|-------------|-----------------------|--------------------|----------------|----------------|---------------------|---------------------|-----------------|--------------------|---------------|------------------|
+|      1 | A. Majri      | G. Mbock         | France      |                 0.298 |            460.000 |            nan |            nan | Arabic              | French              | False           | False              | False         | False            |
+|      2 | G. Mbock      | W. Renard        | France      |                 0.282 |            480.000 |            nan |            nan | French              | French              | True            | True               | True          | True             |
+|      3 | D. Bloodworth | S. van der Gragt | Netherlands |                 0.263 |            476.000 |            nan |            nan | Dutch               | Dutch               | True            | True               | True          | True             |
+|      4 | A. Majri      | W. Renard        | France      |                 0.250 |            460.000 |            nan |            nan | Arabic              | French              | False           | False              | False         | False            |
+|      5 | A. Majri      | A. Henry         | France      |                 0.246 |            460.000 |            nan |            nan | Arabic              | French              | False           | False              | False         | False            |
 
 ## 2019 - Liga MX Feminil (Mexico) - female
-|   Rank | Player 1    | Player 2   | Team      |   Defensive chemistry |
-|--------|-------------|------------|-----------|-----------------------|
-|      1 | F. Delgado  | M. Perez   | Atlas     |                 0.159 |
-|      2 | Z. Arce     | F. Delgado | Atlas     |                 0.147 |
-|      3 | L. Ángeles  | D. Monroy  | Pachuca   |                 0.136 |
-|      4 | G. Martínez | B. García  | Cruz Azul |                 0.135 |
-|      5 | A. González | M. Perez   | Atlas     |                 0.126 |
+|   Rank | Player 1    | Player 2   | Team      |   Defensive chemistry |   Minutes together |   Age player 1 |   Age player 2 | Language player 1   | Language player 2   | Same language   | Same nationality   | Same region   | Same subregion   |
+|--------|-------------|------------|-----------|-----------------------|--------------------|----------------|----------------|---------------------|---------------------|-----------------|--------------------|---------------|------------------|
+|      1 | F. Delgado  | M. Perez   | Atlas     |                 0.159 |           1050.000 |            nan |            nan | Spanish             | Spanish             | True            | True               | True          | True             |
+|      2 | Z. Arce     | F. Delgado | Atlas     |                 0.147 |            962.000 |            nan |            nan | Spanish             | Spanish             | True            | True               | True          | True             |
+|      3 | L. Ángeles  | D. Monroy  | Pachuca   |                 0.136 |           1173.000 |            nan |            nan | Spanish             | Spanish             | True            | True               | True          | True             |
+|      4 | G. Martínez | B. García  | Cruz Azul |                 0.135 |            921.000 |            nan |            nan | Spanish             | Spanish             | True            | True               | True          | True             |
+|      5 | A. González | M. Perez   | Atlas     |                 0.126 |           1033.000 |            nan |            nan | Spanish             | Spanish             | True            | True               | True          | True             |
 
 ## 2019 - NWSL (United States) - female
-|   Rank | Player 1   | Player 2    | Team                   |   Defensive chemistry |
-|--------|------------|-------------|------------------------|-----------------------|
-|      1 | L. Barnes  | T. Nielsen  | Seattle Reign          |                 0.197 |
-|      2 | T. Nielsen | B. Yanez    | Seattle Reign          |                 0.170 |
-|      3 | M. Oyster  | L. Barnes   | Seattle Reign          |                 0.157 |
-|      4 | M. Oyster  | T. Nielsen  | Seattle Reign          |                 0.154 |
-|      5 | J. Hinkle  | L. Williams | North Carolina Courage |                 0.135 |
+|   Rank | Player 1   | Player 2    | Team                   |   Defensive chemistry |   Minutes together |   Age player 1 |   Age player 2 | Language player 1   | Language player 2   | Same language   | Same nationality   | Same region   | Same subregion   |
+|--------|------------|-------------|------------------------|-----------------------|--------------------|----------------|----------------|---------------------|---------------------|-----------------|--------------------|---------------|------------------|
+|      1 | L. Barnes  | T. Nielsen  | Seattle Reign          |                 0.197 |           1291.000 |            nan |            nan | English             | Danish              | False           | False              | False         | False            |
+|      2 | T. Nielsen | B. Yanez    | Seattle Reign          |                 0.170 |           1118.000 |            nan |            nan | Danish              | English             | False           | False              | False         | False            |
+|      3 | M. Oyster  | L. Barnes   | Seattle Reign          |                 0.157 |           1277.000 |            nan |            nan | English             | English             | True            | True               | True          | True             |
+|      4 | M. Oyster  | T. Nielsen  | Seattle Reign          |                 0.154 |           1218.000 |            nan |            nan | English             | Danish              | False           | False              | False         | False            |
+|      5 | J. Hinkle  | L. Williams | North Carolina Courage |                 0.135 |           1082.000 |            nan |            nan | English             | English             | True            | True               | True          | True             |
 
 ## 2018/2019 - Feminine Division 1 (France) - female
-|   Rank | Player 1    | Player 2     | Team      |   Defensive chemistry |
-|--------|-------------|--------------|-----------|-----------------------|
-|      1 | M. Haupais  | C. Fernandes | Fleury 91 |                -0.013 |
-|      2 | M. Clemaron | C. Fernandes | Fleury 91 |                -0.050 |
-|      3 | D. Corboz   | C. Fernandes | Fleury 91 |                -0.055 |
-|      4 | M. Haupais  | M. Clemaron  | Fleury 91 |                -0.065 |
-|      5 | S. Daoudi   | J. Debever   | Guingamp  |                -0.117 |
+|   Rank | Player 1      | Player 2      | Team     |   Defensive chemistry |   Minutes together |   Age player 1 |   Age player 2 | Language player 1   | Language player 2   | Same language   | Same nationality   | Same region   | Same subregion   |
+|--------|---------------|---------------|----------|-----------------------|--------------------|----------------|----------------|---------------------|---------------------|-----------------|--------------------|---------------|------------------|
+|      1 | C. Meffometou | F. Robert     | Guingamp |                 0.155 |            457.000 |            nan |            nan | English             | French              | False           | False              | False         | False            |
+|      2 | L. Fleury     | C. Meffometou | Guingamp |                 0.153 |            597.000 |            nan |            nan | French              | English             | False           | False              | False         | False            |
+|      3 | P. Morroni    | O. Geyoro     | PSG      |                 0.114 |            472.000 |            nan |            nan | French              | French              | True            | False              | False         | False            |
+|      4 | C. Mateo      | G. Thiney     | Paris    |                 0.114 |            526.000 |            nan |            nan | French              | French              | True            | True               | True          | True             |
+|      5 | S. Daoudi     | C. Meffometou | Guingamp |                 0.110 |            662.000 |            nan |            nan | French              | English             | False           | False              | False         | False            |
 
 ## 2018/2019 - UEFA Women's Champions League (Europe) - female
-|   Rank | Player 1   | Player 2    | Team               |   Defensive chemistry |
-|--------|------------|-------------|--------------------|-----------------------|
-|      1 | S. Ingle   | M. Eriksson | Chelsea            |                 0.242 |
-|      2 | A. Majri   | W. Renard   | Olympique Lyonnais |                 0.221 |
-|      3 | G. Mbock   | A. Majri    | Olympique Lyonnais |                 0.212 |
-|      4 | A. Majri   | A. Henry    | Olympique Lyonnais |                 0.189 |
-|      5 | A. Henry   | W. Renard   | Olympique Lyonnais |                 0.175 |
+|   Rank | Player 1   | Player 2    | Team               |   Defensive chemistry |   Minutes together |   Age player 1 |   Age player 2 | Language player 1   | Language player 2   | Same language   | Same nationality   | Same region   | Same subregion   |
+|--------|------------|-------------|--------------------|-----------------------|--------------------|----------------|----------------|---------------------|---------------------|-----------------|--------------------|---------------|------------------|
+|      1 | S. Ingle   | M. Eriksson | Chelsea            |                 0.242 |            526.000 |            nan |            nan | English             | Swedish             | False           | False              | True          | True             |
+|      2 | A. Majri   | W. Renard   | Olympique Lyonnais |                 0.221 |            499.000 |            nan |            nan | Arabic              | French              | False           | False              | False         | False            |
+|      3 | G. Mbock   | A. Majri    | Olympique Lyonnais |                 0.212 |            499.000 |            nan |            nan | French              | Arabic              | False           | False              | False         | False            |
+|      4 | A. Majri   | A. Henry    | Olympique Lyonnais |                 0.189 |            458.000 |            nan |            nan | Arabic              | French              | False           | False              | False         | False            |
+|      5 | A. Henry   | W. Renard   | Olympique Lyonnais |                 0.175 |            589.000 |            nan |            nan | French              | French              | True            | True               | True          | True             |
 
 ## 2018/2019 - WSL (England) - female
-|   Rank | Player 1   | Player 2    | Team            |   Defensive chemistry |
-|--------|------------|-------------|-----------------|-----------------------|
-|      1 | N. Parris  | J. Beattie  | Manchester City |                 0.211 |
-|      2 | N. Parris  | S. Houghton | Manchester City |                 0.169 |
-|      3 | C. Weir    | J. Scott    | Manchester City |                 0.163 |
-|      4 | G. Bonner  | S. Houghton | Manchester City |                 0.156 |
-|      5 | K. Walsh   | C. Weir     | Manchester City |                 0.153 |
+|   Rank | Player 1   | Player 2    | Team            |   Defensive chemistry |   Minutes together |   Age player 1 |   Age player 2 | Language player 1   | Language player 2   | Same language   | Same nationality   | Same region   | Same subregion   |
+|--------|------------|-------------|-----------------|-----------------------|--------------------|----------------|----------------|---------------------|---------------------|-----------------|--------------------|---------------|------------------|
+|      1 | N. Parris  | J. Beattie  | Manchester City |                 0.211 |            972.000 |            nan |            nan | English             | English             | True            | False              | True          | True             |
+|      2 | N. Parris  | S. Houghton | Manchester City |                 0.169 |           1152.000 |            nan |            nan | English             | English             | True            | True               | True          | True             |
+|      3 | C. Weir    | J. Scott    | Manchester City |                 0.163 |            994.000 |            nan |            nan | English             | English             | True            | False              | True          | True             |
+|      4 | G. Bonner  | S. Houghton | Manchester City |                 0.156 |           1038.000 |            nan |            nan | English             | English             | True            | True               | True          | True             |
+|      5 | K. Walsh   | C. Weir     | Manchester City |                 0.153 |           1007.000 |            nan |            nan | English             | English             | True            | False              | True          | True             |
 
 ## 2018 - Liga MX Feminil (Mexico) - female
-|   Rank | Player 1   | Player 2   | Team        |   Defensive chemistry |
-|--------|------------|------------|-------------|-----------------------|
-|      1 | K. Luna    | L. Ovalle  | Tigres UANL |                 0.183 |
-|      2 | Y. López   | K. Díaz    | Pachuca     |                 0.139 |
-|      3 | L. Ángeles | K. Díaz    | Pachuca     |                 0.137 |
-|      4 | C. Ferral  | L. Ovalle  | Tigres UANL |                 0.122 |
-|      5 | C. Ferral  | S. Cortés  | Tigres UANL |                 0.117 |
+|   Rank | Player 1   | Player 2   | Team        |   Defensive chemistry |   Minutes together |   Age player 1 |   Age player 2 | Language player 1   | Language player 2   | Same language   | Same nationality   | Same region   | Same subregion   |
+|--------|------------|------------|-------------|-----------------------|--------------------|----------------|----------------|---------------------|---------------------|-----------------|--------------------|---------------|------------------|
+|      1 | K. Luna    | L. Ovalle  | Tigres UANL |                 0.183 |            944.000 |            nan |            nan | Spanish             | Spanish             | True            | True               | True          | True             |
+|      2 | Y. López   | K. Díaz    | Pachuca     |                 0.139 |           1112.000 |            nan |            nan | Spanish             | Spanish             | True            | True               | True          | True             |
+|      3 | L. Ángeles | K. Díaz    | Pachuca     |                 0.137 |            974.000 |            nan |            nan | Spanish             | Spanish             | True            | True               | True          | True             |
+|      4 | C. Ferral  | L. Ovalle  | Tigres UANL |                 0.122 |           1104.000 |            nan |            nan | Spanish             | Spanish             | True            | True               | True          | True             |
+|      5 | C. Ferral  | S. Cortés  | Tigres UANL |                 0.117 |            944.000 |            nan |            nan | Spanish             | Spanish             | True            | True               | True          | True             |
 
 ## 2017 Netherlands - UEFA Women's Championship (Europe) - female
-|   Rank | Player 1     | Player 2       | Team    |   Defensive chemistry |
-|--------|--------------|----------------|---------|-----------------------|
-|      1 | K. Schiechtl | C. Wenninger   | Austria |                 0.276 |
-|      2 | K. Schiechtl | V. Aschauer    | Austria |                 0.275 |
-|      3 | K. Schiechtl | S. Puntigam    | Austria |                 0.259 |
-|      4 | V. Aschauer  | L. Feiersinger | Austria |                 0.250 |
-|      5 | K. Schiechtl | L. Feiersinger | Austria |                 0.244 |
+|   Rank | Player 1     | Player 2       | Team    |   Defensive chemistry |   Minutes together |   Age player 1 |   Age player 2 | Language player 1   | Language player 2   | Same language   | Same nationality   | Same region   | Same subregion   |
+|--------|--------------|----------------|---------|-----------------------|--------------------|----------------|----------------|---------------------|---------------------|-----------------|--------------------|---------------|------------------|
+|      1 | K. Schiechtl | C. Wenninger   | Austria |                 0.276 |            496.000 |            nan |            nan | German              | German              | True            | True               | True          | True             |
+|      2 | K. Schiechtl | V. Aschauer    | Austria |                 0.275 |            496.000 |            nan |            nan | German              | German              | True            | True               | True          | True             |
+|      3 | K. Schiechtl | S. Puntigam    | Austria |                 0.259 |            496.000 |            nan |            nan | German              | German              | True            | True               | True          | True             |
+|      4 | V. Aschauer  | L. Feiersinger | Austria |                 0.250 |            510.000 |            nan |            nan | German              | German              | True            | True               | True          | True             |
+|      5 | K. Schiechtl | L. Feiersinger | Austria |                 0.244 |            496.000 |            nan |            nan | German              | German              | True            | True               | True          | True             |
 
 ## 2016/2017 - UEFA Women's Champions League (Europe) - female
-|   Rank | Player 1    | Player 2    | Team               |   Defensive chemistry |
-|--------|-------------|-------------|--------------------|-----------------------|
-|      1 | K. Buchanan | A. Majri    | Olympique Lyonnais |                 0.243 |
-|      2 | S. Kumagai  | A. Majri    | Olympique Lyonnais |                 0.240 |
-|      3 | S. Kumagai  | W. Renard   | Olympique Lyonnais |                 0.238 |
-|      4 | K. Buchanan | W. Renard   | Olympique Lyonnais |                 0.234 |
-|      5 | S. Kumagai  | K. Buchanan | Olympique Lyonnais |                 0.233 |
+|   Rank | Player 1    | Player 2    | Team               |   Defensive chemistry |   Minutes together |   Age player 1 |   Age player 2 | Language player 1   | Language player 2   | Same language   | Same nationality   | Same region   | Same subregion   |
+|--------|-------------|-------------|--------------------|-----------------------|--------------------|----------------|----------------|---------------------|---------------------|-----------------|--------------------|---------------|------------------|
+|      1 | K. Buchanan | A. Majri    | Olympique Lyonnais |                 0.243 |            480.000 |            nan |            nan | English             | Arabic              | False           | False              | False         | False            |
+|      2 | S. Kumagai  | A. Majri    | Olympique Lyonnais |                 0.240 |            452.000 |            nan |            nan | Japanese            | Arabic              | False           | False              | False         | False            |
+|      3 | S. Kumagai  | W. Renard   | Olympique Lyonnais |                 0.238 |            452.000 |            nan |            nan | Japanese            | French              | False           | False              | False         | False            |
+|      4 | K. Buchanan | W. Renard   | Olympique Lyonnais |                 0.234 |            480.000 |            nan |            nan | English             | French              | False           | False              | False         | False            |
+|      5 | S. Kumagai  | K. Buchanan | Olympique Lyonnais |                 0.233 |            452.000 |            nan |            nan | Japanese            | English             | False           | False              | False         | False            |
 
