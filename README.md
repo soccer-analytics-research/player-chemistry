@@ -2,7 +2,7 @@
 
 This repository provides additional results for the *Player Chemistry: Striving for a Perfectly Balanced Soccer Team* paper that was presented at the [MIT Sloan Sports Analytics Conference](http://www.sloansportsconference.com) in Boston. 
 
-The paper is available on the [conference website] (http://www.sloansportsconference.com/content/player-chemistry-striving-for-a-perfectly-balanced-soccer-team/) and on [arXiv] (https://arxiv.org/abs/2003.01712). The video recording of the talk that was given at the 2020 MIT Sloan Sports Analytics Conference is available on [YouTube] (https://youtu.be/jeD5cq2PAJk) and the accompanying presentation slides are available on [Google Drive]  (https://docs.google.com/presentation/d/1AkvGilnpC2HoAQ5MmPqtdiRFcz8uk1RbV52hlexxclY/edit?usp=sharing).
+The paper is available on the [conference website](http://www.sloansportsconference.com/content/player-chemistry-striving-for-a-perfectly-balanced-soccer-team/) and on [arXiv](https://arxiv.org/abs/2003.01712). The video recording of the talk that was given at the 2020 MIT Sloan Sports Analytics Conference is available on [YouTube](https://youtu.be/jeD5cq2PAJk) and the accompanying presentation slides are available on [Google Drive](https://docs.google.com/presentation/d/1AkvGilnpC2HoAQ5MmPqtdiRFcz8uk1RbV52hlexxclY/edit?usp=sharing).
 
 
 ## Paper summary
@@ -18,6 +18,6 @@ The following files contain the top 5 player pairs for each of these seasons in 
 * [Defensive player chemistry](defensive.md)
 
 ## Authors
-* [Lotte Bransen] (www.linkedin.com/in/lotte-bransen/), Lead Data Scientist at [SciSports] (scisports.com). 
+* [Lotte Bransen](www.linkedin.com/in/lotte-bransen/), Lead Data Scientist at [SciSports](scisports.com). 
 
-* [Jan Van Haaren] (www.linkedin.com/in/janvanhaaren/),  Chief Product & Technology Officer at [SciSports] (scisports.com) and Research Fellow at [KU Leuven] (www.kuleuven.be). 
+* [Jan Van Haaren](www.linkedin.com/in/janvanhaaren/),  Chief Product & Technology Officer at [SciSports](scisports.com) and Research Fellow at [KU Leuven](www.kuleuven.be). 
