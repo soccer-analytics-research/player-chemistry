@@ -18,6 +18,6 @@ The following files contain the top 5 player pairs for each of these seasons in 
 * [Defensive player chemistry](defensive.md)
 
 ## Authors
-* [Lotte Bransen](www.linkedin.com/in/lotte-bransen/), Lead Data Scientist at [SciSports](scisports.com). 
+* [Lotte Bransen](https://www.linkedin.com/in/lotte-bransen/), Lead Data Scientist at [SciSports](https://www.scisports.com/). 
 
-* [Jan Van Haaren](www.linkedin.com/in/janvanhaaren/),  Chief Product & Technology Officer at [SciSports](scisports.com) and Research Fellow at [KU Leuven](www.kuleuven.be). 
+* [Jan Van Haaren](https://www.linkedin.com/in/janvanhaaren/),  Chief Product & Technology Officer at [SciSports](https://www.scisports.com/) and Research Fellow at [KU Leuven](https://www.kuleuven.be). 
